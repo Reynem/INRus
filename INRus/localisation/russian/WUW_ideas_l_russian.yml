@@ -1,0 +1,12 @@
+﻿l_russian:
+
+ special_project_consumer_costs_high: "Закупки секретных ресурсов"
+ special_project_consumer_costs_high_desc: "Некоторые предполагают, что ресурсы расходуются на тайные исследования и разработки, но для подтверждения этого нет никаких конкретных доказательств..."
+ special_project_consumer_costs_medium: "Закупки секретных ресурсов"
+ special_project_consumer_costs_medium_desc: "$special_project_consumer_costs_high_desc$"
+ special_project_consumer_costs_low: "Закупки секретных ресурсов"
+ special_project_consumer_costs_low_desc: "$special_project_consumer_costs_high_desc$"
+ fallout_atomic: "Ядерное падение"
+ fallout_thermonuclear: "Напряженный ядерный выброс"
+ sp_land_stronghold_network_collapse_workers_drafted: "Экстренный трудовой проект"
+ sp_land_stronghold_network_collapse_workers_drafted_desc: "Большое число рабочих было переориентировано на спасательные операции и немедленные восстановительные работы, что значительно замедлило регулярное строительство, ремонт и добычу ресурсов в этом районе."

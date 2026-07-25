@@ -1,0 +1,19 @@
+﻿l_russian:
+#desc
+STD_FUHRERREICH_DESC: ""
+#PARTIES
+
+STD_libertarian_socialist_party: "Bund der Landwirte"
+STD_libertarian_socialist_party_long: "Bund der Landwirte"
+STD_social_democrat_party: "Суточные"
+STD_social_democrat_party_long: "Deutsche sozialdemokratische Arbeiterpartei"
+STD_social_liberal_party: "&lt; &lt; Дойч либерал &gt; &gt;"
+STD_social_liberal_party_long: "&lt; &lt; Дойч либерал &gt; &gt;"
+STD_market_liberal_party: "DCSV"
+STD_market_liberal_party_long: "Deutsche Christlich-Soziale Volkspartei"
+STD_social_conservative_party: "Немецкая национальная партия"
+STD_social_conservative_party_long: "Немецкая национальная партия" 
+STD_national_populist_party: "Лютендеутше Партей"
+STD_national_populist_party_long: "Лютендеутше Партей"
+STD_valkist_party: "Лютендеутше Партей"
+STD_valkist_party_long: "Лютендеутше Партей"

@@ -1,0 +1,36 @@
+﻿l_russian:
+
+#### PARTIES
+
+ISR_vanguardist_party: "ПКП"
+ISR_vanguardist_party_long: "Palestinishe Komunistishe Partei"
+ISR_collectivist_party: "Хашомер Хатзайр"
+ISR_collectivist_party_long: "Хашомер Хатзайр"
+ISR_libertarian_socialist_party: "Хакибуц ХаМеукхад"
+ISR_libertarian_socialist_party_long: "Ahdut HaAvoda - HaKibbutz HaMeukhad"
+ISR_social_democrat_party: "Хапохатц"
+ISR_social_democrat_party_long: "HaPoel HaTzair"
+ISR_social_liberal_party: "Хационим Хаклалиим"
+ISR_social_liberal_party_long: "Хационим Хаклалиим"
+ISR_market_liberal_party: "Хационим Хаклалиим"
+ISR_market_liberal_party_long: "Хационим Хаклалиим"
+ISR_social_conservative_party: "Хационим Хаклалиим"
+ISR_social_conservative_party_long: "Хационим Хаклалиим"
+ISR_authoritarian_democrat_party: "Хамизрачи"
+ISR_authoritarian_democrat_party_long: "Хамизрачи"
+ISR_paternal_autocrat_party: "Израиль"
+ISR_paternal_autocrat_party_long: "Израиль"
+ISR_national_populist_party: "Хахазит Хаамамит"
+ISR_national_populist_party_long: "Хахазит Хаамамит Шел Ехуда"
+ISR_valkist_party: "HaIvrim HaTzeirim"
+ISR_valkist_party_long: "Хаваад Легибуш Ханоар Хаиври"
+
+ISR_sectarian_divide: "Разделение секторов"
+ISR_sectarian_divide_desc: "Еврейский Защитник - это явно еврейское государство, где все, кто руководит делами государства, голосует и занимает административные должности, являются евреями."
+ISR_balfour_declaration: "Заявление Балфура"
+ISR_balfour_declaration_desc: "Декларация Балфура объявила о поддержке Великобританией создания еврейского государства в Палестине, и это стало реальностью. &lt; &lt; Массовая миграция &gt; &gt; из всего мира, из России в Соединенные Штаты окружила Палестину, а арабы вскоре станут меньшинством на своей родине, если нынешние темпы миграции сохранятся &gt; &gt; ."
+ISR_desert_batrol: "Патруль пустыни Глубба"
+ISR_desert_batrol_desc: "Идиоту Глуббу дали командование силой бедуинов, чтобы умиротворять племена, только для того, чтобы стать индейцем и вести войну против еврейских автохирургов с низкой интенсивностью. &lt; &lt; Патруль пустыни &gt; &gt; проводит сейчас свое время, проводя рейды против властей, и по мере того, как его число начинает расти по мере того, как все больше арабов присоединяются к силам и британские офицеры переходят к силам, власти опасаются, что это может привести к полномасштабному восстанию."
+
+ISR_conflict_in_palestine: "Конфликт в Палестине"
+ISR_conflict_in_palestine_desc: "Меры по контролю за миграцией в Палестину, направленные на сохранение стабильности на территории и предотвращение новых беспорядков среди арабского населения, впечатляют еврейских экстремистских организаций, таких, как Игрун и Лехи, которые взяли на вооружение оружие против британских властей."

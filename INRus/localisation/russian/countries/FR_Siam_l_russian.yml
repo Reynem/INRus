@@ -1,0 +1,248 @@
+﻿l_russian:
+
+ FR_Siam: "[ОИА.Гезониа] Сфокусируйся на дереве"
+
+
+### Traits ###
+ SIA_iron_marshal_trait: "Маршал Железного поля"
+ SIA_pho_khun_trait: "Сарит считал, что такой стиль правления лучше всего подходит его политическому вкусу."Patiwat\" (revolutionary) phase against the rising leftist tides.§!"
+ SIA_under_pho_khun_trait: "Если король лично связан с приходом Сарита Танарата к власти, мы никогда не узнаем наверняка."
+ SIA_prancing_knight_trait: "Прекрасный рыцарь просто не поднимается на верхнюю позицию без обмана и обмана - Фао не испытывает ни одного из них и готов подавить любую оппозицию, используя как обман, так и свои собственные сильно милитаризованные полицейские силы в буксировке.§!"
+
+ SIA_four_musketeers: "Мушкетеры"
+ SIA_four_musketeers_desc: "Этот офицер считается одним из современных сиамских генеральных штабов."backbone\". These \"Four Musketeer (+Plus One)\" commanders hold a considerable sway with the new generation of officers, and have studied the recent conflicts in great detail.§!"
+
+### Parties Siam/Thailand ###
+ SIA_vanguardist_party: "Пак Коммунистик Сиам"
+ SIA_vanguardist_party_long: "Пак Коммунистический Сиам (Коммунистическая партия Сиама)"
+ SIA_libertarian_socialist_party: "Пак Сахачип"
+ SIA_libertarian_socialist_party_long: "Пак Сахачип (Партия труда)"
+ SIA_collectivist_party: "Пак Коммунистик Сиам"
+ SIA_collectivist_party_long: "Пак Коммунистический Сиам (Коммунистическая партия Сиама)"
+ SIA_social_democrat_party: "Пак Сангхомнийом"
+ SIA_social_democrat_party_long: "Пак Сангхомнийом (Социалистическая партия)"
+ SIA_social_liberal_party: "Пак Кийсанхом"
+ SIA_social_liberal_party_long: "Пак Киджсангхом (Партия социальных действий)"
+ SIA_market_liberal_party: "Пак Прачасери"
+ SIA_market_liberal_party_long: "Пак Прачари (Либеральная партия)"
+ SIA_social_conservative_party: "Пак Прачатипат"
+ SIA_social_conservative_party_long: "Пак Прачатипат (демократическая партия)"
+ SIA_authoritarian_democrat_party: "Афираттамонтри Сафа"
+ SIA_authoritarian_democrat_party_long: "Афираттамонтри Сафа (Верховный государственный совет)"
+ SIA_national_populist_party: "Карта Сиама"
+ SIA_national_populist_party_long: "&quot; Пак чарт Сиам &quot; (партия &quot; Сайам нась &quot; )"
+
+#Decisions
+SIA_announce_greater_thai_claims: "Объявление о претензиях Большого Сиама"
+SIA_claim_indochina: "Претензия &quot; Индокита &quot;"
+SIA_claim_malaysia: "Претензия &lt; &lt; Малайя &gt; &gt;"
+SIA_claim_andamans: "Претензии [733. &quot; Найти имя &quot; ]"
+
+#Flags
+SIA_babys_first_claims: "Объявленные первоначальные претензии"
+
+### Characters ###
+ ## Head of State
+ SIA_prajadhipok: "Праджадипок"
+ SIA_prajadhipok_leader_desc: "Праджадипок, также известный своим славным именем Рама VII, был покорен королю Сиаму после смерти его брата в 1925 году. &quot; Прадхипок &quot; , не будучи готов к правлению, который ранее был далеко от порядка наследования, по существу является марионеткой Верховного государственного совета, возглавляемого его двоюродными братьями. &quot; Праджадипок &quot; , обучавшийся за границей и работавший в британской армии, тем не менее, действительно заботится о своем народе и усердно работает над улучшением положения своих подданных."
+
+ SIA_ananda_mahidol: "Ананда Махидол"
+ SIA_ananda_mahidol_leader_desc: "Ананда Махидол, известная под своим именем Рама VIII, поднялась на сиамский трон после смерти своего дяди Рамы VII. Ананда Махидол когда-то считалась очень маловероятной кандидатом на трон, будучи едва подростком и малородным. Первоначально он занимал звание "Мама Чао", став одним из самых низких среди сиамских принцесс. Несмотря на свою молодость и неопытность, он быстро завоевал сердца сиамского народа. Иностранные наблюдатели, однако, считают, что он не хотел быть королем, что его правление не продлится долго."
+
+ SIA_bhumibol_adulyadej: "Бхумиболь Адюрадей"
+ SIA_bhumibol_adulyadej_leader_desc: "Бхумибол Адуладей, известный своим именем Рама IX, поднялся на сиамский трон после загадочной смерти своего покойного брата Рамы VIII. Бхумибол Адуладей до сих пор доказал свою политическую компетентность гораздо больше, чем его покойный брат, двигаясь запутанным сиамским политическим ландшафтом с кажущейся легкостью. Многие говорят о Бхумиболе Адульядее как о спасителе некогда сражавшейся сиамской монархии."
+
+ SIA_chula_chakrabongse: "Чула Чакрабонгсе"
+ #SIA_chula_chakrabongse_leader_desc: "Чула Чакрабонгсе, полуукраинский внук короля Рамы V, был установлен королем Сиама. Чула Чакрабонге жил эксцентричной жизнью в Великобритании и позднее Австрии, прежде чем стать королем, и делегировал почти все свои королевские обязанности в пользу своей страсти к конным и автомобильным гонкам."
+
+ SIA_paribatra_sukhumbhand: "Парибатра Сукхумбанд"
+# SIA_paribatra_sukhumbhand_leader_desc: "Парибатра Сукхумбанд, двоюродный брат, ожидавший преемника сиамского престола Ананда Махидол, захватил контроль над сиамским правительством, ссылаясь на неопытность Ананды и ее возраст. При полной поддержке Тайного совета он стал королем Рамой VIII, твердо установив кадетский филиал Борипатра в качестве нового правящего дома."
+
+ SIA_chumbhotbongs_paribatra: "&lt; &lt; Чамбхотбонс Парибатра &gt; &gt;"
+# SIA_chumbhotbongs_paribatra_leader_desc: "Чамбхотбонгс Парибатра, известный под своим именем Рама IX, стал преемником своего отца Рамы VIII на троне Сиама. Чамбхотбонгс Парибатра является своего рода отшельником, но все еще политически компетентным. Он является известным покровителем искусства, преобразовавшим множество государственных объектов в музеи, и лично спонсировал многих великих художников как в Сиаме, так и за рубежом."
+
+ SIA_sukhumabhinanda: "Сухумабинанда"
+# SIA_sukhumabhinanda_leader_desc: "Сукхумбинанда, сын бывшего короля Парибытра Сукхумбханда (Рама VIII) и малородной женщины, был легитимизирован своим братом королем Рамой IX из-за неспособности последнего произвести наследника-мужчину. Он поднялся на трон как Рама Х. Сухумбинанда является известным филантропом, чьи усилия по облегчению положения беднейших Бангкока получили большую известность. С восхождением Сукхумбинды большая часть оставшегося общественного недовольства монархией рассеялась."
+
+ SIA_supha_sirimanon: "Суфа Сириманон"
+# SIA_supha_sirimanon_leader_desc: "Журналист, Поэт, а теперь и новый премьер-министр Республики — Суфа Сириманон сначала выглядел странным выбором для национальной руководящей должности."Jittin Thammachart\", and as the translator behind Das Kapital's Thai language publication.\n\nWhile an adherent of Classical Marxism at heart, Supha is a Pragmatist and viewed Planned Economy as the way forward - and that there's no way for the Workers and Capitalists to reconcile with each other."
+
+ SIA_pridi_phanomyong: "Приди Фаноминг"
+ SIA_pridi_phanomyong_royal: "Луанг Прадитманутхем"
+ #SIA_pridi_phanomyong_leader_desc: "Приди Фаноминг, также известный своим министерским титулом "Luang Praditmanutham", сразу же решил улучшить жизнь сиамского народа после своего назначения на пост министра. Его спорный «Желтый кавер Доссиер» изложил свою программу политических и экономических реформ и разделил сиамское правительство, но спор только способствовал дальнейшей политической карьере Приди."
+# SIA_pridi_phanomyong_victorious_leader_desc: "После короткой, но кровопролитной гражданской войны в Сиаме Phanmoyong, ранее известной своим министерским титулом "Luang Praditmanutham", стал председателем Hanagummakarn Sapha Patiwat. Политика Fhanomyong в области экономической национализации и радикальной парламентской реформы может продолжаться, однако проблемы со стороны более радикальных элементов старой партии Приди значительно возросли. Несмотря на его популярность, Phanomyong борется за сохранение своей власти даже со своими союзниками в военно-морском флоте."
+
+ SIA_thawan_thamrongnawasawat: "Тхаван Тамронгнавасават"
+# SIA_thawan_thamrongnawasawat_royal: "Луанг Тамронгнавасават"
+ #SIA_thawan_thamrongnawasawat_leader_desc: "Назвав его «Золотым Тонгом» штатиком, Таван известен своими публичными речами и дебатами, которые он в полной мере использует для создания своей коалиции. Бывший адмирал выступает за политику, которая помогает простым людям, такую, как потолок цен на бытовые товары и расширение общественного благосостояния. Однако эта политика также ставит его в противоречие с капиталистами и расширяющимся тайско-китайским средним классом, на который ложатся большие налоги."
+ # WIP
+ #SIA_thawan_thamrongnawasawat_commander_desc: "§L\n 21 ноября 1901 года в провинции Крунгкао, Месяц Айуттайя, Королевство Сиам"
+
+ SIA_pote_sarasin: "Картофель &lt; &lt; Саразин &gt; &gt;"
+ #SIA_pote_sarasin_leader_desc: "Тайско-китайец из высшего среднего класса, опыт Поте Сарасин в министерстве финансов в Чёрный понедельник формировал его мировоззрение. Будучи фанатом австрийского экономиста Хайека и строго соблюдая закон, он выступает против расширения государственных предприятий, пытаясь обеспечить честную, свободную и открытую конкуренцию."
+
+ SIA_seni_pramoj: "Сени Прамой"
+ #SIA_seni_pramoj_leader_desc: "Как член кадетского отделения династии Чакри с китайским происхождением, Сени может показаться странным выбором лидера республиканского сиамского государства. Несмотря на это, этот "Молодой Вайпер" смог собрать достаточно политического влияния среди многих консервативных кругов со своей собственной политической проницательностью, а не своими семейными связями, чтобы получить рабочее большинство для того, чтобы новое правительство могло нормально функционировать. Его политика "Нгуен Фан" (Флуктуация денег) помогает сохранить сельскую местность счастливой и защищенной от рук синдикалиста."
+
+ SIA_plaek_phibunsongkhram: "Плак Фибунсонхрам"
+ SIA_plaek_phibunsongkhram_royal: "Луанг Фибунсонхрам"
+ #SIA_plaek_phibunsongkhram_leader_desc: "Филд Маршал Плаек Фибунсонхрам, более известный как «Чормпон Пор» местными жителями и «Фибун» на Западе, единоразовый союзник Приди Пханмойонга и Народной партии захватил власть после Досьера Желтой обложки. Вместе с Луангом Вичитвататакарном и его союзниками в армии он создал свой собственный культ личности, чтобы оторвать монархию. Он рассматривает нынешнее состояние Сиама как «обычную реликвию прошлого эпохи» и намерен использовать свою власть для поощрения милитаризма и национализма, провозглашая, что оба являются дополнительными основополагающими принципами современной нации."
+ #SIA_plaek_phibunsongkhram_commander_desc: "14 июля 1897 года в провинции Нонтхабури, Месяц Крунгтеп, Королевство Сиам (н) Военная карьера: §L\nBorn как Плаек Киттасангка из семьи владельцев фруктовых садов в Таиланде, Фибун и его старший брат Пракит начали свою школу кадета Королевской Сиамской армии в 1909 году."Luang Phibunsongkhram\" for his achievements. Through sheer charisma and personal connections with both the younger officers and the high command via Prince Pridi Debyabongs Devakula, his old superior - it is no surprise that he reached his current position at a relatively young age.\n§YImportant Notes:§L\nHis given name means \"Strange\" in Thai as his parents viewed the position of his ears at birth as weird, and thus usually preferred to be instead referred to by his initial character P (Por)."
+
+ SIA_phao_sriyanond: "Фао Шриянонд"
+ #SIA_phao_sriyanond_leader_desc: "Шеф полиции Фао Сриянонд сменил Плаека Фибунсонхрама в качестве лидера военного режима Сиама при поддержке Клики Сои Ратчахру. Фао известен своей жестокостью и политической хитростью, а его политические оппоненты, как правило, «исчезают». Фао также считает, что сиамская монархия является устаревшей реликвией, которая подрывает дело национализма и, таким образом, является известным республиканцем."
+
+ SIA_sarit_thanarat: "Сарит Танарат"
+ #SIA_sarit_thanarat_leader_desc: "Генерал Сарит Тханарат сменил Плаека Фибунсонхрама в качестве лидера военного режима Сиама при поддержке Клики Сисао Тавате. Первоначально он был низким офицером в армии Фаяпа, он быстро поднялся в ряды с помощью Плаека и Фина. Жестокий антисиндикалист считает монархию важным инструментом борьбы с красными и координационным центром тайского национализма."
+
+ ## Field Marshals/Generals
+ SIA_boworadet_kridakorn: "Боворадет Кридакорн"
+ SIA_boworadet_kridakorn_royal: "Принц Боворадет Кридакорн"
+# SIA_boworadet_kridakorn_commander_desc: "Общее описание: §L\n 3 апреля 1877 года в провинции Фра Нахон, Месяц Крунгтеп, Королевство Сиам §Y Военная карьера: §L\nA внук короля Монгкута/Рамы IV, Боворадет завершил свои военные исследования за рубежом в 1898 году, пока его отец работал там в качестве сиамского посла. Не удовлетворен своим начальством в Королевской Сиамской армии, он прошёл еще один год в Школе военной инженерии в Чатеме, Соединенное Королевство. Однако с прохожими военными командирами, которые быстро отошли в сторону сиамского входа в Вельткриг, его не было бы до 1928 года, когда король Праджадипок лично назначил его министром обороны, чтобы усилить поддержку короля против Верховного совета штата Сиама."
+
+ SIA_jarun_seriroengrit: "Ярун Раттанакул Серирунгрит"
+ SIA_jarun_seriroengrit_royal: "Луанг Серирунгрит"
+ #SIA_jarun_seriroengrit_commander_desc: "§L\n 27 октября 1895 года в провинции Фра Нахон, Месяц Крунгтеп, Королевство Сиам §Y Военная карьера: §L\nA скайон в доме Раттанакула, история семьи которого может быть отслежена до периода Айутхаяна, Джарун в 1907 году вошел в школу кадетов Королевской Сиамской армии и закончил ее с самым высоким баллом. Ярун быстро поднялся в ряды как протеже принца Пурачатра Джаякары, отца сиамской железной дороги и беспроводной связи, в инженерном департаменте Королевской армии Сиаме. ~ НонДжарун пришел в авангард во время сиамской интервенции в Бирме 1928-1929 годах, когда подразделения под командованием Файяпской армии \"liberated\" the Shan states up to the Salween river defensive line, where better supply train and fast communication proved to be the decisive factor in the rugged terrain.\n§YImportant Notes:§L\nHis wife, Erb Rattanakul Seriroengrit, allegedly hired a gunman to assassinate Phibun's first mistress, Rujee Uthaikorn, but failed. The couple claimed in court that they only knew Phibun had one, but not whom."
+
+ SIA_phot_phahonyothin: "Фот Фахониотин"
+ SIA_phot_phahonyothin_royal: "Фрайя Фахонфонпайухасена"
+ #SIA_phot_phahonyothin_commander_desc: "§L\n march 29, 1887, Phra Nahon, Monthon Krungthep, Kingdom of Siam\n §Y Военная карьера: §L\nBorn в качестве Phot Fahonyothin для тайско-теочевского китайского отца, полковника Ким Фахониотина и тайско-монской матери Чап Фахониотин. Фхон в 1901 году поступил в Школу Королевской Сиамской армии и окончил ее с самым высоким баллом. Позднее он был направлен Королевской стипендией для учебы в Кадеттншуле в Потсдаме, тогдашнем Главном институте им. Королевского прусского кадета в Гроунт-Лихтерфельде, в Берлине, где он стал одноклассником Хермана фон Геринга и знакомым Хидеки Тоджо через мечи. Фахон был затем направлен на обучение в Инженерном колледже Копенгагена в Дании, однако он смог завершить один год, поскольку его стипный фонд был выпущен, он вернулся в Сиам в 1912."The Musketeers\", the influential clique of post-Weltkrieg officers, with Phahon himself serving as the Deputy Inspector of Artillery.\n§YImportant Notes:§L\nIs an upright person, perhaps too much, since he expects everyone to treat him the same way he does to others and is quite shy to strangers in general."
+
+ SIA_din_tharab: "Дин-Тараб"
+ SIA_din_tharab_royal: "Фрайя Сриситтисонгхрам"
+ #SIA_din_tharab_commander_desc: "В 1901 году Дин поступил в Королевскую школу кадетов Сиамской армии (Phraya Phahonphonpayuhasen), а затем был направлен Королевской стипендией для обучения в Кадеттшуле в Потсдаме, тогдашний Королевский Пруссианский главный кадетский институт в Гру-Лихтерфельде, Берлин, вместе с Кадетом Пониотином (Phraya Phahonphonpayauhasena) до возвращения в Сиам в 1914 году."The Musketeers", the influential clique post-Weltkrieg officers, with Din himself serving as the 1st Army's Chief of Staff.\n§YImportant Notes:§L\nFan of German literature in general, with complete collections of both Friedrich Schiller and Johann Wolfgang von Goethe's work in his home."
+
+ SIA_sala_emasiri: "Сала Эмасири"
+ SIA_sala_emasiri_royal: "Фрайра Ритхи-аркани"
+ #SIA_sala_emasiri_commander_desc: "14 января 1889 года в провинции Фра-Нахон, Месяц Крунгтеп, Королевство Сиам-н-И Военная Карьера: §L\nBorn в качестве Сала-Эмари в военной семье. 14 января 1889 года Сала поступила в Королевскую сиамскую школу кадета и окончила высший класс. Сала служила заместителем командующего 8-м Артиллерийским полком в Нахоне-Ратчасиме, когда Сиам вступил в Вельткриг с отличием во время войны на Индокитском фронте. n\nPhrayra Rithhi-arkaney (Sala Emasiri) позже была введена в качестве основного члена \"The Musketeers\", the influential clique post-Weltkrieg officers, with Sala himself serving as the Commander of the 1st Royal Artillery Regiment in Bangkok, being the group's sole key member who has not studied in the German Empire.\n§YImportant Notes:§L\nDevout Theravada Buddhist. His father, Siri Emasiri/Phraya Manusarasart Buncha, was also known as a great poet with his rendition of Ramakien (Thai Ramayana) epic etched into the walls of Wat Phra Kaew."
+
+ SIA_wan_chuthin: "Ван Чутин"
+ SIA_wan_chuthin_royal: "Луанг Прасартпиттайют"
+ #SIA_wan_chuthin_commander_desc: "9 июня 1894 года в провинции Фра-Нахон, Месяц Крунгтеп, Королевство Сиам-н-И Военная карьера: §L\nBorn как Ван Чутин в качестве отца тайско-теохью-китайца, судья Юань Чутин и тайская мать Вонг Чутин. Ван в 1908 году поступил в Королевскую школу кадета Сиамской армии и закончил ее с пятым по величине баллом. Позднее он был направлен Королевской стипендией для обучения в Кадеттеншуле в Потсдаме, тогдашний Королевский прусский главный кадетский институт в Гроуан-Лихтерфельде, в Берлине, несмотря на то, что Вельткриг заставил его и многих тайских кадетов переселиться в Эйдгенёшский технологический центр в Швейцарии, где он впервые узнал о швейцарской демократии."The Musketeers\", the influential clique post-Weltkrieg officers, with Wan himself serving as the Director of the General Staff College.\n§YImportant Notes:§L\nHas a close relationship with Prince Paribatra Sukhumbandhu, his sponsor and one of the \"Pro-German Triumvirate\" princes, and thus considered the Prince's protégé."
+
+ SIA_phin_choonhavan: "Фин Чхунхаван"
+ SIA_phin_choonhavan_royal: "Луанг Чамнайуттасарт"
+ #SIA_phin_choonhavan_commander_desc: "14 октября 1891 года, в провинции Самут-Сонгхрам, Месяц Ратчабури, Королевство Сиам-н-Я Военная Карьера: §L\nBorn для семьи тайских владельцев фруктовых садов, Фин окончил Кадетскую королевскую школу Сиамской армии с высоким отличием и был одним из самых быстрых повышений в звание майора в его середине тире по своей воле. Он окончил тот же класс RSCAS, что и Фибун, и очень уважает его, и он считается одним из известных сторонников Фибуна, как его считают следующим командиром третьего военного округа (Исан/Северный Восток)."
+
+ SIA_thep_panthumasaen: "Фантхумасаен"
+ SIA_thep_panthumasaen_royal: "Фрайя Сонгсурадет"
+ #SIA_thep_panthumasaen_commander_desc: "Главное описание: §L\n 12 августа 1892 года в провинции Фра Нахон, Месяц Крунгтеп, Королевство Сиам §Y Военная карьера: §L\nBorn как Thep Phanthumasaen в военной семье. В 1904 году Ван поступил в Королевскую школу кадетов Сиамской армии и закончил ее с самым высоким баллом. В 1915 году в РСАКС он впервые заметил разрыв в обращении между аристократом и общежитием среди кадетов. Songsuardet был позднее направлен Королевской стипендией для обучения в Преуэйши Кригсакадеми в Берлине, затем он поступил на военную службу в качестве армейского инженера в Магдебурге, а затем вернулся в Сиам в 1915 году, прожив в общей сложности восемь лет в Германской империи. Songsuardet на короткое время видел сражение во время Вельткрига на Индокейском фронте, прежде чем был назначен главным инженером, который играл огромный ряд в строительстве Сиамской железной дороги по всей стране, одним из своих самых больших достижений, и одним из 1,3 км-клонга Кхлонг-хонга Тана, который связывал Чинг-Пхань (понг-Пхана)."The Musketeers\", the influential clique post-Weltkrieg officers, with Songsuradet himself serving as the Chief of Directorate of Operations, as well as the Chief of Education at the RCACS.\n§YImportant Notes:§L\nOften crashes with Phibun on most topics, also an avid dog lover."
+
+ SIA_adul_adulyadejchrat: "Адул Адульярат"
+ SIA_adul_adulyadejchrat_royal: "Луанг Адульядеджшрат"
+ # WIP
+ #SIA_adul_adulyadejchrat_commander_desc: "Общее описание §YBorn: §L\n 28 июня 1894 года, в Муеанг-Фра Нахоне, Месяц Крунгтеп, Королевство Сиам"
+
+ SIA_pichit_kriengsakpichit: "Пит Криенгаспакит"
+ SIA_pichit_kriengsakpichit_royal: "Луанг Криенгсакпихит"
+ # WIP
+# SIA_pichit_kriengsakpichit_commander_desc: "Общее описание §YBorn: §L\n 20 июля 1896 года, в провинции Фра-Прадэнг, Месяц Крунгтеп, Королевство Сиам"
+
+ SIA_karj_karjsongkhram: "Кардж Карджсонхрам"
+ SIA_karj_karjsongkhram_royal: "Луанг Карджсонхрам"
+ #SIA_karj_karjsongkhram_commander_desc: "12 апреля 1890 года в принцессе Нахона Ламфунчаи, Месяц Файяпа, Королевство Сиам §Y Военная карьера: §L\nBorn как Тянь Кенградоминг, Кардж поступил в Королевскую школу кадетов Сиамской армии перед тем, как служить в армии Фаяпа со средними показателями."
+
+ SIA_mangkorn_promyothee: "Мангкорн Промиоти"
+ SIA_mangkorn_promyothee_royal: "Луанг Промиоти"
+ # WIP
+ #SIA_mangkorn_promyothee_commander_desc: "Общее описание §YBorn: §L\n November 16, 1896, в провинции Тонбури, Месяц Крунгтеп, Королевство Сиам"
+
+ ## Admirals
+ SIA_sindhu_kamolnawin: "Синдху Камольнавин"
+ SIA_sindhu_kamolnawin_royal: "Луанг Синтусонгхрамчай"
+ # WIP
+ #SIA_sindhu_kamolnawin_commander_desc: "§L\n 23 июня 1901 года в провинции Самут-Сахон, Месяц Нахон Чайси, Королевство Сиам"
+
+ SIA_thongdee_suwanprueng: "Тхонгди Суванпруэн"
+ SIA_thongdee_suwanprueng_royal: "Фрайя ведьма"
+ # WIP
+ #SIA_thongdee_suwanprueng_commander_desc: "§L\n October 23, 1890, в провинции Тонбури, Месяц Крунгтеп, Королевство Сиам"
+
+ SIA_bunchai_sawathasuk: "Бунчай Саватасук"
+ SIA_bunchai_sawathasuk_royal: "Фрайя Вичарняккич"
+ # WIP
+ #SIA_bunchai_sawathasuk_commander_desc: "§L\n 17 июня 1890 года в провинции Фра Нахон, Месяц Крунгтеп, Королевство Сиам"
+
+ SIA_mongkol_mongkolnawin: "Монгкол Монгколнавин"
+ SIA_mongkol_mongkolnawin_royal: "Фра Монгколнававут"
+ # WIP
+ #SIA_mongkol_mongkolnawin_commander_desc: "§L\n 1 ноября 1894 года в провинции Нонтхабури, Месяц Крунгтеп, Королевство Сиам"
+
+ SIA_prayoon_yutthasartkosol: "Памятник Ютхакарткосол"
+ SIA_prayoon_yutthasartkosol_royal: "Луанг Юттасарткосоль"
+
+ ## Air Chiefs
+ SIA_boonjeam_komolmit: "Бунджеам Комольмит"
+ SIA_boonjeam_komolmit_royal: "Луанг Атхектевадет"
+
+ SIA_long_sinsuk: "Длинный Синсук"
+ SIA_long_sinsuk_royal: "Фрайя Вехасайарнсилпасит"
+
+ SIA_munee_mahasantana: "Муни Махасантана"
+ SIA_munee_mahasantana_royal: "Фхра Веджаянтрунгсарит"
+
+ SIA_sunee_suwanprateep: "Sunee Suvanpateep"
+ SIA_sunee_suwanprateep_royal: "Фрайя Шалермаркарт"
+
+ SIA_thip_ketuthat: "Thip Ketutat"
+ SIA_thip_ketuthat_royal: "Фрайя Таярнпикарт"
+
+ ## Second-In-Commands
+ SIA_kon_hutasingha: "Kon Hutasingha"
+ SIA_kon_hutasingha_royal: "Фрайя Манопакорн Ниитхада"
+
+ SIA_pramarn_adireksarn: "Прамарн Адирексарн"
+
+ SIA_sawaet_piampongsarn: "Савэт Пьямпонгсарн"
+
+ ## Political
+ SIA_tiang_sirikhanth: "Тианг Сирикхант"
+
+ SIA_wan_waithayakon: "Ван Уэйтхаякон"
+ SIA_wan_waithayakon_royal: "Принц Ван Уайтхаякон"
+
+ SIA_wichit_wichitwathakan: "Витит Витватакан"
+ SIA_wichit_wichitwathakan_royal: "Луанг Витивакан"
+
+ ## Economic
+ SIA_mangkorn_samsen: "Мангкорн Самсен"
+
+ SIA_sun_kijjumnong: "Солнце Киджюмнонг"
+
+ SIA_wichit_lulitanon: "Витит Лулитанон"
+
+ SIA_wisuth_tonwanik: "Висут Тонваник"
+ SIA_wisuth_tonwanik_royal: "Фрайя Тонваникмонтри"
+
+ ## Research
+ SIA_jira_wichitsongkhram: "Джира Вичсонхрам"
+ SIA_jira_wichitsongkhram_royal: "Луанг Вичсонхрам"
+
+ SIA_pin_malakul: "Пин Малакул"
+
+ SIA_tua_lapanukrom: "Туа Лапанукром"
+
+ ## Construction
+ SIA_jerm_arwuth: "Джерм Арвут"
+ SIA_jerm_arwuth_royal: "Фрайя Джинда Чаккарат"
+
+ SIA_narisara_nuwattiwong: "Нарисара Нуваттивонг"
+ SIA_narisara_nuwattiwong_royal: "Принц Нарисара Нуваттивонг"
+
+ SIA_purachatra_jayakara: "Пурачатра Джаякара"
+ SIA_purachatra_jayakara_royal: "Принц Пурахатра Джаякара"
+
+ ## Other
+ SIA_bung_suphachalasai: "Бунг Суфахаласай"
+ SIA_bung_suphachalasai_royal: "Луанг Суфачаласай"
+
+ SIA_buntaeng_thongsawat: "Бунтаген Тонгсават"
+
+ SIA_kulap_saipradit: "Kulap Saiprait"
+
+ SIA_pijarn_dullalampha: "Пиарн Дуллаламфа"
+ SIA_pijarn_dullalampha_royal: "Фра Пиарнполяки"
+
+ SIA_tianthai_apichartbhut: "Tianthai Apichartbhut"
+
+ SIA_wart_sunthonjamorn: "Уорт Сунтонжаморн"

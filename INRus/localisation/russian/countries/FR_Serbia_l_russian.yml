@@ -1,0 +1,155 @@
+﻿l_russian:
+
+### Political Parties ###
+SER_vanguardist_party: "Истинский Комунисти"
+SER_vanguardist_party_long: "Истинский комунисити"
+SER_collectivist_party: "RDS"
+SER_collectivist_party_long: "Революционное движение &lt; &lt; Дражава Странка &gt; &gt;"
+SER_libertarian_socialist_party: "Социална Униджа"
+SER_libertarian_socialist_party_long: "Сосиджална unija"
+SER_social_democrat_party: "СП"
+SER_social_democrat_party_long: "Партия &lt; &lt; Социалдемократска &gt; &gt;"
+SER_social_liberal_party: "Н"
+SER_social_liberal_party_long: "Напредак"
+SER_market_liberal_party: "Либеральная Лига"
+SER_market_liberal_party_long: "Либеральная Лига"
+SER_social_conservative_party: "Уставна Партия"
+SER_social_conservative_party_long: "Вверх"
+SER_authoritarian_democrat_party: "Странка Монархие"
+SER_authoritarian_democrat_party_long: "БШМ"
+SER_paternal_autocrat_party: "Дом Карадоревича"
+SER_paternal_autocrat_party_long: "Дом Карадоревича"
+SER_national_populist_party: "Ультра-Карадоревичиты"
+SER_national_populist_party_long: "Ультра-Карадоревичиты"
+SER_valkist_party: "&lt; &lt; Рекламация &gt; &gt;"
+SER_valkist_party_long: "&lt; &lt; Рекламация &gt; &gt;"
+
+### EVENTS ###
+
+serbia.1.t: "Сербское Королевство"
+serbia.1.d: ""
+serbia.1.a: "Нам предначертано величие!"
+
+serbia.2.t: "Венгрия приглашает нас в их фракцию"
+serbia.2.d: "В удивительном повороте событий мы получили письмо из Будапешта, одетое самому королю. Похоже, что венгры официально приглашают нас в фракцию с ними. Они говорят, что этот союз позволит провести между нами пограничный обмен и заключить договоры, и обе страны будут очень благоприятельны. Мы должны выбирать мудро."
+serbia.2.a: "Мы должны отложить старое соперничество."
+serbia.2.b: "Сербия должна проложить свой собственный путь в истории."
+
+serbia.3.t: "Венгрия требует Боснии!"
+serbia.3.d: "Венгры, в своем бесконечном преследовании власти, прислали нам список требований, включая все наши боснийские территории! Хотя мы, возможно, сможем отбросить венгерцев сами, это, несомненно, разрушит нацию и, возможно, разоблачит один из наших слабых точек."
+serbia.3.a: "Босния - это маленькая уступка миру..."
+serbia.3.b: "Мы никогда не вернемся в Магьяр!"
+
+serbia.4.t: "Босния во имя мира?"
+serbia.4.d: "Мы можем предложить им Боснию и Герзоговину в обмен на мир, но это будет рассматриваться как постыдный акт в глазах как нашего правительства, так и нашего народа."
+serbia.4.a: "Мы сдадим Боснию ради блага нации."
+serbia.4.b: "Магияры слабы, нам нужно еще несколько месяцев..."
+
+serbia.5.t: "Хорватский револьт распространяется на Боснию!"
+serbia.5.d: "Хорваты только недавно поднялись в Венгрии, надеясь заслужить свою зависимость от крови и железа."
+serbia.5.a: "Мы покажем хорватам, что значит восстать против нас."
+
+serbia.6.t: "Хорватия побеждает в их независимости."
+serbia.6.d: "Мы не можем победить хорватов вместе, не говоря уже о себе. Хорватия будет иметь свое государство до тех пор, пока следующая крупная война не позволит нам вернуть наши законные территории."
+serbia.6.a: "Это день, который будет жить в беспорядке..."
+
+serbia.7.t: "Венгрия требует Западного Баната!"
+serbia.7.d: "Сегодня венгерское правительство потребовало, чтобы мы вернули ему район Западного Баната или столкнулись с определенными угощениями. Этот регион чрезвычайно оправдывателен и ценен с стратегической точки зрения. Отказ от земли был бы глупым шагом, который сильно расстроил бы народ, но мы также должны учесть, что Венгрия-мау пытается взять его силой, если мы откажемся."
+serbia.7.a: "Вест-Банат не имеет большого значения, они могут забрать его."
+serbia.7.d: "Они должны вырвать его из наших холодных, мертвых рук."
+
+serbia_secondgreatwar.1.d: "С недавним присоединением Болгарии к Германии у нас появляется возможность для противодействия. Сербы находятся на обочине реваншизма после того, как болгары победили их не так давно и аннексировали Македонию; предложение им альянса откроет новый фронт и позволит нам нанести удар по Балканам и за их пределами; однако не вызывает сомнений тот факт, что сербы гораздо слабее болгарских и могут быть обременительным союзником."
+
+serbia_secondgreatwar.3.d: "Сербы увидели мудрость в нашем предложении и приняли его, и теперь у нас есть новый фронт, чтобы нанести удар по болгарам и за их пределами!"
+
+### IDEAS ###
+ser_second_gw: "Сербский реванхизм"
+
+ser_danube_research: "Член научно-исследовательской группы в Дунае"
+ser_danube_research_desc: "Мы участвуем в дунайском исследовательском Блоке, давая нам и всем другим участвующим в нем нациям импульс нашим исследовательским способностям, и нам было бы мудро поддерживать хорошие отношения со всеми другими членами Блока."
+###
+ser_integrated_officers: "Объединенный корпус сотрудников"
+ser_integrated_officers_desc: "Попытки сближения наших наций с военной точки зрения привели к формированию транснационального офицерского корпуса, в состав которого вошли генералы из всех членов группировки, хотя культурный и языковой разрыв и является трудным, со временем он станет одним из величайших наших достижений."
+###
+ser_interlaced_economy: "Связанная экономика"
+ser_interlaced_economy_desc: "Мы приложили активные усилия к тому, чтобы связать нашу экономику с другими членами наших группировок, что позволило нам лучше выделять ресурсы на строительство и военное производство."
+###
+ser_mutilated_victory: "Изувеченная победа"
+ser_mutilated_victory_desc: "Несмотря на сербские амбиции, в Венгрии, формально побежденной власти, по-прежнему сохраняются Хорватия и Марибор, несмотря на сербские утверждения."
+
+### MISC ###
+SER_hungary_nice: "Здание &lt; &lt; Здание &gt; &gt;"
+
+### Characters ###
+ SER_petar_ii: "Петар II"
+ SER_petar_ii_leader_desc: "Первый и единственный ребенок Александра II Карадоревича, последнего короля Сербии до"republican" interregnum, Petar II was only two years old when he was taken from the overrun Royal Palace and handed over to the hands of Petar Živković. The young heir to the throne was moved out of the country and ended up in Canada, where the loyalists of the Karađorđević dynasty gave him to Prince Pavle, first cousin of Aleksandar II and a friend of the British royal family. While the White Hand continued the fight in the fallen Kingdom, the Prince was given the task of raising his nephew.\n\nThus, Petar grew up in the relatively liberal environment of Canada. He spent his childhood attending balls, speaking in English, and caring little about the impoverished Balkan state he still claimed the throne of. Though his guardian taught him little in the way of statecraft, the Westminster system he witnessed imprinted deep upon him. Once the time came for the young King to return home, he brought this British thinking with him.\n\nPersonality-wise, Petar is impulsive, naive and a hopeless idealist. His imagination of the political situation rarely coincides with reality. Though his kingdom may pale in comparison to his childhood home, he nevertheless sees the well-being of his subjects as his duty, even at the expense of political capital. This makes the young King easy to play with for those with actual political acumen. Thus, even if Petar may have good ideas in his mind, he has always been a tool for those who hold real power, and likely always will be."
+
+ SER_temporary_national_representation: "Временное национальное представительство"
+
+ SER_milan_grol: "Милан Грол"
+ SER_milan_grol_leader_desc: "В 1876 году Милан Грол получил многодисциплинарное образование, в котором изучал философию, литературу, театр и искусство. В Париже он вернулся в Сербию в 1902 году в качестве учителя и писателя, часто оплодотворяя короля Александра I и династию Обреновича в прессе. Примерно в это время он начал работать слева, присоединяясь к Независимой радикальной партии. Его карьера в театре закончилась с началом Велкрига. Он переехал в Женеву во время конфликта и начал переосмысливать свою жизнь в отношении своих политических трудов и активной деятельности. В конце войны Сербия была оккупирована и унижена. Грол вернулся на свою родину, чтобы увидеть опустошенную нацию и вскоре помог найти Сербскую республиканскую партию. Виктори на выборах 1931 года увидел, как Грол занял пост премьер-министра при Драгисе Васиче. В результате этого он был признан естественным преемником Васича и поступил на пост президента. Владел наследием Любомира Стояновича на своих плечах, Милана Гроля и его партии теперь предоставлено право на проведение реформ, о которых они мечтали о земле."
+
+ SER_srdan_budisavljevic: "Сржан Будисавлевич"
+ SER_albert_kramer: "Альберт Крамер"
+ SER_dimitrije_ljotic: "Дмитрий Лётич"
+ SER_mirko_korolija: "Мирко Королиджа"
+ SER_nikola_uzunovic: "Никола Узунович"
+ SER_mosa_pijade: "Моша Пиджаде"
+ SER_milan_gorkic: "Милан Горчич"
+ SER_josip_broz: "Йосип Брос"
+ SER_vukasin_markovic: "Вукашин Маркович"
+
+ SER_trifun_kaclerovic: "Трифун Каклерович"
+ SER_trifun_kaclerovic_leader_desc: ":: Всё, что я знаю."old man of the socialists", Trifun "Triša" Kaclerović was born in 1879 in the Serbian countryside and became involved in the socialist movement during his student years. In the leadup to the May Coup of 1903, he and his fellow students organised a protest against the increasingly absolute Aleksandar I Obrenović.  He remained in opposition even after the king's assassination and the rise of the Karađorđevićs. Now a leading member of the Social Democratic Party, Kaclerović spent the years leading up to World War I fighting for labour rights, representing the workers in the Skupština and demanding rights for socialists.\n\nThe end of the Weltkrieg saw the socialist movement split. Some, radicalised by the Russian and French Revolutions, turned to violence. Others shunned themselves from the ideology entirely, or clung onto reformism even in the tense atmosphere of postwar Serbia. Kaclerović led his faction of the Social Democrats to the nascent Socialist Workers' Party, and commanded it for the following decades. A grand hegemon of the left, the SRP unites everyone from social democrats to open Syndicalists. Kaclerović stands at the top of it all - all of them can respect this elderly, collected founder of modern Serbian socialism."
+
+ SER_zivko_topalovic: "Живко Топалович"
+
+ SER_dragomir_vasic: "Драгомир Васич"
+ SER_dragomir_vasic_leader_desc: "Драгомир"Dragiša" Vasić is the second President of the Serbian Republic, elected with the initiative of the Republican Party in 1931. Born in Morava in 1885, Vasić unfortunately happened to belong to the generation of Serbian men and women sent to die in the trenches of the Balkan Wars and the Weltkrieg. It was there, during the Second Balkan War, that Vasić the revolutionary began to develop - and Vasić the writer. His first real attempt, a short story titled "Pačko", depicts a Serbian soldier in the Battle of Bregalnica. Pitying a felled Bulgarian officer, he tries to give him a proper burial in no man's land, only to be shot by the enemy while erecting a wooden cross. This revolutionary fervour slowly lead to disillusion with the Karađorđević dynasty - especially after the Salonika Trial, as one of the members of the Black Hand executed was his cousin Ljubomir Vulović.\n\nAfter the war, Vasić returned to Serbia along the remaining exiles, pursued a legal career, and founded the newspaper "Progress". However, it was soon shut down and his lawyer's license suspended by the Royal Dictatorship for defending communists. In reaction, he joined the Republican Party and became a member of its main board, a crucial member of the underground organisation - not only thanks to his literary skill, but also his numerous contacts within the Serbian Army. When the Revolution came, Vasić joined it, was elected to the Skupština, and accepted his role as the Ambassador to the Commune of France. While visiting Paris and seeing its achievements did not convert him to a Syndicalist, it nevertheless fascinated him.\n\nThe Konspiracija, suspicious of President Jaša Prodanović's anti-militarist stance, forced him out of power in 1931. Discreetly inviting Vasić to succeed him in the next election, they expected him to be easier to control thanks to his past in the Black Hand. Reluctantly, Vasić agreed, and stands today as a leader torn between his progressive outlook and his debt to the conspirators. To him, the fight against Bulgaria is not just a matter of irredentism - it is a matter of liberty. Time and time again the Serbs have proven to be its beacon in the Balkans while the Bulgarians dabble in dim absolutism. But can Serbia really claim to be a harbinger of liberty in this state?"
+
+ SER_milan_stojadinovic: "Милан Стоядинович"
+ SER_milan_stojadinovic_leader_desc: "Названный в честь короля Сербии Милана Милана Стоядиновича, который родился в семье сельского судьи в Шумадии и следовал тем же курсом, что и многие в сербском интеллектуальном классе. &quot; Дружок детства Живко Топалович &quot; , он симпатизировал к социализму в своей молодости, прежде чем добиваться национального освобождения из-за классовой борьбы. &quot; Стоядинович &quot; , вместо этого, оказался в Народной радикальной партии. &quot; Стоядинович &quot; , провёл время перед &quot; Велкриагом &quot; за пределами Сербии, учился в западных университетах и представлял министерство финансов за рубежом, и вернулся на свою родину, чтобы служить в Балканских войнах. &quot; Сербские изгнанные в Корфу &quot; , включая Стоядиновича, нуждались в бюрократах - мужчинах, которые следили бы за тем, чтобы лишь немногие из их худших рядов, голодали и ушли от Сербии. &quot; Стодежник &quot; , который &quot; уш &quot; , собирал их &quot; х &quot; х &quot; , и &quot; х &quot; х &quot; х &quot; х &quot; хал &quot; хал &quot; своих &quot; своих &quot; в качестве своего &quot; х &quot; х &quot; х &quot; в качестве своего &quot; в качестве своего &quot; в качестве своего рода &quot; ха &quot; в качестве своего &quot; в качестве своего &quot; в качестве своего &quot; в качестве своего &quot; бога &quot; бога &quot; в качестве своего &quot; в качестве своего &quot; бога &quot; бога &qu"When it comes to the grand design which God has for the Serbian nation, there can be no compromise or half-measures". Freedom is strong, but collective, absolute power can be stronger."
+
+ SER_milan_gavrilovic: "Милан Гаврилович"
+ SER_zivojin_peric: "Живойин Перич"
+
+ SER_petar_zivkovic: "Петар Живкович"
+ SER_petar_zivkovic_leader_desc: "Для своих врагов он известен как омерзительный хитроумный монастырь, злобный кукловод, который держал Александра II в заложниках и сфабриковал печально известное королевское диктаторство вслед за Велкриагом. Для своих последователей он был самым верным монархом, который мог быть солдатом, стоявшим у дома Карадордевича, пока он жил. Петар Живкович родился в 1879 году и последовал за престижной карьерой герцогства. Он поднялся, чтобы стать членом королевской гвардии, где он играл ключевую роль во время событий 1903 года, как охранник, который открыл вход в Королевский суд и позволил Черной Руке уничтожить Дом Обреновича. Живкович вскоре растерялся с Чёрной Рукой, однако, полагая, что их лидер Апиас в своей хитрости пытался свергнуть Карадорских деспотиков. Следуя совету наследника, Петара создал Белую Руку - сопера, который занимался защитой правящей династи."
+
+ SER_collective_leadership: "Коллективное руководство"
+ SER_petar_bojovic: "Петар Бойович"
+ SER_konstantin_popovic: "Константин Попович"
+ SER_blazo_jovanovic: "Блажо Йованович"
+ SER_milan_nedic: "Милан Недич"
+ SER_milorad_petrovic: "Милорад Петрович"
+ SER_dragoljub_mihailovic: "Драголюб Михайлович"
+ SER_ljubomir_maric: "Любомир Марич"
+ SER_milutin_nedic: "Милутин Недич"
+ SER_dusan_trifunovic: "Душан Трифунович"
+ SER_bogoljub_ilic: "Боголджуб Илич"
+ SER_dusan_simovic: "Душан Симович"
+ SER_milan_spasic: "Милан Спасич"
+
+ SER_mihailo_ilic: "Михайло Илич"
+ SER_sima_markovic: "Сима Маркович"
+ SER_aleksandar_cincar_markovic: "Александр Синкар-Маркович"
+ SER_konstantin_pecanac: "Константин Печанач"
+ SER_serbian_cultural_club: "Сербский культурный клуб"
+ SER_aleksandar_rankovic: "Александр Рэнчович"
+ SER_slobodan_jovanovic: "Слободан Йованович"
+ SER_filip_filipovic: "Филип Филипович"
+ SER_milan_srskic: "Милан Срскич"
+ SER_ninko_peric: "Нинко Перич"
+
+ SER_milan_acimovic: "Милан Ачимович"
+ SER_dragutin_gavrilovic: "Драгутин Гаврилович"
+ SER_mladen_zujovic: "Младен Жуйович"
+ SER_momcilo_nincic: "Момчило Нинчич"
+ SER_milos_savcic: "Милош Савчич"
+ SER_dobrica_matkovic: "Добрица Маткович"
+
+ SER_petar_kosic: "Петар Кошич"
+ SER_dragomir_stojanovic: "Драгомир Стоянович"
+ SER_navy_army_command: "Под командованием армии"
+
+ SER_event_only: "Может быть добавлено только по каждому мероприятию."

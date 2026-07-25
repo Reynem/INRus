@@ -1,0 +1,38 @@
+﻿l_russian:
+
+ GOR: "Горное государство"                               
+ GOR_DEF: "Горное государство"
+ GOR_ADJ: "Белый"
+ GOR_paternal_autocrat: "Горный имамат"
+ GOR_paternal_autocrat_DEF: "Горный имамат"
+ GOR_paternal_autocrat_ADJ: "Белый"
+ 
+### Political Parties ###
+
+GOR_vanguardist_party: "КХФ"
+GOR_vanguardist_party_long: "Кавказская коммунистическая партия"
+GOR_collectivist_party: "КХФ"
+GOR_collectivist_party_long: "Кавказская коммунистическая партия"
+GOR_libertarian_socialist_party: "КХФ"
+GOR_libertarian_socialist_party_long: "Кавказская коммунистическая партия"
+GOR_social_democrat_party: "КВУП"
+GOR_social_democrat_party_long: "Кавказская партия социал-демократов"
+GOR_social_liberal_party: "УИУ"
+GOR_social_liberal_party_long: "Союз нефтяной промышленности"
+GOR_market_liberal_party: "УИУ"
+GOR_market_liberal_party_long: "Союз нефтяной промышленности"
+GOR_social_conservative_party: "PPHC"
+GOR_social_conservative_party_long: "Народная партия горцев Кавказа"
+GOR_authoritarian_democrat_party: "Военные вопросы"
+GOR_authoritarian_democrat_party_long: "Военные вопросы"
+GOR_paternal_autocrat_party: "Имам Клик"
+GOR_paternal_autocrat_party_long: "Имам Клик"
+GOR_national_populist_party: "НКПЧ"
+GOR_national_populist_party_long: "Кавказская национальная Сторона"
+GOR_valkist_party: "НКПЧ"
+GOR_valkist_party_long: "Кавказская национальная Сторона"
+ 
+#Ideas
+GOR_Christian_Anger: "Христианская ярость"
+GOR_State_Oil: "Государственная контролируемая нефтяная промышленность"
+GOR_Controlled_Elections: "Демократия только во имя"

@@ -1,0 +1,28 @@
+﻿l_russian:
+
+ #Reichspakt AI Faction Theatres
+ reichspakt_theatre_western_europe: "Западноевропейская организация &lt; &lt; Рейхспакт &gt; &gt;"
+ reichspakt_theatre_eastern_europe: "Восточная Европа"
+ reichspakt_theatre_central_europe: "Центральная Европа"
+
+ #Internationale AI Faction Theatres
+ internationale_theatre_western_europe: "Международная организация Западной Европы"
+ internationale_theatre_western_mediterranean: "Международный союз западного Средиземноморья"
+
+ #Moscow Accord AI Faction Theatres
+ moscow_accord_theatre_eastern_europe: "Московское соглашение Восточная Европа"
+ moscow_accord_theatre_central_europe: "Московское соглашение Центральная Европа"
+
+ #Entente AI Faction Theatres
+ entente_theatre_western_europe: "&lt; &lt; Западная Европа &gt; &gt;"
+ entente_theatre_western_mediterranean: "Внедрить Западный Средиземноморье"
+ entente_theatre_eastern_north_america: "Восточная Северная Америка"
+
+ #Co-Prosperity Sphere AI Faction Theatres
+ co_prosperity_sphere_theatre_northern_china: "Северный Китай"
+ co_prosperity_sphere_theatre_southern_china: "Южный Китай"
+
+ #Chinese United Front AI Faction Theatres
+ chinese_united_front_theatre_northern_china: "Китайский объединенный фронт Северного Китая"
+ chinese_united_front_theatre_southern_china: "Китайский объединенный фронт Южного Китая"
+

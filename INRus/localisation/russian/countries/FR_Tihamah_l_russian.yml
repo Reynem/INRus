@@ -1,0 +1,79 @@
+﻿l_russian:
+
+#### Political Parties ####
+
+ TIH_vanguardist_party_long: "-"
+ TIH_vanguardist_party: "-"
+ TIH_collectivist_party_long: "-"
+ TIH_collectivist_party: "-"
+ TIH_libertarian_socialist_party_long: "-"
+ TIH_libertarian_socialist_party: "-"
+ TIH_social_democrat_party_long: "&lt; &lt; Хизб аль-Эарабиу аль-Лийбирали &gt; &gt; (Арабская либеральная партия)"
+ TIH_social_democrat_party: "ПОМОЩЬ"
+ TIH_social_liberal_party_long: "&lt; &lt; Хизб аль-Эарабиу аль-Лийбирали &gt; &gt; (Арабская либеральная партия)"
+ TIH_social_liberal_party: "ПОМОЩЬ"
+ TIH_market_liberal_party_long: "&lt; &lt; Хизб аль-Эарабиу аль-Лийбирали &gt; &gt; (Арабская либеральная партия)"
+ TIH_market_liberal_party: "ПОМОЩЬ"
+ TIH_social_conservative_party_long: "&lt; &lt; Хизб аль-Эарабиу аль-Ватани &gt; &gt; (Арабская национальная партия)"
+ TIH_social_conservative_party: "НЭЖ"
+ TIH_authoritarian_democrat_party_long: "&lt; &lt; Аль-Хашими &gt; &gt;"
+ TIH_authoritarian_democrat_party: "&lt; &lt; Аль-Хашими &gt; &gt;"
+ TIH_paternal_autocrat_party_long: "&lt; &lt; Аль-Хашими &gt; &gt;"
+ TIH_paternal_autocrat_party: "&lt; &lt; Аль-Хашими &gt; &gt;"
+ TIH_national_populist_party_long: "&lt; &lt; Хизб аль-Фида аль-Ватани &gt; &gt; (Партия национальной жертвоприношения)"
+ TIH_national_populist_party: "HFW"
+ TIH_valkist_party: "-"
+ TIH_valkist_party_long: "-"
+
+### Country Names ###
+ JBS: "Тихама"
+ TIH_ADJ: "Тихамахи"
+ TIH_DEF: "Тихама"
+
+ TIH_vanguardist: "Община Тихама"
+ TIH_vanguardist_DEF: "коммуна Тихама"
+ TIH_collectivist: "Община Тихама"
+ TIH_collectivist_DEF: "коммуна Тихама"
+ TIH_libertarian_socialist: "Община Тихама"
+ TIH_libertarian_socialist_DEF: "коммуна Тихама"
+ TIH_social_democrat: "Эмират Тихама"
+ TIH_social_democrat_ADJ: "Тихамахи"
+ TIH_social_democrat_DEF: "Эмират Тихама"
+ TIH_social_liberal: "Эмират Тихама"
+ TIH_social_liberal_ADJ: "Тихамахи"
+ TIH_social_liberal_DEF: "Эмират Тихама"
+ TIH_market_liberal: "Эмират Тихама"
+ TIH_market_liberal_ADJ: "Тихамахи"
+ TIH_market_liberal_DEF: "Эмират Тихама"
+ TIH_social_conservative: "Эмират Тихама"
+ TIH_social_conservative_ADJ: "Тихамахи"
+ TIH_social_conservative_DEF: "Эмират Тихама"
+ TIH_authoritarian_democrat: "Эмират Тихама"
+ TIH_authoritarian_democrat_ADJ: "Тихамахи"
+ TIH_authoritarian_democrat_DEF: "Эмират Тихама"
+ TIH_paternal_autocrat: "Эмират Тихама"
+ TIH_paternal_autocrat_ADJ: "Тихамахи"
+ TIH_paternal_autocrat_DEF: "Эмират Тихама"
+ TIH_national_populist: "Эмират Тихама"
+ TIH_national_populist_ADJ: "Тихамахи"
+ TIH_national_populist_DEF: "Эмират Тихама"
+ TIH_valkist: "Эмират Тихама"
+ TIH_valkist_ADJ: "Тихамахи"
+ TIH_valkist_DEF: "Эмират Тихама"
+
+### Autonomy ###
+
+### Characters ###
+
+#### Political Ministers ####
+
+
+#####Ideas#####
+
+
+#####Tooltips#####
+
+
+#####Focus#####
+
+#####Events#####

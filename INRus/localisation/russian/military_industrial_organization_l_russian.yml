@@ -1,0 +1,942 @@
+﻿l_russian:
+
+ ###################################################################################################
+ #### Code and UX localisation
+ ###################################################################################################
+
+ INDUSTRIAL_ORG_PP_COST: "£GFX_pol_power_icon $VALUE|H$/day"
+ INDUSTRIAL_ORG_PP_COST_KEEP_COLOR: "£GFX_pol_power_icon $VALUE|H$/day"
+ INDUSTRIAL_ORG_ARMY_XP_COST: "£GFX_army_experience $VALUE$"
+ INDUSTRIAL_ORG_AIR_XP_COST: "£GFX_air_experience $VALUE$"
+ INDUSTRIAL_ORG_NAVY_XP_COST: "£GFX_navy_experience $VALUE$"
+ INDUSTRIAL_ORG_ANY_XP_COST: "£GFX_neutral_experience $VALUE$"
+ INDUSTRIAL_ORG_POLICY_PP_COST: "£GFX_pol_power_icon $VALUE|H$"
+
+ #SORTING
+ mio_sorting_name: "Имя"
+ mio_sorting_task_capacity: "Вместимость"
+ mio_sorting_task_cost: "Стоимость"
+
+ INDUSTRIAL_ORG_LIST_WINDOW_TITLE: "Военно-промышленная организация"
+ INDUSTRIAL_ORG_DETAIL_WINDOW_TITLE: "Подробная информация об организации"
+ INDUSTRIAL_ORG_OPEN_DETAILS_WINDOW: "Подробности"
+ INDUSTRIAL_ORG_OPEN_DETAILS_WINDOW_TOOLTIP: "Детали Открытой Военно-промышленной организации."
+ INDUSTRIAL_ORG_OPEN_DETAILS_WINDOW_TOOLTIP_DELAYED: "$NAME|Y$ has $NUMBER|Y0$ Trait points to spend."
+ INDUSTRIAL_ORG_LIST_INITIAL_TRAIT_NAME: "$NAME|Y$"
+ INDUSTRIAL_ORG_DETAIL_WINDOW_OPEN_QUEUE_BUTTON: "Трайт Кью"
+ INDUSTRIAL_ORG_DETAIL_WINDOW_OPEN_QUEUE_BUTTON_WITH_ITEMS: "$INDUSTRIAL_ORG_DETAIL_WINDOW_OPEN_QUEUE_BUTTON$ ($NUMBER_ITEMS$)"
+ INDUSTRIAL_ORG_QUEUE_WINDOW_INSTRUCTION: "Когда эта Организация будет иметь точки, первая из имеющихся в этой очереди характеристик будет завершена. n §GShift + Щёлкните §! на предпосылке § §Y/N§Drag & Drop§! для изменения порядка очереди §!."
+ INDUSTRIAL_ORG_QUEUE_WINDOW_ITEM_DRAGDROP: "§Grag & Drop§! изменить порядок в очереди"
+ INDUSTRIAL_ORG_QUEUE_WINDOW_REMOVE_TOOLTIP: "Удалить из Queue"
+ INDUSTRIAL_ORG_DETAIL_WINDOW_TRAITS_TAB: "Травмы"
+ INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_TAB: "История"
+ INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_VARIANTS_HEADER: "История исследований и дизайнеров"
+ INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_PRODUCTION_HEADER: "Происхождение производственной линии"
+ INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_OUTDATED_TOOLTIP: "§g Оборудование устарело! §!"
+ INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_NO_UPGRADE_TOOLTIP: "§g Оборудование уже имеет бонусы от последних характеристик."
+ INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_UPGRADE_VARIANTS_TOOLTIP_CANT_AFFORD: "§R У вас недостаточно опыта, чтобы усовершенствовать вариант.§!"
+ INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_ENTRY_EQUIMENT_NAME: "$NAME|H$"
+ INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_ENTRY_ARCHETYPE_NAME: "$NAME$"
+ INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_ENTRY_FLAVOR_RESEARCH_DATE: "Исследованные расходы: ДАТА-долл. США"
+ INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_ENTRY_FLAVOR_DESIGN_DATE: "Предусмотрено: долл. США"
+ INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_ENTRY_FLAVOR_UNITS_PRODUCED: "Произведенные единицы: $NUMBER/60/0H долл."
+ INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_UPGRADE_VARIANTS_CONFIRM_POPUP_HEADER: "Модернизация с использованием последних характеристик(ов)"
+ INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_UPGRADE_VARIANTS_CONFIRM_POPUP_DESC: "Вы уверены, что хотите усовершенствовать $EQUIPINT_NAMEY$ с последними характеристиками? ~ ~ ~ Не будет стоить $XPCOSTY$ для обновления."
+
+ INDUSTRIAL_ORG_LIST_WINDOW_ASSIGN_TO_PROD_LINE_TOOLTIP: "§GClick§! в §Yassign§! на эту производственную линию."
+ INDUSTRIAL_ORG_LIST_WINDOW_ASSIGN_TO_SHIP_REFIT_TOOLTIP: "§GClick§! в §Yassign§!"
+ INDUSTRIAL_ORG_LIST_WINDOW_ASSIGN_TO_VARIANT_TOOLTIP: "§GClick§! - §Yassign§! - к этому варианту оборудования."
+ INDUSTRIAL_ORG_LIST_WINDOW_ASSIGN_TO_RESEARCH_TOOLTIP: "§GClick§! в §Yassign§! в эту технологию."
+ INDUSTRIAL_ORG_LIST_WINDOW_UNASSIGN_DESIGN_TEAM_TOOLTIP: "§GClick§! - §Runassign§!"
+ INDUSTRIAL_ORG_LIST_WINDOW_UNASSIGN_MANUFACTURER_TOOLTIP: "§GClick§! - §Runassign§! От этой производственной линии."
+
+ INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_TANK: "Цистерны"
+ INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_SHIP: "Корабли"
+ INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_PLANE: "Самолеты"
+ INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_MATERIEL: "Материальное оборудование"
+ INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_TOOLTIP: "Показ только военных промышленных организаций за $ КАТЕГОРИЮ в долл. США"
+ INDUSTRIAL_ORG_POLITICAL_SCREEN_OPEN_ROSTER_WITH_FILTER: "§GClick показать военные промышленные организации за §! КАТЕГОРИЮ &gt; &gt; в долл. США"
+ INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CAN_UNLOCK_TOOLTIP: "Показать только военные промышленные организации с очками Трайта, чтобы потратить"
+
+ INDUSTRIAL_ORG_DETAIL_MIO_MODIFIERS: "Атрибуты"
+ INDUSTRIAL_ORG_DETAIL_MIO_MODIFIERS_TOTAL: "Итого: в долл. США"
+ INDUSTRIAL_ORG_DETAIL_MIO_MODIFIERS_BASE: "Базовая сумма: в долл. США"
+ INDUSTRIAL_ORG_DETAIL_MIO_MODIFIERS_FROM_TRAITS: "Из & политики в области борьбы с трагедиями: $VALUE$"
+ INDUSTRIAL_ORG_DETAIL_MIO_MODIFIERS_FROM_COUNTRY: "Из страны: в долл. США"
+ INDUSTRIAL_ORG_DETAIL_MIO_MODIFIERS_VALUE: "$VALUE$"
+ INDUSTRIAL_ORG_DETAIL_MIO_FUND_GAIN_MODIFIER_VALUE: "$VALUE|+=0%$"
+ INDUSTRIAL_ORG_DETAIL_EQUIPMENT_BONUSES: "Принадлежности для оборудования"
+ INDUSTRIAL_ORG_DETAIL_INITIAL_TRAIT_BONUSES: "Первоначальная предыстория"
+ INDUSTRIAL_ORG_DETAIL_TRAIT_POINTS: "Тяжелые пункты: $VALUE.H$"
+ INDUSTRIAL_ORG_DETAIL_TRAIT_POINTS_DELAYED: "Тяжелые точки используются для того, чтобы раскрыть черты для вашей §Y Военной промышленной организации! Вы получаете их, собирая достаточно §YFunds§! от завершения §YResearch§! или отдаваясь линии §Y Production §!"
+ INDUSTRIAL_ORG_DETAIL_RESEARCH_BONUS: "Субсидии на проведение исследований: $VALUE(0,0%)"
+ INDUSTRIAL_ORG_DETAIL_TASK_CAPACITY: "Целевая мощность: $VALUE(0,0%)"
+ INDUSTRIAL_ORG_DETAIL_MIO_MODIFIER_ITEM: "$NAME$: $VALUE$"
+ INDUSTRIAL_ORG_DETAIL_MIO_INITIAL_TRAIT_ITEM: "$NAME|Y$"
+ INDUSTRIAL_ORG_DETAIL_TOOLTIP_FUNDS_HEADER: "ACYFunds§!"
+ INDUSTRIAL_ORG_DETAIL_TOOLTIP_FUNDS_VALUES: "$VALUE|H0$ / $LIMIT|H0$ ($PERCENT|0%$)"
+ INDUSTRIAL_ORG_DETAIL_TOOLTIP_FUNDS_VALUES_DELAYED: "§YFunds§! представляет собой § §!"
+ INDUSTRIAL_ORG_DETAIL_TOOLTIP_FUNDS_FROM_PRODUCING: "Производство:"
+ INDUSTRIAL_ORG_DETAIL_TOOLTIP_FUNDS_PER_PROD_LINE: "$EQUIPMENT_NAME|Y$ ($FUNDS|+2$ funds/day)"
+ INDUSTRIAL_ORG_DETAIL_TOOLTIP_FUNDS_FROM_RESEARCHING: "Исследования:"
+ INDUSTRIAL_ORG_DETAIL_TOOLTIP_FUNDS_PER_RESEARCH_SLOT: "$TECH_NAME|Y$ ($FUNDS|+0$ funds in $DAYS|Y$ day(s))"
+ INDUSTRIAL_ORG_DETAIL_TOOLTIP_DESIGN_TEAM_CHANGE_COST_DELAYED: "Когда вы добавляете §Y Военные промышленные организации §! В вариантах оборудования это будет стоить вам §YExperience§! В зависимости от типа оборудования, это будет либо фунт GFX_army_ Experience Army Experience, фунт GFX_navy_ Experience Bashy Experience или фунт GFX_air_ Experience Air Experience."
+
+ INDUSTRIAL_ORGANIZATION_TOOLTIP_NAME: "$NAME|H$"
+ INDUSTRIAL_ORGANIZATION_TOOLTIP_EQUIPMENT_WILL_GET: "$EQUIPMENT|H$ will get:"
+ INDUSTRIAL_ORGANIZATION_TOOLTIP_TASK_CAPACITY: "Целевой потенциал: USDIY0 долл. США/$TOTALY0 долл. США"
+ INDUSTRIAL_ORGANIZATION_TOOLTIP_REFIT_CAPACITY: "Этот промышленный завод-изготовитель может быть назначен на сумму только в $NUM$ из переоборудованных линий в $TOTAL$!"
+ INDUSTRIAL_ORGANIZATION_TOOLTIP_CANT_ASSIGN_TASK_CAPACITY: "У них есть § Расширенный§! Их § § § § §! И они не могут быть назначены на какое-либо задание до сих пор."
+ INDUSTRIAL_ORGANIZATION_TOOLTIP_SIZE: "Размер: $SIZEIY0 долл. ($PERCENTY%0 долл.)"
+ INDUSTRIAL_ORGANIZATION_TOOLTIP_SIZE_DELAYED: "Каждый раз, когда ваша военно-промышленная организация увеличивается в §YSize§, вы получаете элемент, с которым вы можете использовать, чтобы раскрыть свою черту."
+ INDUSTRIAL_ORGANIZATION_TOOLTIP_COST: "Стоимость:"
+ INDUSTRIAL_ORGANIZATION_TOOLTIP_RESEARCH_BONUS: "Субсидия на проведение исследований: $VALUE(0,0%)+=$"
+ INDUSTRIAL_ORGANIZATION_TOOLTIP_GAINED_FUNDS_PROD_LINE: "Фонды: $VALUE / 2 долл. США/§Hindustrial Потенциал §!"
+ INDUSTRIAL_ORGANIZATION_TOOLTIP_MAX_FUNDS_PROD_LINE: "долл. США в день)."
+ INDUSTRIAL_ORGANIZATION_TOOLTIP_GAINED_FUNDS_DESIGNER: "Средства: $VALUE(+0 долл. США)"
+ INDUSTRIAL_ORGANIZATION_TOOLTIP_GAINED_FUNDS_RESEARCH: "США+0 долл. США (по завершении)"
+
+ INDUSTRIAL_ORG_TOOLTIP_HEADER: "Военная промышленная организация!"
+ INDUSTRIAL_ORG_MANUFACTURER: "Промышленный завод-изготовитель"
+ INDUSTRIAL_ORG_DESIGN_TEAM: "Проектировочная группа"
+ INDUSTRIAL_ORG_MANUFACTURER_TOOLTIP_NAME: "$NAME|H$"
+ INDUSTRIAL_ORG_TOOLTIP_CLICK_TO_ASSIGN: "§GClick§!"
+ INDUSTRIAL_ORG_TOOLTIP_CLICK_TO_CHANGE: "§GClick§! Чтобы измениться."
+ INDUSTRIAL_ORG_TOOLTIP_RIGHT_CLICK_TO_UNASSIGN: "§Gright-Click§! в §Rremove§!"
+ INDUSTRIAL_ORG_TOOLTIP_UPGRADE_ALREADY_ASSIGNED_MIO_HEADER: "§ Увековечить с последними чертами §!"
+ INDUSTRIAL_ORG_TOOLTIP_UPGRADE_ALREADY_ASSIGNED_MIO: "Обновить оборудование, чтобы применить последние характеристики §YDesign Team §!"
+ INDUSTRIAL_ORG_TOOLTIP_UPGRADE_ALREADY_ASSIGNED_MIO_CREATE_VARIANT: "Это создаст новый вариант."
+ INDUSTRIAL_ORG_TOOLTIP_UPGRADE_BONUS_DIFF: "Модернизация добавит к новому варианту:"
+ INDUSTRIAL_ORG_TOOLTIP_NO_UPGRADE_ALREADY_ASSIGNED_MIO: "Никаких новых характеристик, применимых к этому оборудованию, не существует."
+ INDUSTRIAL_ORG_TOOLTIP_UPGRADE_ALREADY_ASSIGNED_MIO_DELAYED: "Необходимо усовершенствовать оборудование, изготовленное с более старой версией §! Военно-промышленной организации, с тем чтобы можно было использовать последние характеристики §YDesign Team §!"
+ INDUSTRIAL_ORG_TOOLTIP_NO_RELEVANT_ORGANISATION: "У вас §Repare! У вас есть какое-то назначение для этого типа оборудования."
+ INDUSTRIAL_ORG_TOOLTIP_IS_LICENSED: "§ § Непригодное оборудование!"
+ INDUSTRIAL_ORG_TRAIT_TOOLTIP_NAME: "$NAME|H$"
+ INDUSTRIAL_ORG_TRAIT_TOOLTIP_LIMIT_TYPE: "Только за $TYPEVIIIH$:"
+ INDUSTRIAL_ORG_TRAIT_TOOLTIP_ALL_TYPES: "$TYPES|H$:"
+ INDUSTRIAL_ORG_TRAIT_TOOLTIP_ON_ASSIGN_TO_TECH: "При назначении на технологию:"
+ INDUSTRIAL_ORG_TRAIT_TOOLTIP_ON_ASSIGN_TO_VARIANT: "При назначении для варианта оборудования:"
+ INDUSTRIAL_ORG_TRAIT_TOOLTIP_ON_ASSIGN_TO_PRODUCTION_LINE: "При назначении на производственную магистраль:"
+ INDUSTRIAL_ORG_TRAIT_TOOLTIP_ON_TECH_CANCELLED: "Когда отменяется установленная технология:"
+ INDUSTRIAL_ORG_TRAIT_TOOLTIP_ON_TECH_COMPLETED: "После завершения работ по присвоенной технологии:"
+ INDUSTRIAL_ORG_TRAIT_TOOLTIP_ON_UNASSIGN_FROM_PRODUCTION_LINE: "При отсутствии подписи с производственной линии:"
+ INDUSTRIAL_ORG_TRAIT_TOOLTIP_COST: "Стоимостной пункт §Y1§!"
+
+ DESIGN_TEAM_RESEARCH_BONUS_GOOD: "$NAME$: $VALUE|G=0%$"
+ DESIGN_TEAM_RESEARCH_BONUS_BAD: "$NAME$: $VALUE|R=0%$"
+
+ INDUSTRIAL_ORG_AUTOGENERATED_TRAIT_DEFAULT_NAME: "Модернизация"
+
+ INDUSTRIAL_ORG_TASK_COUNT: "$NUM_ASSIGNED$ / $CAPACITY$"
+ INDUSTRIAL_ORG_TASK_CAPACITY_TITLE: "§H Целевая способность §!"
+ INDUSTRIAL_ORG_TASK_CAPACITY_DESC: "Мощность: $NUM_ASIGNED_H$/$CAPACITY_H$"
+ INDUSTRIAL_ORG_TASK_PRODUCTION_LINE_DESC: "Производство: $EQUIPIPINAL_H$"
+ INDUSTRIAL_ORG_TASK_RESEARCH_DESC: "Исследования: $RESearch>H$"
+ INDUSTRIAL_ORG_TASK_REFIT_DESC: "Ремонт: $NAME/H$"
+ INDUSTRIAL_ORG_TASK_NOT_ASSIGNED: "В настоящее время никакой задачи не поручено."
+ INDUSTRIAL_ORG_TASK_HELP: "Задача состоит в том, сколько §HRSearch Slots §! или §Hproduction Lines §!"
+
+ INDUSTRIAL_ORG_EMPTY_PRODUCE: "Продукт без военно-промышленной организации!"
+ INDUSTRIAL_ORG_EMPTY_REFIT: "Перестраивайтесь без военно-промышленной организации!"
+ INDUSTRIAL_ORG_EMPTY_RESEARCH: "Исследования без военно-промышленной организации §!"
+ INDUSTRIAL_ORG_EMPTY_GENERIC: "Не используйте военную промышленную организацию §!"
+
+ INDUSTRIAL_ORG_RESEARCH_TOOLTIP: "§GClick§!"
+ INDUSTRIAL_ORG_RESEARCH_TOOLTIP_MIO: "§GClick§! в исследования n §GShift + Щелч§! в исследования без военной промышленной организации"
+ INDUSTRIAL_ORG_RESEARCH_TOOLTIP_MIO_ALREADY_ASSIGNED: "§GClick§! в исследование n §GShift + Щёлкните§!"
+ INDUSTRIAL_ORG_DELAYED_TOOLTIP_PRODUCE: "§GClick§! начать производство n §GShift + Щёлкните§! для производства без военной промышленной организации"
+
+ INDUSTRIAL_ORG_PP_GENERATION_COST: "$ORGANIZATION_NAME$: $VALUE|2+=$"
+
+ INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_TITLE: "Полная предыстория"
+ INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_DESC: "Вы уверены, что хотите закончить Трайт $TRAITY$ в $INDUSTRIAL_ORGYY$ ~n ~ no Это будет стоить §R1 Trait Пункт §!, чтобы завершить эту черту."
+ INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS: "Обновление вариантов оборудования в размере $VALUE.H0 долл. с последним(и) параметром(ами) команды § § § § § $XPCOST$"
+ INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_NO_COST: "Обновить варианты оборудования в размере $VALUE.H0$ с последним(и) элементом(ами) команды § § §!"
+ INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_NO_UPGRADE_VARIANTS: "§gndate варианты оборудования с последними §! §YDesign Team trait(s) §!"
+ INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_TOOLTIP_HEADER: "§YUpdate with new(s) particip(s) §! / / В вашем оборудовании есть последний(ые) параметр(ы) § §! Это создаст новый(ые) вариант."
+ INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_TOOLTIP_NO_VARIANTS: "§g В настоящее время нет никаких вариантов оборудования, на которые повлияла бы эта черта."
+ INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_TOOLTIP_CANT_AFFORD: "§R У вас недостаточно опыта, чтобы усовершенствовать затронутые варианты.§!"
+ INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_TOOLTIP_COST: "Расходы: XPCOST долл. США"
+ INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_TOOLTIP_COST_ENTRY: "- $VARIANTVIIIH долл.: $XPCOST$"
+ INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_TOOLTIP_DELAYED: "Необходимо усовершенствовать оборудование, изготовленное с более старой версией §! Военно-промышленной организации §!, с тем чтобы применить последние характеристики §!"
+ INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_NOT_VALID_ANYMORE_TOOLTIP: "§ Заблокировать эту Трайте больше не действителен §!"
+
+ INDUSTRIAL_ORG_TRAIT_TOOLTIP_UNLOCK_: "§GClick§!"
+ INDUSTRIAL_ORG_TRAIT_TOOLTIP_ADD_TO_QUEUE_UNLOCK: "§GShift + Щелчок §!"
+ INDUSTRIAL_ORG_TRAIT_TOOLTIP_REMOVE_FROM_QUEUE_UNLOCK: "§Ghift + Щелчок §! до §Yremove trait из очереди завершения §!"
+ INDUSTRIAL_ORG_TRAIT_TOOLTIP_NOT_ENOUGH_FUNDS: "§RTraits можно завершить только за счет получения средств, выделяемых на научно-исследовательские или производственные линии.§!"
+ INDUSTRIAL_ORG_TRAIT_TOOLTIP_ORGANIZATION_AVAILABLE: "§G Военная промышленная организация доступна §!"
+ INDUSTRIAL_ORG_TRAIT_TOOLTIP_ORGANIZATION_NOT_AVAILABLE: "Военно-промышленная организация недоступна!"
+ INDUSTRIAL_ORG_TRAIT_TOOLTIP_TRAIT_AVAILABLE: "§G. Предательство доступно §!"
+ INDUSTRIAL_ORG_TRAIT_TOOLTIP_TRAIT_NOT_AVAILABLE: "§RThe Trait недоступен §!"
+ INDUSTRIAL_ORG_TRAIT_TOOLTIP_PARENT_NOT_UNLOCKED: ""Эта беда" еще не закончена!"
+ INDUSTRIAL_ORG_TRAIT_TOOLTIP_MUTUALLY_EXCLUSIVE_ALREADY_UNLOCKED: "§RThis Trait взаимоисключающе с уже завершенным Trait§!"
+ INDUSTRIAL_ORG_TRAIT_TOOLTIP_PICK_CENTRAL_TREE: "Выберите или просмотрите §Y Специализация §!, чтобы увидеть черты"
+ INDUSTRIAL_ORG_TRAIT_TOOLTIP_ON_COMPLETE: "По завершении:"
+
+ INDUSTRIAL_ORG_POLICY_BUTTON: "Политика"
+ INDUSTRIAL_ORG_POLICY_WINDOW_INSTRUCTION: "Выбрать §YPolicy§!"
+ INDUSTRIAL_ORG_POLICY_ATTACH_POLICY_POPUP_TITLE: "Приложить политику"
+ INDUSTRIAL_ORG_POLICY_ATTACH_POLICY_POPUP_DESC: "Вы уверены, что хотите прикрепить Policy $POLICYY$ к $INDUSTRIAL_ORGY$?"
+ INDUSTRIAL_ORG_POLICY_UNATTACH_POLICY_POPUP_TITLE: "Удалить политику"
+ INDUSTRIAL_ORG_POLICY_UNATTACH_POLICY_POPUP_DESC: "Вы уверены, что хотите удалить Policy $POLICYY$ из $INDUSTRIAL_ORGY$?"
+ INDUSTRIAL_ORG_POLICY_SWAP_POLICY_POPUP_TITLE: "Политика преобразований"
+ INDUSTRIAL_ORG_POLICY_SWAP_POLICY_POPUP_DESC: "Вы уверены, что хотите заменить Policy $OLDPOLICYYY$ на Policy $NEWPOLICYYY$ на $INDUSTRIAL_ORGY$?"
+ INDUSTRIAL_ORG_POLICY_POPUP_COST_DESC: "Это будет стоить фунт GFX_pol_power_icon $VALUE_H$"
+ INDUSTRIAL_ORG_POLICY_COOLDOWN: "Вы не сможете изменить политику на $VALUE.H$ дней."
+ INDUSTRIAL_ORG_POLICY_AVAILABLE: ""Политика доступна"!"
+ INDUSTRIAL_ORG_POLICY_NOT_AVAILABLE: "§RThe Policy недоступен §!"
+ INDUSTRIAL_ORG_POLICY_IN_COOLDOWN: "§RCann не менять политику до $NBDays $days days §!"
+ INDUSTRIAL_ORG_POLICY_NOT_ENOUGH_PP: "ДЖЕЙСОН: $NBPOWER$, чтобы добавить Policy§!"
+ INDUSTRIAL_ORG_POLICY_ON_ATTACH: "Прикрепляем:"
+ INDUSTRIAL_ORG_POLICY_ON_REMOVE: "При удалении:"
+ same_as_mio: "Оборудование всех военных промышленных организаций"
+ INDUSTRIAL_ORG_POLICY_COST: "§YCost§!: фунт GFX_pol_power_icon $VALUE_H$"
+ INDUSTRIAL_ORG_POLICY_CLICK_TO_ATTACH: "§GClick§! В §Yattach для военной промышленной организации! §!"
+ INDUSTRIAL_ORG_POLICY_CLICK_TO_UNATTACH: "§GClick§! В §Yunatatch из Военно-промышленной организации! §!"
+ INDUSTRIAL_ORG_POLICY_WINDOW_INSTRUCTION_TT: "§GClick§! Выбрать §YPolicy§!"
+ INDUSTRIAL_ORG_POLICY_TOOLTIP_HEADER: "§ Политики §!"
+ INDUSTRIAL_ORG_POLICY_TOOLTIP_POLICY_NAME: "$NAME|Y$"
+ INDUSTRIAL_ORG_POLICY_TOOLTIP_NO_POLICY_AVAILABLE: "§YPolicy§!"
+ INDUSTRIAL_ORG_POLICY_TOOLTIP_NO_POLICY_SELECTED: "§YPolicy§! не выбрана"
+ INDUSTRIAL_ORG_POLICY_TOOLTIP_CANT_CHANGE: "Ты не можешь сменить свою политику на $NUMBERY$ дней"
+ INDUSTRIAL_ORG_POLICY_DESCRIPTION_TT: "Политика помогает вашей военно-промышленной организации §! специализироваться на конкретных аспектах исследований или производства."
+ INDUSTRIAL_ORG_POLICY_DESCRIPTION_COOLDOWN_TT: "Как только вы выберете §YPolicy§! Это не может быть изменено на $NUMBER_Y$ дней"
+
+ INDUSTRIAL_ORG_EQUIPMENT_HEADER_NOT_MATCHING_CONTEXT: "$TYPE|Y$ §Rdoes not match this type of equipment. The completed traits will not apply.§!"
+ INDUSTRIAL_ORG_EQUIPMENT_HEADER_NO_EQUIPMENT_IN_CONTEXT: "§RЭта технология не открывает новое оборудование, поэтому готовые характеристики не будут применяться.§!"
+ INDUSTRIAL_ORG_EQUIPMENT_HEADER_DESIGN_TEAM_BONUSES: "§YBonuses для вариантов оборудования: §!"
+ INDUSTRIAL_ORG_EQUIPMENT_HEADER_MANUFACTURER_BONUSES: "ACYBonuses для производственных линий: §!"
+ INDUSTRIAL_ORG_EQUIPMENT_HEADER_AFFECTED_EQUIPMENT: "§!"
+ INDUSTRIAL_ORG_EQUIPMENT_HEADER_LIMIT_TYPE: "Только за $TYPEVIIIH$:"
+ INDUSTRIAL_ORG_EQUIPMENT_HEADER_LIMIT_TYPE_ALSO: "Кроме того, только за $TYPEVIIIH$:"
+
+ INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_TITLE: "Совпадение между военными промышленными организациями §!"
+ INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_ITEM: "- $NAME/H$"
+ INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_ITEM_WITH_CAPACITY: "$INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_ITEM$: (Task capacity: $TASKS|Y$/$CAPACITY|Y$)"
+ INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_ITEM_WITH_CAPACITY_FULL: "$INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_ITEM$: (Task capacity: $TASKS|R$/$CAPACITY|R$)"
+ INDUSTRIAL_ORG_AVAILABLE_MIOS: "$TOTAL|H$"
+
+ INDUSTRIAL_ORG_TOOLTIP_PRODUCTION_TASK_INFO: "Предоставление &quot; § &quot; военно-промышленной организации &quot; ! &quot; Производственная линия &quot; будет начислять производственные премии на эту линию."
+ INDUSTRIAL_ORG_TOOLTIP_RESEARCH_TASK_INFO: "Поручение военно-промышленной организации §!"
+
+ ###################################################################################################
+ #### Content localisation
+ ###################################################################################################
+
+ ########  #######  ##     ## #### ########  ##     ## ######## ##    ## ########     ######   ########   #######  ##     ## ########   ######
+ ##       ##     ## ##     ##  ##  ##     ## ###   ### ##       ###   ##    ##       ##    ##  ##     ## ##     ## ##     ## ##     ## ##    ##
+ ##       ##     ## ##     ##  ##  ##     ## #### #### ##       ####  ##    ##       ##        ##     ## ##     ## ##     ## ##     ## ##
+ ######   ##     ## ##     ##  ##  ########  ## ### ## ######   ## ## ##    ##       ##   #### ########  ##     ## ##     ## ########   ######
+ ##       ##  ## ## ##     ##  ##  ##        ##     ## ##       ##  ####    ##       ##    ##  ##   ##   ##     ## ##     ## ##              ##
+ ##       ##    ##  ##     ##  ##  ##        ##     ## ##       ##   ###    ##       ##    ##  ##    ##  ##     ## ##     ## ##        ##    ##
+ ########  ##### ##  #######  #### ##        ##     ## ######## ##    ##    ##        ######   ##     ##  #######   #######  ##         ######
+
+ mio_cat_eq_all_light_tank: "Легкие и амфибийные цистерны"
+ mio_cat_eq_all_medium_tank: "Средние и современные цистерны"
+ mio_cat_eq_all_heavy_tank: "Тяжелые и сверхтяжелые цистерны"
+ mio_cat_eq_all_tank_destroyers: "Разрушители цистерн"
+ mio_cat_eq_all_carrier: "Перевозчики"
+ mio_cat_eq_all_cruiser: "Крузеры"
+ mio_cat_eq_all_destroyer: "Разрушители"
+ mio_cat_eq_all_battleship: "Боевые корабли"
+ mio_cat_eq_all_small_plane: "Малые и перевозочные самолеты"
+ mio_cat_eq_all_medium_plane: "Средний план"
+ mio_cat_eq_all_large_plane: "Большие самолёты"
+ mio_cat_eq_only_light_fighter: "Боевики и перевозчики"
+ mio_cat_eq_only_light_fighter_no_cv: "Боевые силы на суше"
+ mio_cat_eq_only_tactical_bomber: "Тактические бомбардировщики"
+ mio_cat_eq_only_strategic_bomber: "Стратегические бомбардировщики"
+ mio_cat_eq_all_cv_aircraft: "Самолеты"
+ mio_cat_artillery: "Артиллерия"
+
+ #added by KR
+ mio_cat_eq_only_cv_fighter: "Боевики-перевозчики"
+ mio_cat_eq_all_aircraft: "Все воздушные суда"
+ mio_cat_eq_all_artillery_tanks: "SP Артиллерия"
+ mio_cat_eq_all_aa_tanks: "SP Противоядие"
+ mio_cat_eq_all_amphibious_tanks: "Цистерны с амфибиями"
+ mio_cat_eq_all_flame_tanks: "Огнетушители"
+ mio_cat_eq_all_artillery: "Все артиллерии"
+ mio_cat_eq_all_surface_ships: "Все наземные суда"
+ mio_cat_eq_all_ships: "Все суда"
+ mio_cat_eq_all_cas_aircraft: "Поддержка при закрытых воздушных перевозках"
+ mio_cat_eq_all_naval_bomber_aircraft: "Бомбардировщики военно-морского флота"
+ mio_cat_eq_all_cas_and_naval_bomber_aircraft: "Бомбардировщики КАС и военно-морского флота"
+ mio_cat_eq_all_mechanised: "Все механизированное оборудование"
+
+ ##     ## ########    ###    ########  ######## ########   ######
+ ##     ## ##         ## ##   ##     ## ##       ##     ## ##    ##
+ ##     ## ##        ##   ##  ##     ## ##       ##     ## ##
+ ######### ######   ##     ## ##     ## ######   ########   ######
+ ##     ## ##       ######### ##     ## ##       ##   ##         ##
+ ##     ## ##       ##     ## ##     ## ##       ##    ##  ##    ##
+ ##     ## ######## ##     ## ########  ######## ##     ##  ######
+
+ mio_header_light_tank_department: "Департамент легких цистерн"
+ mio_header_medium_tank_department: "Департамент по цистернам средней грузоподъемности"
+ mio_header_heavy_tank_department: "Департамент по тяжелым цистернам"
+ mio_header_production_department: "Департамент производства"
+ mio_header_design_department: "Департамент дизайна"
+ mio_header_operational_department: "Оперативный департамент"
+ mio_header_engines_department: "Департамент двигателей"
+ mio_header_armor: "Бронирование"
+ mio_header_systems: "Системы"
+ mio_header_support: "Поддержка"
+ mio_header_weapons: "Оружие"
+ mio_header_chassis: "Шасси"
+ mio_header_design_and_production: "Проектирование и производство"
+ mio_header_production: "Производство"
+ mio_header_design: "Проектирование"
+ mio_header_mechanical_design: "Механическая конструкция"
+ mio_header_armament_and_ammunition: "Оружие и боеприпасы"
+ mio_header_engines: "Двигатели"
+ mio_header_wings: "Крылья"
+ mio_header_engine_and_suspension: "Двигатель и подвеска"
+ mio_header_armament: "Оружие"
+ mio_header_armor_and_armaments: "Боеприпасы и вооружения"
+ mio_header_engine_and_drive_system: "Двигатель и приводная система"
+ mio_header_guns_and_turret: "Оружие и туррет"
+ mio_header_tank_construction: "Конструкция цистерн"
+ mio_header_equipment_and_specialization: "Оборудование и специализация"
+ mio_header_long_range_focus: "Длинный дальний фокус"
+ mio_header_stealth_focus: "Украсть фокус"
+ mio_header_supremacy_focus: "Сосредоточься на супремации"
+ mio_header_high_speed_focus: "Сосредоточьтесь на высокой скорости"
+ mio_header_trains: "Поезда"
+ mio_header_fighter_aircraft: "Боевые самолеты"
+ mio_header_bomber_aircraft: "Бомбардировщики"
+ mio_header_naval_aircraft: "Морские самолеты"
+ mio_header_light_aircraft: "Легкие самолеты"
+ mio_header_medium_aircraft: "Самолеты средней грузоподъемности"
+ mio_header_motorized: "Моторизованный"
+ mio_header_mechanized: "Механизированная"
+ mio_header_anti_tank: "Противоядие"
+ mio_header_protection: "Защита"
+ mio_header_specialization: "Специализация"
+ mio_header_light_assault_gun_department: "Департамент стрелкового оружия"
+ mio_header_armored_cars: "Бронированные машины"
+ mio_header_medium_assault_gun_department: "Департамент по стрелковому оружию средней грузоподъемности"
+ mio_header_heavy_assault_gun_department: "Департамент по борьбе с применением огнестрельного оружия"
+ mio_header_helicopter_construction: "Строительство вертолетов"
+ mio_header_single_rotor: "Одинокий ротор"
+ mio_header_tandem_rotor: "Тандем Ротор"
+
+ ########   #######  ##       ####  ######  #### ########  ######
+ ##     ## ##     ## ##        ##  ##    ##  ##  ##       ##    ##
+ ##     ## ##     ## ##        ##  ##        ##  ##       ##
+ ########  ##     ## ##        ##  ##        ##  ######    ######
+ ##        ##     ## ##        ##  ##        ##  ##             ##
+ ##        ##     ## ##        ##  ##    ##  ##  ##       ##    ##
+ ##         #######  ######## ####  ######  #### ########  ######
+
+ mio_policy_general_ruthless_contracts: "Безжалостные контракты"
+ mio_policy_general_assembly_line_optimisers: "Оптимизаторы линии сборки"
+ mio_policy_general_vertical_integration: "Вертикальная интеграция"
+ mio_policy_general_mechanical_genius: "Механический гений"
+ mio_policy_general_experimental_development_teams: "Экспериментальные группы по разработке"
+
+ mio_policy_land_armor_welding_specialists: "Специалисты по сварке бронетранспортеров"
+ mio_policy_land_casting_specialists: "Специалисты по кастингу"
+ mio_policy_land_heavy_gantry_cranes: "Тяжелые краны"
+ mio_policy_land_factory_applied_camouflage: "Фабричная прикладная кампуфляжная промышленность"
+ mio_policy_land_cutting_corners: "Углы разрезания"
+
+ mio_policy_air_perfect_finish: "Идеальное завершение"
+ mio_policy_air_heavy_gantry_cranes: "Тяжелые краны"
+ mio_policy_air_propulsion_experimenters: "Экспериментаторы двигателя"
+ mio_policy_air_wind_tunnel_pioneers: "Ветряные туннельные пионеры"
+ mio_policy_air_modular_assembly: "Модульная сборка"
+
+ mio_policy_navy_welding_specialists: "Специалисты по сварке"
+ mio_policy_navy_space_efficient_design: "Космическое эффективное проектирование"
+ mio_policy_navy_stable_platforms: "Стабильные ружейные платформы"
+ mio_policy_navy_great_sea_keeping: "Великое море"
+ mio_policy_navy_coastal_battlefleet: "Прибрежный боевой флот"
+
+### GENERIC TOOLTIPS FOR SPECIAL TRAITS ##
+ generic_has_already_completed_this_trait: "Уже закончила эту черту в другой организации."
+ generic_trait_will_not_be_available_in_other_organizations: "§RThis Trait больше не будет доступен в других организациях §!"
+ generic_trait_can_only_be_assigned_once: "§C Эта черта может быть присвоена только одной организации §!"
+
+ ###  ##  #  # # #     #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ##
+  #  #  # ## # # #     ## ##  #  #  #     #  # #  # #  # #  # #    #   # #  #  # #   #
+  #  #### # ## ##      # # #  #  #  #     #### ###  #    #### ##   #    #   ###  ##   #
+  #  #  # #  # # #     #   #  #  #  #     #  # #  # #  # #  # #    #    #   #    #     #
+  #  #  # #  # # #     #   # ###  ##      #  # #  #  ##  #  # ###  #    #   #    ### ##
+
+ ################################
+ #### GENERAL TANK DESIGNER ####
+ ################################
+ generic_tank_organization: "Общий завод-изготовитель цистерны"
+ generic_mio_initial_trait_general_tank_designer: "Общий проектировщик цистерн"
+ generic_mio_initial_trait_standardized_production: "Стандартизованное производство"
+ generic_mio_trait_simplified_suspension: "Упрощенное приостановление"
+ generic_mio_trait_crew_ergonomics: "Команда эргономика"
+ generic_mio_trait_improved_tracks: "Улучшенные дорожки"
+ generic_mio_trait_command_upgrades: "Модернизация команд"
+ generic_mio_trait_standardized_components: "Стандартизованные компоненты"
+ generic_mio_trait_improved_tooling: "Усовершенствованная настройка"
+ generic_mio_trait_quality_improvements: "Повышение качества"
+ generic_mio_trait_defensive_equipment: "Защитное оборудование"
+ generic_mio_trait_long_barreled_guns: "Длинноствольные пистолеты"
+ generic_mio_trait_anti_tank_specialization: "Специализация по борьбе с танками"
+ generic_mio_trait_infantry_support_tanks: "Цистерны поддержки пехотных подразделений"
+
+ ################################
+ #### INFANTRY TANK DESIGNER ####
+ ################################
+ generic_infantry_tank_organization: "Изготовитель пехотного бака"
+ generic_mio_initial_trait_infantry_tanks_designer: "Конструктор пехотных танков"
+ generic_mio_trait_single_engine: "Единый двигатель"
+ generic_mio_trait_dual_engine_redundancy: "Двойное износоустойчивое состояние двигателей"
+ generic_mio_trait_interleaved_track_wheels: "Переплетенные колеса дорожки"
+ generic_mio_trait_overlapped_track_wheels: "Перевернутые колеса дорожки"
+ generic_mio_trait_battle_tank_specifications: "Технические требования к боевым танкам"
+ generic_mio_trait_adaptable_turret_ring: "Адаптивное кольцевое звено Туррета"
+ generic_mio_trait_turret_sights: "Виды турретов"
+ generic_mio_trait_close_support_role: "Роль личной поддержки"
+ generic_mio_trait_anti_tank_role: "Роль в борьбе с танками"
+ generic_mio_trait_adaptable_chassis: "Адаптивная шасси"
+ generic_mio_trait_light_tank_specialization: "Специализация легковых цистерн"
+ generic_mio_trait_medium_tank_specialization: "Специализированная подготовка цистерн средней грузоподъемности"
+ generic_mio_trait_heavy_tank_specialization: "Специализированная подготовка по тяжелым цистернам"
+ generic_mio_trait_thick_armor: "Толстый бронежилет"
+ generic_mio_trait_even_thicker_armor: "Даже Thicer Armour"
+
+ ################################
+ #### MOBILE TANK DESIGNER ######
+ ################################
+ generic_mobile_tank_organization: "Изготовитель подвижного бака"
+ generic_mio_initial_trait_fast_tanks_designer: "Быстрый проектировщик цистерн"
+ generic_mio_trait_improved_boogies: "Усовершенствованные буги"
+ generic_mio_engine_optimization: "Оптимизация двигателя"
+ generic_mio_reduced_fuel_usage: "Сокращение расхода топлива"
+ generic_mio_improved_ventilation: "Улучшенная вентиляция"
+ generic_mio_improved_tracks_and_suspension: "Усовершенствованные пути и подвеска"
+ generic_mio_sloping_armor: "Бронеброе сползание"
+ generic_mio_lighter_materials: "Легкие материалы"
+ generic_mio_armor_hardening_process: "Процесс армирования"
+ generic_mio_enlarged_breech: "Расширенный ритм"
+ generic_mio_gunner_sight_improvements: "Улучшение видимости стрелявшего"
+ generic_mio_quality_assurance_routines: "Стандарты обеспечения качества"
+ generic_mio_streamlined_production: "Рационализация производства"
+
+ ################################
+ #### MEDIUM TANK DESIGNER ######
+ ################################
+ generic_medium_tank_organization: "Изготовитель среднегабаритной цистерны"
+ generic_mio_initial_trait_medium_tank_designer: "Средний проектировщик цистерн"
+ generic_mio_trait_power_traverse: "Преобразование мощности"
+ generic_mio_trait_all_round_cupola: "Купол купола"
+ generic_mio_trait_simplified_turret_design: "Упрощенный дизайн туррета"
+ generic_mio_trait_specialist_shells: "Специалист по цистернам"
+ generic_mio_trait_improved_gun_metallurgy: "Усовершенствованная металлургия"
+ generic_mio_trait_advanced_shells: "Усовершенствованные резервуары"
+ generic_mio_trait_armor_steel_working: "Броневая сталь"
+ generic_mio_trait_spaced_armor: "Космический бронетранспортер"
+ generic_mio_trait_crew_survival_layout: "Модель выживания экипажа"
+ generic_mio_trait_sloped_side_armor: "Боковой бронежилет"
+ generic_mio_trait_truck_engines: "Двигатели грузовых автомобилей"
+ generic_mio_trait_aircraft_engines: "Самолеты"
+ generic_mio_trait_improved_suspension: "Улучшенное приостановление"
+
+ ################################
+ ##### HEAVY TANK DESIGNER ######
+ ################################
+ generic_heavy_tank_organization: "Изготовитель тяжелых цистерн"
+ generic_mio_initial_trait_heavy_tank_designer: "Конструктор тяжелых цистерн"
+ generic_mio_trait_wide_tracks: "Широкие дорожки"
+ generic_mio_trait_fire_extinguishers: "Огнетушители"
+ generic_mio_trait_one_piece_hull_side_coverings: "Боковая обшивка одноколейной обшивки"
+ generic_mio_trait_simplified_transmission_system: "Упрощенная система передачи данных"
+ generic_mio_trait_improved_engine_output: "Улучшенный выход двигателя"
+ generic_mio_trait_sloping_armor: "Бронеброе сползание"
+ generic_mio_trait_improved_crew_ergonomics: "Улучшенная эргономика экипажа"
+ generic_mio_trait_reinforced_construction: "Укрепленное строительство"
+ generic_mio_trait_fully_cast_turret: "Абсолютно замысловатый туррет"
+ generic_mio_trait_commander_cupola: "Коммандер Купола"
+ generic_mio_trait_simplified_layout: "Упрощенная типовая форма"
+ generic_mio_trait_high_explosive_shells: "Высоковзрывоопасные скорлупы"
+ generic_mio_trait_apcr_hvap_shells: "Целлюлоза АТЦП/ГВАП"
+
+ #####################################
+ ##### TANK REFURBISHMENT PLANT ######
+ #####################################
+ generic_tank_refurbishment_plant_organization: "Установка по восстановлению цистерн"
+ generic_mio_initial_trait_tank_refurbishment_plant: "$generic_tank_refurbishment_plant_organization$"
+ generic_mio_trait_enemy_tank_refitting: "Ремонт вражеского бака"
+ generic_mio_trait_efficient_scrap_recycling: "Эффективная рециркуляция мусора"
+ generic_mio_trait_high_volume_smelter: "Высоковольтный плавильщик"
+ generic_mio_trait_high_powered_engine_production: "Производство высоковольтных двигателей"
+ generic_mio_trait_heavy_duty_machine_tools: "Инструменты тяжелой техники"
+ generic_mio_trait_multi_plant_cooperation: "Многоплановое сотрудничество"
+ generic_mio_trait_standardized_secondary_armament: "Стандартизованное вторичное вооружение"
+ generic_mio_trait_mass_small_arms_ammunition_production: "Производство боеприпасов массового производства стрелкового оружия"
+ generic_mio_trait_plant_tech_exchange: "Технологический обмен"
+ generic_mio_trait_dual_plant_main_armament_production: "Производство основного вооружения двух растений"
+ generic_mio_trait_24h_rotation_shifts: "24 ч. Вращение"
+ generic_mio_trait_long_distance_escort: "Сопровождение поездов на большие расстояния"
+ generic_mio_trait_barrels_of_hell: ""Адские баррилы""
+
+ #####################################
+ ##### ASSAULT GUNS MANUFACTURER #####
+ #####################################
+ generic_assault_guns_organization: "Изготовитель огнестрельного оружия"
+ generic_mio_initial_trait_assault_guns_organization: "Дизайнер стрелкового оружия"
+ generic_mio_trait_light_assault_gun_improvements: "Мобильная артиллерия"
+ generic_mio_trait_light_assault_gun_anti_tank_combo: "Взрывоопасные боеприпасы"
+ generic_mio_trait_light_assault_gun_improved_cannon_stabilization: "Улучшенная стабилизация пушек"
+ generic_mio_trait_light_assault_gun_10_5_iefh_ammunition: "Боеприпасы &lt; &lt; Хауитцер &gt; &gt;"
+ generic_mio_trait_medium_assault_gun_improvements: "Бронированная артиллерия"
+ generic_mio_lighter_materials_assault_guns: "Легкие материалы"
+ generic_mio_armor_hardening_process_assault_guns: "Обширные процессы армирования"
+ generic_mio_medium_assault_gun_rocket_tubes: "Трубки с монтированными ракетами"
+ generic_mio_medium_assault_gun_75_mm_43M_tank_gun: "75-мм 43-м пушка"
+ generic_mio_medium_assault_gun_low_slung_superstructure_and_fighting_compartment: "Низкоскорлупная суперструктура и соотнесение боевых действий"
+ generic_mio_trait_heavy_assault_gun_improvements: "Мобильные пожарные базы"
+ generic_mio_trait_fully_cast_turret_assault_gun: "Абсолютно замысловатый туррет"
+ generic_mio_trait_assault_gun_improved_tracks: "Укрепленные дорожки"
+
+  ## #  # ### ###      #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ##
+ #   #  #  #  #  #     ## ##  #  #  #     #  # #  # #  # #  # #    #   # #  #  # #   #
+  #  ####  #  ###      # # #  #  #  #     #### ###  #    #### ##   #    #   ###  ##   #
+   # #  #  #  #        #   #  #  #  #     #  # #  # #  # #  # #    #    #   #    #     #
+ ##  #  # ### #        #   # ###  ##      #  # #  #  ##  #  # ###  #    #   #    ### ##
+
+ ##############################################
+ #### CARRIER TASK FORCE SHIP MANUFACTURER ####
+ ##############################################
+ generic_task_force_ship_organization: "Целевая группа по судоходству"
+ generic_mio_initial_trait_task_force_ship_builders: "Целевая группа по судостроению"
+ generic_mio_trait_long_range_cruising: "Длинный крейсерский крейсер"
+ generic_mio_trait_high_speed_cruising: "Высокоскоростное крейсерское движение"
+ generic_mio_trait_splinter_protection: "Защита размножения"
+ generic_mio_trait_transom_stern: "Трансомный стерн"
+ generic_mio_trait_underway_replenishment_equipment: "Оборудование для пополнения подземной части"
+ generic_mio_trait_secondary_fire_director_control: "Директор по вопросам пожарной безопасности второй ступени"
+ generic_mio_trait_flight_deck_edge_aa_mounts: "Рейс Эдж АА Маунтс"
+ generic_mio_trait_gyro_stabilized_mounts: "Гиростабилизированные горы"
+ generic_mio_trait_rapid_fire_guns: "Стрелковое огнестрельное оружие"
+ generic_mio_trait_advanced_fitting_works: "Усовершенствованные работы по установке"
+ generic_mio_trait_carrier_flight_operations_center: "Центр авиаперевозок"
+ generic_mio_trait_primary_fire_director_control: "Директор по вопросам пожарной безопасности"
+ generic_mio_trait_high_velocity_guns: "Огнестрельное оружие высокой скорости"
+
+ #######################################
+ #### BATTLE LINE SHIP MANUFACTURER ####
+ #######################################
+ generic_battle_line_ship_organization: "Изготовитель боевой линии"
+ generic_mio_initial_trait_battle_line_ship_builders: "Конструктор боевой линии"
+ generic_mio_trait_external_armor_belt: "Внешний бронезарядный пояс"
+ generic_mio_trait_internal_armor_belt: "Внутренний бронепояс"
+ generic_mio_trait_hardened_critical_components: "Укрепленные критические компоненты"
+ generic_mio_trait_advanced_hydrodynamic_design: "Усовершенствованный гидродинамический проект"
+ generic_mio_trait_advanced_armor_design: "Усовершенствованная конструкция бронетранспортеров"
+ generic_mio_trait_anti_air_layout: "Презентация против воздушно-воздушной модели"
+ generic_mio_trait_secondary_battery_layout: "Типовая форма вторичной аккумуляторной батареи"
+ generic_mio_trait_combat_information_center: "Информационный центр по вопросам борьбы с терроризмом"
+ generic_mio_trait_primary_battery_layout: "Типовая форма первичной аккумуляторной батареи"
+ generic_mio_trait_super_heavy_shells: "Супер-тяжёлые скорлупы"
+ generic_mio_trait_semi_armor_piercing_shells: "Полуприборные пирсирующие скорлупы"
+
+ ##################################
+ #### ESCORT SHIP MANUFACTURER ####
+ ##################################
+ generic_escort_ship_organization: "Изготовитель эскорт-корабельного судна"
+ generic_mio_initial_trait_escort_fleet: "Конструктор эскорт-корабельного судна"
+ generic_mio_trait_submarine_hunters: "Охотники на подводные лодки"
+ generic_mio_trait_high_speed_mine_hunting_equipment: "Высокоскоростное минное оборудование"
+ generic_mio_trait_fleet_escorts: "Сопровождение флота"
+ generic_mio_trait_anti_air_ships: "Противовоздушные суда"
+ generic_mio_trait_escort_in_force: "Сопровождение в силе"
+ generic_mio_trait_improved_anti_air_gun_mounting: "Усовершенствованная установка противовоздушного оружия"
+ generic_mio_trait_mass_production: "Массовое производство"
+ generic_mio_trait_improved_light_gun_mounting: "Усовершенствованная установка легких пушек"
+
+ ##################################
+ #### RAIDER SHIP MANUFACTURER ####
+ ##################################
+ generic_raider_ship_organization: "Изготовитель судна"
+ generic_mio_initial_trait_raiding_fleet: "Проектировщик судна"
+ generic_mio_trait_long_range_raiding: "Рейд на дальние расстояния"
+ generic_mio_trait_high_speed_raiding: "Высокоскоростная рэйдинг"
+ generic_mio_trait_diesel_powerplants: "Дизельные электростанции"
+ generic_mio_trait_high_speed_operation_stores: "Высокоскоростные операционные магазины"
+ generic_mio_trait_raiding_capital_ships: "Пилотные суда"
+ generic_mio_trait_long_range_engagement_ethos: "Длинные дальние боевые этиосы"
+ generic_mio_trait_high_quality_optics: "Оптики высокого качества"
+ generic_mio_trait_raider_escort_requirements: "Требования к сопровождению рейдеров"
+ generic_mio_trait_unescorted_raider_requirements: "Неисправные требования к рейдерам"
+ generic_mio_trait_raiding_cruisers: "Нападающие круизеры"
+ generic_mio_trait_raiding_submarines: "Подводные лодки"
+ generic_mio_trait_spotting_tops: "Скачивающиеся вершины"
+ generic_mio_trait_large_torpedo_banks: "&lt; &lt; Большие &quot; Торпедо Бэнкс &quot; &gt; &gt;"
+ generic_mio_trait_mass_produced_raiders: "Массовые рейдеры"
+
+ ##############################
+ ### SUBMARINE MANUFACTURER ###
+ ##############################
+ generic_submarine_organization: "Изготовитель подводной лодки"
+ generic_mio_initial_trait_submarine_designer: "Подводный дизайнер"
+ generic_mio_trait_decalin_fueled_torpedo: "Торпедо, заправленный декалином"
+ generic_mio_trait_efficient_fuel_engines: "Эффективные топливные двигатели"
+ generic_mio_trait_highly_efficient_diesel_electric_propulsion_systems: "Высокоэффективные дизельно-электрические двигательные системы"
+ generic_mio_trait_high_powered_engines: "Двигатели с высокой мощностью"
+ generic_mio_trait_open_cycle_propulsion: "Движение с открытым циклом"
+ generic_mio_trait_experimental_anechoic_tiles: "Экспериментальные анехотические кишки"
+ generic_mio_trait_improved_torpedo_detonators: "Усовершенствованные детонаторы Торпедо"
+ generic_mio_trait_simplified_pressure_hull_design: "Упрощенная конструкция корпуса высокого давления"
+ generic_mio_trait_advanced_periscope: "Усовершенствованный перископ"
+ generic_mio_trait_emergency_main_ballast_tank_blow: "Аварийный пуск главного балластного бака"
+ generic_mio_trait_radar_warning_receiver: "Приемник радиолокационного предупреждения"
+ generic_mio_trait_crash_dive_flood_tanks: "Цистерны с потопом"
+ generic_mio_trait_submarine_mass_production: "Массовое производство подводные лодки"
+ generic_mio_trait_advanced_sonar: "Усовершенствованный сонар"
+ generic_mio_trait_deck_guns: "Пистолеты"
+ generic_mio_trait_high_capacity_mine_storage: "Большой потенциал для хранения минных полей"
+
+ #####################################
+ ### GREEN WATER SHIP MANUFACTURER ###
+ #####################################
+ generic_small_fleet_organization: "Изготовитель судна &lt; &lt; Зеленая вода &gt; &gt;"
+ generic_mio_initial_trait_small_fleet_designer: "Проектировщик судна &quot; Зеленая вода &quot;"
+ generic_mio_trait_submarine_hunters_black_sea: "Охотники на подводные лодки"
+ generic_mio_trait_efficient_patrolling_scheme: "Система эффективного патрулирования"
+ generic_mio_trait_advanced_sub_scanners: "Усовершенствованные субсканеры"
+ generic_mio_trait_high_altitute_catapult: "Высоковольтный Катапульт"
+ generic_mio_trait_light_armor_piercing_guns: "Пистолеты"
+ generic_mio_trait_brass_case_reloader: "Перезагрузчик &quot; Брасс-Кейс &quot;"
+ generic_mio_trait_anti_air_defense: "Антивоздушная оборона"
+ generic_mio_trait_heavy_guns: "Тяжелые пушки"
+ generic_mio_advanced_periscope: "Усовершенствованный перископ"
+ generic_mio_trait_piercing_rounds: "Пирсинговые раунды"
+ generic_mio_trait_base_defense: "База обороны"
+ generic_mio_trait_state_sponsored_growth: "Спонсируемый государством рост"
+ generic_mio_trait_state_sponsored_research: "Государственное финансирование исследований"
+ generic_mio_trait_24h_shifts: "24 ч. 00 м. Смена"
+ generic_mio_trait_state_subsidizing: "Субсидирование государством"
+ generic_mio_trait_deck_guns_black_sea: "Пистолеты"
+
+ #########################################
+ ### REFURBISHMENT AND REPAIR DOCKYARD ###
+ #########################################
+ generic_refurbishment_repair_dockyard_organization: "Ремонтно-восстановительные и ремонтные работы"
+ generic_mio_refurbishment_repair_dockyard_organization: "$generic_refurbishment_repair_dockyard_organization$"
+ generic_mio_trait_heavy_armored_hull: "Тяжелый бронированный колодец"
+ generic_mio_trait_isolated_firemains: "Отдельные пожарные участки"
+ generic_mio_trait_counter_flooding_system: "Системы борьбы с наводнениями"
+ generic_mio_trait_anti_torpedo_bulge: "Антиторпедный бронежилет"
+ generic_mio_trait_foam_fire_extinguishers: "Огнетушители дымового пламени"
+ generic_mio_trait_bulkhead_shoring_procedure: "Процедура обрезки навалом/насыпью"
+ generic_mio_trait_high_powered_steering: "Рулевое управление с высокой мощностью"
+ generic_mio_trait_flooding_boundries: "Потопные границы"
+ generic_mio_trait_protected_pumps: "Защищенные насосы"
+ generic_mio_trait_advanced_scanners: "Усовершенствованные сканеры"
+ generic_mio_trait_capital_destroyer_shells: "Капитал Разрушитель Шеллс"
+ generic_mio_trait_naval_all_purpose_defense_systems: "Комплексные системы обороны"
+
+  ##  ### ###   ##  ###   ##  ### ###     #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ##
+ #  #  #  #  # #  # #  # #  # #    #      ## ##  #  #  #     #  # #  # #  # #  # #    #   # #  #  # #   #
+ ####  #  ###  #    ###  #### ##   #      # # #  #  #  #     #### ###  #    #### ##   #    #   ###  ##   #
+ #  #  #  #  # #  # #  # #  # #    #      #   #  #  #  #     #  # #  # #  # #  # #    #    #   #    #     #
+ #  # ### #  #  ##  #  # #  # #    #      #   # ###  ##      #  # #  #  ##  #  # ###  #    #   #    ### ##
+
+ #######################################
+ #### GENERAL AIRCRAFT MANUFACTURER ####
+ #######################################
+ generic_general_aircraft_organization: "Общий завод-изготовитель воздушных судов"
+ generic_mio_initial_trait_general_aircraft_designer: "Генерал-конструктор воздушных судов"
+ generic_mio_trait_conservative_designs: "Консервативные конструкции"
+ generic_mio_trait_fighter_aircraft_specialists: "Специалисты по боевым самолетам"
+ generic_mio_trait_high_speed_design: "Высокоскоростной дизайн"
+ generic_mio_trait_agility_wing_design: "Конструкция крыльев"
+ generic_mio_trait_fighter_aircraft_production: "Производство истребителей"
+ generic_mio_trait_bomber_aircraft_specialists: "Специалисты по авиационным бомбардировкам"
+ generic_mio_trait_bomb_trucks: "Бомбовые грузовики"
+ generic_mio_trait_fast_bombers: "Быстрые бомбардировщики"
+ generic_mio_trait_bomber_aircraft_production: "Производство самолётов"
+ generic_mio_trait_naval_aircraft_specialists: "Специалисты по военно-морским воздушным судам"
+ generic_mio_trait_naval_strike: "Морской зал &lt; &lt; Столкновение &gt; &gt;"
+ generic_mio_trait_naval_air_patrol: "Морское воздушное патрулирование"
+ generic_mio_trait_naval_aircraft_production: "Производство военно-морских летательных аппаратов"
+
+ #####################################
+ #### LIGHT AIRCRAFT MANUFACTURER ####
+ #####################################
+ generic_light_aircraft_organization: "Изготовитель легких воздушных судов"
+ generic_mio_initial_trait_light_aircraft_designer: "Проектировщик легких воздушных судов"
+ generic_mio_trait_expanded_production_facilities: "Расширенные производственные объекты"
+ generic_mio_trait_fixed_tailwheels: "Стационарные колеса"
+ generic_mio_trait_removable_wings: "Съемные крылья"
+ generic_mio_trait_liquid_cooled_engines: "Двигатели с жидким охлаждением"
+ generic_mio_trait_maritime_duties: "Морские обязанности"
+ generic_mio_trait_advanced_aerodynamics: "Усовершенствованные аэродинамики"
+ generic_mio_trait_fuselage_ordinance_rack: "Постановление о фюзеляже"
+ generic_mio_trait_ongoing_developmental_upgrades: "Текущее повышение уровня развития"
+ generic_mio_trait_heavier_airframe: "Тяжелое воздушное пространство"
+ generic_mio_trait_maximum_wing_loads: "Максимальные нагрузки на крылья"
+ generic_mio_trait_gun_pods: "Стрелки для огнестрельного оружия"
+ generic_mio_trait_multi_purpose_aircraft: "Многоцелевые воздушные суда"
+ generic_mio_trait_fighter_specialization: "Специализация истребителей"
+ generic_mio_trait_close_air_support_specialization: "Специализация по поддержке закрытого воздушного сообщения"
+ generic_mio_trait_flexible_design: "Гибкий дизайн"
+ generic_mio_trait_fighter_expertise: "Специализация борцов"
+ generic_mio_trait_close_air_support_expertise: "Закрыть базу данных для поддержки воздушного движения"
+
+ ######################################
+ #### MEDIUM AIRCRAFT MANUFACTURER ####
+ ######################################
+ generic_medium_aircraft_organization: "Изготовитель средних воздушных судов"
+ generic_mio_initial_trait_medium_aircraft_designer: "Дизайнер средних воздушных судов"
+ generic_mio_trait_narrow_build: "Узкое строительство"
+ generic_mio_trait_mixed_material_construction: "Смешанное строительство материалов"
+ generic_mio_trait_multi_role_transport: "Многоцелевой транспорт"
+ generic_mio_trait_refined_engines: "Усовершенствованные двигатели"
+ generic_mio_trait_twin_tail: "Двойной тайник"
+ generic_mio_trait_reinforced_wing_braces: "Укрепленные крыльевые браслеты"
+ generic_mio_trait_expanded_cockpit: "Расширенный коктейль"
+ generic_mio_trait_metal_nose_replacement: "Замена металлического носа"
+ generic_mio_trait_streamlined_fuselage: "Упорядочение фузеляжа"
+ generic_mio_trait_extra_machine_guns: "Дополнительные пулеметы"
+ generic_mio_trait_adaptable_build: "Адаптивное строительство"
+ generic_mio_trait_heavy_fighter_specialization: "Специализация по тяжелому бою"
+ generic_mio_trait_tactical_bomber_specialization: "Специализация тактических бомбардировщиков"
+ generic_mio_trait_skip_bombing: "Пропустить бомбардировку"
+ generic_mio_trait_high_frequency_direction_finding: "Выявление направлений деятельности с высокой степенью вероятности"
+
+ #####################################
+ #### HEAVY AIRCRAFT MANUFACTURER ####
+ #####################################
+ generic_heavy_aircraft_organization: "Изготовитель тяжелых воздушных судов"
+ generic_mio_initial_trait_heavy_aircraft_designer: "Проектировщик тяжелых летательных аппаратов"
+ generic_mio_trait_reinforced_frames: "Укрепленные рамки"
+ generic_mio_trait_transport_conversions: "Преобразование транспортных средств"
+ generic_mio_trait_standardized_alloys: "Стандартизированные сплавы"
+ generic_mio_trait_drop_hammer_alloy_straining: "Сброс сплава &lt; &lt; Хаммер &gt; &gt;"
+ generic_mio_trait_refined_secondary_aluminium: "Уточнение вторичного алюминия"
+ generic_mio_trait_high_quality_aluminium_alloys: "Высококачественные алюминиевые сплавы"
+ generic_mio_trait_pressurized_cockpit: "Жесткий коктейль"
+ generic_mio_trait_advanced_turbochargers: "Усовершенствованные турбонагнетательные устройства"
+ generic_mio_trait_extended_rear_fuselage: "Расширенный задний фюзеляж"
+ generic_mio_trait_auto_levelled_bombsights: "Автоуровневый взрыв"
+ generic_mio_trait_air_deployed_sonobuoys: "Воздушно-развернутые сонобуи"
+ generic_mio_trait_cockpit_controlled_remote_gun_turrets: "Удалённые ружейные турниры, контролируемые котлоагрегатами"
+ generic_mio_trait_flying_fortress: "Летающая крепость"
+ generic_mio_trait_advanced_instruments: "Дополнительные инструменты"
+
+ ########################################
+ #### CLOSE AIR SUPPORT MANUFACTURER ####
+ ########################################
+ generic_cas_aircraft_organization: "Закрыть генератор поддержки воздуха"
+ generic_mio_initial_trait_cas_aircraft_designer: "Закрыть дизайн системы поддержки воздушного движения"
+ generic_mio_trait_selectional_construction: "Выборочное строительство"
+ generic_mio_trait_low_altitude_attacks: "Нападение на низкую высоту"
+ generic_mio_trait_canopies_and_firewalls: "Канопы и файерволы"
+ generic_mio_trait_automatic_pull_out: "Автоматическое вытягивание"
+ generic_mio_trait_integrated_armor_designs: "Комплексные бронеконструкции"
+ generic_mio_trait_gull_wings: "Крылья чайников"
+ generic_mio_trait_reinforced_wings: "Укрепленные крылышки"
+ generic_mio_trait_heavily_armed_aircraft: "Вооруженные самолеты"
+ generic_mio_trait_air_brakes: "Воздушные тормоза"
+ generic_mio_trait_wingborne_fuel_tanks: "Крылатые топливные баки"
+ generic_mio_trait_bombs: "Бомбы"
+ generic_mio_trait_rockets: "Ракеты"
+ generic_mio_heat_bombs: "ТЯЖЕЛЫЕ Бомбы"
+ generic_mio_cluster_bombs: "Кассетные бомбы"
+
+ #####################################
+ #### NAVAL AIRCRAFT MANUFACTURER ####
+ #####################################
+ generic_naval_aircraft_organization: "Изготовитель военно-морских воздушных судов"
+ generic_mio_initial_trait_naval_aircraft_designer: "Проектировщик военно-морских самолетов"
+ generic_mio_trait_navigation_equipment: "Навигационное оборудование"
+ generic_mio_trait_patrol_fuel_tanks: "Патрульные топливные баки"
+ generic_mio_trait_internal_torpedo_mountings: "Внутренние горки Торпедо"
+ generic_mio_trait_high_speed_torpedo_release: "Высокоскоростная торпедная релязия"
+ generic_mio_trait_reinforced_fuselage: "Укрепленное фюзеляже"
+ generic_mio_agility_wing_design: "Конструкция крыльев"
+ generic_mio_strength_wing_design: "Конструкция мощного крыла"
+ generic_mio_high_capacity_ammunition_stores: "Хранилища боеприпасов с высоким потенциалом"
+ generic_mio_larger_bomb_loads: "Большее количество бомб"
+ generic_mio_air_cooled_engines: "Двигатели с воздушным охлаждением"
+ generic_mio_multi_stage_super_charger: "Многослойное суперзарядное устройство"
+ generic_mio_water_injection: "Впрыск воды"
+ generic_mio_advanced_materials: "Дополнительные материалы"
+
+ ##########################################
+ #### MULTI-ROLE AIRCRAFT MANUFACTURER ####
+ ##########################################
+ generic_multi_role_aircraft_organization: "Изготовитель многоцелевых воздушных судов"
+ generic_mio_initial_trait_multi_role_aircraft_designer: "Многоцелевой проектировщик воздушных судов"
+ generic_mio_trait_armored_cockpit: "Бронированный котловарь"
+ generic_mio_trait_escort_designs: "Дизайны сопровождения"
+ generic_mio_trait_light_airframe: "Световоздух"
+ generic_mio_trait_medium_airframe: "Средняя авиамашина"
+ generic_mio_trait_hardened_frames: "Укрепленные рамки"
+ generic_mio_trait_belly_shackles: "Бель-шоклы"
+ generic_mio_trait_oversized_propeller: "Избыточный продавец"
+ generic_mio_trait_variable_pitch_propellers: "Переменные Pitch Proppellers"
+ generic_mio_trait_upgraded_air_air_weapons: "Модернизация авиационного оружия"
+ generic_mio_trait_reinforced_wing_hardpoints: "Тяжелые точки усиленных крыльев"
+ generic_mio_trait_transport_duties: "Транспортные обязанности"
+ generic_mio_trait_upgraded_engines: "Модернизация двигателей"
+ generic_mio_trait_not_enough_guns_never_enough_guns: "Не хватит ружей, не хватит ружей"
+ generic_mio_trait_lengthened_wings: "Удлиненные крылышки"
+ generic_mio_trait_bubble_canopy: "Поверхность пузырей"
+ generic_mio_trait_bomber_specialization: "Специализация бомбардировщиков"
+
+ ###########################################
+ #### HIGH-AGILITY FIGHTER MANUFACTURER ####
+ ###########################################
+ generic_high_agility_fighter_aircraft_organization: "Изготовитель высокоэффективных истребителей"
+ generic_mio_initial_trait_high_agility_fighters_designer: "Высокоэффективный дизайнер"
+ generic_mio_trait_bigger_engines: "Двигатели побольше"
+ generic_mio_trait_cantilever_wing_structure: "Строение крыльев"
+ generic_mio_trait_minimum_weapon_requirements: "Минимальные требования к оружию"
+ generic_mio_trait_fabric_skin: "Фибричная кожа"
+ generic_mio_trait_metal_skin: "Металлическая кожа"
+ generic_mio_trait_shortened_wings: "Укороченные крылья"
+ generic_mio_trait_high_octane_fuels: "Высокооктановое топливо"
+ generic_mio_trait_interceptor: "Перехватчик"
+ generic_mio_trait_gunboat: "Шлюпка"
+ generic_mio_trait_fuel_injection_engines: "Двигатели, работающие на топливе"
+ generic_mio_trait_stiffened_wings: "Защищенные крылышки"
+ generic_mio_trait_subsidiary_suppliers: "Вспомогательные поставщики"
+ generic_mio_trait_fighter_interceptors: "Боевые перехватчики"
+
+ #############################################
+ #### RANGE-FOCUSED AIRCRAFT MANUFACTURER ####
+ #############################################
+ generic_range_focused_aircraft_organization: "Завод-изготовитель летательных аппаратов с дальним приводом"
+ generic_mio_initial_trait_range_focused_aircraft_designer: "Дизайнер летательных аппаратов с дальним приводом"
+ generic_mio_trait_large_rudders_and_flaps: "Крупные рулеты и флапсы"
+ generic_mio_trait_variable_dihedral: "Измененный дихедр"
+ generic_mio_trait_high_capacity_ammunition: "Боеприпасы большой мощности"
+ generic_mio_trait_extra_cargo_doors: "Дополнительные грузовые двери"
+ generic_mio_trait_improved_air_frame_strength: "Улучшенная прочность воздушно-воздушно-воздушной системы"
+ generic_mio_trait_glider_hook_modifications: "Изменения Glider Hook"
+ generic_mio_trait_advanced_production_techniques: "Передовые методы производства"
+ generic_mio_trait_low_drag_wings: "Низкие крылышки"
+ generic_mio_trait_strafing_techniques: "Методы строфирования"
+ generic_mio_trait_long_range_modifications: "Изменения в длинных диапазонах"
+ generic_mio_trait_anti_interception_tactics: "Антиперехватная тактика"
+ generic_mio_trait_high_explosive_payload: "Высокая полезная нагрузка на взрывчатку"
+ generic_mio_trait_long_range_fighters: "Бойцы дальнего радиуса действия"
+ generic_mio_trait_heavy_fighters: "Тяжелые истребители"
+ generic_mio_trait_tactical_bombers: "Тактические бомбардировщики"
+
+ #   #  ##  ### ### ###  ### ### #       #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ##
+ ## ## #  #  #  #   #  #  #  #   #       ## ##  #  #  #     #  # #  # #  # #  # #    #   # #  #  # #   #
+ # # # ####  #  ##  ###   #  ##  #       # # #  #  #  #     #### ###  #    #### ##   #    #   ###  ##   #
+ #   # #  #  #  #   #  #  #  #   #       #   #  #  #  #     #  # #  # #  # #  # #    #    #   #    #     #
+ #   # #  #  #  ### #  # ### ### ###     #   # ###  ##      #  # #  #  ##  #  # ###  #    #   #    ### ##
+
+ ################################
+ #### ARTLLERY MANUFRACTURER ####
+ ################################
+ generic_artillery_organization: "Изготовитель артиллерийских изделий"
+ generic_mio_initial_trait_artillery_manufacturer: "Артиллерийский дизайнер"
+ generic_mio_trait_mobile_limbers: "Мобильные лимберы"
+ generic_mio_trait_stable_platforms: "Стабильные платформы"
+ generic_mio_trait_improved_hydraulic_recoil_system: "Гидравлическая рекотоводческая система"
+ generic_mio_trait_improved_direct_fire_targeting: "Улучшенная непосредственная погода за пожарами"
+ generic_mio_trait_advanced_anti_air_targeting: "Усовершенствованная антивоздушная целеопределение"
+ generic_mio_trait_advanced_trajectory_calculations: "Усовершенствованные траектории вычислений"
+ generic_mio_trait_sliding_breech_block: "Слайдирующий блок &lt; &lt; Брич &gt; &gt;"
+ generic_mio_trait_rapid_fire: "Быстрый огонь"
+ generic_mio_trait_advanced_barrel_forging: "Усовершенствованная фальшивка" #ALSO FOR INFANTRY WEAPONS
+ generic_mio_trait_big_guns: "Большие пушки"
+ generic_mio_trait_gun_mass_production: "Производство оружия"
+ generic_mio_trait_super_charges: "Сверхзарядные заряды"
+ generic_mio_trait_light_weight_barrels: "Легкие весовые шарниры"
+
+ #########################################
+ #### INFANTRY EQUIPMENT MANUFACTURER ####
+ #########################################
+ generic_infantry_equipment_organization: "Изготовитель пехотного оборудования"
+ generic_mio_initial_trait_infantry_manufacturer: "Конструктор пехотного оружия"
+ generic_mio_trait_drum_pattern_sights: "Виды модели барабана"
+ generic_mio_trait_reinforced_stocks: "Укрепленные запасы"
+ generic_mio_trait_bolt_action: "Винтовки &lt; &lt; Болт-экшн &gt; &gt;"
+ generic_mio_trait_semi_auto: "Полуавтомобильные винтовки"
+ generic_mio_trait_medium_machineguns: "Производство среднего пулемета"
+ generic_mio_trait_mass_rifle_production: "Массовое производство винтовки"
+ generic_mio_trait_quality_materials: "Качество"
+ generic_mio_trait_improved_small_arms_bullet_design: "Совершенствование конструкции стрелкового оружия"
+ generic_mio_trait_armor_piercing_rounds: "Бронебойные бронебойные бронебойные бронетранспортеры"
+ generic_mio_trait_heavy_anti_armor_ammunition: "Тяжелые противотанковые боеприпасы"
+ generic_mio_trait_vehicle_mounted_capabilities: "Конфигурированные возможности транспортного средства"
+ generic_mio_trait_rubber_cushioned_buttpad: "Усовершенствованные винтовки"
+ generic_mio_trait_anti_vehicle_land_mines: "Противотранспортные наземные мины"
+
+ #################################
+ #### AUTOMOTIVE MANUFACTURER ####
+ #################################
+ generic_motorized_mechanized_organization: "Изготовитель автомобильных деталей"
+ generic_mio_initial_trait_motorized_mechanized_manufacturer: "Автомобильный дизайнер"
+ generic_mio_trait_composite_cargo_bed: "Композиционный грузовой отсек"
+ generic_mio_trait_steel_cargo_bed: "Стальная грузовая койка"
+ generic_mio_trait_all_wheel_drive: "Все колеса"
+ generic_mio_trait_attached_wood_gas_generator: "Прикрепленный генератор древесного газа"
+ generic_mio_trait_high_powered_engine: "Двигатель с высокой мощностью"
+ generic_mio_trait_medium_machinegun_mounts: "Боковые пулеметы средней грузоподъемности"
+ generic_mio_trait_armored_pulpit_mount: "Бронированная гора Пульпит"
+ generic_mio_trait_heavy_machinegun_mount: "Тяжелоконечное пулеметное оружие"
+ generic_mio_trait_advanced_artillery_racks: "Усовершенствованные артиллерийские решетки"
+ generic_mio_trait_mounted_light_anti_tank_gun: "Смонтированное легкое противотанковое оружие"
+ generic_mio_trait_open_chassi: "Открой Часси"
+ generic_mio_trait_closed_chassi: "Закрытый Часси"
+ generic_mio_trait_bulletproof_panels: "Пуленепробиваемые панели"
+ generic_mio_trait_light_flame_projectors: "Легкие пламенные проекторы"
+ generic_mio_trait_land_mine_racks: "Наземные шахты"
+
+ ########################################
+ #### SUPPORT EQUIPMENT MANUFACTURER ####
+ ########################################
+ generic_support_equipment_organization: "Изготовитель вспомогательного оборудования"
+ generic_mio_initial_trait_support_equipment_manufacturer: "Проектировщик вспомогательного оборудования"
+ generic_mio_trait_material_recycling: "Рециркуляция материалов"
+ generic_mio_trait_scrap_melting: "Разбрызгивание"
+ generic_mio_trait_high_quality_material_blend: "Материал высокого качества"
+ generic_mio_trait_research_program: "Программа исследований"
+ generic_mio_trait_efficient_scale_up: "Эффективное увеличение"
+ generic_mio_trait_private_scientists_program: "Программа для частных ученых"
+ generic_mio_trait_private_tenders: "Частные тендеры"
+ generic_mio_trait_anti_tank_rifle: "Антитанковая винтовка"
+ generic_mio_trait_single_shot_man_portable_anti_tank_system: "Система одноразового перебрасываемого человека"
+ generic_mio_trait_small_sidearms: "Малые боковые вооружения"
+ generic_mio_trait_light_mortar: "Легкий миномет"
+ generic_mio_trait_pontoons: "Понтоны"
+
+ ###################################
+ #### ARMOURED CAR MANUFACTURER ####
+ ###################################
+ generic_armored_car_organization: "Изготовитель бронированных автомобилей"
+ generic_mio_initial_trait_armored_car_manufacturer: "Проектировщик бронированных автомобилей"
+ generic_mio_trait_flash_suppressor: "Флешрегатор"
+ generic_mio_trait_glacis_armor: "Глазный бронежилет"
+ generic_mio_trait_heavy_anti_tank_rifle: "Тяжелоконная противотанковая винтовка"
+ generic_mio_trait_light_anti_personnel_machinegun: "Легкая противопехотная машина"
+ generic_mio_trait_combat_group: "Боевая группа"
+ generic_mio_trait_machine_gun_group: "Группа с пулеметом"
+ generic_mio_trait_transceiver_station: "Передаточная станция"
+ generic_mio_trait_water_tank: "Емкость для воды"
+ generic_mio_trait_reinforced_suspension: "Усиленная приостановка"
+ generic_mio_trait_reverser: "Реверер"
+ generic_mio_trait_officer_support_car: "Автомобиль для поддержки сотрудников"
+ generic_mio_trait_heavy_anti_tank_gun: "Тяжелое противотанковое оружие"
+ generic_mio_trait_reinforced_wheels: "Укрепленные колеса"
+
+ #################################
+ #### HELICOPTER MANUFACTURER ####
+ #################################
+ generic_helicopter_organization: "Изготовитель вертолетов"
+ generic_mio_initial_trait_helicopter_manufacturer: "Дизайн вертолета"
+ generic_mio_trait_tandem_rotor_innovations: "&lt; &lt; Тандем Ротор инновации &gt; &gt;"
+ generic_mio_trait_single_rotor_innovations: "Инновации, связанные с одним ротором"
+ generic_mio_trait_side_venting_exhaust: "Боковой выхлоп"
+ generic_mio_trait_improved_engine: "Усовершенствованный двигатель"
+ generic_mio_trait_extra_seating: "Дополнительные места"
+ generic_mio_trait_co_axial_rotors: "Совместные осевые вращатели"
+ generic_mio_trait_mass_production_certification: "Сертификация массового производства"

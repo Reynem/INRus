@@ -1,0 +1,194 @@
+﻿l_russian:
+ # Constants:
+ MAPMODE_CONSTANT: "Режим карты"
+ DOTTET_LINE_SEPERATOR: "-Н--------------"
+
+ # Map Modes:
+ more_mapmodes_core_map_mode: "Основные государства"
+ MAPMODE_MORE_MAPMODES_CORE_MAP_MODE: "§Y$more_mapmodes_core_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_MORE_MAPMODES_CORE_MAP_MODE_NAME: "$more_mapmodes_core_map_mode$"
+ MAPMODE_MORE_MAPMODES_CORE_MAP_MODE_DESCRIPTION: "Показывает наши основные государства, некоренные и оккупированные государства в разных цветах."
+ more_mapmodes_core_map_mode_tooltip: "[Отправляйся в "MoreMopmodesCoreMapModeTooltip"]"
+ more_mapmodes_core_map_mode_tooltip_delayed: "[Отмечено. MoreMopmodesCoreMapModeTooltip]"
+
+ more_mapmodes_caused_world_tension_map_mode: "$WORLD_TENSION_NAME$"
+ MAPMODE_MORE_MAPMODES_CAUSED_WORLD_TENSION_MAP_MODE: "§Y$more_mapmodes_borld_tension_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_MORE_MAPMODES_CAUSED_WORLD_TENSION_MAP_MODE_NAME: "$more_mapmodes_caused_world_tension_map_mode$"
+ MAPMODE_MORE_MAPMODES_CAUSED_WORLD_TENSION_MAP_MODE_DESCRIPTION: "Показывает, насколько напряженная обстановка в мире сложилась в каждой стране."
+ more_mapmodes_caused_world_tension_map_mode_tooltip: "[От "Контролера. Получите больше MapmodesCaused World Tension MapmodeTooltip"]"
+ more_mapmodes_caused_world_tension_map_mode_tooltip_delayed: ""
+
+ more_mapmodes_stability_map_mode: "$STABILITY$"
+ MAPMODE_MORE_MAPMODES_STABILITY_MAP_MODE: "§Y$more_mapmodes_stability_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_MORE_MAPMODES_STABILITY_MAP_MODE_NAME: "$more_mapmodes_stability_map_mode$"
+ MAPMODE_MORE_MAPMODES_STABILITY_MAP_MODE_DESCRIPTION: "Показывает, насколько стабильна каждая страна."
+ more_mapmodes_stability_map_mode_tooltip: "§Y [От контролера. GetNameWithFlag] §! В настоящее время стабильна § §Y [??] control: sustainability 612%] §!"
+ more_mapmodes_stability_map_mode_tooltip_delayed: "[От имени "Контролера. Получите больше MapmodesStability MapmodeTooltip"]"
+
+ more_mapmodes_war_support_map_mode: "$WAR_SUPPORT$"
+ MAPMODE_MORE_MAPMODES_WAR_SUPPORT_MAP_MODE: "§Y$more_mapmodes_war_support_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_MORE_MAPMODES_WAR_SUPPORT_MAP_MODE_NAME: "$more_mapmodes_war_support_map_mode$"
+ MAPMODE_MORE_MAPMODES_WAR_SUPPORT_MAP_MODE_DESCRIPTION: "Показывает, насколько велика поддержка войны в каждой стране."
+ more_mapmodes_war_support_map_mode_tooltip: "§Y [От контролера. GetNameWithFlag] §! В настоящее время имеет военную поддержку §Y [??] control: has_war_support 812%] §!"
+ more_mapmodes_war_support_map_mode_tooltip_delayed: "[От имени "Контролера. Получите больше Mapmodes War Support MapmodeTooltip"]"
+
+ more_mapmodes_war_goals_map_mode: "Цели войны против нас"
+ MAPMODE_MORE_MAPMODES_WAR_GOALS_MAP_MODE: "§Y$more_mapmodes_war_goals_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_MORE_MAPMODES_WAR_GOALS_MAP_MODE_NAME: "$more_mapmodes_war_goals_map_mode$"
+ MAPMODE_MORE_MAPMODES_WAR_GOALS_MAP_MODE_DESCRIPTION: "Показывает, какие страны в настоящее время оправдывают или уже преследуют цель войны против нас."
+ more_mapmodes_war_goals_map_mode_tooltip: "[От "Контролера. Возьмите больше Mapmodes WarGoals MapmodeTooltip]"
+ more_mapmodes_war_goals_map_mode_tooltip_delayed: ""
+
+ more_mapmodes_anti_air_map_mode: "$anti_air_building$ Level"
+ MAPMODE_MORE_MAPMODES_ANTI_AIR_MAP_MODE: "§Y$more_mapmodes_anti_air_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_MORE_MAPMODES_ANTI_AIR_MAP_MODE_NAME: "$more_mapmodes_anti_air_map_mode$"
+ MAPMODE_MORE_MAPMODES_ANTI_AIR_MAP_MODE_DESCRIPTION: "Показывает уровень §Y$anti_air_building_plural$§! в каждом штате, контролируемом нами, нашими союзниками и нашими врагами."
+ more_mapmodes_anti_air_map_mode_tooltip: "[От "Контролера. Возьмите больше Mapmodes AntiAirMapmodeTooltip"]"
+ more_mapmodes_anti_air_map_mode_tooltip_delayed: "[Контролер. Заткнись."
+
+ more_mapmodes_air_base_map_mode: "$air_base$ Level"
+ MAPMODE_MORE_MAPMODES_AIR_BASE_MAP_MODE: "§Y$more_mapmodes_air_base_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_MORE_MAPMODES_AIR_BASE_MAP_MODE_NAME: "$more_mapmodes_air_base_map_mode$"
+ MAPMODE_MORE_MAPMODES_AIR_BASE_MAP_MODE_DESCRIPTION: "Показывает уровень §Y$air_base_plural$§! в каждом государстве, контролируемом нами, нашими союзниками и нашими врагами."
+ more_mapmodes_air_base_map_mode_tooltip: "[От "Контролера. Возьмите больше MapmodesAirBaseMapmodeTooltip"]"
+ more_mapmodes_air_base_map_mode_tooltip_delayed: "[От имени "Контролера. Получите больше MapmodesAirBase MapmodeTooltip"]"
+
+ more_mapmodes_technologies_map_mode: "Технологии"
+ MAPMODE_MORE_MAPMODES_TECHNOLOGIES_MAP_MODE: "§Y$more_mapmodes_technologies_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_MORE_MAPMODES_TECHNOLOGIES_MAP_MODE_NAME: "$more_mapmodes_technologies_map_mode$"
+ MAPMODE_MORE_MAPMODES_TECHNOLOGIES_MAP_MODE_DESCRIPTION: "Показывает количество исследовательских технологий в каждой стране."
+ more_mapmodes_technologies_map_mode_tooltip: "§Y [От контролера. GetName] §! В настоящее время изучает §Y [??] control: num_ Research_technologies] §!"
+ more_mapmodes_technologies_map_mode_tooltip_delayed: ""
+
+ more_mapmodes_intervention_map_mode: "Наши действия"
+ MAPMODE_MORE_MAPMODES_INTERVENTION_MAP_MODE: "§Y$more_mapmodes_интервенция_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_MORE_MAPMODES_INTERVENTION_MAP_MODE_NAME: "$more_mapmodes_intervention_map_mode$"
+ MAPMODE_MORE_MAPMODES_INTERVENTION_MAP_MODE_DESCRIPTION: "Показывает страны, где есть добровольцы или экспедиционные силы."
+ more_mapmodes_intervention_map_mode_tooltip: "[От "Контролера. Получите MoreMapmodes Intervention MapmodeTooltip"]"
+ more_mapmodes_intervention_map_mode_tooltip_delayed: ""
+
+ more_mapmodes_majors_map_mode: "Меньшинства"
+ MAPMODE_MORE_MAPMODES_MAJORS_MAP_MODE: "§Y$more_mapmodes_magers_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_MORE_MAPMODES_MAJORS_MAP_MODE_NAME: "$more_mapmodes_majors_map_mode$"
+ MAPMODE_MORE_MAPMODES_MAJORS_MAP_MODE_DESCRIPTION: "обращает особое внимание на основные страны."
+ more_mapmodes_majors_map_mode_tooltip: "[От "Контролера". Возьмите Mapmodes Majors MapmodeTooltip]"
+ more_mapmodes_majors_map_mode_tooltip_delayed: ""
+
+ more_mapmodes_world_war_map_mode: "Мировая война"
+ MAPMODE_MORE_MAPMODES_WORLD_WAR_MAP_MODE: "§Y$more_mapmodes_world_war_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_MORE_MAPMODES_WORLD_WAR_MAP_MODE_NAME: "$more_mapmodes_world_war_map_mode$"
+ MAPMODE_MORE_MAPMODES_WORLD_WAR_MAP_MODE_DESCRIPTION: "Показывает, какие страны в настоящее время находятся в состоянии войны."
+ more_mapmodes_world_war_map_mode_tooltip: "[От "Контролера. Получите больше Mapmodes World WarMapmodeTooltip"]"
+ more_mapmodes_world_war_map_mode_tooltip_delayed: ""
+
+ more_mapmodes_spymasters_map_mode: "Шпион Мастерс"
+ MAPMODE_MORE_MAPMODES_SPYMASTERS_MAP_MODE: "§Y$more_mapmodes_spymasters_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_MORE_MAPMODES_SPYMASTERS_MAP_MODE_NAME: "$more_mapmodes_spymasters_map_mode$"
+ MAPMODE_MORE_MAPMODES_SPYMASTERS_MAP_MODE_DESCRIPTION: "Показывает, какие страны являются хозяевами шпионов своей фракции."
+ more_mapmodes_spymasters_map_mode_tooltip: "[От "Контролера. Возьмите больше MapmodesSpy Mapsters MapmodeTooltip]"
+ more_mapmodes_spymasters_map_mode_tooltip_delayed: "[От "Контролера". Заткнись."
+
+ more_mapmodes_guarantees_map_mode: "Гарантии"
+ MAPMODE_MORE_MAPMODES_GUARANTEES_MAP_MODE: "§Y$more_mapmodes_гарантии_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_MORE_MAPMODES_GUARANTEES_MAP_MODE_NAME: "$more_mapmodes_guarantees_map_mode$"
+ MAPMODE_MORE_MAPMODES_GUARANTEES_MAP_MODE_DESCRIPTION: "Показывает страны, выбранная цель гарантирована и гарантирована. ~n$more_mapmodes_гарантируется_map_mode_tooltip_delayed$"
+ more_mapmodes_guarantees_map_mode_tooltip: "[От "Контролера". Получите больше Mapmodes Guaranties MapmodeTooltip]"
+ more_mapmodes_guarantees_map_mode_tooltip_delayed: "§LL Вы можете нажать на ftmore_mapmodes_cap_cap_icon_texticon в столице страны, чтобы выбрать его в качестве цели для картографического режима.§!"
+
+ # Scripted Localisation:
+ more_mapmodes_show_mapicons_button_tt_disable: "§GClick§! Отключить значки карты для всех режимов заказной карты, которые используют календариконы."
+ more_mapmodes_show_mapicons_button_tt_enable: "§GClick§!, чтобы дать значок карты для всех режимов заказной карты, которые используют календариконы."
+
+ more_mapmodes_core_map_mode_tt_core: "§! это наше основное состояние."
+ more_mapmodes_core_map_mode_tt_owned: "§! - это неосновное состояние нас."
+ more_mapmodes_core_map_mode_tt_claimed: "Это наше требование."
+ more_mapmodes_core_map_mode_tt_occupied: "§! Заняты нами."
+ more_mapmodes_core_map_mode_tt_occupied_by_enemy: "§Y [От GetName]§! в настоящее время занят §R [От Control.GetNameWithFlag]§!"
+ more_mapmodes_core_map_mode_tt_core_not_owned_but_controlled: "§Y [От GetName]§! в настоящее время занят нами, но он все еще принадлежит §R [от . Owner. GetNameWithFlag]§!"
+ more_mapmodes_core_map_mode_tt_core_not_owned: "§Y [От GetName] §! принадлежит § §Y [От Owner.GetNameWithFlag] §!"
+ more_mapmodes_core_map_mode_tt_occupied_info: "§Y [От GetName]§! изначально принадлежит §R [от . Owner. GetNameWithFlag]§!"
+
+ more_mapmodes_stability_map_mode_tt: "Он меняется на [?temp.62%=+] в неделю."
+ 
+ MAPMODE_MORE_MAPMODES_GOVERNMENT_MAP_MODE: "§YGovernment§!"
+ MAPMODE_MORE_MAPMODES_GOVERNMENT_MAP_MODE_NAME: "Правительство"
+ MAPMODE_MORE_MAPMODES_GOVERNMENT_MAP_MODE_DESCRIPTION: "Показ стран по типам их правительств"
+ 
+ more_mapmodes_government_DD_map_mode_tt: "Прямая демократия"
+ more_mapmodes_government_PRR_map_mode_tt: "Президентская Республика"
+ more_mapmodes_government_SPR_map_mode_tt: "Полупрезидентская Республика"
+ more_mapmodes_government_PR_map_mode_tt: "Парламентская Республика"
+ more_mapmodes_government_RD_map_mode_tt: "Республиканский диктатор"
+ more_mapmodes_government_TR_map_mode_tt: "Метрополитическая Республика"
+ more_mapmodes_government_TD_map_mode_tt: "Богохульство"
+ more_mapmodes_government_OPD_map_mode_tt: "Одна партия"
+ more_mapmodes_government_WR_map_mode_tt: "Республика трудящихся"
+ more_mapmodes_government_CS_map_mode_tt: "Коммунальное государство"
+ more_mapmodes_government_CG_map_mode_tt: "Колониальное правительство"
+ more_mapmodes_government_AM_map_mode_tt: "Абсолютная монархия"
+ more_mapmodes_government_CM_map_mode_tt: "Конституционная монархия"
+ more_mapmodes_government_EM_map_mode_tt: "Избирательная монархия"
+ more_mapmodes_government_MJ_map_mode_tt: "Военная хунта"
+ more_mapmodes_government_RM_map_mode_tt: "Революционное движение"
+ more_mapmodes_government_FS_map_mode_tt: "Несоответствие государства"
+ 
+ more_mapmodes_government_map_mode: "Правительство"
+ more_mapmodes_government_map_mode_tooltip: "§ § [От Контролера. Найти Флаг] §!"
+ more_mapmodes_government_map_mode_tooltip_delayed: ""
+
+ 
+ 
+ 
+ more_mapmodes_war_support_map_mode_tt: "$more_mapmodes_stability_map_mode_tt$"
+
+ more_mapmodes_caused_world_tension_map_mode_tt: "§ §! вызвала [? Угрозу_temp.62%-] напряжение во всем мире."
+ more_mapmodes_caused_world_tension_map_mode_tt_none: "§! не вызвало никакой мировой напряженности."
+
+ more_mapmodes_war_goals_map_mode_tt_us: "Мы § §Y [От "Контролера". GetNameWithFlag] §!"
+ more_mapmodes_war_goals_map_mode_tt_enemy: "У §! против нас есть военная цель."
+ more_mapmodes_war_goals_map_mode_tt_justifying: "§! в настоящее время оправдывает цель войны против нас."
+
+ more_mapmodes_anti_air_map_mode_tt: "В настоящее время имеется уровень §Y$nti_air_building$§! §!"
+ more_mapmodes_anti_air_map_mode_tt_our_state: "§Y [От GetName]§! находится под контролем §Gour§!"
+ more_mapmodes_anti_air_map_mode_tt_allied_state: "§Y [От GetName]§! находится под контролем §Caled §!"
+ more_mapmodes_anti_air_map_mode_tt_enemy_state: "§Y [От GetName]§! находится под контролем §Renemy§!"
+
+ more_mapmodes_air_base_map_mode_tt: "§Y [От GetName]§! В настоящее время имеет уровень §Y$air_base$§! §!"
+ more_mapmodes_air_base_map_mode_tt_our_state: "$more_mapmodes_anti_air_map_mode_tt_our_state$"
+ more_mapmodes_air_base_map_mode_tt_allied_state: "$more_mapmodes_anti_air_map_mode_tt_allied_state$"
+ more_mapmodes_air_base_map_mode_tt_enemy_state: "$more_mapmodes_anti_air_map_mode_tt_enemy_state$"
+
+ more_mapmodes_intervention_map_mode_tt_us: "$more_mapmodes_war_goals_map_mode_tt_us$"
+ more_mapmodes_intervention_map_mode_tt_both_received_expeditionaries: "$more_mapmodes_intervention_map_mode_tt_they_received_expeditionaries$ \n$more_mapmodes_intervention_map_mode_tt_we_received_expeditionaries$"
+ more_mapmodes_intervention_map_mode_tt_they_received_expeditionaries: "§Y [От контролера. GetNameWithFlag] §! получил §YExpeditional Force §! от нас."
+ more_mapmodes_intervention_map_mode_tt_we_received_expeditionaries: "Мы получили §YExpeditional Forciples §! от §Y [Контролер. GetNameWithFlag] §!"
+ more_mapmodes_intervention_map_mode_tt_they_received_volunteers: "§Y [От контролера. GetNameWithFlag] §! получил §YVolunteers §! от нас."
+ more_mapmodes_intervention_map_mode_tt_we_received_volunteers: "Мы получили §YVolunteers §! от §Y [Контролер. GetNameWithFlag] §!"
+
+ more_mapmodes_majors_map_mode_tt_major: "Это §C major§!"
+ more_mapmodes_majors_map_mode_tt: "§ §Y [От контролера. GetNameWithFlag] §! является несовершеннолетним."
+
+ more_mapmodes_world_war_map_mode_tt_war: "В §Rwar§!"
+ more_mapmodes_world_war_map_mode_tt: "В §Gpeace§!"
+
+ more_mapmodes_spymasters_map_mode_tt: "§Y [От "Контролера. GetNameWithFlag] §! является §Cspy Master§! в их фракции."
+ more_mapmodes_spymasters_map_mode_tt_faction: "§Y [От контролера. GetNameWithFlag] §! является членом § § § §Y [От контролера. GetFactionName]!"
+ more_mapmodes_spymasters_map_mode_tt_no_faction: "§! не входит ни в одну фракцию."
+
+ more_mapmodes_guarantees_map_mode_tt_target: "В настоящее время мы видим $MAPMODE_MORE_MAPMODES_GUARANTYES_MAP_MODE$ в перспективе §C [от §C [Контролер. GetNameWithFlag] §! [Это. Возьмите MoreModes GuarantiesMapmodeTooltipNumGivenGuarantes]"
+ more_mapmodes_guarantees_map_mode_tt_has_guaranteed: "Независимость §C [?temp_target.GetNameWithFlag]§! гарантируется §C [?temp_target.GetNameWithFlag]§!"
+ more_mapmodes_guarantees_map_mode_tt_is_guaranteed: "§Y [От контролера. GetNameWithFlag]§! гарантирует независимость §C [?temp_target.GetNameWithFlag]§!"
+ more_mapmodes_guarantees_map_mode_tt_num_of_given_guarantees: "$DOTTET_LINE_SEPERATOR$§C[From.Controller.GetNameWithFlag]§! currently guarantees the independence of §Y[?given_guarantees_temp|0]§! nations."
+ more_mapmodes_guarantees_map_mode_tt_num_of_received_guarantees: "$DOTTET_LINE_SEPERATOR$The independence of §C[From.Controller.GetNameWithFlag]§! is currently guaranteed by §Y[?received_guarantees_temp|0]§! nations."
+
+ # GUIs:
+ MORE_MAPMODES_NO_MAPICONS_HEADER: "Картовые значки"
+ MORE_MAPMODES_NO_MAPICONS_BUTTON_TEXT: "Показать значки карты"
+ MORE_MAPMODES_NO_MAPICONS_BUTTON_TT: "[Это. Возьмите MopModesShow MapIcons Button Tooltip]"
+
+ MORE_MAPMODES_GUARANTEES_MAP_MODE_WINDOW_HEADER: "Целевые показатели режима карты"
+ MORE_MAPMODES_GUARANTEES_MAP_MODE_WINDOW_BUTTON_TEXT: "§Y [?temp_target. Возьмите Флаг]§!"
+ MORE_MAPMODES_GUARANTEES_MAP_MODE_WINDOW_BUTTON_TT: "В настоящее время выбранная цель: §Y [?temp_target.getNameWithFlag] § §! ~ ~--------------- §GClick§!, чтобы открыть список стран для выбора цели. §Gright-clic§!, чтобы вновь установить цель §YGuarantes §! Картовый режим для вашей страны, §Y [Это. GetNameWithFlag]§!"
+ MORE_MAPMODES_GUARANTEES_MAP_MODE_LIST_WINDOW_HEADER: "Выбрать целевые показатели режима карты"
+
+ MORE_MAPMODES_GUARANTEES_MAP_MODE_MAPICON_TT: "§GClick§!, чтобы выбрать §Y [Это. GetNameWithFlag]§! в качестве цели для §YGuarantees §! Картовый режим."

@@ -1,0 +1,88 @@
+l_russian:
+
+ st_state_name: "§H [Это. Найти имя]§!"
+
+ mark_tooltip_loc: "[THIS. mark_tooltip]"
+ mark_tooltip_desc: "[! Марк_state_click]"
+
+ ST_STATE_MARK_FOR_TRANSFER: ""Госдепартамент Марк"!"
+ ST_STATE_UNMARK_FOR_TRANSFER: ""Статут хулиганов"!"
+
+ STT_set_mark: "Для передачи или коробки."
+ STT_clear_mark: "Для передачи или королевства больше не будет § Помечено §!"
+
+ MARK_ALL_STATES: "§HMark Все [этот владелец. Возьмите на вооружение] Штаты §!"
+ MARK_ALL_STATES_DELAYED: "[! Марк_все_состояния_клик]"
+
+ MARK_COLONIES: "§HMark Разъединенные государства, которые не связаны со столицей."
+ MARK_COLONIES_DELAYED: "[! Марк_колониальный_статус_клик]"
+
+ MARK_NONCORE: "§HMark [Этот владелец."
+ MARK_NONCORE_DELAYED: "[! Марк_Noncore_ States_click]"
+
+ CLEAR_ALL_MARKINGS: "§HClear All Marked States §!"
+ CLEAR_ALL_MARKINGS_DELAYED: "[Удаление всех знаков]"
+
+ AWARD_STATES: "§HTransfer States §! n-n-will передаст все помеченные состояния в §Y [Этот владелец. GetNameDef]§!"
+ AWARD_STATES_DELAYED: "[!award_states_click]"
+
+ add_core_loc: "[Это. Получите код Коре Правило Деск]"
+ ADD_CORE_STATES: "§HAdd [Это.владелец. Найти адаптивное] Cores §! ~nNNWW будет добавлять [Это.владелец. Настраивать] ядра ко всем отмеченным состояниям, которые еще не являются [этим владельцем."
+ ADD_CORE_STATES_MP: "§HAdd [Этот владелец."
+ ADD_CORE_STATES_DELAYED: "[добавить_cores_click]"
+
+ remove_core_loc: "[Это. Уберите Коре Правило Деск]"
+ REMOVE_CORE_STATES: "§HRemove [Этот владелец. Найти адаптивное] Cores §! nn-will удаляет [этот владелец. Наберите адаптивное] ядра из всех помеченных состояниях, которые уже являются [этим владельцом. Найти адаптивное] ядро."
+ REMOVE_CORE_STATES_MP: "§HRemove [Этот владелец. Get Adquest] Cores §! n §R Disable in multiplayer! §!"
+ REMOVE_CORE_STATES_DELAYED: "[отменить]"
+
+ add_claim_loc: "[Это. Получите заявление в соответствии с правилом &quot; Desc &quot; ]"
+ ADD_CLAIM_STATES: "§HAdd [Это.владелец."
+ ADD_CLAIM_STATES_MP: "§HAdd [Этот владелец. Get Adquestive] Претензии §! n §R Недееспособный в мультиплейере! §!"
+ ADD_CLAIM_STATES_DELAYED: "[-добавить_претензии_ссылка]"
+
+ remove_claim_loc: "[Это. Отменить заявление]"
+ REMOVE_CLAIM_STATES: "§HRemove [Этот владелец. Get Adquestive] Претензии §! nn-will удаляет [этот владелец.Get Adquestive] претензии из всех помеченных государств, которые уже являются [этот владелец.getAdquest] претензиями."
+ REMOVE_CLAIM_STATES_MP: "§HRemove [Этот владелец. Get Adquestive] Претензии §! n §R Недееспособный в мультиплейере! §!"
+ REMOVE_CLAIM_STATES_DELAYED: "[отменить] [претензии]"
+
+ mark_country_tooltip_loc: "[THIS.mark_country_tooltip]"
+
+ COUNTRY_MARKING: ""Страна Марк"!"
+ CLEAR_COUNTRY_MARKING: "§HClear маркированная страна §!"
+ mark_country_tooltip_desc: "[! Марк_страна_клик]"
+
+ STT_set_country_mark: "§H [Этот владелец. GetNameWithFlag] §! будет помечен §! для марионетки, присоединения к группировке/выхода из нее и войны/мира."
+ STT_clear_country_mark: "§H [Знаменитая страна. GetNameWithFlag] §! больше не будет § § Помечено §! для марионетки, для присоединения к группировке/выхода из нее и для войны/мира."
+
+ ADD_PUPPET_LOC: "[THIS.ad_puple_tooltip]"
+ ADD_PUPPET_LOC_TT: ""Возьмите субъект!" - и превратите §H [Знаменитая страна. Найдите Флаг]§! - в тему §H [Этот владелец. Наймите Флаг]§!"
+ ADD_PUPPET_DEFAULT: "§ Сделай субъект §!"
+ ADD_PUPPET_LOC_DELAYED: "[добавить к куколке]"
+
+ REMOVE_PUPPET_LOC: "[THIS.remove_puppet_tooltip]"
+ REMOVE_PUPPET_LOC_TT: "§HRemove субъект §! ~n ~n Удалит §H [Знаменитая страна. Возьмите Наме вместе с Флагом] §!"
+ REMOVE_PUPPET_DEFAULT: "Подождите, подождите!"
+ REMOVE_PUPPET_LOC_DELAYED: "[отменить куклу]"
+
+ ADD_FACTION_LOC: "[THIS.ad_faction_tooltip]"
+ ADD_FACTION_LOC_TT: "§Hoin the [Этот владелец. GetFactionName] §!!n §H [Знаменитая страна. GetNameWithFlag] §! присоединится к §H [Этот владелец. GetNameWithFlag]§!"
+ ADD_FACTION_LEADER_LOC_TT: "§Hmake Faction Lead §! n §H [Знаменитая страна. GetNameWithFlag] §! станет новым лидером [маркированной страны. GetFactionName]."
+ ADD_FACTION_DEFAULT: "§HAdd к Faction§!"
+ ADD_FACTION_LOC_DELAYED: "[добавить_fact_click]"
+
+ REMOVE_FACTION_LOC: "[THIS.remove_faction_tooltip]"
+ REMOVE_FACTION_LOC_TT: "§HLED [Знаменитая страна. GetFactionName] §! ~n ~nWill удаляет §H [маркированная страна. GetNameWithFlag] §! из [маркированная страна. GetFactionName]."
+ REMOVE_FACTION_DEFAULT: "§HREMOVE от Faction§!"
+ REMOVE_FACTION_LOC_DELAYED: "[-отменить_фракция_клик]"
+
+ ADD_PEACE_LOC: "[THIS.ad_peace_tooltip]"
+ ADD_PEACE_LOC_TT: "§H [Знаменитая страна.] §!, включая всех союзников, положит конец войне с §H [Эта владелица. Гет Наме Ведение Флаг] §! и их союзниками."
+ ADD_PEACE_ALL_WARS_LOC_TT: ""Мир от всех войн!" §H [Знаменитая страна. Найти Флаг] §! будет белый мир от всех войн, в которых он сейчас находится."
+ ADD_PEACE_DEFAULT: "Сделай мир!"
+ ADD_PEACE_LOC_DELAYED: "[добавить мир]"
+
+ ADD_WAR_LOC: "[THIS.добавить_War_Tooltip]"
+ ADD_WAR_LOC_TT: "§HDeclare War on [Этот владелец. GetNameDef] §!n §H [Знаменитая страна. GetNameWithFlag]§! Объявит войну §H [Этот владелец. GetNameWithFlag]§!"
+ ADD_WAR_DEFAULT: "Война закончилась!"
+ ADD_WAR_LOC_DELAYED: "[добавить мир]"

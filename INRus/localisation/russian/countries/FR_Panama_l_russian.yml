@@ -1,0 +1,65 @@
+l_russian:
+
+###Parties
+ PAN_vanguardist_party_long: "Партия &lt; &lt; Марксиста де панама &gt; &gt;"
+ PAN_vanguardist_party: "ПИЧ"
+ PAN_collectivist_party_long: "Панамская синдикалистическая партия"
+ PAN_collectivist_party: "ПСП"
+ PAN_libertarian_socialist_party_long: "Partido Laborista"
+ PAN_libertarian_socialist_party: "PL"
+ PAN_social_democrat_party_long: "Революционная партия &lt; &lt; Демократия &gt; &gt;"
+ PAN_social_democrat_party: "ПОД"
+ PAN_social_liberal_party_long: "Национальная либеральная партия (Progresista)"
+ PAN_social_liberal_party: "PNL (Progresista)"
+ PAN_market_liberal_party_long: "Национальная либеральная партия (консервадор)"
+ PAN_market_liberal_party: "PNL (консервадор)"
+ PAN_social_conservative_party_long: "Консервадор партии &lt; &lt; Партидо &gt; &gt;"
+ PAN_social_conservative_party: "ПК"
+ PAN_authoritarian_democrat_party_long: "Национальная революционная партия (консервадор)"
+ PAN_authoritarian_democrat_party: "НПР (консервадор)"
+ PAN_paternal_autocrat_party_long: "Национальное объединение &lt; &lt; Патриотика &gt; &gt;"
+ PAN_paternal_autocrat_party: "КПН"
+ PAN_national_populist_party_long: "Национальная революционная партия (Радиальная)"
+ PAN_national_populist_party: "PNR (радиальная)"
+  PAN_national_populist_party_long: "Национальная революционная партия (расист-валькист)"
+ PAN_national_populist_party: "НПР (радикальный валькист)"
+
+
+
+#Decisions
+ PAN_panama_canal_category: "Панамский канал"
+ PAN_panama_canal_desc: "Панамский канал уже давно управляется США, и теперь мы наконец можем сделать его частью Панамы."
+ PAN_remove_monroe: "Отмена доктрины Монро"
+ PAN_seize_canal: "Захват канала"
+ PAN_coto_category: "Регион Кото"
+ PAN_pressure_coto_36: "Давление костариканцев"
+ PAN_foreign_category: "Иностранные инвестиции"
+ PAN_investment_decision: "Поиск инвестиций"
+
+#Flags
+
+### Characters ###
+ PAN_demetrio_augusto_porras_juarez: "Деметрио Аугусто Поррас Хуарес"
+ PAN_ricardo_alfaro_jovane: "Рикардо Альфаро Йоване"
+
+ PAN_juan_demostenes_arosemena: "Хуан Демостены Аросемена"
+ PAN_juan_demostenes_arosemena_leader_desc: "Хуан Аросемена, несмотря на политическую либерализацию, является лидером консервативной фракции Либеральной партии; он популярен среди многих панамцев, даже не либеральных. Многие считают его единственным человеком, который может вывести Панаму из этого трудного времени."
+
+ PAN_harmodio_arias_madrid: "Хармодио Ариас Мадрид"
+ PAN_harmodio_arias_madrid_leader_desc: "Хармодио Ариас Мадрид является основателем Национальной революционной партии. Вместе со своим братом Арнульфо Ариасом Мадридом он возглавлял новое правительство после переворота в 1931 году. Он популярен среди народа, несмотря на то, что не имеет большого опыта в политических вопросах."
+
+ PAN_manuel_pino: "Мануэль Пино"
+ PAN_manuel_pino_leader_desc: "Мануэль Пино, глава национальной полиции и ее подпольный политический фронт "Коалиция Патриотика Националь", ввел в состав национальной полиции множество модернизаций и планирует превратить ее в настоящую армию, теперь, когда он президент, с политической точки зрения, он является хитростью, которую многие люди считают авторитарным грубием, но он может быть готов пойти на компромисс с демократическими группировками, если это означает, что он может остаться у власти..."
+
+ PAN_arnulfo_arias_madrid: "Арнульфо Ариас Мадрид"
+ PAN_boris_nestor_martinez_salazar: "Борис Нестор Мартинес Салазар"
+ PAN_jose_antonio_remon_cantera: "Хосе Антонио Ремон Кантера"
+ PAN_alcibiades_arosemena: "Arosemena"
+ PAN_roberto_francisco_chiari_remon: "Роберто Франсиско Чиари Ремон"
+ PAN_daniel_chanis_pinzon: "Даниэль Чанис Пинзон"
+ PAN_ricardo_adolfo_de_la_guardia_arango: "Рикардо Адольфо де ла Гвардия Аранго"
+ PAN_augusto_samuel_boyd: "Августо Самуэль Бойд"
+ PAN_henrique_de_obarrio_vallarino: "Энрики де Обаррио Вальярино"
+ PAN_marcos_gelabert: "Маркос Гелаберт"
+ PAN_arturo_osborne_irraga: "Артуро Осборн Иррага"
+

@@ -1,0 +1,773 @@
+l_russian:
+
+###################
+### Please note ###
+###################
+# The splash screen credits are a list of all current contributors to the mod. It isn't a full list of everyone who helps out, or everyone who has ever helped
+# A more complete list can be found in \interface\credits.txt
+# When updating this list, please make sure to also update that credit list as well, as well as updating the other credit lists we keep (change notes, steam workshop descriptions etc.)
+# Some of those can only be updated by a Kaiserdev, so if you aren't one, please tell one when updating this list
+
+### Main Menu ###
+ play_in_english_tt: ""
+
+### Splash Screen ###
+ KR_welcome_splash_tab_1: "Страна"
+ KR_welcome_splash_tab_2: "Путеводители"
+ KR_welcome_splash_tab_3: "Как играть"
+ KR_welcome_splash_tab_4: "Кредиты"
+ mod_options_button_text: "Продолжить"
+
+ ## TAB 1 - all needed to avoid starting errors ##
+ KR_welcome_splash_tab_1_header: "[Быстрее. Щелчок по стране ]"
+ KR_welcome_splash_tab_1_content: "[Встретимся в стране]"
+ country_intro_background: "GFX_KR_default_intro"
+ country_intro_header: "$KR_scenario_name$"
+ country_intro_header_1: "$KR_scenario_desc$"
+ country_intro_header_2: "$KR_scenario_desc$"
+ country_intro_header_3: "$KR_scenario_desc$"
+ country_intro_header_4: "$KR_scenario_desc$"
+ country_intro_header_5: "$KR_scenario_desc$"
+
+ country_intro_content: "$KR_scenario_desc$"
+ country_intro_content_1: "$KR_scenario_desc$"
+ country_intro_content_2: "$KR_scenario_desc$"
+ country_intro_content_3: "$KR_scenario_desc$"
+ country_intro_content_4: "$KR_scenario_desc$"
+ country_intro_content_5: "$KR_scenario_desc$"
+
+ country_intro_page_indicator: "[GetCurrPage CountryIntro] [GetPage Countron Intro]"
+
+ guide: ""
+ guide_1: ""
+ guide_2: ""
+ guide_3: ""
+
+ ## TAB 2 ##
+ KR_welcome_splash_tab_2_reveal_spoilers_button: "Спойлеры?"
+ KR_welcome_splash_tab_2_header: "Получите наименование Дефкап."
+ KR_welcome_splash_tab_2_content: "[Пострановое руководство]"
+
+ country_guide_page_indicator: "[GetCurrPage Country Guide] [GetPage CountryGuide]"
+
+ ## TAB 3 ##
+ KR_welcome_splash_tab_3_content: "§!! ~ n yhit_dot n yat_dot ni yight_dot n ni yight_dot n ni leight_dot n ni leat_dot n ni ni §YReporting Issues: §! \n this mod все еще находится в разработке, так что жуки и аварии возможны. Если вы сталкиваетесь с какими-либо проблемами, сообщите о них нашему §YGitHub packer §!, чтобы помочь нам их быстро исправить. Ссылка может быть найдена в меню пауз."
+ KR_welcome_splash_tab_3_content_0: "Кайзеррейх также устанавливает ограничения на дипломатические действия, такие, как § Ранние войны §!, §Ractions §! и §Rauthonomic systems §!. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+
+ ## TAB 4 ##
+ KR_CURRENT_VERSION: "1.5.2"
+ KR_CURRENT_VERSION_NAME: "Храбрый новый мир"
+ KR_CURRENT_VERSION_COMBINED: "Kaiserreich $KR_CURRENT_VERSION$\"$KR_CURRENT_VERSION_NAME$\""
+ KR_welcome_splash_tab_4_upper_header: "Добро пожаловать на $KR_CURRENT_VERSION_COMBINED$§!"
+ KR_welcome_splash_tab_4_lower_header: "Замечательно сфабриковано командой Кайзеррейха: §!"
+ KR_welcome_splash_tab_4_content: "$KR_welcome_splash_tab_4_content_1$\n$KR_welcome_splash_tab_4_content_2$\n$KR_welcome_splash_tab_4_content_3$\n$KR_welcome_splash_tab_4_content_4$\n$KR_welcome_splash_tab_4_content_5$\n$KR_welcome_splash_tab_4_content_6$\n$KR_welcome_splash_tab_4_content_7$\n$KR_welcome_splash_tab_4_content_8$\n$KR_welcome_splash_tab_4_content_9$"
+
+ KR_welcome_splash_tab_4_content_0: "Наша команда упорно работала со всех уголков мира, чтобы принести вам эту новую версию, и мы не можем быть более польщены тем, что вы выбрали её. Мы надеемся, что вам понравится играть в Кайзеррейха так же, как мы сделали это!"
+ KR_welcome_splash_tab_4_content_1: "Alpinia - Angel - Antony Oliver - Arvidus - Augenis - Awsome Guy49 - Blackfalcon501"
+ KR_welcome_splash_tab_4_content_2: "Casrabbit carmain cazadorian clavedAsh Chiang Kai-shrek Ciron29"
+ KR_welcome_splash_tab_4_content_3: "Коди - Делиберус - Дерехерне Рахер - Дидинг-Однажды - Дюо-Декс - Эль-Падди - Падение - Робин"
+ KR_welcome_splash_tab_4_content_4: "Федекс Фламефанг Фрилл Шарк Габоэми Георгий Гре Хамфаст Хасо Хекскрон"
+ KR_welcome_splash_tab_4_content_5: "Идо - Игори-050301 - Джаззи-Хью - Жанкедезехон - Джерв - Джонни БЛ - Кано - Катиэлука"
+ KR_welcome_splash_tab_4_content_6: "KFateweaver Klyntar Krco lehmannmo Matoro McOmmhall MrMano"
+ KR_welcome_splash_tab_4_content_7: "~mw~ / miwaco. ~ Noot · Pelmen · PPsyrius · Purple Jinjo · Rnk · Sasha ~ Shore ~ Sonny O'Cad"
+ KR_welcome_splash_tab_4_content_8: "SuperGreenBeans ~ zan_mi.ya / Alpha Dog / The Don Golian / The Irredentista"
+ KR_welcome_splash_tab_4_content_9: "Итальянский Jojo ; Toaster ; Vidyaország ; Владимир Лемон ; Zimbia Salt Co."
+
+### Career Profile ###
+ KAISERREICH_CAREER_PROFILE: "Кайзеррейх"
+
+### Diplomacy Tooltips ###
+ REQUEST_EXP_FORCE_BLOCKED_GENERIC_TT: "Эта страна не позволяет вам просить их силы!"
+
+ REQUEST_EXP_FORCE_BLOCKED_CROWNLAND_HUNGARY_TT: "§R Венгерская наследница не позволяет вам требовать от своих сил до тех пор, пока не будут проведены переговоры между Королем и Королем Осглёхом 1947 года. §!"
+
+ REQUEST_EXP_FORCE_BLOCKED_CROWNLAND_OTHER_TT: "§R Австрийские наследники не позволяют вам просить их силы до тех пор, пока не будут приняты Драктические меры в Dire Times или Cisleitania Common.§!"
+
+ REQUEST_EXP_FORCE_BLOCKED_CHINA_TT: "Военачальники из Китая, которые являются ассоциированными мухафазами, не позволяют вам просить их силы до тех пор, пока они не будут интегрированы по крайней мере на одном уровне!"
+
+ REQUEST_EXP_FORCE_BLOCKED_SHANXI_TT: "§RShanxi не позволяет вам просить их силы, пока не закончится борьба Яна Сишана-Фэна Юсяна! §!"
+
+ EMBARGO_THREAT_TT: "Напряженность в мире должна быть выше §Y50%§!§!"
+
+ REVOKE_EMBARGO_SCRIPTED_TT: "Это эмбарго не может быть отменено!"
+ REVOKE_EMBARGO_SAME_ECONOMIC_SPHERE_TT: "§ § §! §!"
+ REVOKE_MARKET_ACCESS_SAME_ECONOMIC_SPHERE_TT: "§ § § §!"
+
+ RECALL_VOLUNTEERS_TITLE: "Помните Добровольцев"
+ RECALL_VOLUNTEERS_ACTION_DESC: "Вспомните всех добровольцев, направленных в эту страну."
+ RECALL_VOLUNTEERS_ACTION_SEND_DESC: "Вспомните всех добровольцев, посланных в §Y [FROM. GetNameDef]§!?"
+
+### Regular Tooltips ###
+ puppet_but_keep_government_tt: "§H [Значок_страна. Гетфлаг] §H [[Беб_Владелец. Гетнам]§! становится марионеткой §H [[Беб_Владелец. Гетнам]§!, но сохраняет свою нынешнюю популярность в правительстве и партиях."
+
+ RULE_GUARANTEES_AFTER_WK2_TT: "§RBefore Second Weltkrieg начинается, гарантии могут быть предоставлены только через национальные фокусы, события и решения.§!"
+ RULE_WARGOALS_AFTER_WK2_TT: "§RBefore the Second Weltkrieg начинается, военные цели могут быть достигнуты только благодаря национальным фокусам, событиям и решениям.§!"
+ RULE_NO_WARGOALS_ON_ALLIED_PUPPETS_TT: "§R$DIPLOMACY_DEM_NO_TREAT_ON_ODEVENDY$§!"
+ RULE_DISABLED_IN_KR_TT: "- Недееспособный в Кайзеррейхе!"
+
+
+### Diplomacy Triggers ###
+ cannot_call_allies_or_join_wars: "Не могут звонить союзникам или вступать в войны"
+ cannot_call_allies_or_join_wars_except_subjects: "Не могут звонить союзникам или вступать в войны (за исключением предметов)"
+ cannot_call_allies_or_join_wars_warning: "Не могу звонить союзникам или вступать в войны!"
+ cannot_call_allies_or_join_wars_warning_FROM: "§Rt не может вызывать союзников или вступать в войны! §!"
+
+ cannot_receive_volunteers: "Не удалось получить добровольцев"
+ cannot_receive_volunteers_warning: "Я не могу принимать добровольцев!"
+
+### Regional Triggers ###
+ is_in_asia: "Это страна азиатская!"
+ is_in_india: "Это страна §YIndian§!"
+ is_in_europe: "Это страна, которая является европейцем!"
+ is_in_africa: "Это страна § § § §!"
+ is_in_north_africa: "Это §North African§!"
+ is_in_north_america: "Это §North American§!"
+ is_in_central_america: "Это страна Центральной Америки!"
+ is_in_caribbean: "Это страна § YCaribbean §!"
+ is_in_south_america: "Это страна Южной Америки!"
+ is_in_americas: "Это страна § § § §!"
+ is_in_middle_east: "Это страна Ближнего Востока!"
+ is_in_oceania: "Это страна § § Океана!"
+
+ is_american_tag: "Это американская страна"
+ is_arab_tag: "Является арабской страной"
+ is_arabian_tag: "Является арабской страной"
+ is_libya_tag: "является ливийской страной"
+ is_portuguese_tag: "Является португалоговорящей страной"
+ is_brazilian_tag: "Это бразильская страна."
+ is_chinese_tag: "Это китайская страна"
+ is_chinese_tag_flag: "Это китайская страна"
+ is_dutch_tag: "Является страной, говорящей на голландском языке"
+ is_english_tag: "Является англоязычной страной"
+ is_commonwealth_tag: "Является ли страна Содружества"
+ is_british_tag: "Является ли британская страна"
+ is_catholic_tag: "Католическая страна"
+ is_french_tag: "Это французская страна."
+ is_french_africa_tag: "Это французская африканская страна"
+ is_french_speaking_tag: "Является франкоговорящей страной"
+ is_german_tag: "Немецкая страна"
+ is_germany_or_splinter_tag: "Немецкая страна"
+ is_italian_tag: "Это итальянская страна."
+ is_polish_tag: "Польская страна"
+ is_russian_tag: "Это русская страна."
+ is_south_slav_tag: "Южная Славская страна"
+ is_central_asian_tag: "является страной Центральной Азии"
+ is_spanish_speaking_tag: "является испаноязычной страной"
+ is_central_american_tag: "является страной Центральной Америки"
+ is_spanish_south_american_tag: "Испаноамериканская страна"
+ is_quechua_speaking_tag: "Является страной, говорящей на языке кечуа"
+ is_indian_tag: "Является ли индийская страна"
+ is_farsi_speaking_tag: "Является страной, говорящей на фарси"
+ is_malay_speaking_tag: "Является ли страна, говорящая на малайском языке"
+ is_danubian_tag: "Данубианская страна"
+ is_federal_austria: "Это федеральная Австрия."
+ is_balkan_tag: "Это балканская страна"
+ is_belgian_tag: "Бельгийская страна"
+ is_uighur_tag: "Это страна Уйгура"
+ is_scandinavian_tag: "Скандинавская страна"
+ is_czechoslovak_tag: "Это чехословацкая страна."
+ is_turkish_tag: "является страной, говорящей на турецком языке"
+ is_romanian_tag: "Это страна, говорящая на румынском языке"
+ is_greek_tag: "Это страна, говорящая на греческом языке"
+ is_baltic_tag: "является балтийской страной"
+
+### Actual Major Power Tooltip ###
+ is_actual_major_tooltip_base: "является крупной мировой державой:"
+ is_actual_major_tooltip_major: "[THIS. Major World Power_ MajorCheck] $TRIGGER_IS_MAJOR$"
+ is_actual_major_tooltip_OR: "~n $TRIGGER_OR_ STARS$"
+ is_actual_major_tooltip_seven_largest: "У [THIS. Major World Power_AmongSeven majorst Industries] есть одна из седьмых крупнейших в мире экономик"
+ is_actual_major_tooltip_average: "[THIS. Major World Power_MoreThanSeventyPersentAverage] имеет более §H70% §!"
+ is_actual_major_tooltip_INT: "[THIS. Major World Power_IINT] Лидер § § Third International §!"
+ is_actual_major_tooltip_ENT: "Это лидер §YEntente§!"
+ is_actual_major_tooltip_GEX: "Это §Y [GEX. GetNameWithFlag] §!"
+
+ is_actual_major: "$is_actual_major_without_exceptions$$is_actual_major_tooltip_INT$$is_actual_major_tooltip_ENT$$is_actual_major_tooltip_GEX$"
+ is_actual_major_without_exceptions: "$is_actual_major_tooltip_base$$is_actual_major_tooltip_major$$is_actual_major_tooltip_OR$$is_actual_major_tooltip_seven_largest$$is_actual_major_tooltip_average$"
+
+### Political Tab UI ###
+ power_balance_button_disabled: "Ваша страна не имеет активной системы §Власть§!!"
+
+### Options GUI ###
+ kr_options_title: "§Kaiserreich Options§!"
+ kr_options_tooltip: "Параметры игры для Kaiserreich"
+
+ kr_help_title: "§NEYD Information Screen §!"
+ kr_help_tooltip: "Нажмите, чтобы открыть §Yintro экран §!!. n nnContines: ~white_dot информация о вашей нации, #white_dot список §Cpath guidelines §! специфической для него, ~n light_dot информации о специфических особенностях мода, и ~n light_dot титров мода."
+
+ custom_achievements_text: "Конкретные достижения"
+ custom_achievements_tooltip: "§GClick§! здесь, чтобы попробовать раскрыть заказные достижения."
+
+ rename_text: "Переименование штата/VP"
+ rename_tooltip: "§GClick§! здесь, чтобы переосмыслить динамическое переименование государств и точек победы на основе их текущего контроллера."
+
+ sound_events_text: "Звуковые события"
+ sound_events_tooltip: "§GClick§! здесь для того, чтобы поиграть в звуковые события. nnSound Actions играет музыку, адаптированную к ключевым моментам в вашем проигрыше для некоторых стран. ~n ~ n no that доступен для вас, потому что вы играете с Kaiserreich Music mod."
+
+ regional_news_text: "Региональные информационные мероприятия"
+ regional_news_tooltip: "§GClick§! здесь для того, чтобы заглянуть в новости о глобальных событиях, которые непосредственно затрагивают принимающие их страны."
+
+ world_news_text: "Мероприятия, посвященные мировым новостям"
+ world_news_tooltip: "§GClick§! здесь для того, чтобы заглянуть в новости для всех глобальных событий, независимо от того, что имеет отношение к принимающей их стране."
+
+### Economic Spheres GUI ###
+ is_in_economic_sphere: "Это часть § § § экономической сферы!"
+ is_in_economic_sphere_NOT: "§Rnot§! Часть § § экономической сферы!"
+
+ is_economic_sphere_leader: "Лидер § § § § § §!"
+ is_economic_sphere_leader_NOT: "Это §Rnot§! Лидер § § § § в сфере §!"
+
+ is_in_same_economic_sphere_as: "В той же § § экономической сфере, что и в $COUNTRYY$"
+ is_in_same_economic_sphere_as_NOT: "§Rnot§! в той же § § § § § § §!"
+
+ is_in_economic_sphere_led_by: "Это часть экономической сферы $COUNTRYYY$ §!"
+ is_in_economic_sphere_led_by_NOT: "Это §Rnot§! часть $country_Y$ § § § в § экономической сфере!"
+
+ is_leader_of_economic_sphere_of: "Лидер $COUNTRYYY$ countryyY$ code §!"
+ is_leader_of_economic_sphere_of_NOT: "Это §Rnot§! Лидер $COUNTRYYY$ §"
+
+ economic_sphere_button_tooltip: "§ § [Улучшение экономического положения] §!"
+ economic_sphere_button_tooltip_delayed: "§ [Улучшение экономического положения и развития] §!"
+
+ economic_sphere_default_name: "Экономическая сфера"
+ economic_sphere_default_icon: "GFX_Цель_генерия_позитивная_торговля_отношения_золото"
+ economic_sphere_default_desc: ""
+
+### International Market Triggers ###
+ trade_partners_at_peace: "Страны, живущие в мире"
+ trade_partners_at_war: "Страны, находящиеся в состоянии войны"
+ trade_partners_majors: "Основные страны"
+ trade_partners_faction_leader: "Лидер движения"
+ trade_partners_faction_members: "Все члены Фракции"
+ trade_partners_major_faction_members: "Основные члены Фракции"
+ trade_partners_minor_faction_members: "Незначительные члены Фракции"
+ trade_partners_reichspakt: "Все страны [ГЕР.Гетфакция]"
+ trade_partners_internationale: "Все страны [INT.GetFactionName]"
+ trade_partners_entente: "Все страны"
+ trade_partners_moscow_accord: "Все страны [RUS.GetFaction Name]"
+ trade_partners_co_prosperity_sphere: "Все страны [JAP.GetFactionName]"
+ trade_partners_overlord: "Повелитель"
+ trade_partners_puppets_of_same_overlord: "Куклы нашего повелителя"
+ trade_partners_same_economic_sphere: "Члены нашей экономической сферы"
+ trade_partners_mitteleuropa: "Члены $mitteleuropa_"
+ trade_partners_phalanstere: "Члены $INT_phalanstere$"
+ trade_partners_iedc: "Члены $CAN_iedc"
+ trade_partners_geacps: "Члены $JAP_asian_ economic_phere$"
+ trade_partners_non_aggression_pacts: "Стороны, подписавшие Пакт о ненападении"
+ trade_partners_guarantors: "Гранты"
+ trade_partners_same_government: "Страны с одним и тем же правительством"
+ trade_partners_different_government: "Страны с различным правительством"
+ trade_partners_same_government_type: "Страны с одним и тем же правительством"
+ trade_partners_different_government_type: "Страны с различными типами правительств"
+ trade_partners_socialists: "Все социалистические страны"
+ trade_partners_non_socialists: "Все несоциалистские страны"
+ trade_partners_vanguardists: "$vanguardist$ Countries"
+ trade_partners_collectivists: "$collectivist$ Countries"
+ trade_partners_libertarian_socialists: "$libertarian_socialist$ Countries"
+ trade_partners_is_elected: "$social_democrat$, $social_liberal$, $market_liberal$ or $social_conservative$ Countries"
+ trade_partners_is_democratic: "$social_democrat$, $social_liberal$, $market_liberal$, $social_conservative$ or $authoritarian_democrat$ Countries"
+ trade_partners_is_liberal: "$social_democrat$, $social_liberal$ or $market_liberal$ Countries"
+ trade_partners_is_conservative: "$social_conservative$ or $authoritarian_democrat$ Countries"
+ trade_partners_social_democrats: "$social_democrat$ Countries"
+ trade_partners_social_liberals: "$social_liberal$ Countries"
+ trade_partners_market_liberals: "$market_liberal$ Countries"
+ trade_partners_social_conservatives: "$social_conservative$ Countries"
+ trade_partners_is_authoritarian: "$authoritarian_democrat$, $paternal_autocrat$ or $national_populist$ Countries"
+ trade_partners_is_dictatorship: "$paternal_autocrat$ or $national_populist$ Countries"
+ trade_partners_authoritarian_democrats: "$authoritarian_democrat$ Countries"
+ trade_partners_paternal_autocrats: "$paternal_autocrat$ Countries"
+ trade_partners_national_populists: "$national_populist$ Countries"
+ trade_partners_monarchies: "Все монархии"
+ trade_partners_republics: "Все республики"
+ trade_partners_north_america: "Североамериканские страны"
+ trade_partners_central_america: "Центральноамериканские страны"
+ trade_partners_caribbean: "Карибские страны"
+ trade_partners_south_america: "Южноамериканские страны"
+ trade_partners_europe: "Европейские страны"
+ trade_partners_africa: "Африканские страны"
+ trade_partners_north_africa: "Североафриканские страны"
+ trade_partners_africa_except_north: "Африканские страны Subsaharan"
+ trade_partners_asia: "Азиатские страны"
+ trade_partners_india: "Индийские страны"
+ trade_partners_asia_except_india: "Восточноазиатские страны"
+ trade_partners_middle_east: "Страны Ближнего Востока"
+ trade_partners_oceania: "Страны океана"
+ trade_partners_neighbours: "Соседи"
+ trade_partners_same_continent_neighbours: "Те же континентальные соседи"
+ trade_partners_home_area_neighbours: "Соседи по району проживания"
+
+### Static Modifiers ###
+ volunteer_limit_plus_three: "Увеличение лимита для добровольцев"
+ volunteer_limit_plus_three_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?3|0+=]"
+ volunteer_limit_plus_two: "$volunteer_limit_plus_three$"
+ volunteer_limit_plus_two_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?2|0+=]"
+ volunteer_limit_plus_one: "$volunteer_limit_plus_three$"
+ volunteer_limit_plus_one_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?1|0+=]"
+ volunteer_limit_plus_fifty_percent: "$volunteer_limit_plus_three$"
+ volunteer_limit_plus_fifty_percent_tt: "$MODIFIER_SEND_VOLUNTEER_FACTOR$: [?0.5|+=%]"
+ volunteer_limit_plus_hundred_percent: "$volunteer_limit_plus_three$"
+ volunteer_limit_plus_hundred_percent_tt: "$MODIFIER_SEND_VOLUNTEER_FACTOR$: [?1|+=%]"
+
+### Continents ###
+ is_actually_an_island: "() — островное государство."
+
+### Intelligence Agency Blocker ###
+ INTELLIGENCE_AGENCY_BLOCK_TOOLTIP: "[!разведка_агентство_блокировщик_batt_clic_с приводом]"
+
+### Autonomy Levels ###
+ integrated_puppet: "Комплексная кукла"
+ autonomy_integrated_puppet: "Комплексная кукла"
+ occupied_puppet: "Оккупированная кукла"
+ default_puppet: "Кукла"
+ autonomous_puppet: "Автономная кукла"
+ colonial_government: "Колониальное правительство"
+ french_colonial_government: "Колониальное правительство"
+ nominal_puppet: "Номинальная кукла"
+ special_autonomous_dependency: "Автономные иждивенцы"
+ federated_colony: "Федеративная колония"
+ federated_dominion: "Федеративный Доминион"
+ ottoman_emirate: "Оттоманский эмират"
+ ottoman_international_zone: "Международный мандат"
+ federated_state: "Конфедеративное государство"
+ crownland: "Корона"
+ oststaat: "Остстаат"
+ oststaat_autonomous: "Автономный остстаат"
+ kr_mitteleuropa_integrated_member: "Интегрированный член компании &lt; &lt; Миттел европа &gt; &gt;"
+ autonomous_territory: "Автономная территория"
+
+### Autonomy Tooltips ###
+ can_lower_autonomy_level: "Может снизить уровень автономии"
+ can_raise_autonomy_level: "Может повысить уровень автономии"
+ puppet_can_become_free: "Может стать независимым"
+ puppet_can_be_annexed: "Может быть аннексирован повелителем"
+ may_raise_autonomy: "ACY[Root. GetNameDefCap]§! может поднять уровень автономии после того, как автономия будет достаточно повышена."
+ may_become_free: "ACY [Root. GetNameDefcap]§! может теперь работать в направлении независимости"
+ cannot_change_autonomy_manually: "§RCan не менять уровень автономии вручную§!"
+ clamour_for_independence: "Призыв к независимости"
+ clamour_for_autonomy: "Призыв к автономии"
+
+### Opinion Modifiers ###
+ KR_friendly: "Дружелюбный"
+ KR_hostile: "Враждебные действия"
+ KR_liberated_us: "Освободили нас"
+ KR_loyal_subject: "Лояльный предмет"
+ KR_diplomatic_mission: "Дипломатическое представительство"
+ KR_rival: "Риваль"
+
+ KR_close_allies: "Закрыть союзников"
+ KR_returned_land: "Возвращение нашей земли"
+ KR_approves_of_govt: "Утверждает правительство"
+ KR_pleased: "Удовлетворены нами"
+ KR_displeased: "Недовольны нашими поступками"
+ KR_disapproves_of_govt: "Недостатки правительства"
+ KR_diplomatic_row: "Дипломатический ряд"
+ KR_hates_govt: "Злость с правительством"
+ KR_outraged: "Разгневанный"
+ KR_supported_us: "Поддерживал наше правительство"
+ KR_supported_our_enemies: "Поддерживал наших врагов"
+
+ KR_trade_agreement: "Торговое соглашение"
+ KR_trade_sanctions: "Торговые санкции"
+
+ KR_different_ideology_close: "Разная идеология"
+ KR_different_ideology: "Разная идеология"
+ KR_similar_ideology_close: "Аналогичная идеология"
+ KR_similar_ideology: "Аналогичная идеология"
+ KR_similar_ideology_distant: "Аналогичная идеология"
+ KR_same_ideology: "Та же идеология"
+
+### Focus Filters ###
+ FOCUS_FILTER_PRODUCTION: "Производство"
+ FOCUS_FILTER_ARMY_BONUS: "Армия"
+ FOCUS_FILTER_NAVY_BONUS: "Военно-морские силы"
+ FOCUS_FILTER_AIRFORCE_BONUS: "Военно-воздушные силы"
+ FOCUS_FILTER_RESISTANCE: "Стойкость"
+ FOCUS_FILTER_LEC_CURRENCY: "Валютные резервы"
+ FOCUS_FILTER_GER_PREPAREDNESS: "Готовность к войне"
+ FOCUS_FILTER_RUS_POWER_PROJECTION: "Проекция мощности"
+
+### Autonomy Events ###
+ FROM_becomes_puppet: "§H [От GetNameDefcap] §! больше не является §H Занятой куклой §!"
+ FROM_becomes_autonomous_puppet: "§H [От GetNameDefcap] §! становится §HA автономным куклом §!!"
+ FROM_becomes_nominal_puppet: "§H [От GetNameDefcap] §! становится §HNominal Puppet §!"
+
+### Compliance ###
+ compliance_integration_50: "Интеграция"
+ compliance_integration_80: "Интеграция"
+ territorial_integration: "Интеграция"
+ territorial_integration_tt: "Дает ядро на состояние по достижении §H50% или 80% соблюдения §! (значение зависит от состояния)."
+
+### World Tension ##
+ AL_avricourt_shelled: "Деревня Аврикура, забитая CNY [GER.Bet nonIdeology NameDef]§!"
+ AL_elfringen_shelled: "Деревня Эльфринген Шеллед по §Y [FRA. Get nonIdeology NameDef]§!"
+ FRA_mobilizes_on_border: "§Y [FRA. Возьмите nonIdeology NameDefcap] §! Мобилизует свои силы на границе §Y [GER.GetAductive] §!"
+ GER_mobilizes_on_border: "§Y [ГЕР. Возьмите nonIdeology NameDefcap] §! Мобилизует свои силы на границе §Y [FRA.GetAductive] §!"
+ AL_avricourt_apology: "Извиняются за обстрел Avricourt"
+ AL_elfringen_apology: "§Y [FRA. Возьмите NonIdeology NameDefcap]§! Прошу прощения за обстрел Эльфрингена"
+ AL_avricourt_compensation_sent: "§Y[GER. Возьмите nonIdeology NameDefcap]§! компенсирует §Y [FRA. Get nonIdeology NameDef]§!"
+ AL_elfringen_compensation_sent: "§Y [FRA. Возьмите nonIdeology NameDefcap]§! компенсирует § §Y [GER. Get nonIdeology NameDef]§!"
+ AL_uneasy_ceasefire: "Неспокойное § Franco-German§!"
+ AL_rally_for_war: "§Y [THIS. Возьмите nonIdeology NameDefcap] §!"
+ country_joins_alliance_threat: "Присоединяется к § § § § [ПРЕВ.Гетфэкшн Найм]!"
+
+ second_weltkrieg_threat: "Второй Вельткриг"
+ second_weltkrieg_has_started: "Второй вельткриг уже начался."
+ second_weltkrieg_has_ended: "Второй Вельткриг закончился."
+
+### Operatives ###
+ operation_infiltrate_armed_forces_army_outcome: "$operation_infiltrate_armed_forces_army$ effectiveness"
+ operation_infiltrate_armed_forces_army_risk: "$operation_infiltrate_armed_forces_army$ risk"
+ operation_infiltrate_armed_forces_army_cost: "$operation_infiltrate_armed_forces_army$ cost"
+
+ operation_infiltrate_armed_forces_navy_outcome: "$operation_infiltrate_armed_forces_navy$ effectiveness"
+ operation_infiltrate_armed_forces_navy_risk: "$operation_infiltrate_armed_forces_navy$ risk"
+ operation_infiltrate_armed_forces_navy_cost: "$operation_infiltrate_armed_forces_navy$ cost"
+
+ operation_infiltrate_armed_forces_airforce_outcome: "$operation_infiltrate_armed_forces_airforce$ effectiveness"
+ operation_infiltrate_armed_forces_airforce_risk: "$operation_infiltrate_armed_forces_airforce$ risk"
+ operation_infiltrate_armed_forces_airforce_cost: "$operation_infiltrate_armed_forces_airforce$ cost"
+
+ operation_infiltrate_civilian_outcome: "$operation_infiltrate_civilian$ effectiveness"
+ operation_infiltrate_civilian_risk: "$operation_infiltrate_civilian$ risk"
+ operation_infiltrate_civilian_cost: "$operation_infiltrate_civilian$ cost"
+
+### Ship Name Lists ###
+ NAME_THEME_ISLANDS: "Острова"
+ NAME_THEME_ROYAL_BARGE: "Королевский барж"
+ NAME_THEME_ROYAL_HOUSES: "Королевские дома и здания"
+ NAME_THEME_MOUNTAINS: "Горы"
+ NAME_THEME_INSPIRATIONAL: "Внушает вдохновение"
+ NAME_THEME_GENERALS: "Генералы"
+ NAME_THEME_CALIPHS: "Калифы"
+ NAME_THEME_MONARCHS: "Монархи"
+ NAME_THEME_FAMOUS_PEOPLE: "Знаменитые люди"
+
+### Second in Command ###
+ second_in_command_slot: "Вторая командная"
+ second_in_command: "Вторая командная"
+ second_in_command_cost_factor: "Вторая в командной цене"
+ second_in_command_cost_factor_tooltip: "$second_in_command_cost_factor$: $RIGHT|-=%0$"
+
+### Character Tooltips ###
+ is_dead: "Умер."
+ is_dead_NOT: "Не умер."
+
+ is_second_in_command: "Вторая в командовании"
+ is_second_in_command_NOT: "Разве не второй в командовании?"
+
+ character_event_only: "Добавлено по мероприятию"
+
+ is_monarch: "Это монарх."
+ is_monarch_NOT: "Не монарх."
+
+ is_regent: "Ведет себя как регент"
+ is_regent_NOT: "Не действует как регент"
+
+ is_monarchy: "Это §ymonarchy§!"
+ is_monarchy_NOT: "Это §Rnot§! § § Имонархия!"
+
+### Mobilisation Effects ###
+ disband_ten_percent_units: "Разблокируйте §Y10%§! из всех постоянных дивизий, сохраняя свое оборудование."
+ disband_twenty_percent_units: "Разблокируйте §Y20%§! из всех постоянных дивизий, сохраняя свое оборудование."
+ disband_twenty_percent_units_delete_equipment: "Разблокируйте §Y20%§! из всех постоянных дивизий."
+ disband_fifty_percent_units: "Разблокируйте §Y50%§! из всех постоянных дивизий, сохраняя свое оборудование."
+
+### MIO Policies ###
+ mio_policy_general_industrial_self_sufficiency: "Самодостаточность промышленности"
+
+### Custom Triggers ###
+ is_in_faction_but_not_leader: "является группировкой, но не ее лидером"
+ is_in_faction_but_not_leader_NOT: "Лидер фракции или нет в фракции"
+
+ has_guarantor: "Гарантируется"
+ has_guarantor_NOT: "Не гарантируется"
+
+### Events ###
+ generic_events.100.t: "Распорядок восстановлен в [Root. GetNameDef]"
+ generic_events.100.d: "В то время как [Root.GetNameDef] все еще работает под контролем [Root.overlord.Get Adquesty], [Root.Get Adquestive] военные установили достаточный контроль над нашими собственными границами, что теперь можно использовать подобие большей автономии. Это не независимость - далеко от нее, но это означает, что мы больше не должны полагаться на [Root.overd.GetAdguctive] войска для обеспечения безопасности наших границ."
+ generic_events.100.a: "Отлично."
+
+ generic_events.101.t: "Приказ восстановлен в [от GetNameDef]"
+ generic_events.101.d: "В то время как [от GetNameDef] все еще работает под контролем [от Goot.GetAdquctive], [от Get Adquitive] военные установили достаточный контроль над своими собственными границами, что сейчас возможно подобие автономии. Это не независимость - далеко от нее, - но это означает, что им больше не нужно полагаться на [от Goot.GetAdquctive] войска для обеспечения безопасности своих границ, и поэтому они не так сильно находятся под нашим контролем."
+ generic_events.101.a: "Так тому и быть."
+
+ generic_events.102.t: "Большую автономию?"
+ generic_events.102.d: "[Круг. GetNameDefCap] остается под контролем правительства, но этот контроль, несомненно, начинает ослабевать по мере того, как наша сила подтвердит себя. Сила не легко сдерживать, и уже наши лидеры требуют большего контроля над нашими собственными делами. Конечно, наш повелитель не сможет долго сопротивляться нам."
+ generic_events.102.a: "Да здравствует!"
+
+ generic_events.103.t: "Большая автономия"
+ generic_events.103.d: "[От. GetNameDefCap] остается под контролем правительства, но этот контроль начинает ослабевать, когда его сила подтверждает себя. [От GetNameDefcap] сила не является чем-то легким для сдерживания, и по всей стране ощущается стремление их лидеров к большему контролю над своими собственными делами."
+ generic_events.103.a: "Нам нужно будет внимательно следить за этим."
+
+ generic_events.106.t: "Борьба за независимость"
+ generic_events.106.d: "[Владелец. Найти адаптивную] контроль над правительством [включает в себя] уже какое-то время. Мы слишком могущественны, чтобы сдержать его. Среди людей есть общие требования, чтобы освободиться, и скоро придет наше время."
+ generic_events.106.a: "Да здравствует бесплатная жизнь!"
+ generic_events.106.b: "Да, мы должны потребовать нашей независимости."
+ generic_events.106.c: "Нет, лучше не щипать осиное гнездо."
+
+ generic_events.107.t: "[От GetNameDefcap] требует независимости"
+ generic_events.107.d: "Контроль над правительством [от него] слабеет уже некоторое время. Они слишком сильны для того, чтобы мы могли полностью сдержать. Среди народа [от него] есть общий призыв освободиться, и теперь его правительство официально выдвинуло требование о полной независимости."
+ generic_events.107.a: "Отпусти их, пока мы все еще друзья."
+ generic_events.107.b: "Они что, шутят?"
+
+ generic_events.108.t: "Отказ от независимости"
+ generic_events.108.d: "Правительство отклонило наше требование о независимости, хотя мы лишь номинально под их контролем."
+ generic_events.108.a: "Это не закончится здесь."
+
+ KR_fight_for_independence: "Объявить независимость"
+ KR_fight_for_independence_desc: "Возможно, он отказался от нашего требования о независимости, но это не конец дела, мы будем свободны, даже если нам придется бороться за него!"
+
+ generic_events.109.t: "[От GetNameDefcap] провозглашает независимость"
+ generic_events.109.d: "Похоже, нашего отказа предоставить им независимость было недостаточно, они объявили себя свободными от контроля, в любом случае."
+ generic_events.109.a: "Отпустите их!"
+ generic_events.109.b: "Посмотрим!"
+
+ generic_events.110.t: "Война за независимость"
+ generic_events.110.d: "Похоже, наш бывший повелитель не может получить ясную опору в... но и мы не можем победить их. Возможно, пришло время призвать к перемирию и покончить с этим?"
+ generic_events.110.a: "Да, давай покончим с этим."
+ generic_events.110.b: "Нет, сейчас речь идет не только о независимости!"
+
+ generic_events.111.t: "Война за независимость"
+ generic_events.111.d: "Война с [от GetNameDef] продолжается уже некоторое время, и ни один из нас не может получить явного преимущества, и, возможно, настало время просто признать свою независимость и покончить с ней."
+ generic_events.111.a: "Да, давай покончим с этим."
+ generic_events.111.b: "Нет, мы закончим это!"
+
+ generic_events.250.t: "Кукольник [помечено в стране. Получил имя Деф]?"
+ generic_events.250.d: "Это превратит [помеченную страну. Найти Намедедефа] в тему [, чтобы_be_overlord. GetNameDef], используя по умолчанию занятое кукольное автономное состояние. Если они входят в другую фракцию, они оставят его, но это не положит конец ни одной из нынешних войн, в которых они находятся. Если вы хотите сделать это, вы должны сделать это отдельно."
+ generic_events.250.a: "Сделай это."
+ generic_events.250.b: "Сделай это, но пусть они сохранят свое нынешнее правительство."
+ generic_events.250.c: "Если подумать..."
+
+ generic_events.251.t: "Бесплатно?"
+ generic_events.251.d: "Это сделает [маркированную] страну. Гетем Деф] полностью независимым. Это не изменит их нынешнее правительство (если только мод не довольствуется этим автоматически), не удалит [маркированную страну. Возьмите Наме Деф] из их фракции, если они в одной, и не выведет их из любой войны. ~n §ROTEOS: Это вполне может разрушить содержание Kaiserreich! Используйте на вашем собственном риске!!!!!!§!!"
+
+ generic_events.252.t: "Присоединиться к [_be_faction_feder.GetFactionName]?"
+ generic_events.252.d: "Это приведет к тому, что [помеченная страна. Найти Нам Деф] присоединится к [можно_be_faction_lider. GetFactionName], свергнет свою собственную фракцию, если она лидер фракции или просто покинет свою нынешнюю фракцию, если она в ней. Это не изменит никаких войн, в которых они в настоящее время. ~n §RONOTE: Это вполне может разрушить содержание Kaiserreich! Используйте на вашем собственном риске!!!!!§!!!"
+
+ generic_events.253.t: "Ведите [помеченную страну. GetFactionName]?"
+ generic_events.253.d: "Это сделает [помеченную страну. Найти Наме Деф] лидером фракции [помеченную страну. Гетфакшн Найм]. ~n §RNOTE: Это вполне может разрушить содержание Kaiserreich! Используйте на вашем собственном риске!!!!!!!!!!!!!!!!!"
+
+ generic_events.254.t: "Покинуть [помеченную страну. GetFactionName]?"
+ generic_events.254.d: "Это приведет к тому, что [помеченная страна. GetNameDef] покинет [помеченную страну. GetFactionName], ликвидируя фракцию, если она является лидером. Это не повлияет ни на какие войны, в которых они находятся сейчас."
+
+ generic_events.255.t: "Мир с [миром_целью. Получить Наме-деф]?"
+ generic_events.255.d: "[Знаменитая страна. Найти Нам ДефКап] вместе со всеми ее союзниками будет белый мир с [миром_целью. Найти Нам Деф] и со всеми их союзниками. ~n §RONOTE: Это вполне может разрушить содержание Kaiserreich! Используйте на вашем собственном риске!!!!!!!!!!!!!!!!"
+ generic_events.255.b: "Отделить [маркирующую страну. Найме-деф] от своих союзников, затем помириться."
+
+ generic_events.256.t: "Мир из всех войн?"
+ generic_events.256.d: "[Знаменитая страна. GetNameDefCap] сделает отдельный белый мир для всех своих нынешних войн. Если он является предметом, то сначала он будет освобожден, и если он входит в состав фракции, то сначала он должен оставить его. ~n §ROTEMO: Это вполне может разрушить содержание Kaiserreich! Используйте на вашем собственном риске!!!!!!§!"
+
+ generic_events.257.t: "Война с [войной_целью. Получил Наме Деф]?"
+ generic_events.257.d: "[Знаменитая страна. GetNameDefCap] объявит войну [войне.get.GetNameDef]. Нет никаких проверок, чтобы убедиться, что это действительное заявление, кроме того, что две страны не являются союзниками и не находятся в состоянии войны."
+
+### Unit Leader Events ###
+ unit_leader.1.t: "Падение Айлл."
+ unit_leader.1.d: "Похоже, что в служении народу оно зашло слишком далеко, и из-за плохой обстановки в операционной зоне оно заболело, и, вероятно, потребуется время, чтобы выздороветь, пока не поправится."
+ unit_leader.1.a: "Неудачно."
+
+ unit_leader.2.t: "Ранены."
+ unit_leader.2.d: "Похоже, что, добившись успеха в сражении, оно подвергло себя слишком большому риску, в то время как оно вело людей. [От Гетхехе Капитана] было ранено, и, вероятно, потребуется некоторое время, чтобы полностью залечить раны, до тех пор, пока [от Гетранка] не будет выступать на обычном уровне."
+ unit_leader.2.a: "Неудачно."
+
+### Government in Exile Events ###
+ mtg_exile_leader_added.1.t: "Лидер изгнания предлагает службу"
+ mtg_exile_leader_added.1.desc: "После долгого и опасного путешествия через захваченную врагом территорию и несколько нейтральных государств в столицу наконец прибыл высокопоставленный офицер из одного из наших капитулятивных союзников."
+ mtg_exile_leader_added.1.a: "Твоя битва еще не закончилась."
+
+ mtg_exile_government.2.title: "Правительство в изгнании"
+ mtg_exile_government.2.desc: "[От. Возвращайся к лидеру] официально запросил разрешение [от правительства] [от имени партии. Гетеадектив] на возвращение в [от имени партии] и воссоздание временного кабинета [от партии Гетрулинг] в рамках подготовки к послевоенному миру."
+ mtg_exile_government.2.a: "Им пора вернуться на свою собственную территорию."
+ mtg_exile_government.2.b: "Время еще не пришло."
+
+ mtg_exile_government.3.title: "Просит об интеграции в военно-морском флоте."
+ mtg_exile_government.3.desc: "Морское руководство представило нам план интеграции нашего флота в свой, они утверждают, что, разрешив [начинающим] военно-морским планировщикам осуществлять полный контроль над нашими кораблями, их эффективность будет резко повышена по сравнению с их нынешними независимыми действиями."
+ mtg_exile_government.3.a: "Мы согласны."
+ mtg_exile_government.3.b: "Мы не будем служить под ними."
+
+ mtg_exile_government.4.title: "Принимает интеграцию в военно-морском флоте"
+ mtg_exile_government.4.desc: "Правительство сообщило нам, что оно согласно с нашим предложением, и что теперь их корабли будут действовать под нашим командованием."
+ mtg_exile_government.4.a: "Отлично."
+
+ mtg_exile_government.5.title: "[От имени] отвергает интеграцию в военно-морском флоте"
+ mtg_exile_government.5.desc: "Правительство сообщило нам, что их флот никогда не будет служить под командованием иностранной державы, они хотят помочь нам, но они сделают это независимо."
+ mtg_exile_government.5.a: "Они ставят свою гордость выше интересов союза."
+
+ mtg_generic.1.title: "Принудительное изменение правительства"
+ mtg_generic.1.desc: "Ссылаясь на явное отсутствие поддержки в проведении выборов для нашего нынешнего правительства, [от GetNameDef] потребовали перемен в политике."
+ mtg_generic.1.a: "У нас нет другого выбора, кроме как согласиться."
+
+### Sub-unit Modifiers ###
+ modifier_army_sub_unit_category_mobile_infantry_attack_factor: "Кав/Мот/Мех Нападение"
+ modifier_army_sub_unit_category_mobile_infantry_defence_factor: "Cav/Mot/Mech Protection"
+ modifier_army_sub_unit_category_mobile_infantry_speed_factor: "Скорость Cav/Mot/Mech"
+
+### Research Bonus Names ###
+ refinery_bonus: "Бонус на нефтеперерабатывающем заводе"
+
+### Custom Triggers ###
+ had_war: "Воевал во время войны."
+ not_during_ceasefire: "Не до тех пор, пока не будет сохранено прекращение огня"
+
+### Other ###
+ asked_to_join: "Еще одна страна обратилась с просьбой об участии."
+ generic_research_advances: "Достижения в области научных исследований"
+
+ generic_neutral_foreign_policy: "Нейтральная внешняя политика"
+ generic_neutral_foreign_policy_desc: "Вне зависимости от пацифизма, необходимости или просто собственных интересов, цели внешней политики этого государства в настоящее время характеризуются желанием избежать иностранных запутаний. Военная деятельность сосредоточена на оборонительных соображениях, и все действия на международной арене направлены на создание как можно меньшего числа врагов."
+
+ increase_state_category_by_one_level_tt: "Это предусматривает §G1§! Дополнительное слотное отверстие для здания.n"
+ increase_state_category_by_two_levels_tt: "Это предусматривает §G2§! Дополнительные промежутки в базовом здании.n"
+ decrease_state_category_by_one_level_tt: "Этот §Rremoves§! Строительный участок из штата.n"
+
+### General ###
+ fighter_techs: "Техник-истребитель"
+ cat_strategic_destruction: "Технология стратегического уничтожения"
+ maintenance_company_tech: "Ремонтно-эксплуатационная компания"
+ cat_line_artillery: "Линейная артиллерия"
+ cat_light_spg: "Легкие самозащитные орудия"
+ cat_medium_spg: "Среднее количество самозащитных пистолетов"
+ cat_heavy_spg: "Тяжелые самозащитные орудия"
+ tank_destroyer_tech: "Разрушители цистерн"
+ cat_gunnery: "Военно-морское оружие"
+ cr_tech: "Модели круизеров"
+ acr_tech: "Модели боевых круизеров"
+ cat_targeting: "Компьютеры пожаротушения"
+ cat_torpedo: "Технология &quot; Торпедо &quot;"
+ carrier_ship_tree: "Операции перевозчиков"
+ capital_ship_tree: "Эксплуатация &lt; &lt; Капитальных судов &gt; &gt;"
+ cat_armored_car: "Бронированные машины"
+ cat_special_units: "Специальные подразделения"
+ cat_air_engine: "Самолеты"
+ cat_air_bombs: "Самолетные бомбы"
+
+ fighter_techs_research: "Скорость исследования истребителя"
+ marine_tech_research: "Скорость исследования морской пехоты"
+ cat_light_armor_research: "Скорость исследования легкого бронетранспортера"
+
+### Hidden Techs ###
+ tech_camel_corps: "Корпус верблюдов"
+
+ tech_ski_infantry: "Пехотные подразделения &lt; &lt; Ски &gt; &gt;"
+ tech_ski_infantry_terrain_effect: "§!: $STAT_ADJUSTER_MOVENT$[? 0.058=+1%]N $STAT_ADJUSTER_ADJTER_DEFONS$ [? 0.05 ] \ $ $ $ $ §1% § § § §: $STAT_ADJUSTER_MOVENT$ [?0.101=+1%]\ $STAT_ADJUSTER_ATACK$[? 0.05 \+1%]n $STAT_ADJTER_DEFENT$[? 0.05 \+1%]"
+
+ tech_marine_bonus: "Усовершенствованные морские пехотинцы"
+ tech_marine_bonus_2: "Подготовка морских пехотинцев"
+ tech_marine_bonus_combined: "Высшие морские пехотинцы"
+
+ tech_jungle_warfare: "Подготовка по вопросам борьбы с джунглей"
+ tech_jungle_warfare_terrain_effect: "$$jungle$§! :n $STAT_ADJUSTER_MOVENT$[? 0.056=+1%]n $STAT_ADJUSTER_DEFENCE$[? 0.038=+1%]"
+
+ tech_forest_warfare: "Подготовка по вопросам борьбы с лесами"
+ tech_forest_warfare_terrain_effect: "§$$forest $! :n $STAT_ADJUSTER_MOVENT$[? 0.056=+1%]n $STAT_ADJUSTER_DEFONS$ [? 0.038=+1%]"
+
+ tech_improved_field_hospitals: "Усовершенствованные полевые больницы"
+
+ tech_expanded_engineer_corps: "Расширенный инженерный корпус"
+
+ tech_mountain_warfare: "Подготовка по вопросам ведения боевых действий в горных районах"
+ tech_mountain_warfare_terrain_effect: "§!:n $STAT_ADJUSTER_MOVENT$[?0.168=+1%]n $STAT_ADJUSTER_ATAK$[? 0.056=+1%]n $STAT_ADJUSTER_DEFONCE$[? 0.058=+1%]"
+
+ tech_improved_recon_units: "Усовершенствованные разведывательные подразделения"
+
+ tech_urban_warfare: "Подготовка к боевым действиям в городах"
+ tech_urban_warfare_terrain_effect: "§!:n $STAT_ADJUSTER_MOVENT$[? 0.056=+1%]n $STAT_ADJUSTER_ATAK$[? 0.056=+1%]n $STAT_ADJUSTER_DEFONS$[? 0.038=+1%]"
+
+ tech_desert_warfare: "Подготовка к боевым действиям в пустыне"
+ tech_desert_warfare_terrain_effect: "§$$devert$! :n $STAT_ADJUSTER_MOVENT$[? 0.056=+1%]n $STAT_ADJUSTER_DEFENCE$[? 0.058=+1%]"
+
+ tech_marsh_warfare: "Боевые тренировки в Марше"
+ tech_marsh_warfare_terrain_effect: "§$Marsh$ §!: $STAT_ADJUSTER_MOVENT$[? 0.056=+1%]N $STAT_ADJUSTER_DEFONS$ [? 0.058=+1%]"
+
+ tech_anti_fortification_artillery: "Артиллерийская деятельность по борьбе с усилением"
+ tech_anti_fortification_artillery_terrain_effect: "$$Fort$§! :n $STAT_ADJUSTER_ATAK$[0,268=+1%]"
+
+ tech_integrated_specialists: "Объединенные специальные силы"
+
+ tech_at_cavalry: "Антитанковые винтовки"
+
+ tech_semi_motorised_cav: "Полумоторизованная кавалерия"
+
+ tech_improved_encryption: "Улучшенная шифровка"
+
+ tech_mountain_artillery: "Горные артиллерии"
+ tech_mountain_artillery_terrain_effect: "$$$$$$$_ADJTER_MOVEment$ [?0.168=+1%]N $STAT_ADJUSTER_ATTACK$[?0.168=+1%]N § §$$$$$ $ $ stat_ADJJTER_MOVENT$[?0.168=+1%]N $STAT_ADJTER_ATAK$[?0.184=+1%]"
+
+ tech_arctic_commando: "Арктические коммандос"
+ tech_arctic_commando_terrain_effect: "§! :n $STAT_ADJJTER_MOVENT$ [? 0.056=+1%] в § §$$Mountain$! : : $STAT_ADJSTER_MOVEment$ [? 0.056=+1%]"
+
+ tech_better_paratroopers: "Элитные паратроперы"
+
+ tech_irregulars: "$irregular_infantry$"
+
+ tech_militias: "$militia$"
+
+ tech_anti_partisan: "Противоповстанческие тактики"
+
+ tech_improved_logistics: "Совершенствование логистических компаний"
+
+ modifier_army_sub_unit_long_range_patrol_support_attack_factor_tooltip: "$modifier_army_sub_unit_long_range_patrol_support_attack_factor$: $RIGHT|+=%2$"
+ modifier_army_sub_unit_long_range_patrol_support_defence_factor_tooltip: "$modifier_army_sub_unit_long_range_patrol_support_defence_factor$: $RIGHT|+=%2$"
+
+ tech_extensive_reconnaissance: "Обширная разведка"
+ tech_extensive_reconnaissance_terrain_effect: ": $STAT_ADJTER_MOVEment$[?0.168=+1%] в §Y$forceforest$§!: $STAT_ADJTER_MOVEVENG$ [? 0.05]+1%] $: $STAT_ADJJTER_MOVEVEment$ [? 0.05] в §$: $ADJTER_MOVENT$ [+1%] $ $: $STAT_ADJTER_MOVEVENT$ [( 0.05]+1%] $ $ $ $ $ $ $ $ stat_ADJUTER_MUMENT$ §: $ $ $ $ $ $ADJUSTER_ $1%]"
+
+ tech_strengthened_support_companies: "Укрепление компаний поддержки"
+
+ tech_anti_armour_tactics: "Антивоздушная тактика"
+
+ tech_river_boats: "Речные лодки"
+ tech_river_boats_terrain_effect: "Водитель §!: : $STAT_ADJUSTER_MOVENT$[?0.168=+1%]N $STAT_ADJUSTER_ADJSTER_DEFONS$ [? 0.058=+1%]"
+
+ tech_armored_car_spearhead: "Бронированная машина"
+
+ tech_masterful_blitz: "$tactic_masterful_blitz$"
+
+ tech_human_wave_tactics: "$tactic_human_wave_tactics$"
+
+ tech_improved_decryption: "Улучшенное расшифровка"
+
+ tech_elephant_sappers: "Слоновые саперы"
+ tech_elephant_sappers_terrain_effect: "§ $$$jungle$ §!: $STAT_ADJUSTER_MOVENT$[(0.05)=+1%]\n $STAT_ADJUSTER_DEFENCE$[? 0.05 =+1%]\n § § § § $ $STAT_ADJUSTER_MOVENT$[? 0.056=+1%]\n $STAT_ADJTER_ATACK$[? 0.05 \+1%]n $STAT_ADJUSTER_DEFORT$[? 0.05 =+1%]"
+
+ tech_bicycle_battalion: "$bicycle_battalion$"
+
+ tech_camelry: "$camelry$"
+
+ tech_penal_battalion: "$penal_battalion$"
+
+ tech_winter_logistics_support: "$winter_logistics_support$"
+
+ tech_long_range_patrol_support: "$long_range_patrol_support$"
+
+ tech_jungle_pioneers_support: "$jungle_pioneers_support$"
+
+ tech_sturmtruppe_battalion: "$sturmtruppe_battalion$"
+
+ ### Units ###
+ assault_battalion: "$blackshirt_assault_battalion$"
+ assault_battalion_desc: "$blackshirt_assault_battalion_desc$"
+
+ tech_assault_battalion: "$assault_battalion$"
+ tech_assault_battalion_effect: "Включает компанию поддержки §Y$assault_battalion$ §!"
+
+ modifier_army_sub_unit_assault_battalion_attack_factor: "$assault_battalion$ Attack"
+ modifier_army_sub_unit_assault_battalion_defence_factor: "$assault_battalion$ Defence"
+ modifier_army_sub_unit_assault_battalion_speed_factor: "$assault_battalion$ Speed"
+ modifier_army_sub_unit_assault_battalion_max_org_factor: "$assault_battalion$ Organisation"
+
+ ### Modules ###
+ tank_makeshift_armor: "Смена бронетранспортера"
+ tank_makeshift_armor_desc: "Сделано из чугуна вместо стали, чтобы экономить деньги, лучше, чем без бронежилетов... вероятно."
+
+ tank_improvised_turret: "Импровизированный Туррет"
+ tank_improvised_turret_desc: "В нем хранится пистолет, и он может поворачиваться, когда захочет."
+
+ ### System Tag ###
+ AAA: "Неприкосновенные территории"
+ AAA_ADJ: "Неотъемлемый"
+ AAA_DEF: "по неприкосновенным территориям"
+
+ on_annex_workaround: " "
+ on_annex_workaround_ADJ: " "
+ on_annex_workaround_DEF: " "
+
+ system_placeholder_leader: "Владелец площадки"

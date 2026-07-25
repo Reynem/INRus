@@ -1,0 +1,54 @@
+l_russian:
+
+ costa_rica_focus: "Коста-Рика"
+
+
+### Parties ###
+ COS_vanguardist_party_long: "Народная партия &lt; &lt; Вангуардия &gt; &gt;"
+ COS_vanguardist_party: "ПВП"
+ COS_collectivist_party_long: "Народная партия &lt; &lt; Вангуардия &gt; &gt;"
+ COS_collectivist_party: "ПВП"
+ COS_libertarian_socialist_party_long: "Народная партия &lt; &lt; Вангуардия &gt; &gt;"
+ COS_libertarian_socialist_party: "ПВП"
+ COS_social_democrat_party_long: "Республиканская партия"
+ COS_social_democrat_party: "ПРН"
+ COS_social_liberal_party_long: "Центр &lt; &lt; Эль-Центр &gt; &gt;"
+ COS_social_liberal_party: "Центр &lt; &lt; Эль-Центр &gt; &gt;"
+ COS_market_liberal_party_long: "&lt; &lt; Юнайтед фрут компани &gt; &gt;"
+ COS_market_liberal_party: "UFC"
+ COS_social_conservative_party_long: "Республиканская партия"
+ COS_social_conservative_party: "ПРН"
+ COS_authoritarian_democrat_party_long: "Военное правительство"
+ COS_authoritarian_democrat_party: "Военное правительство"
+ COS_paternal_autocrat_party_long: "Национальный совет по делам женщин"
+ COS_paternal_autocrat_party: "ДНС"
+ COS_national_populist_party_long: "&lt; &lt; Карибский союз &gt; &gt;"
+ COS_national_populist_party: "ЛК"
+ COS_valkist_party_long: "&lt; &lt; Карибский союз &gt; &gt;"
+ COS_valkist_party: "ЛК-V"
+
+### Characters ###
+ COS_manuel_mora_valverde: "Мануэль Мора Вальверде"
+ COS_rafael_angel_calderon_guardia: "Рафаэль Анхель Кальдерон Гвардия"
+ COS_teodoro_picado_michalski: "Теодоро Пикадо Мичальский"
+ COS_jose_figueres_ferrer: "Хосе Фигерес Феррер"
+
+ COS_ricardo_jimenez_oreamuno: "Рикардо Хименес Ореамуно"
+ COS_ricardo_jimenez_oreamuno_leader_desc: "Сын двухкратного президента Хесуса Хименеса Саморы Рикардо Хименеса Ореамуно стал известен перед Вельткригом. В период с 1910 по 1914 год он наблюдал за погашением разрушительного национального долга страны. В третий раз, когда он был президентом, национальный долг страны вновь резко возрос, и вновь президент Хименес пытался, не так успешно, как прежде, вернуть Коста-Рику с грани дефолта."
+
+ COS_leon_cortes_castro: "Леон Кортес Кастро"
+
+ COS_consejo_de_seguridad_nacional: "Национальный совет по делам женщин"
+ COS_consejo_de_seguridad_nacional_leader_desc: "В условиях серьезных политических срывов, главным образом консервативный совет министров был назначен на коллективной основе в качестве главы государства и правительства, в то время как национальные дела решаются."
+
+ COS_fernando_figuls_quiros: "Фернандо Фиглс Кирос"
+
+ COS_julio_acosta_garcia: "Хулио Акоста Гарсия"
+ COS_ricardo_castro_beeche: "Рикардо Кастро Биче"
+ COS_rafael_calderon_mumoz: "Рафаэль Кальдерон Мумоз"
+ COS_jose_albertazzi_avendano: "Хосе Альбертацци Авендано"
+ COS_juan_rafael_arias_bonilla: "Хуан Рафаэль Ариас Бонилья"
+ COS_cleto_gonzalez_viquez: "Клето Гонсалес Викес"
+ COS_santos_leon_herrera: "Сантос Леон Эррера"
+ COS_jorge_volio_jimenez: "Хорхе Волио Хименес"
+ COS_manuel_zuniga_jiron: "Мануэль Зунига Джирон"

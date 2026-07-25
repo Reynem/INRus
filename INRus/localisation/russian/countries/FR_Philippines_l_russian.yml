@@ -1,0 +1,40 @@
+﻿l_russian:
+
+### Political Parties ###
+PHI_vanguardist_party: "ПКП"
+PHI_vanguardist_party_long: "Партия &lt; &lt; Комунис &gt; &gt; нг &lt; &lt; Пилипинас &gt; &gt;"
+PHI_collectivist_party: "ПИЧ"
+PHI_collectivist_party_long: "Партия Мангагагава нг Пилипинас"
+PHI_libertarian_socialist_party: "ППМП"
+PHI_libertarian_socialist_party_long: "Реболионарионг Партидо нг Мангагавау нг Пилипинас"
+PHI_social_democrat_party: "PPD"
+PHI_social_democrat_party_long: "Партия &lt; &lt; Пролетарио Демократико &gt; &gt;"
+PHI_social_liberal_party: "РР"
+PHI_social_liberal_party_long: "Партия &lt; &lt; Прогрессиста &gt; &gt;"
+PHI_market_liberal_party: "PN-L"
+PHI_market_liberal_party_long: "Партия &lt; &lt; Насионалиста-Либеральная партия &gt; &gt;"
+PHI_social_conservative_party: "PN"
+PHI_social_conservative_party_long: "Партия &lt; &lt; Насионалиста &gt; &gt;"
+PHI_authoritarian_democrat_party: "Милитар нг джунта"
+PHI_authoritarian_democrat_party_long: "Милитар нг джунта"
+PHI_paternal_autocrat_party: "KBL"
+PHI_paternal_autocrat_party_long: "Килусан Багун Липунан"
+PHI_national_populist_party: "ПФС"
+PHI_national_populist_party_long: "Партия &lt; &lt; Памбансанг синдикализмо &gt; &gt;"
+PHI_valkist_party: "ПППСО"
+PHI_valkist_party_long: "Партия &lt; &lt; Памбансанг &gt; &gt;"
+
+USA_filipino_revolt: "Револьт Филиппин"
+
+phi.1.d: "Пока мы участвуем в нашем нынешнем кризисе, хитрые филиппинцы решили, что это идеальное время для открытого восстания!"
+phi.2.d: ""
+phi.3.d: ""
+phi.4.d: ""
+
+phi.5.t: "Америка предоставляет нам автономию"
+phi.5.d: "Соединенные Штаты Америки наконец предоставили нам автономию в качестве полунезависимой страны."
+phi.5.a: "Мабухай Анг Пилипинас!"
+
+phi.6.d: ""
+phi.7.d: ""
+phi.8.d: ""

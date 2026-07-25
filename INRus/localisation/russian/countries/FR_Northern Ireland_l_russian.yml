@@ -1,0 +1,32 @@
+l_russian:
+
+### Parties ###
+ NIR_vanguardist_party: "УВЛК"
+ NIR_vanguardist_party_long: "Ольстерский комитет по освобождению трудящихся"
+ NIR_collectivist_party: "УВЛК"
+ NIR_collectivist_party_long: "Ольстерский комитет по освобождению трудящихся"
+ NIR_libertarian_socialist_party: "УВЛК"
+ NIR_libertarian_socialist_party_long: "Ольстерский комитет по освобождению трудящихся"
+ NIR_social_democrat_party: "НИЛП"
+ NIR_social_democrat_party_long: "Северная ирландская лейбористская партия"
+ NIR_social_liberal_party: "Ольстерские либералы"
+ NIR_social_liberal_party_long: "Ольстерская либеральная партия (лифтист)"
+ NIR_market_liberal_party: "Ольстерские либералы"
+ NIR_market_liberal_party_long: "Ольстерская либеральная партия (Центр)"
+ NIR_social_conservative_party: "ULP"
+ NIR_social_conservative_party_long: "Ольстерская лоялистская партия"
+ NIR_authoritarian_democrat_party: "УФМ"
+ NIR_authoritarian_democrat_party_long: "Добровольческие силы Ольстера"
+ NIR_paternal_autocrat_party: "УДРК"
+ NIR_paternal_autocrat_party_long: "Комитет по защите и восстановлению Ольстера"
+ NIR_national_populist_party: "UPL"
+ NIR_national_populist_party_long: "Ольстерская протестантская лига"
+ NIR_valkist_party: "СОК"
+ NIR_valkist_party_long: "Солдаты Христа"
+
+### Ideas ###
+ NIR_NO_SURRENDER: "Не сдаваться!"
+ NIR_NO_SURRENDER_desc: "Угроза папского и ирландского репрессий - очень реальная угроза, и мы должны защищать нашу маленькую протестантскую опору до последнего человека!"
+ NIR_CATHOLICS: "Ольстерские католики"
+ NIR_CATHOLICS_desc: "Меньшинство в нашем штате является католиком и решительно выступает против нашего явно протестантского государства."
+

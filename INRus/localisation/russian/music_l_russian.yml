@@ -1,0 +1,86 @@
+﻿l_russian:
+ #This file is needed in order to allow the vanilla main theme to work alongside the kr one. The game doesn't seem to like loading the theme, having it overwritten then loading the same song under a new name. It leads to broken loc for said song.
+ maintheme: "Прошание Славиянки"
+
+## HOI4 Soundtrack
+ # main_vanilla: "Основная тема - союзники"
+ main_vanilla: "Основная тема"
+ general_peace_1: "Сердца мужчин"
+ general_peace_2: "Война заканчивается"
+ general_peace_3: "Песня для детей WW2"
+
+ allies_peace_1: "Первая половина дня"
+ allies_peace_2: "Конец тура"
+
+ axis_peace_1: "Краков"
+ # axis_peace_2: "&lt; &lt; Март Луфтваффе &gt; &gt; -- реприз"
+ axis_peace_2: "Марш &lt; &lt; Луфтстрейткрэфте &gt; &gt; -- реприз"
+
+ comintern_peace_1: "Мать Россия"
+ # comintern_peace_2: "Красная Армия"
+ comintern_peace_2: "Нацгвардия"
+ comintern_peace_3: "Русская победа"
+
+ general_war_1: "Принесите крепости"
+ general_war_2: "Нападение"
+
+ allies_war_1: "Мы солдаты."
+ allies_war_2: "Королевские военно-воздушные силы"
+
+ #axis_war_1: "Тема оси"
+ axis_war_1: "Тема рейхспакта"
+ axis_war_2: "Тяжелая вода"
+ axis_war_3: "Операция &lt; &lt; Барбаросса &gt; &gt;"
+ axis_war_4: "Дни Грома"
+
+ #comintern_war_1: "Мощность Советского Союза"
+ comintern_war_1: "Мощность российского государства"
+ #comintern_war_2: "Тема коминтерна"
+ comintern_war_2: "Тема Московского соглашения"
+ comintern_war_3: "Великая патриотическая война"
+
+## HOI4 La Résistance Soundtrack
+ # resistance_spanish: "Импертеррита"
+ resistance_spanish: "Неизбежно"
+ resistance_french: "Либерте, Эгалите, братство"
+ resistance_fascist: "Приближается буря"
+ resistance_spying: "Плащ и кинжал"
+
+## HOI2 Soundtrack
+ achtungpanzer: "Ахтунг Панзер!"
+ astateofgrace: "Государство Грейс"
+ happymarch: "Счастливого марша"
+ heartsofiron2overturemenu: "Сердца железы 2 Обувь/Мену"
+ hoilero: "Хойлеро"
+ japanoverture: "Японская уступка"
+ kriegsgewitter: "Кригсгевиттер"
+ leavingshore: "Уход из Шора"
+ lullabyofwar: "Лаллабия войны"
+ marchtothefront: "Март Фронту"
+ montgomerysmarch: "Марш Монтгомери"
+ rafheroesofthesky: "Р.А.Ф. - Герои Неба"
+ stalingradadagioindminor: "Сталинград - Адагио в районе Д-меньшинства"
+ the101stairborne: "101-й авианосец"
+ war: "Война"
+ variationsontherussianthem: "Изменения по российской теме"
+
+## HOI3 Soundtrack
+ alliesfaction: "Союзники Фракция"
+ alotofseactions: "Морские действия"
+ axis1march: "Ось марша"
+ bigairforce: "Большие военно-воздушные силы"
+ bigfleet: "Большой флот"
+ bombingthem: "Взорвать их"
+ epicbattle: "Эпическая битва"
+ hoi3maintheme: "Основная тема"
+ hymnfortheoneslostatsea: "Гимн для тех, кто заблудился в море"
+ landactions: "Земельные операции"
+ lettersfromhome: "Письма из дома"
+ lotsofbattles: "Много битв"
+ offensive: "Наступательные действия"
+ sovietsuite_finale: "Советский люкс - финал"
+ sovietsuite_part2: "Советский люкс - Часть 2"
+ threatenedwhileatpeace: "Угроза"
+ unitednations: "В настоящий отчет могут вноситься поправки."
+ unitylow: "Низкий уровень единства"
+ wearefree: "Мы свободны"

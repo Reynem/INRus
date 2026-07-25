@@ -1,0 +1,17 @@
+l_russian:
+
+
+### Parties ###
+ NEE_social_democrat_party: "Фермер-лаборатор"
+ NEE_social_democrat_party_long: "Партия &quot; Фермер-Лабор &quot;"
+ NEE_social_liberal_party: "Демократы (Lib.)"
+ NEE_social_liberal_party_long: "Демократическая партия - Либеральная Фракция"
+ NEE_market_liberal_party: "Республиканцы"
+ NEE_market_liberal_party_long: "Республиканская партия"
+ NEE_social_conservative_party: "Демократы (концерт)"
+ NEE_social_conservative_party_long: "Демократическая партия - Консервативная Фракция"
+
+### Country Names ###
+ NEE: "Новая Англия"
+ NEE_ADJ: "Новый англичанин"
+ NEE_DEF: "Новая Англия"

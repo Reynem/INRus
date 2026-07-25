@@ -1,0 +1,57 @@
+﻿l_russian:
+
+#### Political Parties ####
+
+ NEP_vanguardist_party: "ННК (Группа Джапели)"
+ NEP_vanguardist_party_long: "Коммунистическая Факция Национального конгресса Непала"
+ NEP_collectivist_party: "ННК (Муктиена)"
+ NEP_collectivist_party_long: "Военнослужащие Непальского национального конгресса"
+ NEP_libertarian_socialist_party: "ННК (Муктиена)"
+ NEP_libertarian_socialist_party_long: "Военнослужащие Непальского национального конгресса"
+ NEP_social_democrat_party: "NNC (модерат)"
+ NEP_social_democrat_party_long: "Умеренный протест Национального конгресса Непала"
+ NEP_social_liberal_party: "НЦД"
+ NEP_social_liberal_party_long: "Непальский демократический конгресс"
+ NEP_market_liberal_party: "Горка Дал"
+ NEP_market_liberal_party_long: "Горка Дал"
+ NEP_social_conservative_party: "Горка Дал"
+ NEP_social_conservative_party_long: "Горка Дал"
+ NEP_authoritarian_democrat_party: "Рана Династия"
+ NEP_authoritarian_democrat_party_long: "Рана Династия"
+ NEP_paternal_autocrat_party: "Рана Династия"
+ NEP_paternal_autocrat_party_long: "Рана Династия"
+ NEP_national_populist_party: "Яна Хит Санг"
+ NEP_national_populist_party_long: "Яна Хит Санг"
+ 
+ ### Characters ###
+ NEP_dhammalok_mahasthavir: "Дхаммалок Махастхавир"
+
+ NEP_tribhuvan: "Трибхуван"
+ NEP_tribhuvan_leader_desc: "Король Трибхуван поднялся на трон Непала всего лишь в пять лет. Трибхуван, однако, родился королем только по имени, на самом деле, мальчик-король был не чем иным, как символом могущественной семьи Рана. По мере того, как он вырос в мужчину, непальская политика все больше определяется антагонистическими отношениями между королем и Ранасом. Только время покажет победителя борьбы как в политическом, так и в экономическом плане."
+
+ NEP_subarna_shamsher_rana: "Субарна Шамшер Рана"
+ NEP_matrika_prasad_koirala: "Матрика Прасад Коирала"
+ NEP_tanka_prasad_acharya: "Танка Прасад Ачарья"
+ NEP_bishweshwar_prasad_koirala: "Бишвар Прасад Коирала"
+ NEP_kunwar_inderjit_singh: "Кунвар Индерджит Сингх"
+ NEP_juddha_shumsher_jang_bahadur_rana: "Джудда Шамшер Рана"
+ NEP_kaiser_shumsher_jang_bahadur_rana: "Кайзер Шамшер Рана"
+ NEP_mutilal_gurung: "Кровоизлияние в гурунг"
+
+ NEP_dashrath_chand: "Дашрат Чанд"
+ NEP_bharat_shumsher_jang_bahadur_rana: "Бхарат Шумшер Рана"
+ NEP_bharat_mani_sharma: "Бхарат Мани Шарма"
+ NEP_dharma_bhakta_mathema: "Дхарма Бхакта Матема"
+ NEP_shukraraj_shastri: "Шукрарадж Шастри"
+ NEP_krishna_prasad_koirala: "Криша Прасад Коирала"
+ NEP_laxmi_prasad_devkota: "Лаксми Прасад Девкота"
+ NEP_nrip_jang_rana: "Нрип Чан Рана"
+ NEP_mohan_shumsher_jang_bahadur_rana: "Мохан Шамшер Рана"
+ NEP_baber_shumsher_jang_bahadur_rana: "Бабер Шамшер Рана"
+ NEP_padma_shumsher_jang_bahadur_rana: "Падма Шамшер Рана"
+ NEP_ranaji_vishnu_shumsher_jang_bahadur_rana: "Ранаджи Вишну Шумшер Рана"
+ NEP_purendra_bikram_shah: "Пурендра Бикрам Шах"
+ NEP_karan_bahadur_rana: "Каран Бахадур Рана"
+ NEP_kulbir_thapa: "Кулбир Тапа"
+
+ NEP_defiant_hostage: "Дефаентный заложник"

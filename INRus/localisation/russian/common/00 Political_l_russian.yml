@@ -1,0 +1,230 @@
+l_russian:
+
+### Generic Faction Joining ###
+ generic_events.10.t: "Альянс с [FROM. Возьмите NonIdeology NameDef]?"
+ generic_events.10.d: "Нестабильность, возникшая после Чёрного понедельника и других политических событий во всем мире, усилила опасения во многих слабых странах о том, что великие державы, приближающиеся к ударам, поймают их посередине. Несмотря на то, что некоторые из них обращаются к изоляции либо из-за своих собственных внутренних беспорядков, либо в надежде на то, что нейтральность не позволит им охотиться на них, [FROM.GetNameDefCap] принял противоположный подход. С любыми внутренними проблемами, которые сейчас решаются, народ в [FROM.GetNameDefCap] теперь смотрит наружу, надеясь найти альянсы защиты. Мы, возможно, из-за высоких географических условий, военной силы или идеологической последовательности [ROOOT.GetFactionName], выбранный нами выбор союзников."
+ generic_events.10.srd: "Интересное новое коммюнике пришло нам от [ITA.Get nonIdeology NameDef]: видя нашу нынешнюю общую войну против социализма и нашу общую цель улучшения родины, они решили предложить возвышение короля Амадео в качестве главы своего государства, эффективно схватив наши две страны. Хотя [ITA_GetNatPop Header] останется главой правительства, нашему премьер-министру было предложено стать старшим членом АНИ и значительное влияние на военную политику."
+ generic_events.10.a: "Сильнее вместе!"
+ generic_events.10.b: "Отличное предложение, передайте его [THIS.faction_leader. Возьмите NonIdeology NameDef]!"
+ generic_events.10.c: "Вообще-то, нет..."
+
+ generic_events.11.t: "[Фром. Возьмите NonIdeology NameDefCap] Приняли!"
+ generic_events.11.d: "Услышав нашу просьбу о вступлении в союз, [FROM.GetNameDef] приняли наше заявление, и теперь мы готовы стать членом [FROM.GetFactionName]. Это, как мы надеемся, повысит нашу безопасность в эти тревожные времена, поскольку мы стремимся обеспечить защиту нашего народа от внешних сил и иностранного вмешательства. ~ ~ Это не означает, что это соглашение является бесплатным. Теперь мы возлагаем на нас определенные надежды на то, что мы будем содействовать общей защите государств [FROM.GetFactionName] и, вероятно, втянуться в конфликты, связанные с этим пактом. Это включает возможность втягивания в войны, инициированные участниками этого пакта. ~ ~ Мы вступаем сейчас в будущее вместе, наши судьбы теперь переплетены как словами, так и силой оружия. Если повезет, мы выиграем гораздо больше из этого соглашения, которое мы потеряли в автономии."
+ generic_events.11.a: "Отлично!"
+
+ generic_events.12.t: "[переговорщик. Возьмите NonIdeology NameDefCap] предлагает Альянс с [потенциалом."
+ generic_events.12.d: "Срочное уведомление только что поступило из иностранного офиса: [переговорник. Переговорник. Наем Деф] попросил нас рассмотреть вопрос о том, чтобы включить [потенциально. Найти NonIdeology NameDef] в наш военный союз. Очевидно, [потенциально. Get nonIdeology NameDef] первоначально предложил идею [переговорщику. Get NonIdeology NameDef], который считал, что эта идея имеет достаточно оснований для передачи нам."
+ generic_events.12.a: "Пусть присоединятся."
+ generic_events.12.b: "Нам они не нужны."
+
+ generic_events.13.t: "[Фром. Возьмите NonIdeology NameDefCap] Приняли!"
+ generic_events.13.d: "Хорошие новости! После рассмотрения предложения [переговорщика. Возьмите NonIdeology NameDef], [FROM. Get NonIdeology NameDef] приняли нашу просьбу присоединиться к их альянсу. С такими друзьями мы, несомненно, будем спать гораздо безопаснее."
+ generic_events.13.a: "Отлично."
+
+ generic_events.14.t: "[Фром. Возьмите NonIdeology NameDefCap] Приняли!"
+ generic_events.14.d: "Хорошие новости! После рассмотрения нашего предложения [FROM.Get nonIdeology NameDef] согласились разрешить [потенциально."
+ generic_events.14.a: "Отлично."
+
+ generic_events.15.t: "[Фром. Возьмите NonIdeology NameDefCap] Отклонился!"
+ generic_events.15.d: "Несчастные новости: несмотря на [переговорник. Получите NonIdeology NameDef] спонсорство [FROM.Get NonIdeology NameDef] отклонило наше предложение присоединиться к их альянсу. Похоже, их цели не так совпадают, как раньше."
+ generic_events.15.a: "Их потеря."
+
+ generic_events.16.t: "[Фром. Возьмите NonIdeology NameDefCap] Отклонился!"
+ generic_events.16.d: "Потрясающие новости: несмотря на наши споры от их имени, [FROM.Get NonIdeology NameDef] отказались разрешить [потенциально."
+ generic_events.16.a: "Что?"
+
+ generic_events.17.t: "[Фром. Возьмите NonIdeology NameDefCap] Отклонился!"
+ generic_events.17.d: "Несмотря на наши убедительные призывы о том, что мы можем быть эффективным вкладчиком и членом их альянса, к нашему огорчению [FROM.GetNameDef] отказался от нашей просьбы присоединиться к [FROM.GetFactionName]. В некоторых отношениях можно ожидать, что альянсы часто бывают хрупкими и сопряжены с опасностями, и при их создании следует ожидать определенной осторожности. Тем не менее, этот отказ оставляет нас в тяжелом положении. Либо они не намерены защищать нас, либо более цинично видят в нас будущую цель на поле боя."
+ generic_events.17.a: "Их потеря."
+
+ generic_events.18.t: "Альянс с [FROM. Возьмите NonIdeology NameDef]?"
+ generic_events.18.d: "Международные отношения часто изменяются, и соглашения и договоренности быстро меняются от поколения к поколению. Иногда даже в рамках одного поколения договоры подписываются и отклоняются по мере изменения интересов. Нестабильность, возникшая после Чёрного понедельника и других политических событий во всем мире, усилила опасения во многих более слабых странах, что великие державы, надвигающиеся к ударам, поймают их в середине. ~ ~ n ~ В стремлении к достижению общих интересов [FROM.GetFactionName] объединились во всеобъемлющий военный союз. Они стремятся к нашему членству, предлагая нам возможность дальнейшей защиты (будь то от внешних угроз или от самих себя) и в обмен на углубление военных и экономических связей мы станем частью более сильного и единого блока. ~ ~ no Joining, однако, не без риска. Мы, скорее всего, будем втянуты в любые конфликты, связанные с этим союзом, и возможно, что наш вклад перевешивает выгоды, которые мы получаем от членства."
+ generic_events.18.a: "Сильнее вместе!"
+ generic_events.18.b: "Вообще-то, нет..."
+
+ generic_events.19.t: "[Фром. Возьмите NonIdeology NameDefCap] Приняли!"
+ generic_events.19.d: "После некоторых обсуждений [FROM.GetNameDefCap] принял наше приглашение присоединиться к [ROOT.GetFactionName], как мы и надеялись. Новый член нашего союза в целом приветствуется, обеспечивая безопасность друг для друга и по крайней мере мир между его членами. Их вклад вооруженных сил, финансирование и дипломатический вес, как мы надеемся, будут способствовать взаимным интересам [ROOT.GetFactionName], но впереди нас ждут некоторые проблемы. ~Нет еще одного союзника в нашем пакте, это означает, что дополнительные ресурсы будут способствовать нашим объединенным силам, хотя любая дополнительная опасность, которую они создают для нашей фракции, представляет собой опасность, которая будет принята в расчет. Любые конкурирующие претензии должны быть приняты во внимание, и любые разногласия, которые они могут вызвать между членами фракций. ~Нет, нам нужно будет усердно работать для того, чтобы эти вопросы были решены и чтобы этот союз работал для всех (или, по крайней мере, для нас самих). Тем не менее, это не должно подрывать дипломатическую победу, которую мы сегодня победили для всех наших народов."
+ generic_events.19.a: "Отлично!"
+
+ generic_events.20.t: "[Фром. Возьмите NonIdeology NameDefCap] Отклонился!"
+ generic_events.20.d: "После некоторых обсуждений, к нашему огорчению [FROM.GetNameDef] отклонили наше приглашение присоединиться к [ROOT.GetFactionName]. К сожалению, это не редкое событие, когда речь идет о создании альянса. Некоторые страны опасаются утраты дипломатической гибкости, на которую было бы принято официальное обязательство, в надежде избежать втягивания в проигрышный конфликт или желания вступить в более подходящий союз. Возможно также, что у них есть проекты, взаимоисключающие с нашими целями, хотя, надеюсь, не антагонистическим образом. ~ Неважно, что произойдет, [FROM.GetNamDef] не сделает или не разрушит наш союз. Или, по крайней мере, это должно произойти, если наша фракция будет иметь какой-либо вес. Мы пойдем дальше, чтобы достичь наши цели так или иначе, и если им повезет [FROM.GetNameDef], мы не будем слишком сильно сожалеть о своем плохом решении."
+ generic_events.20.a: "Их потеря."
+
+### Incoming War-ning ###
+ generic_events.30.t: "Приготовьтесь к войне!"
+ generic_events.30.d: "Мы получили многочисленные сообщения о том, что войска [от GetAdguctive] собираются в настоящее время и что через [Рут.GetAdigit] границу проводится большая разведка, и военные говорят, что это очевидно [от GetNameDef] планирует вторжение в [Root.GetNameDef], которое может начаться в любое время в течение следующих нескольких недель."
+ generic_events.30.a: "Мы должны быть готовы!"
+ generic_events.31.d: "Мы получили вызывающее тревогу сообщение [от Гет Наме Дефа] о том, что [от Гет Наме Дефа] в настоящее время собираются войска и что через границу [от Гет Наме Дефа] проходит большая разведка, и военные говорят, что очевидно [от Гет Наме Дефа] планируют вторжение [от Гет Наме Дефа], которое может начаться в любое время в течение следующих нескольких недель."
+ generic_events.32.d: "Мы получили сообщение от наших союзников в [от GetNameDef] о том, что их войска в настоящее время собираются, и что большая разведка проходит через [наступление-нацеливание. Включай] границу. [От GetNameDefCap] планирует вторжение [нападение-нацеливание. GetNameDef], которое может начаться в любое время в течение следующих нескольких недель."
+
+### Returning Cores ###
+ return_cores_to_ally: "Возвращение [из адаптивных земель]"
+ return_cores_to_ally_desc: "Правительство обсуждает, что делать с землями, которые мы в настоящее время занимаем, - землями, на которую у нас нет законных прав. Возвратим ли мы эту землю нашим союзникам?"
+ return_cores_to_subject: "Возвращение [из адаптивных земель]"
+ return_cores_to_subject_desc: "[Правительство] обсуждало, что делать с землями, которые мы в настоящее время оккупировали - землями, на которые у нас нет законных прав."
+
+ generic_events.75.t: "Земельные угодья"
+ generic_events.75.d: "Правительство [Root.GetAductive] обсуждает, что делать с землями, которые мы в настоящее время занимаем, - земля, на которую у нас нет законных прав."
+ generic_events.75.a: "Да, возвращай им всю землю."
+ KR_will_return_all: "Все прибрежные или прилежащие к ним государства, которые являются [возвратами к. Get Adquestive] ядрами или претензиями, будут возвращены в §Y [возвращение к. GetNameDef]§!. / no not §Rnot§!, включают в себя положения, которые являются [Root. Get Adquestive] § §! или §Ycore§!."
+ generic_events.75.b: "Да, возвращайте им землю... но сохраняйте самые важные штаты."
+ KR_will_return_rest: "Все прибрежные или прилежащие к ним государства, которые являются [возвратами к. Get Adquestive] ядрами или претензиями, будут возвращены в §Y [возвращение к. GetNameDef]§!. / no not §Rnot§!, включают в себя те положения, которые являются [Root. Get Adquestive] §Ywited §! или §Ycore§!, и не будут включать в себя §Yvital§!, такие как Каналы."
+ generic_events.75.c: "Возвращение только их основных земель"
+ KR_will_return_cores: "Все прибрежные или прилежащие к ним государства, которые являются [возвращенными к. Get Adquestive], будут возвращены в §Y [отправляйтесь в. GetNameDef]§!. / no not that with §Rnot§!, включая [Root. GetAdquestion] §! или §Ycore§!, или §Yvital§!, такие как каналы. Любые [отзывные к. GetAdegate] §Ystates будут сохранены."
+ generic_events.75.e: "Мы оставим всё!"
+ KR_will_not_return: "Мы вернем их земли, и нас не попросят сделать это снова."
+
+ generic_events.76.t: "Возвращается земля"
+ generic_events.76.d: "Наши союзники вернули нам кое-какие наши земли."
+ generic_events.76.a: "Отлично!"
+
+### Ideology ###
+ government_is_loc: "Нынешняя правящая партия:"
+ government_is_not_loc: "Нынешняя правящая партия не является"
+
+### Party Popularity Tooltips ###
+ popularity_ideology_tooltip: "Ваша нынешняя правящая партия §H [? текучее_партии_идеология_группа. Взять токен локального ключа] §!"
+ popularity_ideology_desc: "§L [Гетпопулярность Туолтип Деск]§!"
+ party_popularity_delayed_tooltip: "Популярность партии отражает контроль вашего нынешнего правительства над нацией и их поддержку народа."
+
+ party_popularity_tooltip: "Популярность партии!"
+ party_popularity_tooltip_long: "Популярность нашей партии: §! n$MoDIFiER_POLITIC_POWER_GAIN$: [GetPopularityPPGainValue] [Get Has Coalition] [Get Coalition Pertip]"
+
+ party_popularity_dynamic_modifier: "Партия &lt; &lt; Популярность &gt; &gt;"
+ party_popularity_dynamic_modifier_ideology_mapped: "Партия &lt; &lt; Популярность &gt; &gt;"
+ party_popularity_dynamic_modifier_coalition: "Коалиции"
+
+ party_popularity_value_default: "[? вечеринка_popularity@ruling_party Δ%0]"
+ party_popularity_value_mapped: "[? Партия_popularity@var:tempus%0]"
+
+ party_popularity_gain_value_default: "Популярность §! n [GetCoalation Words] [GetCoalation]n §HEffects from constitution Company Population Popularity: §!\n Daily Polical Power Generation: [? party_popularity@ruling_party>=+]"
+ party_popularity_gain_value_mapped: "Популярность §! n [GetCoalation Words] [GetCoalation]n §HEffects from constitution Company Population Popularity: §!\n Daily Polical Power Geney: [? party_popularity@var:temp>=+]"
+ party_popularity_gain_value_disabled: "[? 0612=+]"
+
+ add_to_coalition: "§ [GetCoalation TooltipColour] [?coalation_partners_var.GetToken Localized Key] §! присоединится к коалиции."
+ remove_from_coalition: "§[GetCoalation TooltipColour] [?coalation_partners_var.GetToken Localized Key] §! покинет коалицию."
+ end_coalition_tt: "§YCoalation§! полностью закончится."
+
+ is_in_coalition_with: "Состоится в коалиции с §H [? global.ideology_groups_$INDEX$. GetToken Localized Key] §!"
+ is_in_coalition_with_NOT: "Не входит ли в коалицию с §H [? global.ideology_groups_$INDEX$. GetToken Localized Key] §!"
+
+ coalition_stability_tooltip: "Партнёры коалиции сейчас предоставляют $RIGHT\G%0$ своей популярности как дополнительный §Holitical trow §!"
+
+ coalition_stability_pp_change: "§$koLUR$ [? global.ideology_groups_$INDEX$. GetToken Localized Key] §! Теперь партнеры коалиции вносят свой вклад в их популярность для нашей партии $MODIFiER_POLITIC_POWER_GAIN$."
+
+### At War Notice ###
+ has_scripted_peace: "Мы находимся в состоянии войны"
+ has_scripted_peace_desc: "Страна находится в состоянии войны и полна решимости добиться победы, хотя вероятность того, что наше сопротивление будет несколько более хрупким, чем кажется. (Примечание: это существует для войн, где существует сценарий мирного события, и есть вероятность, что это событие будет сожжено задолго до того, как этот повышенный предел капитуляции будет нарушен, так что вы знаете.)"
+
+### Demobilisation ###
+ mobilisation_penalty_modifier: "Превышение предела деления"
+
+ unit_limit_title: "Максимум поддерживаемых дивизий"
+
+ unit_limit_count: "[единица_ограничение_контент_loc]"
+ unit_limit_count_disabled: "ОБЪЕДИНЕННЫХ НАЦИЙ"
+ unit_limit_count_above: "[? нумерация_фактическое_ деление .4/R0][? max_дивиденды ΔY0]"
+ unit_limit_count_equal: "[? нумерация_фактическое_ деление ΔY0][? max_дивиденды ΔY0]"
+ unit_limit_count_below: "[? нумерация_фактические_ деления ΔG0][? max_дивиденды ΔY0]"
+
+ unit_limit_law_bonus: "Предел подкласса"
+
+ unit_limit_bonus: "Предел подкласса"
+ unit_limit_bonus_tooltip: "$unit_limit_bonus$: $RIGHT|+=0$"
+
+ unit_limit_factor: "Предел подкласса"
+ unit_limit_factor_tooltip: "$unit_limit_factor$: $RIGHT|+=0%$"
+
+ unit_limit_subject_bonus: "Дополнительный предел подкласса для повелителя"
+
+ unit_limit_breakdown: "[единица_ограничение_разрыв]"
+ unit_limit_breakdown_default: "§H Максимально поддерживаемые подклассы §!! \настоящий граф: [единица_ограничение_count_loc] [?max_деления]/n [единица_ограничение_база_значение] [единица_ограничение_состояние_bonus] n [единица_ъемка_фактор] [единица_ограничение_фактор] nn n National Modifierers: [единица_ограничение_база] [единица_ограничение_экономика_ право] [единица_ограничение_ограничение_perc] [единица_ограничение_ограничение_ограничение_ограничение]"
+#[unit_limit_core_population][unit_limit_noncore_population][unit_limit_subject_population_bonus]
+ unit_limit_list_item: "- Нн -"
+
+ unit_limit_reached_floor_desc: "~n (капитан до минимума [? этаж/Н0])"
+ unit_limit_reached_ceiling_desc: "nn (приложен к максимуму [???"
+ unit_limit_base_value_desc: "~nBase Значение: [? базис_единицы_G1]"
+ unit_limit_core_population_desc: "$unit_limit_list_item$From Core Population: [?core_base|G1]"
+ unit_limit_noncore_population_desc: "$unit_limit_list_item$From Non-Core Population: [?non_core_base|G1]"
+ unit_limit_subject_population_bonus_desc: "$unit_limit_list_item$From §HSubject§! Population: [?subject_base_units|G1]"
+ unit_limit_states_desc: "$unit_limit_list_item$From Owned States: [?num_owned_states|G0]"
+ unit_limit_subject_state_bonus_desc: "$unit_limit_list_item$From §HSubject§! States: [?subject_states|G0]"
+ unit_limit_factory_count_multiplier_desc: "Множитель Factory Count: [? industry_factor_H%]"
+ unit_limit_additional_multipliers_desc: "Дополнительные мультипликаторы:"
+ unit_limit_faction_leader_desc: "$unit_limit_list_item$Faction Leader: [?modifier|+=%0]"
+ unit_limit_factor_desc: "$unit_limit_list_item$£pol_idea National Spirits: [?modifier@unit_limit_factor|=+0%]"
+ unit_limit_base_desc: "$unit_limit_list_item$Base: [?base|=+0]"
+ unit_limit_bonus_desc: "$unit_limit_list_item$£pol_idea Flat Bonuses (National Spirits): [?modifier@unit_limit_bonus|=+0]"
+ unit_limit_perc_desc: "$unit_limit_list_item$£pol_idea Percentage (Economic Laws/Spirits): [?modifier@unit_limit_bonus_percentage|=+0%]"
+
+
+
+ unit_limit_low_economic_mobilisation: "$unit_limit_list_item$£pol_idea §H$low_economic_mobilisation$§!: [?modifier@unit_limit_law_bonus|+=0]"
+ unit_limit_partial_economic_mobilisation: "$unit_limit_list_item$£pol_idea §H$partial_economic_mobilisation$§!: [?modifier@unit_limit_law_bonus|+=0]"
+ unit_limit_war_economy: "$unit_limit_list_item$£pol_idea §H$war_economy$§!: [?modifier@unit_limit_law_bonus|+=0]"
+ unit_limit_tot_economic_mobilisation: "$unit_limit_list_item$£pol_idea §H$tot_economic_mobilisation$§!: [?modifier@unit_limit_law_bonus|+=0]"
+
+ unit_limit_above_limit_desc: "~---------------------- $unit_liit_bouve_ limit_text$"
+ unit_limit_above_limit_text: "В настоящее время мы превысили наши возможности, и единственным способом уменьшить нагрузку на нашу страну будет устранение некоторых из наших дивизий. §! / nn modiFiER_ARMY_ORG_FACTOR$: [...мобилизация_penalty_var_% 1] n$MODIFiER_CONSUMER_GOTORF_FACT$: [?мобилизация_пенальти_var_позитивная_%]"
+
+ unit_limit_breakdown_desc: "[единица_ограничение_разрыв_дека]"
+ unit_limit_breakdown_desc_enabled: "Каждая страна может поддерживать лишь определенное число отдельных военных делений до того, как их экономика и инфраструктура будут бороться за их сохранение. Но максимальное число поддерживаемых единиц основывается на §Hpopulation§! и §Hnumber of Island States §!, а затем умножается на отношение этого значения к §H число заводов §! в штатах. § § § §Hivil Wars §!, базовые значения рассчитываются на основе суммы всех государств, принадлежащих всем участникам."
+ unit_limit_breakdown_desc_disabled: "§H Максимально поддерживаемые дивизии §! были отключены правилами игры."
+
+
+### Tooltips ###
+ KR_party_pop_less_than: "Меньше, чем $RYGHT_%0Y$ поддержка [ROOT.GetRulingParty]"
+ KR_party_pop_more_than: "Более чем $RIGHT_%0Y$ поддержка [ROOT.GetRulingParty]"
+ is_ally_of_ROOT: "Это союзник."
+ has_coalition_with: "В коалиции с §H [? коалиция_партнёр_-проверка. Взять локальный ключ] §!"
+
+ KR_getting_faction_invite: "В настоящее время нас приглашают в одну фракцию."
+ KR_getting_faction_invite_NOT: "В настоящее время нас приглашают в фракцию."
+
+### Decisions ###
+ generic_raise_stability: "[Генерический] Воспроизводимость_стабильность_текст]"
+ generic_raise_stability_desc: "[Генеральная хватка ] Стабильность . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+
+ generic_raise_stability_socialist: "Улучшение условий труда"
+ generic_raise_stability_socialist_desc: "Улучшение условий труда наших рабочих на фабриках приведет к сокращению производства в краткосрочной перспективе, но долгосрочные выгоды этого стоят."
+
+ generic_raise_stability_liberal: "Законные свободы"
+ generic_raise_stability_liberal_desc: "Возможно, самый простой способ улучшить стабильность в нашей стране — дать людям то, что они хотят. Это будет сопряжено с некоторыми неудобными компромиссами, но в идеале это меры, которые являются лишь временными и предназначены для того, чтобы успокоить их до тех пор, пока порядок не будет восстановлен должным образом."
+
+ generic_raise_stability_conservative: "Срыв полиции"
+ generic_raise_stability_conservative_desc: "Мы должны ослабить ограничения в отношении наших полицейских сил и предоставить им свободу делать свою работу, арестовывая худших преступников."
+
+ generic_raise_stability_authoritarian: "Пошлите армию."
+ generic_raise_stability_authoritarian_desc: "Не все будут рады этому, это правда, но иногда военное положение - единственная альтернатива."
+
+ generic_raise_support: "[Генерический] Воспитатель_поддержка_текст]"
+ generic_raise_support_desc: "[generic_reach_support_desc_text]"
+
+ rally_public_support: "Общественная поддержка"
+ rally_public_support_desc: "При наличии определенной политической власти и определенной промышленной поддержки мы мобилизуем наших сторонников на наше дело, хотя это потребует времени и ресурсов, в долгосрочной перспективе это улучшит наш политический статус."
+
+ solidify_control: "Укрепить контроль"
+ solidify_control_desc: "Некоторое тактичное использование политической власти здесь и некоторых ресурсов там и мы устраним наши политические препятствия; мы, возможно, не сможем избавиться от всех из них, но даже избавление от некоторых из них очистит наш путь и улучшит нашу политическую власть в долгосрочной перспективе."
+
+ restructure_supply_system: "Реорганизация железнодорожной системы"
+ restructure_supply_system_desc: "Перенаправляя строительные материалы и железнодорожные рабочие, мы можем быстро создать небольшое количество самодельных свалок вдоль некоторых из наших железных дорог. Однако это не является устойчивым. Это решение может быть принято только один раз. Премии исчезнут, если вы будете строить более трех дополнительных центров снабжения. §!"
+
+ debug_decisions: "Отладочные решения"
+ turn_off_plpc_debug: "Выключить конференции игроков"
+ turn_off_plpc_debug_desc: "Это временно отключит мирные конференции под руководством игроков, что означает, что мирные конференции будут проходить как обычно, и страны АИ не откажутся от участия в них игрока."
+ turn_on_plpc_debug: "Поворачивай на конференции игроков"
+ turn_on_plpc_debug_desc: "Это позволит восстановить нормальное функционирование мирных конференций под руководством игроков."
+ KR_player_leads_conferences: "§YPlayer Primacy§! Игровое правило для мирных конференций является активным и §Guild §!n"
+ KR_plpc_disable_tt: "§YPlayer Primacy§! Правило игры будет временно §Rdisable§!n"
+ KR_plpc_enable_tt: "§YPlayer Primacy§!"
+ KR_plpc_turned_off: "§YPlayer Primacy§! Игровое правило для мирных конференций активно действует, но в настоящее время §Riskable§!n"
+ stt_highlight_states: "Государства с маркировкой"
+ AI_dont_spend_PP: "IA Не тратьте РР"
+
+##################
+### Ideologies ###
+##################
+
+
+

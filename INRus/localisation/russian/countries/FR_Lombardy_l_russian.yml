@@ -1,0 +1,23 @@
+l_russian:
+ 
+ LOM_social_democrat_party: "ЛДР"
+ LOM_social_democrat_party_long: "&lt; &lt; Демократическая риформиста &gt; &gt;"
+ LOM_social_liberal_party: "СПР"
+ LOM_social_liberal_party_long: "Либерально-демократическая партия"
+ LOM_market_liberal_party: "PLL"
+ LOM_market_liberal_party_long: "Либеральная партия &lt; &lt; Ломбарда &gt; &gt;"
+ LOM_social_conservative_party: "PPL"
+ LOM_social_conservative_party_long: "Партия &quot; Пополяре Ломбардо &quot;"
+ LOM_authoritarian_democrat_party: "Консилио Дюкале"
+ LOM_authoritarian_democrat_party_long: "Консилио Дюкале"
+ LOM_paternal_autocrat_party: "Casa di Visconti"
+ LOM_paternal_autocrat_party_long: "Casa di Visconti"
+ LOM_national_populist_party: "МР"
+ LOM_national_populist_party_long: "Lega Longobarda"
+
+### Characters ###
+ LOM_adriano_visconti_regnal: "Адриано I"
+
+ LOM_giacomo_acerbo: "Джакомо Асербо"
+ LOM_piero_parini: "Пьеро Парини"
+ LOM_ludovico_aragona: "Людовико д'Арагона"

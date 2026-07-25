@@ -1,0 +1,32 @@
+l_russian:
+
+#doge
+
+### Parties ###
+ SRV_social_democrat_party: "ППВ"
+ SRV_social_democrat_party_long: "Партито Пополяре Венето"
+ SRV_social_liberal_party: "PCL"
+ SRV_social_liberal_party_long: "Партито Кристиано Либеральная"
+ SRV_market_liberal_party: "ПРВ"
+ SRV_market_liberal_party_long: "Партия Репуббликано Венето"
+ SRV_social_conservative_party: "ЛК"
+ SRV_social_conservative_party_long: "Лега Каттолика"
+ SRV_authoritarian_democrat_party: "Консилио Дюкале"
+ SRV_authoritarian_democrat_party_long: "Консилио Дюкале"
+ SRV_paternal_autocrat_party: "Магиор Консиглио"
+ SRV_paternal_autocrat_party_long: "Магиор Консиглио"
+ SRV_national_populist_party: "Лив"
+ SRV_national_populist_party_long: "Lega Integralisti Veneti"
+ SRV_valkist_party: "LIV (V)"
+ SRV_valkist_party_long: "Lega Integralisti Veneti (валькист)"
+
+
+### Characters ###
+ SRV_umberto_merlin: "Умберто Мерлин"
+ SRV_giuseppe_volpi: "Джузеппе Вольпи"
+ SRV_giovanni_ponti: "Джованни Понти"
+ SRV_giovanni_battista_gianquinto: "Джованни Баттиста Джианкинто"
+ SRV_mario_balotta: "Марио Балотта"
+ SRV_ermacora_zuliani: "Эрмакора Зулиани"
+ SRV_antonio_scaramuzza: "Антонио Скарамуцца"
+ SRV_michele_vaccaro: "Мишель Ваккаро"

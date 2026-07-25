@@ -1,0 +1,128 @@
+﻿l_russian:
+
+### POLITICAL PARTIES ###
+SIK_vanguardist_party: "Куоминтанг"
+SIK_vanguardist_party_long: "Слева от Куоминтанга"
+SIK_collectivist_party: "Куоминтанг"
+SIK_collectivist_party_long: "Левый Kuomintang"
+SIK_libertarian_socialist_party: "Куоминтанг"
+SIK_libertarian_socialist_party_long: "Слева от Куоминтанга"
+SIK_social_democrat_party: "Куоминтанг"
+SIK_social_democrat_party_long: "Слева от Куоминтанга"
+SIK_social_liberal_party: "Независимые специалисты"
+SIK_social_liberal_party_long: "Независимые специалисты"
+SIK_market_liberal_party: "Независимые специалисты"
+SIK_market_liberal_party_long: "Независимые специалисты"
+SIK_social_conservative_party: "Независимые специалисты"
+SIK_social_conservative_party_long: "Независимые специалисты"
+SIK_authoritarian_democrat_party: "Jin Shuren Supporters ( &lt; &lt; Поддержка Джина Шурена &gt; &gt; )"
+SIK_authoritarian_democrat_party_long: "Поддержка возвращения Джина Шурена"
+SIK_paternal_autocrat_party: "Клик Синьцзян"
+SIK_paternal_autocrat_party_long: "Клика Синьцзян"
+SIK_national_populist_party: "Клик Синьцзян"
+SIK_national_populist_party_long: "Клика Синьцзян"
+SIK_valkist_party: "Возрождение Китайской лиги"
+SIK_valkist_party_long: "Возрождение Китайской лиги"
+
+### DESCRIPTION ###
+SIK_FUHRERREICH_DESC: "В последнее время Синьцзянская клика находится в особенно тяжелом положении, Восточная Туркестанская Республика триумфально на Западе и Кумул-ханате на востоке, оставшаяся часть Клики Синьцзян сильно ослаблена этими неудачами и сплотилась вокруг героя войны Ма Шаову. Клика Синьцзян сидит в опасном положении и нуждается в большой удаче, чтобы выжить в ее нынешнем виде."
+
+### EVENTS ###
+sik.0.t: "Жили бросили нас."
+sik.0.d: "После смерти президента Яна Гуйцинга беспорядки, которые вспыхнули в Шанхае, превратились в полный бунт в провинции против коррумпированных и ленивых Жили, которые контролировали правительство Бейянга с момента его создания. Поскольку их власть рухнула и Китай вступает в период враждующего государства, столь далеко идущего региона, как наш собственный, больше нет, и защита, которую мы предоставляем, исчезла. Мы уже потеряли значительную территорию для Восточного Туркестана, который успешно восстал против нас после трусливого полета Джина Шурена из Клики, и все более скверный Кумула Ханате заявил о своей содружественности от нас военными средствами, оставив нас в исключительно неблагоприятном положении. Если мы хотим сохранить стабильность, мы должны действовать легко в будущих событиях и конфликтах, возможно, даже сдаться больше территории, чтобы обеспечить нам выживание, чтобы сражаться в другой день."
+sik.0.a: "Мы выживем."
+###
+
+### Head of Government ###
+XSM_Ma_Lin_hog_sco: "Ма Лин"
+XSM_Ma_Hongbin_hog_ade: "Ма Хонбин"
+XSM_Ma_Fuxiang_hog_pau: "Ма Фусян"
+XSM_Ma_Hongkui_hog_pau: "Ма Хонкуи"
+XSM_Ma_Bufang_hog_npo: "Ма Буфан"
+
+### Person of Influence ###
+## Foreign Minister
+XSM_Ma_Xizhen_for_sco: "Ма Сизен"
+XSM_Ma_Dunhou_for_ade: "Ма Данху"
+XSM_Hu_Songshan_for_pau: "Ху Соншан"
+XSM_Han_Youwen_for_npo: "Хан Ювен"
+## Economy Minister
+XSM_Ma_Burong_eco_sco: "Ма Буронг"
+XSM_Ma_Chengxiang_eco_ade: "Ма Ченсян"
+XSM_Ma_Xiancheng_eco_ade: "Ма Сяньчэн"
+XSM_Ma_Liang_eco_pau: "Ма Лян"
+XSM_Ma_Buqing_eco_npo: "Ма Букинг"
+## Security Minister
+XSM_Ma_Tingxian_sec_sco: "Ма Тингсян"
+XSM_Ma_Xiantu_sec_ade: "Ма Сянту"
+XSM_Ma_Biao_sec_pau: "Ма Биао"
+XSM_Ma_Bukang_sec_pau: "Ма Букан"
+XSM_Ma_Jiyuan_sec_npo: "Ма Цзюань"
+XSM_Ma_Tingxiang_sec_npo: "Ма Тиньсян"
+
+### Chief of Staff ###
+XSM_Cai_Zuozhen_cos: "Кай Зуожен"
+XSM_Ma_Biao_cos: "Ма Биао"
+XSM_Ma_Bufang_cos: "Ма Буфан"
+XSM_Ma_Buqing_cos: "Ма Букинг"
+XSM_Ma_Hongkui_cos: "Ма Хонкуи"
+XSM_Ma_Tingxian_cos: "Ма Тингсян"
+XSM_Ma_Xuyuan_cos: "Ма Сююань"
+
+### Chief of Army ###
+XSM_Han_Youwen_carm: "Хан Ювен"
+XSM_Ma_Bukang_carm: "Ма Букан"
+XSM_Ma_Buyuan_carm: "Ма Буюань"
+XSM_Ma_Dunhou_carm: "Ма Данху"
+XSM_Ma_Lin_carm: "Ма Лин"
+XSM_Ma_Quanqin_carm: "Ма Кванцин"
+XSM_Ma_Weiguo_carm: "Ма Вейгу"
+
+### Chief of Navy ###
+XSM_Ma_Chengxiang_cnav: "Ма Ченсян"
+
+### Chief of Air Force ###
+XSM_Zhou_Zhikai_cair: "Чжоу Чжикаи"
+
+### Characters ###
+ SIK_yang_zengxin: "Ян Цзенгсин"
+ SIK_ishaq_bey: "Ишак Бей"
+
+ SIK_fan_yaonan: "Фан Яонан"
+
+ SIK_ma_shaowu: "Ма Шаоу"
+
+ SIK_sheng_shicai: "Шэн Шикай"
+
+ SIK_jin_shuren: "Джин Шурен"
+
+ SIK_long_xielin: "Длинный ксилин"
+
+ SIK_burhan_shahidi: "Бурхан Шахиди"
+
+ SIK_li_rong: "Ли Рон"
+ SIK_qiu_zongjun: "Цю Цзонджун"
+ SIK_jin_shuxin: "Джин Шуксин"
+ SIK_jin_shengwu: "Джин Шенву"
+
+ SIK_yu_xiusong: "Ю Сюйюнь"
+ SIK_wu_jingbin: "Ву Цзиньбин"
+ SIK_zhang_fengjiu: "Чжан Фэнцзю"
+ SIK_guanglu: "Гуанглу"
+ SIK_liu_wenlong: "Лю Венлунг"
+ SIK_yan_yushan: "Ян Юшан"
+ SIK_yibulayin: "Ибулейн"
+ SIK_huashengmu: "Хуашенгу"
+ SIK_alen_zheniskhanovich: "Ален Женишанович"
+
+ SIK_zhang_peiyuan: "Чжан Пейюань"
+ SIK_zhou_wuxue: "Чжоу Вуксю"
+ SIK_lu_liping: "Lu Liping"
+ SIK_li_xiaotian: "Ли Сяоцянь"
+ SIK_niu_shi: "Ню Ши"
+ SIK_li_hairu: "Ли Хайру"
+ SIK_sheng_shiqi: "Шэнь Шици"
+ SIK_jiang_deyu: "Цзян Дейю"
+ SIK_chen_yufeng: "Чэнь Юфэн"
+ 
+ SIK_panicked_isolationism: "Запаникованный изоляционизм n §gEver со времен Северной экспедиции и продолжения немецкого вмешательства, Ян Цзенгсин был сильно запаникован и болен со старостью. В течение большей части своего времени, скрывавшегося в своем доме, он едва ли уйдет из-за боязни убийства или пойма своей последней роковой болезни. Помимо того, что он остается полностью изолированным по политическим причинам в Китае, люди не знают, как долго он продержится в своем нынешнем состоянии, но он определенно не в стабильном состоянии.§!"

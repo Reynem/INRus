@@ -1,0 +1,89 @@
+﻿l_russian:
+
+### Political Parties ###
+
+CRO_vanguardist_party: "KPH"
+CRO_vanguardist_party_long: "Партия &lt; &lt; Комуничка &gt; &gt;"
+CRO_collectivist_party: "HSRS"
+CRO_collectivist_party_long: "&lt; &lt; Грватска социялистицка Радничка Странка &gt; &gt;"
+CRO_libertarian_socialist_party: "SSH"
+CRO_libertarian_socialist_party_long: "Socijalistichka Stranaka Hrvatske"
+CRO_social_democrat_party: "ПБГ"
+CRO_social_democrat_party_long: "Социал-Демократска Странка-Хрватске"
+CRO_social_liberal_party: "HNS"
+CRO_social_liberal_party_long: "Грватска Народна Странка"
+CRO_market_liberal_party: "HLS"
+CRO_market_liberal_party_long: "Грватска Либеральная Странка"
+CRO_social_conservative_party: "HSS"
+CRO_social_conservative_party_long: "Грватска Сельячка Странка"
+CRO_authoritarian_democrat_party: "HSP"
+CRO_authoritarian_democrat_party_long: "Hrvatska Stranaka Prava"
+CRO_paternal_autocrat_party: "VH"
+CRO_paternal_autocrat_party_long: "Война Ханта"
+CRO_national_populist_party: "ГРО"
+CRO_national_populist_party_long: "Организация &lt; &lt; Хрватска революционарна &gt; &gt;"
+CRO_valkist_party: "УХРО"
+CRO_valkist_party_long: "Революционное движение &lt; &lt; Усташе-Хрватска &gt; &gt;"
+
+
+###Events###
+
+cro.1.t: "Хорватская война за независимость!"
+cro.1.d: "Венгры не хотят вести переговоры и идти на компромисс, мы должны взять нашу зависимость силой!"
+cro.1.a: "Хорватия навсегда!"
+###
+cro.2.t: "Сербия объявляет войну!"
+cro.2.d: "Хорваты в Боснии недавно присоединились к нашему делу, и теперь Сербия объявила войну с намерением вновь захватить земли."
+cro.2.a: "Хорватия навсегда!"
+###
+cro.3.t: "Италия объявляет войну!"
+cro.3.d: "Далматия присоединилась к нашему государству не так давно, и итальянцы решили, что единственным решением является военное вмешательство."
+cro.3.a: "Хорватия навсегда!"
+###
+cro.4.t: "Наши враги предлагают мир."
+cro.4.d: "Мы выжили, несмотря на все разногласия и с врагами со всех сторон, и наши враги не могут нарушить нашу железную волю. Объединенная делегация сербских, венгерских и итальянских дипломатов направила официальное мирное письмо. Условия вполне разумны; мы оставляем все районы, которые мы оккупировали во время войны, и они тоже. Большое хорватское государство выживает, и наша мечта была реализована."
+cro.4.a: "Хорватия навсегда!"
+
+###Ideas###
+CRO_demilitarised_nation: "Демилитаризованная нация"
+CRO_demilitarised_nation_desc: "В связи с разрывом Хорватии между тремя державами после Великой войны, "Согласие" выбрало компромиссное решение - нейтральную Хорватию без военных, и единственными военнослужащими на нашем побережье являются итальянские войска, в результате чего у нас нет армии, хотя слухи о тайной подготовке хорватской армии, готовой защищать маленькую балканскую нацию..."
+cro_united_revolt: "Объединение в восстании"
+cro_united_revolt_desc: "Все хорваты едины в нашем великом восстании против наших хозяев."
+
+### Characters ###
+ CRO_stjepan_radic: "Степан Радич"
+ CRO_ivo_pillar: "Компонент &lt; &lt; Иво &gt; &gt;"
+
+ CRO_slavko_kvaternik: "Славко Кватерник"
+
+ CRO_mihajlo_lukic: "Михайло Лукич"
+ 
+ CRO_fedor_dragojlov: "Федор Драгойлов"
+ 
+ CRO_eduard_bunic_de_bona: "Эдуард Бунич де Бона"
+ 
+ CRO_matija_canic: "Матия Чанич"
+ 
+ CRO_vladimir_laxa: "Владимир Лакса"
+ 
+ CRO_duro_jakcin: "Журо Якчин"
+ CRO_edgar_angeli: "Эдгар Анжели"
+ CRO_nikola_steinfel: "Никола Штейнфель"
+ CRO_aleksandar_ehrmann: "Александр Эрманн"
+ CRO_oton_vinski: "Отон Вински"
+ CRO_ivan_rikard_ivanovic: "Иван Рикард Иванович"
+ CRO_aloysius_stepinac: "Алоизиус Степинак"
+ CRO_andrija_artukovic: "Андрия Артукович"
+ CRO_vladimir_kosak: "Владимир Кошак"
+ CRO_ivan_subasic: "Иван Шубашич"
+ CRO_stjepan_ivsic: "Степан Ившич"
+ CRO_duro_basaricek: "Уро Басаричек"
+ CRO_miroslav_navratil: "Мирослав Навратил"
+ CRO_vilko_begic: "Вилко Бегич"
+ CRO_slavko_stancer: "Славко Штансер"
+ CRO_vladimir_kren: "Владимир Крен"
+ CRO_ivan_prpic: "Иван Прпич"
+ CRO_duro_dragicevic: "Драгичевич"
+ CRO_milan_miesler: "Милан Мизлер"
+ CRO_domobranske_akademija: "Домобранске Академия"
+ CRO_mornaricka_akademija: "Морнаричка Академия"

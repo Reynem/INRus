@@ -1,0 +1,32 @@
+l_russian:
+
+### Parties ###
+ OMA_social_democrat_party: "Alhizb Alaijtimaeiu"
+ OMA_social_democrat_party_long: "Alhizb Alaijtimaeiu"
+ OMA_social_conservative_party: "Хизб Альтахалуф"
+ OMA_social_conservative_party_long: "Хизб Альтахалуф"
+ OMA_authoritarian_democrat_party: "Ал Саид"
+ OMA_authoritarian_democrat_party_long: "Ал Саид"
+ OMA_paternal_autocrat_party: "Ал Саид"
+ OMA_paternal_autocrat_party_long: "Ал Саид"
+ OMA_national_populist_party: ""Имбратуриат Емман""
+ OMA_national_populist_party_long: ""Имбратуриат Емман""
+ OMA_valkist_party: ""Имбратуриат Емман""
+ OMA_valkist_party_long: ""Имбратуриат Емман""
+ OMA_social_liberal_party: "Валхурият Валиелала"
+ OMA_social_liberal_party_long: "Валхурият Валиелала"
+ OMA_market_liberal_party: "Alhizb Aleumaniu Alliybiraliu"
+ OMA_market_liberal_party_long: "Alhizb Aleumaniu Alliybiraliu"
+ OMA_libertarian_socialist_party: "Тахалуф Алеуммаль Алеуманиу"
+ OMA_libertarian_socialist_party_long: "Тахалуф Алеуммаль Алеуманиу"
+ OMA_collectivist_party: "Alhizb Alaishtirakiu Aleumaniu"
+ OMA_collectivist_party_long: "Alhizb Alaishtirakiu Aleumaniu"
+ OMA_vanguardist_party: "Alhizb Alshuyueiu Aleumaniu"
+ OMA_vanguardist_party_long: "Alhizb Alshuyueiu Aleumaniu"
+
+### Characters ###
+ OMA_said_ibn_taimur: "Сказал Ибн Таймур"
+ 
+ OMA_suleiman_bin_himayer_al_ryami: "Сулейман бен Химайер аль-Рьями"
+ OMA_talib_bin_ali_al_hinai: "Талиб бен Али аль-Хинаи"
+ OMA_ali_bin_serhan: "Али бен Серхан"

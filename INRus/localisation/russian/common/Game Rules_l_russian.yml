@@ -1,0 +1,85 @@
+l_russian:
+######################################################
+### Kaiserreich Game Rules                         ###
+######################################################
+### By El Daddy, Igor050301, Amber and many others ###
+######################################################
+
+
+ ### Game Rules ###
+ RULE_GROUP_KAISERREICH_RULES: "Общие сведения"
+
+ RULE_WK2_BEGIN_OPTIONS: "Ранняя вторая вельткриг"
+ RULE_OPTION_RESTRICTED: "Ограниченные"
+ RULE_WK2_BEGIN_OPTIONS_RESTRICTED_DESC: "Почти все пути, которые могут привести к вспышке войны между Рейхспактом и третьей международной организацией до 1939 года, заблокированы, даже если это означает, что ранние столкновения между двумя сторонами всегда приводят к отказу одной из сторон."
+ RULE_OPTION_RARE: "Редкий"
+ RULE_WK2_BEGIN_OPTIONS_RARE_DESC: "Путьы, которые могут привести к вспышке войны между Рейхспактом и третьим интернационалом до 1939 года, не заблокированы, но шансы на то, что они приведут к войне, очень малы."
+ RULE_OPTION_UNRESTRICTED: "Неограниченное"
+ RULE_WK2_BEGIN_OPTIONS_UNRESTRICTED_DESC: "Любая ранняя конфронтация между Рейхспактом и третьей международной организацией может означать прорыв второго вельткрига, основанный на шансах, связанных с любой цепью событий. Это означает, что ранние войны происходят часто."
+
+ RULE_UNIT_LIMIT_OPTIONS: "Пределы подклассов"
+ RULE_OPTION_STANDARD: "Применяется ко всем"
+ RULE_UNIT_LIMIT_OPTIONS_STANDARD_DESC: "Пределы были применены к тому, сколько делений может построить АИ, основываясь на подсчетах на фабриках и на уровне экономического права. Как только АИ достигнет этого предела, они просто перестают строить новые дивизии. Этот предел также применяется к игроку, хотя для них это мягкий верхний предел и они получают малус, основанный на том, как далеко они строят предел. ~n §Rnote, что это система, созданная для снижения неизбежного замедления, которое происходит по ходу игры, поскольку само число дивизий в действии является главной причиной системного отставания.§!"
+ RULE_UNIT_LIMIT_OPTIONS_AI_ONLY: "Применяется только к IA"
+ RULE_UNIT_LIMIT_OPTIONS_AI_ONLY_DESC: "Были установлены ограничения в отношении того, сколько делений может построить АИ, исходя из их количества на фабриках и уровня экономического права. Как только ИИ достигнет этого предела, они просто перестают строить новые дивизии. В этой ситуации нет предела тому, сколько дивизий может построить игрок, кроме их способности поставлять рабочую силу и оборудование. \n §Rnote, что это ставит игрока в значительное преимущество перед странами АИ, которые в противном случае были бы сопоставимыми. §!"
+ RULE_OPTION_TURN_OFF: "Выключить"
+ RULE_UNIT_LIMIT_OPTIONS_TURN_OFF_DESC: "Это полностью отключает систему пределов деления. ~n §RIt предлагается сделать это только в том случае, если вы либо не возражаете против того, чтобы играть скорость намного медленнее, пока игра продолжается, или у вас есть очень сильный компьютер для запуска игры.§!"
+
+ RULE_DEMOB_OPTIONS: "Демобилизация в мирное время"
+ RULE_OPTION_DEMOB_EXISTS: "По умолчанию"
+ RULE_OPTION_DEMOB_EXISTS_DESC: "В мирное время игроку предлагается сократить свои экономические нормы и/или законы о призыве до уровней, разрешенных в мирное время, и в соответствии с их $MODIFIER_WAR_SUPPORT_FACTUR$ в течение четырех месяцев. МА делает то же самое, хотя они делают это быстрее и склонны снижать свои законы до более низких уровней, чем это требуется игроку."
+ RULE_OPTION_DEMOB_AI_ONLY: "Применяется только к IA"
+ RULE_OPTION_DEMOB_AI_ONLY_DESC: "В мирное время МА сокращает свое экономическое положение и/или законы о призыве на военную службу."
+ RULE_OPTION_DEMOB_OFF: "Выключить"
+ RULE_OPTION_DEMOB_OFF_DESC: "Ни игроку, ни ИИ никогда не подталкивают к сокращению их экономики и/или законов о призыве на военную службу в мирное время."
+
+ RULE_CONFERENCE_OPTIONS: "Мирные конференции"
+ RULE_OPTION_CONFERENCE_STANDARD: "По умолчанию"
+ RULE_OPTION_CONFERENCE_STANDARD_DESC: "МА принимает государства на мирной конференции, основанной на ее основах, претензиях, амбициях и на том, может ли она достичь их."
+ RULE_OPTION_CONFERENCE_PLAYER_PRIMACY: "Примат игрока"
+ RULE_OPTION_CONFERENCE_PLAYER_PRIMACY_DESC: "AI отказывается принимать какие-либо штаты на мирной конференции, если в ней участвует игрок, играющий на стороне победителя. Заметьте, что после активации правила игры появляется отладочное решение, которое дает игроку возможность выключить этот эффект на протяжении всей игры."
+
+ KR_STATE_TRANSFER_TOOL_OPTIONS: "Инструмент трансферта со штатом и страной"
+ RULE_OPTION_STATE_TRANSFER_TOOL_STANDARD: "Неактивные"
+ RULE_OPTION_STATE_TRANSFER_TOOL_STANDARD_DESC: "Инструмент передачи данных о состоянии и стране отключен, и пользователь не видит интерфейса для него. Заметьте, что это не имеет значения, если опция отладки установлена в пусковом устройстве HOI4 - если это так, то Государственная программа передачи данных всегда может быть активирована решением об отладке."
+ RULE_OPTION_STATE_TRANSFER_TOOL_ACTIVE: "Активные"
+ RULE_OPTION_STATE_TRANSFER_TOOL_ACTIVE_DESC: "Вариация одного игрока в инструменте передачи государства и страны активирована по умолчанию, и его запатентованный GUI виден при щелчке любого состояния (если только он не удален с точки зрения KDE-S или не отключен решением отладки). Это позволяет передавать состояния между любыми существующими странами, и все керны добавлены или удалены.\n §RUse на вашем собственном риске! §!"
+ RULE_OPTION_STATE_TRANSFER_TOOL_MULTIPLAYER: "Мультиплеер - стандартный"
+ RULE_OPTION_STATE_TRANSFER_TOOL_MULTIPLAYER_DESC: "Эта многопользовательская версия Gate & Country Transfer Instrument активирована по умолчанию. Она работает как версия для одного игрока, за исключением того, что только государства, принадлежащие игроку или одному из их марионеток (с некоторыми куклами, не имеющими права, в ситуациях, когда они могут восстать против игрока позже в игре), могут быть помечены, и никакие ядра не могут быть добавлены или удалены."
+ RULE_OPTION_STATE_TRANSFER_TOOL_MP_NO_SUBJECT: "Мультиплеер - нет передачи объекта"
+ RULE_OPTION_STATE_TRANSFER_TOOL_MP_NO_SUBJECT_DESC: "Работает так же, как и многопользовательская версия, за исключением того, что никакие субъекты не могут быть помечены."
+
+ # El Daddy's general principles for Game Rules / Country Paths
+ #    Path Rules
+ #        Any change in ideology should be accessible through TAG_PATH rules and options.
+ #        These rules should always be called _PATH, with each option named after the ideology in question.
+ #        If more than one leader per ideology and they have unique content, call the option TAG_PATH_SURNAME_IDEOLOGY, if the surname is different and appropriate to use.
+ #        The names of the path rule options should be a more informal name of the party, rather than formal name, where appropriate, if one exists, or a more poetic / narriative name, so long as it is not used elsewhere.
+ #        Avoid naming path rule options "Liberal Party Wins", or similar, such an option would be "Liberals". Also avoid calling the path rule options the names of national spirits, national foci, or events.
+ #        In the option description, try to refer to the political party in their full name in their native language as the ideologically-coloured part of the text.
+ #        This is then followed in the text by the English translation of their full name in white.
+ #        Try to prioritise the names of political parties themselves for the coloured text, where possible.
+ #        The text for the option descriptions should always be written in the present tense and always in the third person.
+ #        Avoid "Leader will do xyz", or "attempts to", or "decides to", or "has been", if they can be avoided, as they just waste space.
+ #        Options for country leader changes that have no unique content and no ideology change should generally be avoided, other than a few limited circumstances.
+ #    Forpol Rules
+ #        All faction/alignment choices should have a TAG_FORPOL rule, with the rule called that in the code and "Demonym Foreign Policy" in the text, in all circumstances.
+ #        For the names of these options, they should be just named after the faction in question. i.e. "Reichspakt", not "Align with Germany". These should never be narrative names.
+ #        Similarly, the code of the rule should be TAG_FORPOL_INT, TAG_FORPOL_GER, TAG_FORPOL_ENT, etc.
+ #        The text for the option descriptions should all also be in the third person and present tense.
+ #    Rule Restrictions
+ #        Generally speaking, rules should allow a country bypass randomness, so that players can determine what option an AI-led country will take.
+ #        However, a game rule option should only exist if the AI is capable of making that particular option in default circumstances with no rules enabled.
+ #        For instance, if a particular path for a country doesn't ever join a particular faction, then the TAG_FORPOL game rule should not allow that particular path to do so.
+ #        This is the case for all variables that are already accounted for and have their own rules. There can be some leniency in other conditions that have no game rules.
+ #        For instance, without game rules, a country may not join another faction if the leader of that faction has a certain % surrender progress. Faction game rules can bypass this, as there is no rule for surrender requirements.
+ #        Some exceptions are made for the "Boosted" rules, as the other countries that can be invited to these factions may always have joined another faction by the time this rule is chosen.
+ #        Since the content to invite these countries to the faction takes these countries into account, but the content of the countries themselves don't take this into account, AI behaviour can be altered differently in these circumstances.
+ #        Unless specifically otherwise stated, game rules should not work on the country you are playing as, or participating countries in multi-country content. This is to avoid minigames being cheesed.
+ #        There should also not be game rules for tag internal content that does not effect their leader, ideology, or foreign policy.
+ #        So there is no need for game rules for mutually exclusive sub-branches of economic or military trees, for instance.
+ #    Rule Requirements
+ #        In the "Requires" section, generally speaking, they should be seperated by double linebreaks / blank lines into three categories, where applicable.
+ #        The first of these are narrative/event requirements, the second, requirements that other game rules are active, and then the third, requirements that other game rules are not active.
+ #        There is some slight leeway here in cases where events and then options follow a particular sequence in time.
+ #        All potential rules options that are required for another given rule option to work should all be individually listed, unless such a rule option is already mentioned within the requirements of another mentioned rule.

@@ -1,0 +1,58 @@
+﻿l_russian:
+
+vanguardist_topbar_tooltip: "Ваша правящая партия - "Национальный коллектив"!"
+collectivist_topbar_tooltip: "Ваша нынешняя правящая партия - "Социалист"!"
+libertarian_socialist_topbar_tooltip: "Ваша нынешняя правящая партия §HLIbertarian§!"
+social_democrat_topbar_tooltip: "Ваша нынешняя правящая партия - "Социал-демократ"!"
+social_liberal_topbar_tooltip: "Ваша правящая партия - "Социал Либераль"!"
+market_liberal_topbar_tooltip: "Ваша правящая партия - "Маркет Либеральный"!"
+social_conservative_topbar_tooltip: "Ваша правящая партия - Социал Консерватив!"
+authoritarian_democrat_topbar_tooltip: "Ваша правящая партия - хаутхоритарская демократия!"
+paternal_autocrat_topbar_tooltip: "Ваша правящая партия §HPatnal Autocrat§!"
+national_populist_topbar_tooltip: "Ваша нынешняя правящая партия §HNational Populist§!"
+valkist_topbar_tooltip: "Ваша правящая партия - §HValkist§!"
+
+
+party_popularity_delayed_tooltip: "Популярность коалиции отражает контроль вашего нынешнего правительства над нацией и их поддержку народа. Коалиции с высокой популярностью в большей степени способны продвигать свою политическую повестку дня и стабилизировать нацию."
+party_pop_general_loc_key: "Популярность §! n [Get Coalation Words] [GetCoalation]n §Heffacts из нашей нынешней коалиции Popularity: §! n Daily Political Power Geneway:"
+party_pop_0_90_loc_key: "Популярность §! / n [Get Coalation Words] [GetCoalation]n §Heffacts from constitution Company Popularity: §! n Daily Polical Power General Generation: §G+0.95§!n"
+party_pop_0_80_loc_key: "Популярность §! / n [Get Coalation Words] [GetCoalation]n §Heffacts from constitution Company Popularity: §! n Daily Polical Power General Generation: §G+0.85§!n"
+party_pop_0_70_loc_key: "Популярность §! / n [Геткоалиции] [Геткоалиции]n §HEffects from constitution Population Popularity: §! n Daily Polical Power General General Generation: §G+0.75§!n"
+party_pop_0_60_loc_key: "Популярность §! / n [Get Coalation Words] [GetCoalation]n §Heffacts from constitution Company Popularity: §! n Daily Polical Power General Generation: §G+0.65§!n"
+party_pop_0_50_loc_key: "Популярность §!! n [Get Coalation Words] [GetCoalation]n §Heffacts из нашей нынешней коалиции Popularity: §!!n Daily Polical Power General Generation General: §G+055§!n"
+party_pop_0_40_loc_key: "Популярность §!! n [Get Coalation Words] [GetCoalation]n §Heffacts из нашей нынешней коалиции Popularity: §!n Daily Political Power General Generation: §G+0.45§!n"
+party_pop_0_30_loc_key: "Популярность §!! n [Get Coalation Words] [GetCoalation]n §Heffacts из нашей нынешней коалиции Popularity: §!!n Daily Polical Power General Generation: §G+0.35§!n"
+party_pop_0_20_loc_key: "Популярность §! / n [GetCoalation Words] [GetCoalation] n §Hefoffices from constitution Company Popularity: §! n Daily Polical Power General General Generation: §G+0.25§!n"
+party_pop_0_10_loc_key: "Популярность §! / n [GetCoalation Words] [GetCoalation] n §Hefoffices from constitution Company Popularity: §! n Daily Polical Power General General Generation: §G+0.15§!n"
+party_pop_0_00_loc_key: "Популярность §! / n [GetCoalation Words] [GetCoalation] n §Hefoffices from constitution Company Popularity: §! / n Daily Polical Power General General General: §G+0,05§!n"
+KR_PARTY_POP_EFFECT: "[Взвешивает уровень]"
+
+coalition_parties_display: "[Геткоалиции] [Геткоалиции]"
+coalition_parties_display_words: "В состав нашей правительственной коалиции входят следующие идеологии: §!"
+coalition_parties: "~n [[Коалиция гетВангаристов] [Коалиция гетколлективистов] [Коалиция гетлибертариев] [Коалиция социалистов] [Накопление социал-демократов] [Найти социальную коалицию] [Коалиция гетмаркет-либерал] [Коалиция социал-консервантов] [Коалиция демократов гетатоторитариев] [Коалиция демократов] [Гетатетранала аутократ] [Национальная коалиция популистов] [Коалиция гетвальков]"
+coalition_parties_none: "Нет"
+ 
+coalition_parties_vanguardist: "Национальный коллективист: [? party_popularity@vanguardist>H]\n"
+ 
+coalition_parties_collectivist: "Социалисты: [? party_popularity@relectivist>%H]\n"
+ 
+coalition_parties_libertarian_socialist: "Либертарианский социалист: [? party_poularity@libertarian_socialist>n"
+  
+coalition_parties_social_democrat: "Социальная демократия: [? party_popularity@social_demographic_% H]\n"
+ 
+coalition_parties_social_liberal: "Социальная либеральная: [? party_popularity@social_либеральный уровень]n"
+ 
+coalition_parties_market_liberal: "Рыночная либеральная: [? party_popularity@market_либерально ΔH]\n"
+ 
+coalition_parties_social_conservative: "Социальная консерватория: [? party_popularity@social_conservator_%H]\n"
+ 
+coalition_parties_authoritarian_democrat: "Авторитарный демократ: [? party_popularity@artitarian_demographic_% H]\n"
+ 
+coalition_parties_paternal_autocrat: "Отцовский автократ: [? party_popularity@paternal_autocrat>n"
+ 
+coalition_parties_national_populist: "Национальный популист: [? party_popularity@national_populist>n"
+ 
+coalition_parties_valkist: "Валькист: [? party_popularity@valkist>H]\n"
+
+toggle_news_button_tooltip: "События, связанные с закладкой новостей"
+toggle_news_button_tooltip_desc: "Измените новости, чтобы показать, между прочим, что важно, а что нет."

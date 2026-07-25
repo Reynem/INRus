@@ -1,0 +1,23 @@
+﻿l_russian:
+
+CHI_illiterate_population: "Неграмотное население"
+CHI_illiterate_population_no_armor: "Неграмотное население"
+CHI_illiterate_population_1: "Менее неграмотное население"
+CHI_illiterate_population_1_no_armor: "Неграмотное население"
+CHI_illiterate_population_2: "Немного неграмотное население"
+CHI_illiterate_population_3: "Грамотное население"
+CHI_illiterate_population_2_no_armor: "Неграмотное население"
+only_armor: "Проблема с оружием"
+unbalanced_industry: "Несбалансированная промышленность"
+unbalanced_industry_1: "Несбалансированная промышленность"
+unbalanced_industry_2: "Несбалансированная промышленность"
+unbalanced_industry_3: "Несбалансированная промышленность"
+
+CHI_reorganised_govt: "Китайская Республика"
+CHI_reorganised_govt_ADJ: "Китайцы"
+CHI_reorganised_govt_DEF: "Реорганизованное национальное правительство Китайской Республики"
+
+chi.1.t: "Жили слабые."
+chi.1.d: "Клика Жили вульнируема, и у нас есть идеальная оппортунность, чтобы нанести удар."
+chi.1.a: "На войну!"
+chi.1.b: "Мы отложим время и подождем."

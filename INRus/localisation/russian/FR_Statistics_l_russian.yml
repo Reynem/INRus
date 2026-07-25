@@ -1,0 +1,16 @@
+﻿l_russian:
+
+
+#Decisions
+nation_ranking_information_decision_group: "Ранжирование"
+ranking: "[? От .score_@FROM.] [От GetNameDef]"
+
+#Statistics
+SCORE_TOTAL_TOOLTIP: "§H [?score_@ROOT]§!"
+SCORE_TOTAL_TOOLTIP_DELAYED: "Ваш §HTotal Score§! рассчитывается путем добавления §Hindustrial Score§!, §H Военный §! и §HPrestige§!. Этот счёт влияет на ваше глобальное ранжирование в мире."
+INDUSTRIAL_SCORE_TOOLTIP: "§H [? industrial_score_@ROOT] §!"
+INDUSTRIAL_SCORE_TOOLTIP_DELAYED: "Ваш §HIndustrial Score§! рассчитан по вашему количеству §H Военная фабрика §!, §HCivilian Factories §! и уровню §HInfrastructure§!."
+MILITARY_SCORE_TOOLTIP: "§H [? Военный_score_@ROOT]§!"
+MILITARY_SCORE_TOOLTIP_DELAYED: "Ваш §H Военный счёт! мы рассчитаны по вашему количеству военных персонажей в вашей §H Армии!, §HNavy§!! и §Hairforce§!.. Это указывает на то, насколько сильна ваша армия вашего народа."
+PRESTIGE_TOOLTIP: "§H [?prestige_@ROOT]§!"
+PRESTIGE_TOOLTIP_DELAYED: ""

@@ -1,0 +1,490 @@
+﻿l_russian:
+
+#### Political Parties ####
+
+ORL_vanguardist_party: "ПФНС"
+ORL_vanguardist_party_long: "Торговая политика: §B protectionis §! htm Economic Policy: §Hplaned Economy §! n War Policy: §RJingoism §!! n Parti Français National коммунистические партии во Франции, поддерживая расистскую доктрину отказа от сотрудничества с правительством каким-либо образом. Партия поддерживает как раттахизм, так и панъевропейский национализм, стремясь объединить Европу при едином централизованном правительстве с французским на самом верху. nDepspite является крайней партией, PFNC является крайне враждебным по отношению к партии Populaire Français и другим радикам как слева, так и справа. Первоначальный лидер PFNC, Marcel Death, продемонстрировал, что имеет очень радикальные мнения даже со стороны партии."
+###
+ORL_collectivist_party: "PCF"
+ORL_collectivist_party_long: "Торговая политика: §WFree Trade §! htm Экономическая политика: §Y Interventionis §! n War Policy: §GPro-Military §! n Parti Communical Français international Party communical Party frrançais является основной коммунистической партией, которая в настоящее время действует во Франции. Первоначально, в конце 1920 года, PCF стал более радикальным отрядом SFIO, одним из его основателей. Партия постоянно приобрела популярность в начале XIX века, и опросы показывают, что поддержка PCF была выше, чем когда-либо, из-за возрождения немецкой власти на Востоке и расширения советского влияния в Европе. Морис Торес, лидер партии, является коммунистическим, имеющим связи с правительством и большой политический опыт."
+###
+ORL_libertarian_socialist_party: "Анархисты"
+ORL_libertarian_socialist_party_long: "Торговая политика: §WFree Trade§! ~ Экономическая политика: §YLassz Fare§!! ~ Военная политика: §MA Anti-Military §! ~ nnM Anarchiste Français ~n §gA коллекция анархистов и либеральных социалистических движений, возглавляемых Себастьеном Форе под общим знаменем, анархисты хотят, чтобы во Францию пришла большая степень децентрализации и мирный, демократический переход к революции. ~ Хотя движение анархистов может быть небольшим по количеству и низкой популярностью, они могут оказаться бесценными в случае прихода левого правительства к власти во Франции, демократическим или иным образом.§!"
+###
+ORL_social_democrat_party: "СФИО"
+ORL_social_democrat_party_long: "Торговая политика: §WFree Trade §! ~ Экономическая политика: §g State Capitalism §! n War Policy: §M Anti-Military §! no District Francraise de l'International Ovrière à §g from conclusion of the System of France and France Straval Party в 1905 году, и быстро оказались в спячке между радикальными синдикалистами и либералами среднего класса под знаменем Радикальной партии."
+###
+ORL_social_liberal_party: "ПР"
+ORL_social_liberal_party_long: "Торговая политика: §WFree Trade §! ~ Экономическая политика: §Y Interventionism §! n War Policy: §M Anti-Military §! n Parti Républicain, Radical et Radical-Socialiste \n §gBorn вскоре после начала века в 1901 году, PR является главным из радикальных демократических партий, действующих в настоящее время во Франции. Первоначально, практически левая политика постепенно переместилась в центр с растущей популярностью SFIO, захватывая сердца и умы рабочих и рабочих Франции. ~ После Великой войны PR принял участие в небольших ролях правительства, в то время как постоянно затмечено коалиционным правительством FR-AD, которое доминировало во французской политике в 20-е и 30-е годы. noPopular поддержка PR никогда не была большой, и они должны работать вместе с другими более крупными партиями, чтобы продвигать свою повестку дня, но коалиционное правительство с участием PR, несомненно, будет радикальным изменением статус-кво."
+###
+ORL_market_liberal_party: "АД"
+ORL_market_liberal_party_long: "Торговая политика: §WFree Trade §! ~ Экономическая политика: §g State Capitalism §! ~ n War Policy: §GPro-Military §! nn Alliance Democracy un §gCreated в 1901 году как отколовшийся от Партии республиканцев, AD был большим сторонником Bloc des gauches в период с 1899 по 1906 год. AD отличался от этого права, поддерживая Закон 1905 года о сеперации государства и церкви, против которого выступили многие правые стороны из-за их прокатолической политики."Parti Démocratique Républicain". \nThe AD made a transition to the right in the years leading up to and including the Great War, and in 1919 they formed the Bloc National in cooperation with the Fédération Républicaine. This coalition proved to be highly successful, and the postwar economic boom that the French economy experienced further solidified their popularity with the French people. This "blue wave" was more beneficial to the FR than the AD, but both parties remained dominant in French politics up to 1936.§!"
+###
+ORL_social_conservative_party: "ФР"
+ORL_social_conservative_party_long: "Торговая политика: §B protectionis §! no Economic Policy: §g State Capitalism §! n War Policy: §GPro-Vition §! n ne Fédération Republicaine n §gFR был создан в 1903 году в попытке объединить консерваторов во Франции, которые выступали против Bloc des gauches, а также частично в защиту еврейского офицера Альфреда Дрейфуса, партии, которая в это время состояла из консервативной буржуазии Франции, которая в целом выступала против социальных реформ и поддерживала незначительную децентрализацию по всей стране."
+###
+ORL_authoritarian_democrat_party: "PSF"
+ORL_authoritarian_democrat_party_long: "Торговая политика: §B protectionis §! ni Economic Policy: §Hplaned Economy §! n War Policy: §GPro-Military §! n Parti Social Français n §gA националистическая французская партия в начале 1936 года и может отследить свое происхождение от крайне правой политической лиги, известной как «Крус-де-Фе», которая была основана только в 1927 году. «Крус-де-Фе» поддержала идеи Франсуа де ла Рокке, который служил в качестве церемониального лидера лиги. Действующее правительство попыталось запретить все лиги после беспорядков в феврале 1934 года, но из-за влияния лиги на и без того правое правительство, этот акт провалился, и лигамам было позволено продолжать свою деятельность беспрепятственно."
+###
+ORL_paternal_autocrat_party: "Военная хунта"
+ORL_paternal_autocrat_party_long: "Торговая политика: §B protectionism §! ~ Экономическая политика: §Hпланированная экономика §! ~ Военная политика: §GPro-Военная §! ~ n un junta n §g поддержка военной хунты ограничивается радикалами в армии, и единственная возможность захвата власти военной хунтой будет в случае полного краха правительства и необходимости мощной силы для заполнения вакуума власти. §!"
+###
+ORL_national_populist_party: "PPF"
+ORL_national_populist_party_long: "Торговая политика: §B protectionis §! ~ Экономическая политика: §HPlaned Economy §! ~ n War Policy: §RJingoism §! n Parti Populaire Français n §gasely наиболее радикальные из правых партий Франции, PPF поддерживает экстремальный национализм, расистскую риторику и приватизацию промышленности. PPF был создан главным образом членами ФПК, которые заслужили презрение к политике ПФНК и в целом были недовольны неудачей левых сторон в последние десятилетия. ~ ПФП открыто выступает против коммунизма и использует иконографию и символизм для того, чтобы заручиться поддержкой, большая часть которой основана только на севере Парижа. PFFF имеет незначительную поддержку во французском политическом пространстве, и даже не столь же радиальный ПФНК готов сотрудничать с партией."
+###
+ORL_valkist_party: "SF"
+ORL_valkist_party_long: "Торговая политика: §B protectionism§! ~ Экономическая политика: §YLassez Fare§!! ~ Войная политика: §GPro-Violité §!! nn no Solidarité Française un §g France, единственное валькистское движение солидаризма во Франции, France Solidarité Française не имеет практически никакой внутренней поддержки за пределами некоторых немцев, проживающих в Альсасе-Лоррейне и Сарре. Многие во французской политике считают, что SF открыто работает против французского государства, чтобы создать коллаборационистский режим, подчиняющийся Германии. SF не имеет реального централизованного руководства и только объединяется в своей уникальной идеологии, которая сильно отличается от всех остальных в спектре.§!"
+
+#
+### Tooltips ###
+ FRA_rhine_claimed: "Французские претензии по Рейну"
+FRA_haute_savoie_threat: "Французские требования к Швейцарии"
+ COF_ongoing_phalanstere_development: "§ Помогает развитию другой страны!"
+ CSA_redeagles_tt: "Прибудут новые добровольцы и самолеты."
+ COF_tank_division_tooltip: "Три фунтона_единица_средний_армор_icon_малый §Hedium Armour§!"
+
+ COF_wave_of_dissent: "Волна дискомфорта"
+
+### World Tension ###
+ COF_rearmament_threat: "Французское перевооружение"
+ COF_attacks_germany_threat: "Франция совершает нападения на Германию"
+
+### Companies ###
+ metallurgique_de_normandie: "Общество &lt; &lt; Металлургия Нормандии &gt; &gt;"
+ famh: "ФАМХ"
+ radiola: "&lt; &lt; Радиола &gt; &gt;"
+ rhone_poulenc: "Роне-Пуленч"
+ manufacture_saint_etienne: "Производство оружия в Сент-Этьене"
+ manufacture_bayonne: "Производство оружия в Байоне"
+ brandt: "Брэндт"
+ atelier_de_puteaux: "Atelier de Construction de Puteaux"
+ berliet: "Берлит"
+ de_dion_bouton: "Де Дион-Бутон"
+ lorraine_dietrich: "Аргентюль-Лоррейн"
+ somua: "Смуа"
+ panhard: "Панхард"
+ breguet: "Перевозка автотранспортных средств"
+ fouga: "Фуга"
+ kr_levasseur: "Левассер"
+ morane_saulnier: "Моран Солнье"
+ potez: "Потез"
+ ateliers_de_la_loire: "Организация &lt; &lt; Ателье &gt; &gt; и &lt; &lt; Чантье де ла Луар &gt; &gt;"
+ ateliers_de_saint_nazaire: "Организация &lt; &lt; Сант-Назэр Пенье &gt; &gt;"
+ fcm: "ФХМ"
+
+### Ideas ###
+
+
+ COF_to_war_idea: "Реванхистская перевёртка"
+ COF_to_war_idea_desc: "Наша нация должна восстать, если мы хотим победить империалистов!"
+
+ COF_renseignements_generaux_lar: "&lt; &lt; Ресевериенты &gt; &gt;"
+
+ COF_economic_reforms_anar: "Экономические реформы"
+
+
+ COF_economic_reforms_jaco: "Экономические реформы"
+
+
+ COF_economic_reforms: "Экономические реформы"
+
+
+ COF_military_buildup_two_idea: "Калибрированная экономика"
+
+
+ COF_ruralism_idea: "Сельские районы"
+
+
+ COF_market_socialism_idea: "Рыночный социализм"
+
+ COF_mass_production_idea: "Массовое производство"
+
+
+ COF_modern_farms_idea: "Современные фермы"
+
+ COF_war_eco_agri_idea: "Войны, экономика и сельское хозяйство"
+
+ COF_inter_coop_idea: "Международное сотрудничество"
+
+
+ COF_dedication_idea: "Чувство посвящения"
+
+
+ COF_industrialization_idea: "Коммунальная индустриализация"
+
+
+ COF_mass_fire_support_idea: "Массовая пожарная поддержка"
+
+
+ COF_mass_motorisation_idea: "Массовая моторизация"
+ COF_mass_motorisation_idea_desc: ""
+
+ COF_empower_rifleman_idea: "Помогите винтовке"
+
+
+ COF_military_academy_idea: "Военная академия"
+
+
+ COF_centralized_hc_idea: "Централизованное высшее командование"
+
+
+ COF_tank_quality_line_idea: "Качественное производство цистерн"
+
+
+ COF_tank_assembly_line_idea: "Линия сборки цистерн"
+
+
+ COF_fast_army_idea: "Скорость"
+
+
+ COF_Red_Army: "&lt; &lt; Ружские вооруженные силы &gt; &gt;"
+
+
+ COF_working_women_idea: "Работающие женщины"
+
+
+ COF_bhartiya_support: "Военная поддержка Франции"
+
+
+ COF_amenagement_idea: "Ампутация территории"
+
+
+ COF_plan_prost_idea: "План"
+
+
+ COF_paramilitary_gendarmes: "Военизированные жандармы"
+
+
+ COF_secret_police: "Секретная полиция"
+
+
+ COF_demo_surete: "Демократическая Республика Конго"
+
+
+ COF_hawkish_renseignements: "Революционные реногенции"
+
+ COF_peace_renseignements: "Защитные репозитории"
+
+ COF_peaceful_revolution_idea: "Мирная революция"
+
+
+ COF_amateur_pilots_idea: "Любительские пилоты"
+
+
+ COF_ecole_air_idea: "&lt; &lt; Школа мира &gt; &gt;"
+
+
+ COF_waves_of_syndicalism_idea: "Волны синдикализма"
+
+
+ COF_cut_off_capitalists_idea: "Отрезать капиталистов"
+
+
+ French_Revanchism_idea: "Французский реванхизм"
+
+FRA_fight_to_end_valkism: "Борьба за прекращение валькизма"
+
+
+ Revolutionary_spirit: "Революционный дух"
+
+
+ COF_socialist_education_idea: "Социалистическое образование"
+
+
+ COF_avantgarde_idea: "Международная организация &lt; &lt; Авант-Гарде &gt; &gt;"
+
+
+ FRA_recovery_from_civilwar_orl: "Восстановление после гражданской войны"
+  FRA_recovery_from_civilwar_orl_desc: "Несмотря на относительно короткий конфликт, гражданская война оставила французскую нацию в хаосе."
+FRA_french_civilwar_idea: "Гражданская война во Франции"
+FRA_french_civilwar_subjectidea: "Гражданская война во Франции"
+
+ COF_efficient_industry_idea: "Эффективная промышленность"
+ COF_principe_de_concentration_idea: "Принсипи де Концентрация"
+
+### Flags ###
+ FRA_civil_war_ongoing: "Гражданская война во Франции продолжается"
+
+### Techs ###
+
+ COF_tech_marine_bonus: "Колонны Нептуна"
+ COF_tech_marine_bonus_effect: "Включает §H$COF_tech_Marine_bonus$nMarines §!! ~n Soft Attack: §G+5% §!N Hard Attack: §G+5% §!N §Hamphibious Tank Attack: §G+5% §!N §Hamphibious Battatter §!n Soft Attack: §G+5% §!n Hard Attack: §G+5% §!"
+
+### Focuses ###
+ commune_of_france_focus: "Община Франции &lt; &lt; Дерево фокуса &gt; &gt;"
+
+ COF_amenagement: "Уничтожение территуаров"
+ COF_amenagement_desc: ""
+ COF_hydroelectricity: "Гидроэлектроэнергия"
+ COF_hydroelectricity_desc: ""
+ COF_swiss_hydroelectricity: "Швейцарская гидроэлектроэнергия"
+ COF_swiss_hydroelectricity_desc: ""
+ COF_chemins_de_fer: "Бюро по делам хеменса де Фера"
+ COF_chemins_de_fer_desc: ""
+ COF_mining_expansion: "Расширение горнодобывающей промышленности"
+ COF_mining_expansion_desc: ""
+ COF_plan_prost: "План"
+ COF_plan_prost_desc: ""
+ COF_autoroutes: "Авторубы"
+ COF_autoroutes_desc: ""
+
+ COF_eco_direction: "Направленность экономики"
+ COF_eco_direction_desc: ""
+ COF_orth_syndicalism: "Воспитание государственного социализма"
+ COF_orth_syndicalism_desc: ""
+ COF_reduce_unemploy: "Сокращение безработицы"
+ COF_reduce_unemploy_desc: ""
+ COF_work_design_coop: "Сотрудничество между работником и назначителем"
+ COF_work_design_coop_desc: ""
+ COF_improve_manage: "Совершенствование управления профсоюзами"
+ COF_improve_manage_desc: ""
+ COF_dedication: "Чувство посвящения"
+ COF_dedication_desc: ""
+ COF_fac_towns: "Заводские города"
+ COF_fac_towns_desc: ""
+ COF_Industrialisation: "Массовая индустриализация"
+ COF_Industrialisation_desc: ""
+ COF_inter_coop: "Международное сотрудничество"
+ COF_inter_coop_desc: ""
+ COF_war_eco_agri: "Экономика войны и сельское хозяйство"
+ COF_war_eco_agri_desc: ""
+ COF_modern_farms: "Современные фермы"
+ COF_modern_farms_desc: ""
+ COF_war_industry: "Военная промышленность"
+ COF_war_industry_desc: ""
+ COF_mass_production: "Массовое производство"
+ COF_mass_production_desc: ""
+ COF_cooperatives: "Кооперативы"
+ COF_cooperatives_desc: ""
+ COF_decentralized_industry: "Децентрализованная промышленность"
+ COF_decentralized_industry_desc: ""
+ COF_market_socialism: "Рыночный социализм"
+ COF_market_socialism_desc: ""
+ COF_ruralism: "Сельские районы"
+ COF_ruralism_desc: ""
+
+ COF_communal_army: "Наследие второй Великой войны"
+ COF_communal_army_desc: "Очевидно, что наш крах в ходе второй Великой войны с немецким оружием должен стать свидетельством немедленной реформы, однако пока еще не решен вопрос о том, в какой форме это будет осуществляться."
+ COF_principe_concentration: "Принсипи де Концентрация"
+ COF_principe_concentration_desc: "
+ COF_tank_research: "Субсидии на проведение исследований в цистернах"
+ COF_tank_research_desc: ""
+ COF_fast_army: "Скорость"
+ COF_fast_army_desc: "
+ COF_tank_assembly_line: "Линии сборки цистерн"
+ COF_tank_assembly_line_desc: ""
+ COF_tank_quality_line: "Качество производства"
+ COF_tank_quality_line_desc: ""
+ COF_centralized_hc: "Централизованное высшее командование"
+ COF_centralized_hc_desc: ""
+ COF_analysing_wki: "Изучение второй Великой войны"
+ COF_analysing_wki_desc: ""
+ COF_war_experience: "Опыт гражданской войны"
+ COF_war_experience_desc: ""
+ COF_military_academy: "Военная академия"
+ COF_military_academy_desc: ""
+ COF_officers_initiative: "Инициатива офицеров"
+ COF_officers_initiative_desc: ""
+ COF_mission_type: "Тип миссии"
+ COF_mission_type_desc: ""
+ COF_flexible_support: "Гибкая поддержка"
+ COF_flexible_support_desc: ""
+ COF_empower_rifleman: "Помогите винтовке"
+ COF_empower_rifleman_desc: ""
+ COF_mass_conscription: "Массовая моторизация"
+ COF_mass_conscription_desc: ""
+ COF_improve_manufactures: "Совершенствование производства"
+ COF_improve_manufactures_desc: ""
+ COF_global_organization: "Глобальная организация"
+ COF_global_organization_desc: ""
+ COF_mass_fire_support: "Массовая пожарная поддержка"
+ COF_mass_fire_support_desc: ""
+ COF_grand_army_reform: "Реформа Великой армии"
+ COF_grand_army_reform_desc: ""
+
+ COF_equipment_modern: "Современное оборудование"
+ COF_equipment_modern_desc: ""
+ COF_special_forces: "Альпийские силы"
+ COF_special_forces_desc: ""
+ COF_tank_division: "Разделы цистерн"
+ COF_tank_division_desc: ""
+ COF_road_to_war: "Освободить Европу от валькизма"
+ COF_road_to_war_desc: ""
+ COF_european_revolution_early: "Дом европейской революции"
+ COF_european_revolution_early_desc: ""
+ COF_spanish_friends: "Наши испанские братья по оружию"
+ COF_spanish_friends_desc: ""
+ COF_renseignements_generaux: "&lt; &lt; Ренесиниенты женеро &gt; &gt;"
+ COF_renseignements_generaux_desc: ""
+ COF_military_buildup: "Военное строительство"
+ COF_military_buildup_desc: ""
+ COF_military_buildup_two: "Калибровка экономики"
+ COF_military_buildup_two_desc: ""
+ COF_socialist_education: "Социалистическое образование"
+ COF_socialist_education_desc: ""
+ COF_Our_time_has_come: "Реванхистская пропаганда"
+ COF_Our_time_has_come_desc: ""
+ COF_department_revolutionary_ideals: "Департамент революционных идеалов"
+ COF_department_revolutionary_ideals_desc: ".. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+ COF_Blanqui_Research_Institute: "Научно-исследовательский институт &lt; &lt; Бланки &gt; &gt;"
+ COF_Blanqui_Research_Institute_desc: ""
+ COF_military_buildup_three: "Дальнейшее военное развитие"
+ COF_military_buildup_three_desc: ""
+ COF_military_science: "Военные науки"
+ COF_military_science_desc: ""
+ COF_synthetic_refineries: "Синтетические ресурсы"
+ COF_synthetic_refineries_desc: ""
+ COF_secret_weaponry: "Электрические машины"
+ COF_secret_weaponry_desc: ""
+ COF_nuclear_weapons: "Проект &lt; &lt; Кюри &gt; &gt;"
+ COF_nuclear_weapons_desc: ""
+ COF_German_borders: "Укрепить германскую границу"
+ COF_German_borders_desc: ""
+ COF_extend_line: "Расширить линию"
+ COF_extend_line_desc: ""
+ COF_Demand_Romandy: "Спросить Hote-Savoie"
+ COF_Demand_Romandy_desc: ""
+ COF_war_with_spain: "Освободительная Иберия"
+ COF_war_with_spain_desc: ""
+ COF_War_with_germany: "Уничтожить валькистскую угрозу"
+ COF_War_with_germany_desc: ""
+ COF_War_with_austria: "Освободить Италию"
+ COF_War_with_austria_desc: ""
+ COF_War_with_Netherlands: "Освобождение стран с низким уровнем дохода"
+ COF_War_with_Netherlands_desc: ""
+ COF_World_revolution: "Присоединение к Московской доктрине"
+ COF_World_revolution_desc: ""
+ COF_european_revolution: "Четвертая Международная организация"
+ COF_european_revolution_desc: ""
+ COF_peaceful_revolution: "Мирная революция"
+ COF_peaceful_revolution_desc: "
+COF_avantgarde: "Культурная революция"
+COF_avantgarde_desc: ""
+COF_working_women: "Женский труд"
+COF_working_women_desc: ""
+COF_War_with_Britain: "Ударь Империю"
+COF_War_with_Britain_desc: ""
+COF_dismember_swi: "Покорить швейцарцев"
+COF_dismember_swi_desc: ""
+
+ COF_armee_de_lair: "Новые военно-воздушные силы"
+ COF_armee_de_lair_desc: ""
+ COF_amateur_pilots: "Любительские пилоты"
+ COF_amateur_pilots_desc: ""
+ COF_valin_doctrine: "Современные исследования воздушной среды"
+ COF_valin_doctrine_desc: ""
+ COF_ecole_air: "&lt; &lt; Школа мира &gt; &gt;"
+ COF_ecole_air_desc: ""
+ COF_air_bases: "Создание дополнительных авиабаз"
+ COF_air_bases_desc: ""
+ COF_fighters: "Фокус истребителя"
+ COF_fighters_desc: ""
+ COF_bombers: "Бомбардировщик Фокус"
+ COF_bombers_desc: ""
+ COF_strat_bombers: "Стратегическое уничтожение"
+ COF_strat_bombers_desc: ""
+ COF_paratrooper_focus: "Развитие парашютистов"
+ COF_paratrooper_focus_desc: ""
+ COF_rocket_development: "Ракетная эффорта"
+ COF_rocket_development_desc: ""
+
+ COF_navy_focus: "Программа реорганизации военно-морского флота"
+ COF_navy_focus_desc: ""
+ COF_arsenaux_back_on: "Восстановить старые докьярды"
+ COF_arsenaux_back_on_desc: ""
+ COF_old_doctrine: "Старая доктрина"
+ COF_old_doctrine_desc: ""
+ COF_new_doctrine: "Доктрина будущего"
+ COF_new_doctrine_desc: ""
+ COF_castex_plan: "Современные боевые корабли"
+ COF_castex_plan_desc: ""
+ COF_home_fleet: "Флот для Франции"
+ COF_home_fleet_desc: ""
+ COF_strike_nat_france: "Сражайтесь с изгнанными"
+ COF_strike_nat_france_desc: ""
+ COF_waves_of_syndicalism: "Глобальный флот"
+ COF_waves_of_syndicalism_desc: ""
+ COF_colonnes_neptune: "Колонны Нептуна"
+ COF_colonnes_neptune_desc: ""
+ COF_submarines: "Приготовиться к подводных боях"
+ COF_submarines_desc: ""
+ COF_cut_off_capitalists: "Волки глубины"
+ COF_cut_off_capitalists_desc: ""
+ COF_naval_bombers: "Морские бомбардировщики"
+ COF_naval_bombers_desc: ""
+ COF_protect_coastlines: "Защищать наши бои"
+ COF_protect_coastlines_desc: ""
+
+ COF_natural_borders: "Защищайте наши природные границы"
+ COF_natural_borders_desc: ""
+ COF_claim_lux_and_wll_and_swi: "Говори о франкоговорящих регионах"
+ COF_claim_lux_and_wll_and_swi_desc: ""
+
+### Events ###
+
+comfrance.1.d: "В Париже и на промышленном севере профсоюзы и социалистические ополчения захватили контроль, объявляя старую республику мертвой и провозглашая рождение нового революционного правительства."
+
+comfrance.2.d: "Война проиграна. Революционные силы разрушили наши армии и сейчас стоят у ворот каждого крупного города. материк — это их неиссякаемый дом, и оставаться перед лицом захвата и казни. Наша единственная оставшаяся надежда — это бежать. ВМС остаются частично лояльными и могут эвакуировать правительство и все наши останки в наши колонии в Африке. Из Алжира мы сможем восстановить свою силу и, однажды, вернуться на свободу нашей родины. Мы должны уйти сейчас или погибнуть."
+
+comfrance.3.d: "Победа! Силы реагирования и капитализма были полностью побеждены и изгнаны с материка. Остатки старого правительства, вместе с буржуазными хозяевами, бежали в свои колониальные владения в Северной Африке, как трусы в ночи. Несмотря на то, что они все еще представляют угрозу со всего Средиземноморья, революция в безопасности здесь, дома. Наша первостепенная задача должна состоять в восстановлении нации и обеспечении завоеваний рабочих. Мы можем разобраться с изгнанцами в Алжире позже. Пока мы предложим им перемирие, чтобы положить конец кровопролитию."
+
+comfrance.4.d: "В то время как наша собственная революция еще молода, появилась возможность. Немецкая военная машина повернулась против Швейцарии, и их армии заняты борьбой за свою жизнь. Швейцарское государство, бастион буржуазного нейтралитета, в настоящее время находится на грани. Это наш шанс действовать. Француженки романских рабочих давно отделены от своей истинной родины. Мы можем «либерировать» эти регионы и объединить их с нашим революционным государством, пока швейцарцы отвлекаются. Мы должны воспользоваться этим моментом!"
+
+comfrance.5.d: "Швейцарцы рушатся. По мере того, как немцы поднимаются с севера, новое французское революционное правительство также двигается к захвату франкоговорящих кантонов. Презренный швейцарский нейтралитет потерпел неудачу, и страна изображается как праздник. Этот хаос предоставляет нам золотую возможность. Итальяноязычные земли Тичино и Грисонов по праву принадлежат нам, и теперь они полностью не защищены. Мы можем восстановить этот тернальный безотзывный с едва ли выстрелом. Мы должны действовать до момента!"
+
+comfrance.6.d: "В то время как наши храбрые солдаты отчаянно держат линию против немецкого нападения, шакалы ударили нас в спину, используя нашу борьбу как отвлекающий маневр, их армии пересекли границу и захватили нашу суверенную территорию, без провокаций."
+
+comfrance.7.d: "Гражданская война окончена, и коммуна победила! Реакторы потерпели поражение или сбежали, оставив нас построить новую Францию из пепла старого. Тяжелая часть закончилась, сейчас начинается тяжелая часть. Революционная коалиция, объединившаяся в своем противостоянии старому режиму, теперь разделилась на том, что будет дальше. Советы трудящихся, партийные идеологи и профсоюзные начальники имеют разные представления о нашем социалистическом будущем. Теперь мы должны решить, какой путь пойдет революция."
+
+ comfrance.159.t: "Париж потерян!"
+ comfrance.159.d: "Париж, город света, колыбель революции и столица Франции были захвачены врагом!"
+ comfrance.159.a: "Фуле-эсклав, дебаут, дебаут!"
+
+ comfrance.160.t: "Освобождение Альзаса-Лоррена"
+ comfrance.160.d: "Мы продвинулись в провинции Альзас-Лоррейн и обезопасили весь регион."
+ comfrance.160.a: "...группы "Нужны" и "оскверняем"..."
+
+ comfrance.161.t: "Празднование Дня Бастилии"
+ comfrance.161.d: "Сегодня Фетский национальный праздник, празднование бури Бастилии и начало первой французской революции."
+ comfrance.161.a: "Вив Ла Коммун!"
+
+ comfrance.163.t: "День труда"
+ comfrance.163.d: "Сегодня во всем мире демократические, коммунистические и социалистические правительства отмечают Международный день трудящихся, День труда или День мая."
+ comfrance.163.a: "Отпразднуем!"
+
+CoF_Foreign.1.d: "Длинная борьба против реакционных сил в Германии наконец закончилась. Наши победившие войска, продвигаясь на восток, установили контакт с авангардом Красной Армии, продвигающимся с запада. Разрыв был ликвидирован, и впервые социалистические республики Франции и Советского Союза имеют общую границу! ~ ~ Это историческое связующее звено представляет собой монументальный сдвиг в балансе глобальной власти. Силы международного социализма больше не изолированы. Теперь мы должны решить, как формализовать эту новую реальность. Посланник из Москвы уже предлагает координировать наши планы на будущее."
+
+CoF_Foreign.2.d: "Товарищи! Мы получили историческое коммюнике от правительства Парижа. После нашей победы против немецких реакторов наши две великие нации наконец объединились общей границей. В свете этого [от Гетнама] официально попросили присоединиться к нашей фракции и объединить наши усилия под знаменем Третьего интернационала. ~ Это предложение создало бы нерушимый социалистический блок, простирающийся от Атлантики к Тихому океану. Принятие их укрепило бы нашу революцию, но также привязало бы нашу судьбу к их. Центральный комитет должен немедленно обсудить это предложение."
+
+CoF_Foreign.3.d: "Наша просьба была принята! Советское правительство откликнулось на это подавляющим товарищем. [От Гетнама] официально пригласило нас присоединиться к Третьему Международному Союзу, укрепив наш новый союз. -Нет, рабочие Парижа и Москвы наконец объединились! Этот великий союз социалистических государств станет оплотом против капитализма и национального популизма."
+
+CoF_Foreign.4.t: "Франция приглашает нас на четвертую Международную конференцию"
+CoF_Foreign.4.d: "Посланники из Парижа прибыли в Мадрид с историческим предложением, французское сообщество официально предложило нам занять наше место в четвертом Международном сообществе, они утверждают, что по мере того, как тени реакционных и империалистических держав растёт по всей Европе, выживание социалистического эксперимента полностью зависит от нашей взаимной обороны и промышленного сотрудничества, а также от того, чтобы присоединиться к нашим границам, но это также будет неразрывно связывать нашу судьбу с судьбой французов."
+CoF_Foreign.4.a: ""Интернационал" станет человеческой расой!"
+CoF_Foreign.4.b: "Испания должна наметить свой собственный курс на данный момент."
+
+CoF_Foreign.5.t: "Испанский отказ"
+CoF_Foreign.5.d: "Несмотря на наши общие идеологические узы, испанское правительство отклонило наше приглашение присоединиться к четвертой международной организации, похоже, они выступают за политику «социализма в одной стране» или, по крайней мере, хотят сохранить свою дипломатическую независимость, чтобы избежать преждевременного провоцирования капиталистических держав. Мы должны приступить к нашим планам революции без их прямой поддержки."
+ CoF_Foreign.5.a: "Достойное сожаления отсутствие видения."
+
+CoF_Foreign.6.t: "Иберийская связь"
+CoF_Foreign.6.d: "Из Мадрида пришли слова: испанцы приняли наше предложение! С формализацией этого альянса Пиренеи уже являются не барьером, а мостом между революционными товарищами. Комбинированная промышленная и военная мощь Франции и Испании теперь является оплотом против реакции. Сегодня мечта о свободной Европе кажется ближе, чем когда-либо."
+CoF_Foreign.6.a: "Да здравствует мировая революция!"
+
+### Decisions ###
+ COF_integration_decisions: "Территориальная интеграция"
+
+
+### Cosmetic Tags ###
+ COF_ADJ: "Французский"
+ COF_DEF: "Франция"
+
+ COF_vanguardist: "Коммунальное сообщество Франции"
+ COF_vanguardist_ADJ: "Коммунальные услуги"
+ COF_vanguardist_DEF: "и коммуны Франции"
+ COF_collectivist: "Коммунальное сообщество Франции"
+ COF_collectivist_ADJ: "Коммунальные услуги"
+ COF_collectivist_DEF: "и коммуны Франции"
+ COF_libertarian_socialist: "Коммунальное сообщество Франции"
+ COF_libertarian_socialist_ADJ: "Коммунальные услуги"
+ COF_libertarian_socialist_DEF: "и коммуны Франции"

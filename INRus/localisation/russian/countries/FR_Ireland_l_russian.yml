@@ -1,0 +1,192 @@
+ ##############################################################################
+ # Ireland Localisation                                                       #
+ ##############################################################################
+ # By El Daddy, Sealgaire, Conchobhar, Celt, Cazadorian, Isaac Aren & Pietrus #
+ #############################################################################
+l_russian:
+
+ ### Country Names ###
+ IRE_dominion_social_democrat: "Доминион Ирландии"
+ IRE_dominion_social_democrat_DEF: "Доминион Ирландии"
+ IRE_dominion_social_liberal: "Доминион Ирландии"
+ IRE_dominion_social_liberal_DEF: "Доминион Ирландии"
+ IRE_dominion_market_liberal: "Доминион Ирландии"
+ IRE_dominion_market_liberal_DEF: "Доминион Ирландии"
+ IRE_dominion_social_conservative: "Доминион Ирландии"
+ IRE_dominion_social_conservative_DEF: "Доминион Ирландии"
+ IRE_dominion_authoritarian_democrat: "Доминион Ирландии"
+ IRE_dominion_authoritarian_democrat_DEF: "Доминион Ирландии"
+ IRE_dominion_paternal_autocrat: "Доминион Ирландии"
+ IRE_dominion_paternal_autocrat_DEF: "Доминион Ирландии"
+ IRE_dominion_national_populist: "Доминион Ирландии"
+ IRE_dominion_national_populist_DEF: "Доминион Ирландии"
+
+ ### Political Parties ###
+
+ IRE_social_democrat_party: "Трудовые ресурсы"
+ IRE_social_liberal_party: "КНТ"
+ IRE_social_liberal_party_short: "Кланн-на-Тальмхан"
+
+ IRE_market_liberal_party: "НПР"
+ IRE_market_liberal_party_alt: "ПанФН"
+ IRE_market_liberal_party_short: "Национальная партия развития"
+
+ IRE_social_conservative_party: "ПК"
+ IRE_social_conservative_party_short: "Саорт Криостуил"
+
+
+ ### Characters ###
+
+ # Leaders #
+ IRE_peadar_odonnell: "Пидар О'Доннелл"
+ IRE_peadar_odonnell_alt: "Пидар Домнайл"
+ IRE_peadar_odonnell_surname: "О'Доннелл"
+
+ IRE_jim_larkin: "Джим Ларкин"
+ IRE_owen_sheehy_skeffington: "Оуэн Ши-Шеффингтон"
+
+ IRE_william_obrien: "Уильям О'Брайен"
+
+ IRE_michael_donnellan: "Майкл Доннеллан"
+ IRE_sean_lemass: "Сеан Лемасс"
+ IRE_sean_lemass_alt: "Сеан Леймеас"
+ IRE_sean_lemass_surname: "Лемасса"
+ IRE_sean_lemass_desc_body: "У Сена Лемасса, безусловно, есть предыстория для лидерства в Ирландии; ему было всего 16 лет, когда он принимал участие в Пасхальном восстании 1916 года, и он не намного старше, когда воевал в войне за независимость. Веруя в демократию и гражданский национализм, он разочаровался в растущем авторитаризме Коллинза и оставил Синна Фейна с несколькими его последователями."Home Ruler\" National Centre Party and National League Party. For Lemass, his one-time adversaries shared many of his political and economic views, and for the NCP and NLP, their new leader's service in the Easter Rising and War of Independence would help to legitimise their views in a generally Anglophobic and pro-German nation.\n\nLemass' political philosophy is a simple one: \"A rising tide lifts all boats\", meaning that economic prosperity rises all aspects of society. He believes that if he can deliver strong economic growth that all other issues can be solved using the profits."
+ IRE_sean_lemass_leader_desc: "§ §YBorn: §! § 15 июля 1899 года в Баллибраке, Ко. Дублин, Ирландия §!! § §YYY также известен как: §! §L$IRE_ sean_lemass_alt$§! § § §YBackground: §! §L$IRE_ sean_lemass_desc_bode$ Теперь, ведущий партнер в его успешной правящей коалиции, Лемасса определился, что из пепла векового неправильного правления появится процветающая, экономически сильная Ирландия, открытая для бизнеса с миром.§!"
+ IRE_sean_lemass_parlrep_sic_desc: "§ §YBorn: §! § 15 июля 1899 года в Баллибраке, Ко. Дублин, Ирландия §!! § §YYY также известна как: §! §L$IRE_ sean_lemass_alt$§! § § §YBackground: §! §L$IRE_ sean_lemass_desc_bode$ Теперь возглавляет страну как тауайсич, и глава успешной правящей коалиции, Лемасс решил, что из пепла веков неправильного правления появится процветающая, экономически сильная Ирландия, открытая для бизнеса с миром.§!"
+ IRE_sean_lemass_ger_aligned_leader_desc: "§YBorn: § 15 июля 1899 года в Баллибраке, Ко. Дублин, Ирландия §! § §YYY также известно как: §! §L$IRE_sean_lemass_alt$§! § §YBackground: §! § §L$IRE_ sean_lemass_desc_bod$ Теперь, возглавляя страну из места, близкого к сердцу Рейхспакта, Лемасса полна решимости сделать лучшее из нынешнего немецкого порядка.§!"
+ # IRE_sean_lemass_sic_desc: "[ИАС_loc_lemass_desc]"    ### IRE TEMP - wait for scripted loc fix
+ IRE_sean_lemass_sic_desc: "§YBorn: §! § 15 июля 1899 года в Баллибраке, Ко. Дублин, Ирландия §!n §YY также известно как: §! §L$IRE_ san_lemass_alt$§! § § §YBackground: §! §! §Lean Lemass' так же сильный националистический авторитет, как и любой другой, будучи одним из самых молодых участников Пасхального Восстания 1916 года. / Несмотря на то, что большинство его коллег считали, что Ирландия должна быть отделена от Британии, чтобы процветать ирландская культура, Лемасс пришел к выводу, что самой приоритетной задачей должно быть экономическое развитие ирландского народа, и культура будет следовать после этого, поскольку голодные люди не становятся поэтами. ~"A rising tide lifts all boats\", Lemass believes that free trade is to everyone's benefit, and therefore Ireland should seek out as many economic allies as possible, even if that includes those in the old British sphere.§!"
+
+ IRE_eamon_de_valera: "&quot; Эмон де Валера &quot;"
+
+ IRE_michael_collins: "Майкл Коллинз"
+
+ IRE_eoin_oduffy: "Эйн О'Даффи"
+ 
+ IRE_gearoid_o_cuinneagain: "Геморрой Куиннеагайн"
+
+ IRE_richard_mulcahy: "Ричард Малкай"
+
+ IRE_john_j_okelly: "Джон Дж. О'Келли"
+
+ IRE_aodh_o_neill: "Аод Ё Нейл"
+
+ IRE_ernie_omalley: "Эрни О'Мэлли"
+
+ IRE_kathleen_clarke: "Кэтлин Кларк"
+
+ IRE_douglas_hyde: "Дуглас Хайд"
+
+ IRE_cathal_brugha: "Катал Бруга"
+
+ IRE_erskine_childers: "Эрскинские дети"
+
+ IRE_sean_murray: "Сян Мюррей"
+
+ IRE_frank_macdermot: "Фрэнк МакДермот"
+
+ IRE_hugo_macneill: "Хьюго Макнилл"
+
+
+ # Field Marshals #
+ IRE_liam_lynch: "Лиам Линч"
+
+ IRE_jack_white: "Джек Уайт"
+ IRE_wj_brennan_whitmore: "У.Дж. Бреннан-Уитмор"
+
+ # Generals #
+ IRE_tom_barry: "Том Барри"
+
+ IRE_daniel_hogan: "Дэниел Хоган"
+
+ IRE_sean_mac_eoin: "Сеан Мак Еин"
+ IRE_daniel_mckenna: "Дэниел МакКенна"
+
+ IRE_jj_oconnell: "Джей-Джей О'Коннелл"
+
+ IRE_rory_oconnor: "Рори О'Коннор"
+
+ IRE_james_steele: "Джеймс Стил"
+
+ IRE_seamus_odonovan: "Сеамус О'Донован"
+
+ IRE_sean_russell: "Сян Рассел"
+ IRE_eric_dorman_smith: "Эрик Дорман О'Гован"
+
+ IRE_frank_ryan: "Фрэнк Райан"
+
+ IRE_neven_henaff: "Невен Энафф"
+
+ # Admirals #
+ IRE_seamus_o_muiris: "Сеамус Муирис"
+
+ IRE_henry_hg_stoker: "Генри Х.Г. Стокер"
+
+ # Military Advisors #
+ IRE_liam_archer: "Лиам Арчер"
+
+ IRE_michael_brennan: "Майкл Бреннан"
+
+ IRE_dan_bryan: "Дэн Брайан"
+
+ IRE_michael_j_costello: "Майкл Дж. Костелло"
+
+ IRE_emmet_dalton: "Эммет Далтон"
+
+ IRE_paddy_daly: "Пэдди Дэйли"
+
+ IRE_martin_doyle: "Мартин Дойл"
+
+ IRE_wre_murphy: "В.Р.Э. Мерфи"
+
+ IRE_john_t_prout: "Джон Т. Проут"
+
+ IRE_liam_tobin: "Лиам Тобин"
+
+ IRE_anthony_t_lawlor: "Энтони Т. Лоулор"
+
+ IRE_standish_ogrady_roche: "Стэндиш О'Гради Рош"
+
+ IRE_paddy_saul: "Пэдди Сол"
+
+ IRE_boyle_somerville: "Бойл Сомервилль"
+
+ IRE_william_p_delamere: "Уильям П. Деламер"
+
+ IRE_james_fitzmaurice: "Джеймс Фитцморис"
+
+ IRE_herbert_c_irwin: "Герберт К. Ирвин"
+
+ IRE_william_mcsweeney: "Уильям МакСини"
+
+ IRE_patrick_a_mulcahy: "Патрик А. Малкаи"
+
+ IRE_cf_russell: "К.Ф. Рассел"
+
+ # Traits #
+ IRE_rural_revolutionary: "Революция сельских районов"
+ IRE_talismanic_ideologue: "Талисманский идеолог"
+ IRE_pacifist_academic: "Академия-пацифист"
+ IRE_dedicated_unioniser: "Специализированный профсоюзный работник"
+ IRE_president_name_only: "Только на имя Председателя"
+ IRE_great_pragmatist: "Великий прагматист"
+ IRE_agrarian_populist: "Аграрный популист"
+ IRE_big_fellow_1: "Большой товарищ"
+ IRE_big_fellow_2: "$IRE_big_fellow_1$"
+ IRE_the_reformer: "Реформатор"
+ IRE_economic_innovator: "Экономический новатор"
+ IRE_the_chief_1: "Начальник"
+ IRE_the_chief_2: "$IRE_the_chief_1$"
+ IRE_the_chief_3: "$IRE_the_chief_1$"
+ IRE_traditionalist: "Традиционист-фервент"
+ IRE_the_despot_1: "Деспот"
+ IRE_the_despot_2: "$IRE_the_despot_1$"
+ IRE_foreign_monarch: "Иностранный монарх"
+ IRE_ceannaire_1: "Ценарист"
+ IRE_ceannaire_2: "$IRE_ceannaire_1$"
+ IRE_king_of_gaels: "Король галс"
+ IRE_king_of_celts: "Король кельтов"
+ IRE_ceremonial_president: "Популярный рисунок"
+ IRE_collaborator: "Сотрудничающее лицо"
+ IRE_governor_general: "Генерал-губернатор Ирландии"

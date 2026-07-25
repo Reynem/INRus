@@ -1,0 +1,92 @@
+﻿l_russian:
+
+### Political Parties ###
+
+### Parties ###
+ SYR_vanguardist_party: "Привет."
+ #Party of al-Hawrani -> could be used as a precursor for the Ba'ath maybe?:
+ SYR_vanguardist_party_long: "&lt; &lt; Харакат аль-Иштаракиен аль-Араб &gt; &gt; (Арабское социалистическое движение)"
+ SYR_collectivist_party: "HNS"
+ #Party of Khalid Bakdash... could potentially use Radwan al-Hilu of the Palestinian Communist Party?:
+ SYR_collectivist_party_long: "&lt; &lt; Хизб аль-Никабиу ас-Сури &gt; &gt; (Сирийская социалистическая партия)"
+ SYR_libertarian_socialist_party: "HNS"
+ #Party of Khalid Bakdash... could potentially use Radwan al-Hilu of the Palestinian Communist Party?:
+ SYR_libertarian_socialist_party_long: "&lt; &lt; Хизб аль-Никабиу ас-Сури &gt; &gt; (Сирийская социалистическая партия)"
+ SYR_social_democrat_party: "HNS"
+ #Party of Khalid Bakdash ... could potentially use Radwan al-Hilu of the Palestinian Communist Party?:
+ SYR_social_democrat_party_long: "&lt; &lt; Хизб аль-Никабиу ас-Сури &gt; &gt; (Сирийская социалистическая партия)"
+ SYR_social_liberal_party: "HS (Damascene Wing)"
+ #Palestinian/Damascene wing of the People's Party. This wing represents al-Nashashibi (Jerusalem) and al-Jazairi (Damascus):
+ SYR_social_liberal_party_long: "&lt; &lt; Хизб аш-Шааб &gt; &gt; (Народная партия)"
+ SYR_market_liberal_party: "HS (алеппановое крыло)"
+ #Aleppo wing of the Party of Nazim al-Kudsi (doesn't have a portrait) and Rushdi al-Kikhiya (does have a portrait now :). Supports closer relations with Iraq and is the main anti-Damascene bloc in Aleppo/Northern Syria.:
+ SYR_market_liberal_party_long: "&lt; &lt; Хизб аш-Шааб &gt; &gt; (Народная партия)"
+ SYR_social_conservative_party: "KW"
+ #Party of Hashim al-Atassi and Shukri al-Quwaitli :
+ SYR_social_conservative_party_long: "&lt; &lt; Аль-Кутла аль-Ватания &gt; &gt; (Национальный Блок)"
+ #Previous comment, I guess by Jean: Used to show support for the Alawiyya dynasty of Moneimi, in practice this mainly consists of the National Bloc in the shape of Shukri al-Quwaitli:
+ SYR_authoritarian_democrat_party_sultanate: "Аль-Усра аль-Алавийя"
+ SYR_authoritarian_democrat_party_long_sultanate: "Аль-Усра аль-Алавийя (Династия Алавия)"
+ #Changed to Syrian Military leadership for puppet and rebel reasons
+ SYR_authoritarian_democrat_party_long: "Аль-Кияда аль-Аскария ас-Сурия (Сирийское военное руководство)"
+ SYR_authoritarian_democrat_party: "Аль-Кияда аль-Аскария ас-Сурия"
+ SYR_paternal_autocrat_party: "Военное правительство"
+ #Temporary military government, led by Husni al-Za'im or Adib Shishakli:
+ SYR_paternal_autocrat_party_long: "Военное правительство"
+ SYR_national_populist_party: "ССНП"
+ #Extreme nationalist party under the leadership of Antun Saadeh:
+ SYR_national_populist_party_long: "Хизб ас-Сури аль-Кавми аль-Иджтимаи (Сирийская социальная националистическая партия)"
+SYR_valkist_party: "ССНП (V)"
+ SYR_valkist_party_long: "Хизб аль-Сури аль-Кавми аль-Иджтимаи (Сирийская социальная националистическая партия &lt; &lt; Валькист крыло &gt; &gt; )"
+
+#Decisions
+SYR_announce_greater_syria_claims: "Объявление большего количества сирийских притязаний"
+SYR_expansionism: "Объявить войну [от имени]"
+SYR_expansionism2: "Объявить войну [от имени]"
+SYR_saddehs_vision: "Наши природные границы"
+
+### Characters ###
+ SYR_akram_al_hourani: "Акрам аль-Хурани"
+ SYR_khalid_bakdash: "Халид Бакдаш"
+ SYR_said_al_jazairi: "Саид аль-Джазайри"
+ SYR_rushdi_al_kikhiya: "Рушди аль-Кихия"
+ SYR_hashim_al_atassi: "Хашим аль-Атасси"
+
+ SYR_shukri_al_quwatli: "Шукри аль-Куатли"
+ SYR_shukri_al_quwatli_leader_desc: "Из-за осторожного маневрирования их лидера Шукри аль-Куватли, несмотря на его дваждые изгнание из Сирии, он вновь вернулся и собрал своих союзников в рамках подготовки к новому типу республиканского правительства."
+
+ SYR_sultan_al_atrash: "Султан аль-Атраш"
+ SYR_husni_al_zaim: "Хусни аз-Заим"
+
+ SYR_antun_saadeh: "Антун Саадэх"
+ SYR_antun_saadeh_leader_desc: "Родившийся в Бейруте в православной христианской семье, Антун Саадх является человеком, обладающим многими талантами и незначительным терпением, после того как он прожил половину своей жизни за границей на западе, Антун вернулся на родину в 1930 году, в результате чего во время Великой войны и французской оккупации его родины Сааде основал Сирийскую социал-националистическую партию, политическую партию, приверженную продвижению социал-национализма, усовершенствованию синкретизма социалистических и националистических идей, которые Сааде развил в свое время за границей, был арестован французскими властями в 1933 году, когда он публично сообщил о существовании партии, но его вера в Сирию, освобожденную от оков западного империализма и объединенную принципами социализма, нерушима."
+ 
+ SYR_sami_al_hinawi: "Сами аль-Хинави"
+ SYR_adib_bin_hassan: "Адиб бен Хасан ас-Шисхакли"
+ SYR_aziz_ali_al_misri: "Азиз Али аль-Мисри"
+
+ SYR_abd_al_rahman_shahbandar: "&lt; &lt; Абд аль-Рахман Шахбандар &gt; &gt;"
+ SYR_jamil_mardam_bey: "Джамиль Мардам Бей"
+ SYR_muhsen_barazi: "Мусен аль-Барази"
+ SYR_maarouf_al_dawalibi: "Мааруф аль-Давалиби"
+ SYR_nazim_kudsi: "Назим аль-Кудси"
+ SYR_rashad_barmada: "Расхад Бармада"
+ SYR_raghib_nashashibi: "Рагиб ан-Нашашиби"
+ SYR_fakhri_nashashibi: "Фахри ан-Нашашиби"
+ SYR_edmond_homsi: "Эдмонд аль-Хомси"
+ SYR_saadallah_jabiri: "Саадалла аль-Ябири"
+ SYR_fares_khoury: "Вознаграждение &lt; &lt; Аль-Хури &gt; &gt;"
+ SYR_abdulrahman_kayali: "Абд аль-Рахман аль-Кайяли"
+ SYR_lutfi_haffar: "Лутфи аль-Хаффар"
+ SYR_abdullah_atfeh: "Абдулла Атфех"
+ SYR_fawzi_selu: "Фаузи Селу"
+ SYR_sati_husri: "Сати аль-Хусри"
+ SYR_ahmad_sharbati: "Ахмад аш-Шарабати"
+ SYR_george_abd_messih: "Джордж Абд Мессих"
+ SYR_said_taqiyaddin: "Сказал Такияддин"
+ SYR_salah_al_shishakli: "Салах ас-Шисхакли"
+ SYR_fawzi_al_qawuqji: "Фаузи аль-Кавукджи"
+ SYR_anwar_bannud: "Анвар Баннуд"
+ SYR_army_subservient_air_command: "Военно-воздушное командование"
+ SYR_army_naval_arm: "Военно-морские силы"
+ SYR_interbranch_cooperation: "Межсекторальное сотрудничество"

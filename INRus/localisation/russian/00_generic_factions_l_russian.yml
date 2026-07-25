@@ -1,0 +1,18 @@
+﻿l_russian:
+
+ faction_generic: "Региональный гегемон"
+
+ faction_manifest_generic_regional_dominance_name: "Региональная гегемония"
+ faction_manifest_generic_regional_dominance_desc: "Пришло время вырезать наше место на солнце. У вашей фракции есть 150 штатов."
+
+ faction_defender_of_democracy: "Защитник демократии"
+
+ faction_manifest_generic_democratic_bastion_name: "Бастион демократии"
+ faction_manifest_generic_democratic_bastion_desc: "Обеспечивать, чтобы все страны мира были одной из следующих идеологий:"
+
+ faction_harbinger_of_a_new_order: "Хранитель нового порядка"
+
+ faction_manifest_generic_a_new_world_order_name: "Новый мировой порядок"
+ faction_manifest_generic_a_new_world_order_desc: "Обеспечивать, чтобы все страны мира были одной из следующих идеологий:"
+
+ faction_internationale_successor: "Преемник Международной конференции"

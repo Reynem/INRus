@@ -1,0 +1,49 @@
+﻿l_russian:
+
+### Americas ###
+ faction_southern_syndicalist_alliance: "Альянс южного синдикалиста" #created by history\countries\CHL - Chile.txt history file and paraguay_events.80 event
+
+ faction_manifest_defeat_argentina_name: "Победить Аргентину"
+ faction_manifest_defeat_argentina_desc: "Контролировать все аргентинские штаты."
+
+ faction_democratic_alliance_of_the_caribbean: "Демократический альянс стран Карибского бассейна" #created by CENdem_form_faction and COS_form_faction decisions and COS_Ferrer_takes_Control focus
+
+ faction_manifest_bastion_of_american_democracy_name: "Бастион американской демократии"
+ faction_manifest_bastion_of_american_democracy_desc: "Америка уже давно страдает от экстремизма, будь то в результате иностранного вмешательства или внутренней нестабильности, и настало время положить конец этой тирании и распространить демократию на весь континент!"
+
+ faction_liberal_pact: "Либеральный пакт" #created by CEN_found_liberal_pact decision
+ faction_peoples_vanguard: "Народный авангард" #created by CEN_found_military_pact decision
+ faction_revolutionary_front: "Революционный фронт" #created by CEN_found_revolutionary_pact decision
+
+ faction_manifest_unite_central_america_name: "Объединимся с Центральной Америкой"
+ faction_manifest_unite_central_america_desc: "Прошло около века с тех пор, как Центральная Америка как политическое образование последний раз существовала."
+
+### Asia ###
+ faction_bombay_pact: "Бомбейский пакт"
+
+ faction_manifest_reunification_of_india_name: "Воссоединение Индии"
+ faction_manifest_reunification_of_india_desc: "Контролировать все штаты Индии."
+
+ faction_andijan_alliance: "Андижанский альянс" #created by central_asian_crisis_events.514 event
+ faction_pishpek_pact: "Пишпекский пакт" #created by central_asian_crisis_events.468 event
+
+ faction_manifest_survive_the_russian_onslaught_name: "Выжить русским Онслоудом"
+ faction_manifest_survive_the_russian_onslaught_desc: "По мере того как Россия приобретает все больше земель в Центральной Азии, наше сопротивление становится все более и более грозным."
+
+ faction_pan_turkic_pact: "ПанТуркический пакт" #created by turkestan_republic_events.712 and turkestan_republic_events.717 events and CA_invite_ETS decision
+
+ faction_manifest_achieve_turkic_unity_name: "Достижение единства турков"
+ faction_manifest_achieve_turkic_unity_desc: "Слишком долго туркменские народы Центральной Азии были жертвами русского, китайского и персидского империализма. Наконец, мы должны объединиться, чтобы предотвратить ошибки прошлого."
+
+### Europe ###
+ faction_baltic_last_stand: "Балтийская последняя позиция" #created by latvia_foreign_policy_events.28 event
+
+ faction_manifest_baltic_defence_name: "Балтийский суверенитет"
+ faction_manifest_baltic_defence_desc: "Контролировать все балтийские государства."
+
+ faction_intermarium: "Интермарий" #created by POL_found_intermarium decision
+ faction_league_of_european_states: "Лига европейских государств" #renamed by ukraine_events.93 event
+ faction_small_pact: "Малый пакт" #created by UKR_small_pact decision
+
+ faction_manifest_liberation_of_europe_name: "&lt; &lt; Освобождение Европы &gt; &gt;"
+ faction_manifest_liberation_of_europe_desc: "Нам нечего терять, сопротивляясь."

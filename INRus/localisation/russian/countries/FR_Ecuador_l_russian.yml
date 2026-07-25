@@ -1,0 +1,27 @@
+﻿l_russian:
+
+### Political Parties ###
+
+ECU_vanguardist_party: "VSE"
+ECU_vanguardist_party_long: "&lt; &lt; Вангуардия социалиста экуаториана &gt; &gt;"
+ECU_collectivist_party: "ПТЭ"
+ECU_collectivist_party_long: "&lt; &lt; Колективиста экуаториано &gt; &gt;"
+ECU_libertarian_socialist_party: "ПЭУ"
+ECU_libertarian_socialist_party_long: "Радикальное крыло социалистической партии &lt; &lt; Экуаториано &gt; &gt;"
+ECU_social_democrat_party: "ПЭУ"
+ECU_social_democrat_party_long: "Реформистское крыло социалистической партии &lt; &lt; Экуаториано &gt; &gt;"
+ECU_social_liberal_party: "PLRE"
+ECU_social_liberal_party_long: "Либеральный радикальный экуаториано"
+ECU_market_liberal_party: "PLRE"
+ECU_market_liberal_party_long: "Либеральный радикальный экуаториано"
+ECU_social_conservative_party: "ПК"
+ECU_social_conservative_party_long: "Консервадор партии &lt; &lt; Партидо &gt; &gt;"
+ECU_authoritarian_democrat_party: "ПК (V)"
+ECU_authoritarian_democrat_party_long: "Партия консерваторов (Веласквиста)"
+ECU_paternal_autocrat_party: "UPN"
+ECU_paternal_autocrat_party_long: "Национальный союз &lt; &lt; Патриотика &gt; &gt;"
+ECU_national_populist_party: "UPN - ON"
+ECU_national_populist_party_long: "ПНН - Национальный договор"
+ECU_valkist_party: "FADN"
+ECU_valkist_party_long: "Антиколективистский фронт национальной обороны"
+

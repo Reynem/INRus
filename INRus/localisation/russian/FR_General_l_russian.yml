@@ -1,0 +1,821 @@
+﻿l_russian:
+
+# ### Loading Messages ###
+# LOADING_GUI: "Победа в великой войне"
+# #"Loading GUI"
+# LOADING_HISTORY: "Борьба с земельной войной в Северной Америке"
+# #"Loading History"
+# LOADING_SAVEGAME: "Изменение истории: $NAME$"
+# #"Loading savegame: $NAME$"
+# LOADING_SAVEGAME_NO_NAME: "Цистерны вождения через Суматра"
+# #"Loading savegame"
+# LOADING_DATABASES: "Возрождение империализма"
+# #"Loading databases"
+# LOADING_MAP_SPRITES: "Коллапс Западославия"
+# #"Loading sprites"
+# LOAD_GFX_PDXMAP_SHADERS: "Объединение наших сил в Египте"
+# #"Loading Map(Creating Shaders)..."
+# LOAD_GFX_PDXMAP_TERRAIN: "Объединение Австрии и Венгрии"
+# #"Loading Map(Creating Terrain)..."
+# LOAD_GFX_PDXMAP_BORDERS: "Объявление нового китайского правительства"
+# #"Loading Map(Creating Borders)..."
+# LOAD_GFX_PDXMAP_TEXTURES: "Строительство Португальской империи"
+# #"Loading Map(Creating Textures)..."
+# LOAD_GFX_PDXMAP_TREES: "Падение на революцию"
+# #"Loading Map(Creating Trees)..."
+# LOAD_GFX_PDXMAP_RIVERS: "Вторжение в Норвегию"
+# #"Loading Map(Creating Rivers)..."
+# LOAD_GFX_PDXMAP_STATIC_OBJECTS: "Победа над Ближним Востоком"
+# #"Loading Map(Creating objects)..."
+# LOAD_EVENTS: "Активизация англо-французской розни"
+# #"Loading Events"
+# LOAD_GFX: "Бегите к колониям"
+# #"Loading Graphics"
+# LOADING_MAIN_MENU: "Восстановление Бургундии"
+# #"Loading main menu"
+# PRECALC_NAVAL_DIST: "Централизация Имперской федерации"
+# #"Precalculating Naval Distances"
+# EXITING_TO_FRONTEND: "Объединение славян"
+# #"Returning to main menu"
+# LOAD_INIT: "Развертывание Королевского флота"
+# #"Initialising Game..."
+# LOAD_FLAGS: "Гардрисон Рейна"
+# #"Creating Flags"
+# PROC_FLAGS: "Провозглашение Гамбургской коммуны"
+# #"Processing Flags"
+# INIT_MAP_LOGIC: "Память о парижском коммуне"
+# #"Initialising map logic"
+# INIT_GAMESTATE: "Отвратительное отношение к современному миру"
+# #"Initialising game"
+# EXECUTE_HISTORY: "Вторжение на Британские острова"
+# #"Executing history"
+# CREATING_CHKSUM: "Разрушение СИБ"
+# #"Creating checksum"
+# GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
+# #"Generating Gradient Borders"
+
+maintheme: "Правило &lt; &lt; Уступка в Британии &gt; &gt;"
+
+### Name and Description ###
+BM_HISTORY_TITLE: "Краткая история"
+
+FUHRERREICH_NAME: "Наследие Великой войны"
+
+FUHRERREICH_DESC: "В конце Великой войны империи старых - оттоманцев, австрийцев и немцев - рухнули с большой силой и влиянием, в то время как Соединенные Штаты, Великобритания и Франция поднялись. В то время как многие думали, что Великая война приведет к новой эпохе мира, кажется, что напряженность старых еще не исчезла и вместе с ними может угрожать хрупкому миру, который остается..."
+
+### Ideology Grouping ###
+ kr_government_grouping: "Идеологическая группа"
+ vanguardist_desc: "Социалистический"
+ collectivist_desc: "Социалистический"
+ libertarian_socialist_desc: "Социалистический"
+ social_democrat_desc: "Либеральный"
+ social_liberal_desc: "Либеральный"
+ market_liberal_desc: "Либеральный"
+ social_conservative_desc: "Либеральный"
+ authoritarian_democrat_desc: "Реакция-консерватор"
+ paternal_autocrat_desc: "Реакция-консерватор"
+ national_populist_desc: "Революция правого крыла"
+ valkist_desc: "Революция правого крыла"
+
+### Splash Screen ###
+KR_SPLASH_TITLE: "Имперская ностальгия"
+KR_SPLASH_CREDITS: "§! nDarknight1342, Jespretje, Trimeon, Drowse, Spocklan116, Steffplays123, Arser, Kalmoire, Kaiserman, LuxLoser, Milechipy, Terran117, Freidrich фон Оманшич, Kano901, Raptor Jeshouse, Hellbat, Santander, JacnoLie, Bern, Janne bim Rolterstard-Würfsache, и LoneTechWolf. n §YThathanks для тех, кто внес свой вклад в Империю Ностальгии: §!"
+
+#popcount_desc: "Ключевая популяция ([? non_core_base]) nn n non-Core Population ([?base_population3])"
+
+###OTHER COUNTRIES DESC###
+OTHER_FUHRERREICH_DESC: "Это 1936 год, и мир находится на грани новой, неизбежной войны. Но мир состоит из более чем нескольких монолитных империй. Самые маленькие камни могут привести к приливным волнам, и эти малые государства могут принести много перемен. Вы присоединитесь к валькистам? Продолжите ли вы факел революции? Или, может быть, вы предоставите ваш народ истинную свободу, подобных которой они никогда не видели? Мир скоро сорвется со своего мирного существования, упав в аду войны. И он не будет ждать ваших решений."
+
+###LEADER DESCRIPTIONS###
+POLITICS_GEORGE_V_DESC: "Джордж V из Виндзора является королем-эмператором Британской империи, более чем просто во имя. Правя почти в три раза дольше, чем его отец, Эдвард VII, он восстал, чтобы стать одним из самых любимых монархов в британской истории. Под его правлением Британская империя вновь заявила о себе как о Глобальном Гегемоне и экономически затмила как своих соперников, так и бывших союзников после возвращения Империи к Великой изоляции. Однако его непобедимый образ не полностью соответствует реальности. По мере продвижения вперед состояние здоровья короля Георгия неуклонно ухудшается, что заставляет его сына, принца Эдуарда, выполнять часть своих обязанностей. Некоторые лучшие медицинские эксперты Империи ожидают, что он проживет еще 10 лет, хотя король Джордж в частном порядке придерживается противоположного мнения, несмотря на его часто стоическую природу."
+
+POLITICS_EDWARD_VIII_DESC: "С кончиной любимого короля Георга Эдуарда VIII Виндзора наследовал не только империю, простирающуюся от Ванкувера до Веллингтона, но и более широкий по сравнению с жизнью образ, который был создан его отцом. Харизматичный, уверенный и вооружённый опытом последних лет правления его Отца; вновь коронированный король-Эмперор готов взять на себя любые обязанности, которые могут быть от него требоваться в предстоящие годы."
+
+POLITICS_ADAM_DRESSLER_DESC: "В 1932 году Дресслер попытался оказать помощь в перевороте под руководством ДНВП только в 1923 году, который был сокрушен и принудительно заключен под стражу. Во время своего пребывания в тюрьме Дресслер написал фанатический роман под названием "Mein Deutschland das Siegreiche" ( &quot; Майн Дейтслэнд да Сегрейч &quot; ), в котором подробно рассказывалось о мести западным державам и разрушении Советов. &quot; Дресслер &quot; стал невероятно популярным. &quot; Дресслер &quot; , после случая, доказавшего незаконность тюремного заключения Дресслера; его освободили из тюрьмы и приветствовали сотни сторонников. &quot; Дрезслер &quot; затем наращивал поддержку своему недавно учрежденному Валькистику Фолькспартей Дейшландс &quot; , а затем баллотировался за должность в 1932 году. &quot; Дресслер &quot; , &quot; Дрет &quot; , &quot; , &quot; Дрет &quot; , который &quot; , &quot; , &quot; , &quot; , &quot; , &quot; , &quot; , &quot; , &quot; , &quot; , &quot; , &quot; Дрет &quot; , &quot; , &quot; , &quot; , &quot; ... &quot; , &quot; ... &quot; , &quot; , &quot; , &quot; , &quot; , &quot; , &quot; , &quot; , &quot; , &quot; , &quot; , &quot; ,"
+
+POLITICS_PAUL_REYNAUD_DESC: "В 1925 году, в августе, Айзек подал в отставку с поста председателя Федеративной республики и попытался назначить себе преемника Милитариста для укрепления платформы партии. Рено был естественным кандидатом из-за своей популярности в партии и твердой позиции в отношении иностранных союзников. В 1928 и 1932 годах Федерация Републикайна сумела собрать наибольшее число голосов и мест на обоих выборах. В высшей степени прагматичный человек Рейно следует одной доктрине внешней политики; Франция не имеет друзей и только интересов."
+
+### New Modifer for CW ###
+ # This is the custom tooltip text
+IN_CONSTRUCTION_DEBUFF_80_TT: "Общая скорость строительства: §R-80%§!"
+multiplicative_con_debuff: "Общая скорость строительства:"
+
+### Laws ###
+military_development_improve_tooltip: "Наша военная разработка увеличит §!"
+military_development_worsen_tooltip: "§Rour Военная разработка сократит §!"
+
+
+military_development: "Военное развитие"
+
+very_low_development: "Военные"
+very_low_development_desc: "Наши вооруженные силы находятся в полном беспорядке, недисциплинированные солдаты, некомпетентное высшее командование, тренировка, тактика и методы, которые принадлежали предыдущим столетиям, чтобы стоять на ногах с другими силами, мы должны модернизировать наши силы."
+
+low_development: "Немодернизированные военные"
+low_development_desc: "Хотя наша армия не является неофициальной или полностью некомпетентной, она глубоко устарела и будет страдать против вооруженных сил более современных держав."
+
+lower_medium_development: "Низкий уровень военного развития"
+lower_medium_development_desc: "В то время как наши военные, хорошо оснащенные и обученные, которые можно охарактеризовать как «готовые к бою», отсутствуют по сравнению с другими силами."
+
+upper_medium_development: "Среднее военное развитие"
+upper_medium_development_desc: "Наши военные звания среди среднего числа мельниц во всем мире. что мы не отсталая сила, а настоящая современная армия, скорее всего, будет унижена."
+
+high_development: "Высокий уровень военного развития"
+high_development_desc: "Наши военные хорошо развиты, и, пройдя обширную реформу, они не испытывают недостатка против вторичных держав, а против великих держав и развитых стран мы можем счесть войну несколько асимметричной."
+
+modern_development: "Современные военные"
+modern_development_desc: "Благодаря новейшим методам подготовки, возможностям, тактике и оборудованию наши военные хорошо организованы и способны стоять на ногах с любой другой силой, с которой они могут столкнуться."
+
+in_military_development_disable: "Отключено"
+
+colonial_economy: "Колониальная экономика"
+colonial_economy_desc: "Наш экономический и политический успех зависит от состояния и благодати нашего повелителя."
+
+undisturbed_isolation: "Прекрасная изоляция"
+undisturbed_isolation_desc: "С победой в Великой войне Великобритания вновь отошла в изоляцию, чтобы управлять своей империей и избегать дальнейших запутаний на европейском континенте. С началом политических событий в Британской Индии и колониальной Африке внимание Британской империи сосредоточено исключительно на внутренних делах."
+
+isolation: "Изоляция"
+isolation_desc: "Приоритизация внутренних дел и управление нашей собственной нацией является предпочтительной альтернативой иностранному вмешательству."
+
+civilian_economy: "Демобилизация в мирное время"
+civilian_economy_desc: "Нет необходимости перенаправлять людей и материальные средства на военные цели."
+
+low_economic_mobilisation: "Ранняя мобилизация"
+low_economic_mobilisation_desc: "Нет необходимости поспешно готовиться к войне полностью, хотя было бы глупо оставлять военную промышленность и наши страны в стороне от обороны."
+
+partial_economic_mobilisation: "Частичная мобилизация"
+partial_economic_mobilisation_desc: "По мере роста потенциальных врагов и того, как наше население начинает опасаться, что война может дойти до наших земель, мы должны начать необходимую подготовку к конфликту."
+
+war_economy: "Мобилизация в военное время"
+war_economy_desc: "Сейчас мы находимся в состоянии войны и должны принять соответствующие меры. Мужчины должны быстрее достичь поля боя, а наша индустрия должна создать средства для победы в большем объеме. Наш народ должен подготовиться к трудностям."
+
+tot_economic_mobilisation: "Итого, мобилизация"
+tot_economic_mobilisation_desc: "В это время конфликта не должно быть места для роскоши."
+
+free_trade: "Свободная торговля"
+free_trade_desc: "Глобальные рынки и свободная торговля, как правило, стимулируют экономический рост и ведут к снижению цен на многие товары."
+
+export_focus: "Открытые рынки" #Export Focus
+export_focus_desc: "Я не против свободной торговли, если это справедливая торговля, но я против плохих торговых сделок."
+
+limited_exports: "Регулируемые рынки" #Limited Exports
+limited_exports_desc: "Я посетил уволенных рабочих фабрик и общины, разрушенные нашими ужасными и несправедливыми торговыми сделками, это забытые мужчины и женщины нашей страны, и они забыты, но они не будут забыты долго."
+
+closed_economy: "Закрытые рынки" #Closed Economy
+closed_economy_desc: "Мы не можем допустить, чтобы наша экономика бежала на благо иностранных интересов."
+
+disarmed_nation: "Разоруженная нация"
+disarmed_nation_desc: "У нас нет причин развертывать огромные армии."
+
+volunteer_only: "Добровольцы-только"
+volunteer_only_desc: "A"Just War" - if there could be such a thing - would not require conscription. Volunteers would be plentiful.\n"
+
+limited_conscription: "Ограниченная воинская обязанность"
+limited_conscription_desc: "При необходимости призыв на военную службу, но не обязательно призыв на военную службу."
+
+extensive_conscription: "Обширная воинская обязанность"
+extensive_conscription_desc: "Наказание — это жизнеспособность нации, очищение ее нравственности и реальные основы всех ее привычек."
+
+service_by_requirement: "Служебная деятельность по требованию"
+service_by_requirement_desc: "Ты делаешь свою работу?"
+
+all_adults_serve: "Все взрослые служат"
+all_adults_serve_desc: "Чем хуже человек, тем лучше солдат."
+
+scraping_the_barrel: "Сломанный баррель"
+scraping_the_barrel_desc: "Каждый мужчина, каждая женщина и каждый ребенок будут вносить свой вклад в войну так или иначе."
+
+### Land Units ###
+garrison: "Гаррисон"
+militia: "Вооруженные формирования"
+
+### Trade Modifiers ###
+embargo: "Эмбарго"
+trade_sanctions: "Торговые санкции"
+heavy_tariffs: "Тяжелые тарифы"
+increased_trade: "Соглашение о торговле и тарифах"
+trading_partners: "Дружественные торговые партнеры"
+close_trading_partners: "Близкие торговые партнеры"
+veryclose_trading_partners: "Тяжелые торговые отношения"
+
+GEN_historical_friend_opinion: "Исторический друг"
+GEN_historical_rival_opinion: "Исторический ревал"
+
+### Difficulty settings ###
+custom_diff_strong_ger: "Укрепить Германию"
+custom_diff_strong_sov: "Укрепить Советскую Россию"
+custom_diff_strong_fra: "Укрепить Францию"
+custom_diff_strong_ita: "Укрепить Италию"
+custom_diff_strong_eng: "Укрепить Британскую Империю"
+custom_diff_strong_usa: "Укрепить Америку"
+custom_diff_strong_mex: "Укрепить Мексику"
+custom_diff_strong_jap: "Укрепить Японию"
+custom_diff_strong_tur: "Укреплять оттоманцев"
+
+### Factions ###
+imperial_protection_alliance: "Имперский альянс защиты"
+continental_entente: "Континентальный контакт"
+Stahlpakt: "Столпакт"
+3rd_international: "Третья международная организация"
+free_bloc: "Свободный Блок"
+commonwealth: "Содружество Наций"
+
+### Renaming System ###
+ toggle_renaming_button_tooltip: "[Тоггель_ренаминг_butt_tooltip_loc]"
+ toggle_renaming_button_tooltip_desc: "[Тоггель_ренаминг_butt_tooltip_dec_loc]"
+ toggle_renaming_button_tooltip_mp: "§R Недееспособный в мультиплеерах§!"
+ toggle_renaming_button_tooltip_enable: "§Теперь в режиме § "Английские имена"!"
+ toggle_renaming_button_tooltip_enable_desc: "В настоящее время в игре используются английские имена для States и Victory Points (Exonimes) с динамическим переименованием их в нетрудоспособное. ~nn/nClick здесь, чтобы перейти к использованию коренных имен для штатов и очков Победы (Endonimes), с динамическим переименованием их."
+ toggle_renaming_button_tooltip_disable: "§ Ведущийся в режиме §!"
+ toggle_renaming_button_tooltip_disable_desc: "В настоящее время в игре используются имена коренных народов для штатов и очков Победы (Endonimes), с динамическим переименованием которых возможно. ~nn/nClick здесь, чтобы перейти к использованию английских имен для штатов и очков Победы (Exonys), с динамическим переименованием их отключено."
+
+
+### Interface ###
+minister:1 "Министры и советники"
+research_production:1 "Промышленный сектор и НИОКР"
+industrial_concern:1 "Промышленная компания"
+POLITICS_NOELECTIONS: "Любые выборы по мероприятию."
+can_replace_hog: "Можете заменить главу правительства"
+ministers_cannot_be_replaced: "Министры не могут быть заменены"
+DIPLOMACY_DOCKING_RIGHTS: "Права допинга"
+computing_tech_research: "Скорость вычислительных исследований"
+
+### Skill Level ###
+unskilled: "" #(unskilled)
+regular: "" #(regular)
+expert: "" #(expert)
+blank: "" #\n
+
+### Ministers ###
+head_of_government: "Глава правительства"
+foreign_minister: "Министр иностранных дел"
+economy_minister: "Министр экономики"
+security_minister: "Министр безопасности"
+head_of_intel: "Начальник разведки"
+decisions: "Решения"
+naive_optimist: "Наивный оптимист"
+resource_industrialist: "Ресурсный промышленник"
+mass_assault: "Школа массовых боевых действий"
+static_defense: "Доктрина статической обороны"
+backstabber: "Задняя часть задней комнаты"
+happy_amateur: "Счастливый любитель"
+corporate_suit: "Корпоративный костюм"
+smiling_oilman: "Улыбающийся Ойлмен"
+silent_workhorse: "Молчаливый рабочий лошадь"
+old_general: "Старый генерал"
+old_air_marshall: "Старый воздушный Маршалл"
+totalist_chairman: "Председатель"
+political_powerhouse: "Политический силовой комплекс"
+expansive_imperialist: "Стерн Империалист"
+totalist_promoter: "Август Идол"
+radical_socialist_promoter: "Социалистическая Революция"
+syndicalist_promoter: "Лидер Социалистического союза"
+social_democrat_promoter: "Социалист-реформист"
+social_liberal_promoter: "Прогрессивный героизм"
+market_liberal_promoter: "Адвокат деловых кругов"
+social_conservative_promoter: "Традиционист-стаунч"
+authoritarian_democrat_promoter: "Авторитарный конституционалист"
+paternal_autocrat_promoter: "Автократический шармер"
+national_populist_promoter: "Националист Демагог"
+great_compromiser: "Великий Компромисс"
+
+### Ideologies ###
+vanguardist: "Национальный коллективизм"
+collectivist: "Социализм государства"
+syndicalist_subtype: "Синдикализм"
+libertarian_socialist: "Свободный социализм"
+monsoc_subtype: "Монархо-социализм"
+social_democrat: "Социальная демократия"
+social_monarchist_lib_subtype: "Социальный монархизм"
+social_liberal: "Социальный либерализм"
+market_liberal: "Либерализм рынка"
+social_conservative: "Социальная консерватория"
+authoritarian_democrat: "Авторитарный Дем."
+paternal_autocrat: "Отцовская автократия"
+national_populist: "Национальный популизм"
+valkist: "Эзотерический национализм"
+national_syndicalist_subtype: "Национальный синдикализм"
+neo_zoroastrianism_subtype: "Нео-Зороастрийство"
+national_radicalism_subtype: "Национальный радикализм"
+islamist_subtype: "Исламизм"
+national_democracy_subtype: "Национальная демократия"
+
+### Drift ###
+vanguardist_drift: "Ежедневная поддержка национальных коллективистов"
+collectivist_drift: "Ежедневная государственная поддержка социализма"
+libertarian_socialist_drift: "Ежедневная поддержка социализма со стороны либертарианцев"
+social_democrat_drift: "Ежедневная поддержка социал-демократов"
+social_liberal_drift: "Ежедневная социальная либеральная поддержка"
+market_liberal_drift: "Daily Market Либеральная поддержка"
+social_conservative_drift: "Ежедневная социальная консерватория"
+authoritarian_democrat_drift: "Ежедневная поддержка авторитарной демократии"
+paternal_autocrat_drift: "Ежедневная поддержка отцовского автократа"
+national_populist_drift: "Ежедневная национальная популистская поддержка"
+valkist_drift: "Ежедневная поддержка со стороны националистов-эзотериков"
+
+### Acceptance ###
+
+vanguardist_acceptance: "Признание национального коллективизма"
+collectivist_acceptance: "Признание государственного социализма"
+libertarian_socialist_acceptance: "Приемлемость либертарианского социализма"
+social_democrat_acceptance: "Признание социальной демократии"
+social_liberal_acceptance: "Принятие социал-либерализма"
+market_liberal_acceptance: "Принятие рыночного либерализма"
+social_conservative_acceptance: "Признание социального консерватизма"
+authoritarian_democrat_acceptance: "Признание авторитарной демократии"
+paternal_autocrat_acceptance: "Принятие отцовской аутократии"
+national_populist_acceptance: "Признание национального популизма"
+valkist_acceptance: "Признание эзотерического национализма"
+
+### Banned ###
+vanguardist_banned: "Запрещенные национальные коллективисты"
+collectivist_banned: "Запрещенные государственные социалисты"
+libertarian_socialist_banned: "Запрещенные социалисты-либертарианцы"
+social_democrat_banned: "Запрещенные социальные демократы"
+social_liberal_banned: "Запрещенные социальные либералы"
+market_liberal_banned: "Запрещенные либералы рынка"
+social_conservative_banned: "Запрещенные социальные консерваторы"
+authoritarian_democrat_banned: "Запрещенные авторитарные демократы"
+paternal_autocrat_banned: "Запрещенные отцовские автократы"
+national_populist_banned: "Запрещенные национальные популисты"
+valkist_banned: "Запрещенные националисты-эзотерики"
+
+### Company Traits ###
+
+### Tank ###
+small_tank_producer_offense_0: "Изготовитель легкого танка"
+small_tank_producer_offense_1: "Изготовитель легкого танка"
+small_tank_producer_offense_2: "Изготовитель легкого танка"
+small_tank_producer_defense_0: "Изготовитель легкого танка"
+small_tank_producer_defense_1: "Изготовитель легкого танка"
+small_tank_producer_defense_2: "Изготовитель легкого танка"
+small_tank_producer_mass_0: "Изготовитель легкого танка"
+small_tank_producer_mass_1: "Изготовитель легкого танка"
+small_tank_producer_mass_2: "Изготовитель легкого танка"
+medium_tank_producer_offense_0: "Изготовитель среднегабаритной цистерны"
+medium_tank_producer_offense_1: "Изготовитель среднегабаритной цистерны"
+medium_tank_producer_offense_2: "Изготовитель среднегабаритной цистерны"
+medium_tank_producer_defense_0: "Изготовитель среднегабаритной цистерны"
+medium_tank_producer_defense_1: "Изготовитель среднегабаритной цистерны"
+medium_tank_producer_defense_2: "Изготовитель среднегабаритной цистерны"
+medium_tank_producer_mass_0: "Изготовитель среднегабаритной цистерны"
+medium_tank_producer_mass_1: "Изготовитель среднегабаритной цистерны"
+medium_tank_producer_mass_2: "Изготовитель среднегабаритной цистерны"
+heavy_tank_producer_offense_0: "Изготовитель тяжелых цистерн"
+heavy_tank_producer_offense_1: "Изготовитель тяжелых цистерн"
+heavy_tank_producer_offense_2: "Изготовитель тяжелых цистерн"
+heavy_tank_producer_defense_0: "Изготовитель тяжелых цистерн"
+heavy_tank_producer_defense_1: "Изготовитель тяжелых цистерн"
+heavy_tank_producer_defense_2: "Изготовитель тяжелых цистерн"
+heavy_tank_producer_mass_0: "Изготовитель тяжелых цистерн"
+heavy_tank_producer_mass_1: "Изготовитель тяжелых цистерн"
+heavy_tank_producer_mass_2: "Изготовитель тяжелых цистерн"
+
+### Air ###
+fighter_producer_offense_0: "Изготовитель истребителя"
+fighter_producer_offense_1: "Изготовитель истребителя"
+fighter_producer_offense_2: "Изготовитель истребителя"
+fighter_producer_defense_0: "Изготовитель истребителя"
+fighter_producer_defense_1: "Изготовитель истребителя"
+fighter_producer_defense_2: "Изготовитель истребителя"
+fighter_producer_mass_0: "Изготовитель истребителя"
+fighter_producer_mass_1: "Изготовитель истребителя"
+fighter_producer_mass_2: "Изготовитель истребителя"
+bomber_producer_offense_0: "Изготовитель тяжелых бомбардировщиков"
+bomber_producer_offense_1: "Изготовитель тяжелых бомбардировщиков"
+bomber_producer_offense_2: "Изготовитель тяжелых бомбардировщиков"
+bomber_producer_defense_0: "Изготовитель тяжелых бомбардировщиков"
+bomber_producer_defense_1: "Изготовитель тяжелых бомбардировщиков"
+bomber_producer_defense_2: "Изготовитель тяжелых бомбардировщиков"
+bomber_producer_mass_0: "Изготовитель тяжелых бомбардировщиков"
+bomber_producer_mass_1: "Изготовитель тяжелых бомбардировщиков"
+bomber_producer_mass_2: "Изготовитель тяжелых бомбардировщиков"
+nav_cas_producer_offense_0: "Изготовитель легкого взрывного устройства"
+nav_cas_producer_offense_1: "Изготовитель легкого взрывного устройства"
+nav_cas_producer_offense_2: "Изготовитель легкого взрывного устройства"
+nav_cas_producer_defense_0: "Изготовитель легкого взрывного устройства"
+nav_cas_producer_defense_1: "Изготовитель легкого взрывного устройства"
+nav_cas_producer_defense_2: "Изготовитель легкого взрывного устройства"
+nav_cas_producer_mass_0: "Изготовитель легкого взрывного устройства"
+nav_cas_producer_mass_1: "Изготовитель легкого взрывного устройства"
+nav_cas_producer_mass_2: "Изготовитель легкого взрывного устройства"
+
+### Arms ###
+motorised_equipment_producer_offense_0: "Изготовитель моторизованного оборудования"
+motorised_equipment_producer_offense_1: "Изготовитель моторизованного оборудования"
+motorised_equipment_producer_offense_2: "Изготовитель моторизованного оборудования"
+motorised_equipment_producer_offense_3: "Изготовитель моторизованного оборудования"
+motorised_equipment_producer_defense_0: "Изготовитель моторизованного оборудования"
+motorised_equipment_producer_defense_1: "Изготовитель моторизованного оборудования"
+motorised_equipment_producer_defense_2: "Изготовитель моторизованного оборудования"
+motorised_equipment_producer_mass_0: "Изготовитель моторизованного оборудования"
+motorised_equipment_producer_mass_1: "Изготовитель моторизованного оборудования"
+motorised_equipment_producer_mass_2: "Изготовитель моторизованного оборудования"
+infantry_equipment_producer_offense_0: "Изготовитель пехотного оборудования"
+infantry_equipment_producer_offense_1: "Изготовитель пехотного оборудования"
+infantry_equipment_producer_offense_2: "Изготовитель пехотного оборудования"
+infantry_equipment_producer_defense_0: "Изготовитель пехотного оборудования"
+infantry_equipment_producer_defense_1: "Изготовитель пехотного оборудования"
+infantry_equipment_producer_defense_2: "Изготовитель пехотного оборудования"
+infantry_equipment_producer_assualt_0: "Изготовитель пехотного оборудования"
+infantry_equipment_producer_assualt_1: "Изготовитель пехотного оборудования"
+infantry_equipment_producer_assualt_2: "Изготовитель пехотного оборудования"
+infantry_equipment_producer_allround_0: "Изготовитель пехотного оборудования"
+infantry_equipment_producer_allround_1: "Изготовитель пехотного оборудования"
+infantry_equipment_producer_allround_2: "Изготовитель пехотного оборудования"
+infantry_equipment_producer_mass_0: "Изготовитель пехотного оборудования"
+infantry_equipment_producer_mass_1: "Изготовитель пехотного оборудования"
+infantry_equipment_producer_mass_2: "Изготовитель пехотного оборудования"
+artillery_producer_offense_0: "Изготовитель артиллерийских изделий"
+artillery_producer_offense_1: "Изготовитель артиллерийских изделий"
+artillery_producer_offense_2: "Изготовитель артиллерийских изделий"
+artillery_producer_defense_0: "Изготовитель артиллерийских изделий"
+artillery_producer_defense_1: "Изготовитель артиллерийских изделий"
+artillery_producer_defense_2: "Изготовитель артиллерийских изделий"
+artillery_producer_mass_0: "Изготовитель артиллерийских изделий"
+artillery_producer_mass_1: "Изготовитель артиллерийских изделий"
+artillery_producer_mass_2: "Изготовитель артиллерийских изделий"
+
+### Naval ###
+capital_ship_producer_offense_0: "Изготовитель основного судна"
+capital_ship_producer_offense_1: "Изготовитель основного судна"
+capital_ship_producer_offense_2: "Изготовитель основного судна"
+capital_ship_producer_defense_0: "Изготовитель основного судна"
+capital_ship_producer_defense_1: "Изготовитель основного судна"
+capital_ship_producer_defense_2: "Изготовитель основного судна"
+capital_ship_producer_mass_0: "Изготовитель основного судна"
+capital_ship_producer_mass_1: "Изготовитель основного судна"
+capital_ship_producer_mass_2: "Изготовитель основного судна"
+cruiser_producer_offense_0: "Изготовитель круизера"
+cruiser_producer_offense_1: "Изготовитель круизера"
+cruiser_producer_offense_2: "Изготовитель круизера"
+cruiser_producer_defense_0: "Изготовитель круизера"
+cruiser_producer_defense_1: "Изготовитель круизера"
+cruiser_producer_defense_2: "Изготовитель круизера"
+cruiser_producer_mass_0: "Изготовитель круизера"
+cruiser_producer_mass_1: "Изготовитель круизера"
+cruiser_producer_mass_2: "Изготовитель круизера"
+small_ship_producer_offense_0: "Изготовитель малых судов"
+small_ship_producer_offense_1: "Изготовитель малых судов"
+small_ship_producer_offense_2: "Изготовитель малых судов"
+small_ship_producer_defense_0: "Изготовитель малых судов"
+small_ship_producer_defense_1: "Изготовитель малых судов"
+small_ship_producer_defense_2: "Изготовитель малых судов"
+small_ship_producer_mass_0: "Изготовитель малых судов"
+small_ship_producer_mass_1: "Изготовитель малых судов"
+small_ship_producer_mass_2: "Изготовитель малых судов"
+
+#Recall Volunteers
+recall_volunteers: "Помните Добровольцев"
+RECALL_VOLUNTEERS_ACTION_SEND_DESC: "Помните Добровольцев"
+RECALL_VOLUNTEERS_TITLE: "Помните Добровольцев"
+ RECALL_VOLUNTEERS_ACTION_DESC: "Мы можем принять решение о том, чтобы напомнить о добровольцах, которых мы направили в другие страны."
+ RECALL_VOLUNTEERS_TOOLTIP: "Мы должны иметь от нас добровольцев, которых мы можем вспомнить!"
+ RECALL_VOLUNTEERS_TOOLTIP_G: "У нас должны быть добровольцы, которых мы можем вспомнить."
+
+## Laws
+
+command_economy: "Командная экономика"
+
+### General Industry ###
+chemical_producer: "Химическая компания"
+industrial_manufacturer: "Промышленная компания"
+electronics_manufacturer: "Изготовитель электроники"
+press_publishing_company: "Пресс-издательская компания"
+### Theorists ###
+### Different stuff ###
+industry_theorist: "Теоретик промышленности"
+nuclear_theorist: "Теоретик-ядерщик"
+rocket_theorist: "Теоретик ракет"
+electronic_theorist: "Электронный теоретик"
+### Doctrines ###
+
+### General ###
+air_doctrine_theorist: "Теоретик теории воздушных перевозок"
+naval_doctrine_theorist: "Теоретик морской доктрины"
+land_doctrine_theorist: "Теоретик земельной доктрины"
+
+### Land ###
+superior_firepower_theorist: "Высший теоретик огневой мощи"
+cat_supperior_firepower_research: "Высший теоретик огневой мощи"
+mobile_warfare_theorist: "Мобильный военный теоретик"
+trench_warfare_theorist: "Теоретик &lt; &lt; Тренч войн &gt; &gt;"
+mass_assault_theorist: "Теоретик массового нападения"
+cat_grand_battleplan_research: "Теоретик Великого боевого плана"
+### Air ###
+strategic_destruction_theorist: "Теоретик стратегического уничтожения"
+battlefield_support_theorist: "Теоретик по поддержке боевых действий"
+operational_integrity_theorist: "Теоретик оперативной добросовестности"
+
+### Naval ###
+fleet_in_being_theorist_theorist: "Флот, будучи теоретиком"
+trade_interdiction_theorist: "Теоретик торгового противостояния"
+base_strike_theorist: "Теоретик базовой забастовки"
+
+### Unit Type Theorists ###
+
+### Air ###
+aircraft_theorist: "Теоретик по производству воздушных судов"
+fighter_theorist: "Теоретик-истребитель"
+heavy_fighter_theorist: "Теоретик тяжелого боя"
+cas_theorist: "Теоретик КАС"
+tac_theorist: "Теоретик тактических бомбардировщиков"
+strat_theorist: "Теоретик стратегических бомбардировщиков"
+nav_theorist: "Теоретик военно-морских бомбардировщиков"
+
+### Tanks ###
+tank_theorist: "Теоретик по производству цистерн"
+small_tank_theorist: "Теоретик малых танков"
+medium_tank_theorist: "Теоретик средних танков"
+heavy_tank_theorist: "Теоретик тяжелых цистерн"
+
+### General Arms ###
+arms_theorist: "Теоретик по производству оружия"
+infantry_equipment_theorist: "Теоретик пехотного оборудования"
+support_equipment_theorist: "Теоретик вспомогательного оборудования"
+art_theorist: "Теоретик артиллерии"
+motorized_theorist: "Теоретик моторизованного оборудования"
+marine_theorist: "Теоретик морского оборудования"
+
+### General ###
+fighter_techs: "Техник-истребитель"
+fighter_techs_research: "Время для исследований боевых технологий"
+support_tech: "Вспомогательное техническое обслуживание"
+support_tech_research: "Технологические исследования"
+
+### Army Command Traits ###
+
+### Land ###
+land_defense_1: "Доктрина защиты"
+land_defense_2: "Доктрина защиты"
+land_defense_3: "Доктрина защиты"
+
+land_offensive_1: "Доктрина наступательных действий"
+land_offensive_2: "Доктрина наступательных действий"
+land_offensive_3: "Доктрина наступательных действий"
+
+mobile_warfare_1: "Мобильная военная авиация"
+mobile_warfare_2: "Мобильная военная авиация"
+mobile_warfare_3: "Мобильная военная авиация"
+
+entrenchment_1: "Великая доктрина войны"
+entrenchment_2: "Великая доктрина войны"
+entrenchment_3: "Великая доктрина войны"
+
+morale_1: "Вдохновляющий лидер"
+morale_2: "Вдохновляющий лидер"
+morale_3: "Вдохновляющий лидер"
+
+organization_1: "Стратегическое планирование"
+organization_2: "Стратегическое планирование"
+organization_3: "Стратегическое планирование"
+
+attrition_1: "Осторожный планировщик"
+attrition_2: "Осторожный планировщик"
+attrition_3: "Осторожный планировщик"
+
+supply_use_1: "Планировщик материально-технического обеспечения"
+supply_use_2: "Планировщик материально-технического обеспечения"
+supply_use_3: "Планировщик материально-технического обеспечения"
+
+### Artillery ###
+artillery_offense_1: "Нападение"
+artillery_offense_2: "Нападение"
+artillery_offense_3: "Нападение"
+
+artillery_defense_1: "Защитный баррель"
+artillery_defense_2: "Защитный баррель"
+artillery_defense_3: "Защитный баррель"
+
+### Infantry ###
+infantry_offense_1: "Заряд на пехоту"
+infantry_offense_2: "Заряд на пехоту"
+infantry_offense_3: "Заряд на пехоту"
+
+infantry_defense_1: "Пехотная оборона"
+infantry_defense_2: "Пехотная оборона"
+infantry_defense_3: "Пехотная оборона"
+
+### Tanks ###
+armored_offense_1: "Зарядка панцера"
+armored_offense_2: "Зарядка панцера"
+armored_offense_3: "Зарядка панцера"
+
+armored_defense_1: "Защита панцера"
+armored_defense_2: "Защита панцера"
+armored_defense_3: "Защита панцера"
+
+### Cavalry ###
+cavalry_offense_1: "Кавалерия"
+cavalry_offense_2: "Кавалерия"
+cavalry_offense_3: "Кавалерия"
+
+cavalry_defense_1: "Защита кавалерии"
+cavalry_defense_2: "Защита кавалерии"
+cavalry_defense_3: "Защита кавалерии"
+
+### Commando ###
+commando_offense_1: "Командная зарядка"
+commando_offense_2: "Командная зарядка"
+commando_offense_3: "Командная зарядка"
+
+commando_defense_1: "Коммандос оборона"
+commando_defense_2: "Коммандос оборона"
+commando_defense_3: "Коммандос оборона"
+
+### XP ###
+army_reform_1: "Армейский реформатор"
+army_reform_2: "Армейский реформатор"
+army_reform_3: "Армейский реформатор"
+
+### Air ###
+concealment_1: "Сокрытие"
+concealment_2: "Сокрытие"
+concealment_3: "Сокрытие"
+
+air_reform_1: "Воздушный реформатор"
+air_reform_2: "Воздушный реформатор"
+air_reform_3: "Воздушный реформатор"
+
+air_safety_1: "Безопасность полетов"
+air_safety_2: "Безопасность полетов"
+air_safety_3: "Безопасность полетов"
+
+air_night_operations_1: "Ночные операции"
+air_night_operations_2: "Ночные операции"
+air_night_operations_3: "Ночные операции"
+
+air_ground_suppression_1: "Наземная опоздание"
+air_ground_suppression_2: "Наземная опоздание"
+air_ground_suppression_3: "Наземная опоздание"
+
+air_weather_1: "Всепорошок"
+air_weather_2: "Всепорошок"
+air_weather_3: "Всепорошок"
+
+air_ace_promoter_1: "Положительный героизм"
+air_ace_promoter_2: "Положительный героизм"
+air_ace_promoter_3: "Положительный героизм"
+
+air_naval_strike_1: "Морской зал &lt; &lt; Столкновение &gt; &gt;"
+air_naval_strike_2: "Морской зал &lt; &lt; Столкновение &gt; &gt;"
+air_naval_strike_3: "Морской зал &lt; &lt; Столкновение &gt; &gt;"
+
+air_bomber_interception_1: "Перехват бомбы"
+air_bomber_interception_2: "Перехват бомбы"
+air_bomber_interception_3: "Перехват бомбы"
+
+air_air_superiority_1: "Воздушная высота"
+air_air_superiority_2: "Воздушная высота"
+air_air_superiority_3: "Воздушная высота"
+
+air_close_air_support_1: "Поддержка при закрытых воздушных перевозках"
+air_close_air_support_2: "Поддержка при закрытых воздушных перевозках"
+air_close_air_support_3: "Поддержка при закрытых воздушных перевозках"
+
+air_strategic_bombing_1: "Стратегическая бомбардировка"
+air_strategic_bombing_2: "Стратегическая бомбардировка"
+air_strategic_bombing_3: "Стратегическая бомбардировка"
+
+air_tactical_bombing_1: "Тактическая бомбардировка"
+air_tactical_bombing_2: "Тактическая бомбардировка"
+air_tactical_bombing_3: "Тактическая бомбардировка"
+
+air_airborne_1: "Нападение с воздуха"
+air_airborne_2: "Нападение с воздуха"
+air_airborne_3: "Нападение с воздуха"
+
+### Naval ###
+navy_chief_naval_aviation_1: "Морская авиация"
+navy_chief_naval_aviation_2: "Морская авиация"
+navy_chief_naval_aviation_3: "Морская авиация"
+
+navy_chief_decisive_battle_1: "Решительная боевая доктрина"
+navy_chief_decisive_battle_2: "Решительная боевая доктрина"
+navy_chief_decisive_battle_3: "Решительная боевая доктрина"
+
+navy_chief_commerce_raiding_1: "Доктрина борьбы с торговлей"
+navy_chief_commerce_raiding_2: "Доктрина борьбы с торговлей"
+navy_chief_commerce_raiding_3: "Доктрина борьбы с торговлей"
+
+navy_chief_reform_1: "Морской реформатор"
+navy_chief_reform_2: "Морской реформатор"
+navy_chief_reform_3: "Морской реформатор"
+
+navy_chief_maneuver_1: "Морской Мановр"
+navy_chief_maneuver_2: "Морской Мановр"
+navy_chief_maneuver_3: "Морской Мановр"
+
+navy_anti_submarine_1: "Противодобыча"
+navy_anti_submarine_2: "Противодобыча"
+navy_anti_submarine_3: "Противодобыча"
+
+navy_naval_air_defense_1: "Военно-воздушная оборона"
+navy_naval_air_defense_2: "Военно-воздушная оборона"
+navy_naval_air_defense_3: "Военно-воздушная оборона"
+
+navy_fleet_logistics_1: "Материально-техническое обеспечение флота"
+navy_fleet_logistics_2: "Материально-техническое обеспечение флота"
+navy_fleet_logistics_3: "Материально-техническое обеспечение флота"
+
+navy_amphibious_assault_1: "Амфиозное нападение"
+navy_amphibious_assault_2: "Амфиозное нападение"
+navy_amphibious_assault_3: "Амфиозное нападение"
+
+navy_submarine_1: "Доктрина подводных боев"
+navy_submarine_2: "Доктрина подводных боев"
+navy_submarine_3: "Доктрина подводных боев"
+
+navy_capital_ship_1: "Доктрина основного флота"
+navy_capital_ship_2: "Доктрина основного флота"
+navy_capital_ship_3: "Доктрина основного флота"
+
+navy_screen_1: "Доктрина передового сопровождения"
+navy_screen_2: "Доктрина передового сопровождения"
+navy_screen_3: "Доктрина передового сопровождения"
+
+navy_carrier_1: "Доктрина удара перевозчика"
+navy_carrier_2: "Доктрина удара перевозчика"
+navy_carrier_3: "Доктрина удара перевозчика"
+
+black_monday: "Чёрный понедельник"
+
+jet_aircraft_manufacturer: "Изготовитель самолётов"
+
+independent_war: "Независимая война"
+independent_war_desc: "В настоящее время эта страна находится в состоянии независимой войны, и она не хочет, чтобы другие страны принимали непосредственное участие в войне."
+
+KR_separate_peace: "Сепаратный мир во всех войнах"
+
+#Autonomy
+can_raise_autonomy_level: "Может повысить уровень автономии"
+
+#Continuous
+army_reform_cont: "Реформа армии"
+army_reform_cont_desc: "Мы не можем допустить, чтобы наши вооруженные силы отстали от остального мира."
+
+#Generic Events
+Generic_LSMC_idea_loc: "Последствия ЛМСК"
+Generic_LSMC_idea_loc_desc: "Лондонский фондовый рынок охватил все четыре уголка земного шара, и мы не исключение."
+Generic_ai_idea_tt: "§g Если эта нация контролируется игроком, они получат:§!"
+generic_became_a_major: "Есть ли великая сила"
+
+oil_crisis_staying_idea_tt: "Пока мексиканская американская война так или иначе не закончится, мы пострадаем от последствий этого кризиса!"
+
+oil_crisis_staying_idea_good_tt: "До тех пор, пока мексиканская американская война так или иначе не закончится, мы выиграем от этого кризиса!"
+
+Generic_Oil_Crisis_loc: "Большой дефицит нефти"
+Generic_Oil_Crisis_loc_desc: "До третьей мексиканско-американской войны США доминировали в мировом добыче нефти, при этом ежегодно производится более 180 млн. метрических тонн, при этом Венесула является вторым по величине производителем, производящим всего 30 млн. метрических тонн."
+
+Generic_Oil_Crisis_Profit_loc: "Увеличение поступлений от продажи нефти"
+Generic_Oil_Crisis_Profit_loc_desc: "Хотя огромный скачок цен на сырую нефть негативно сказался на большинстве стран, мы оказались в состоянии получать прибыль из-за наших крупных запасов нефти."
+
+genworld.1.d: ""
+genworld.2.d: "По мере того, как последствия кризиса на Лондонском фондовом рынке распространились по всему миру в результате домино, мы сами оказались поражены его последствиями. Наша промышленность уже замедляется, безработица растет, и наши люди требуют от банков свои деньги. Надеюсь, со временем мы оправимся."
+genworld.3.d: "После короткого периода времени наша экономика начала стабилизироваться. &lt; &lt; Интуитивные &gt; &gt; последствия угасли, и мы можем вновь продвигаться к процветанию."
+genworld.4.d: "Наша экономика сейчас все больше возвращается в нормальное русло, и, хотя мы все еще страдаем от укуса катастрофы, мы больше не должны бояться ее последствий, которые полностью погубят нас."
+genworld.5.d: "В то время как последствия аварии по - прежнему видны в повседневной жизни, в основном все возвращается в нормальное русло."
+genworld.6.d: "После периода восстановления положение наконец-то нормализовалось, и мы больше не страдаем от последствий глобального экономического кризиса."
+genworld.7.d: ""
+genworld.8.d: "Цены на нефть во всем мире резко возросли. Это происходит в результате того, что крупнейший производитель нефти в мире превратил свои крупнейшие нефтяные месторождения в поле боя, и торговля через Мексиканский залив оказывается в значительной степени затрудненной."
+genworld.9.d: ""
+genworld.10.d: "С окончанием третьей мексиканско-американской войны к лучшему или к худшему, это, безусловно, к лучшему для нашей экономики, экспорт возобновился, а теперь капитальные затраты в нашей экономике уменьшились."
+genworld.11.d: ""
+genworld.12.d: "Цены на нефть во всем мире резко возросли. Это происходит в результате того, что крупнейший производитель нефти в мире превратил свои крупнейшие нефтяные месторождения в поле боя, и торговля через Мексиканский залив становится крайне затрудненной. Несмотря на то, что этот кризис предоставляет нам возможность. Из-за наших крупных нефтяных запасов мы можем продавать нефть на международный рынок по возросшей цене. Мы, возможно, захотим рассмотреть вопрос о расширении нашего экспорта, с тем чтобы получить еще больше богатства. Однако мы должны быть осторожными в отношении продажи наших национальных ресурсов иностранцам."
+genworld.13.d: ""
+genworld.14.d: "После окончания третьей мексиканско-американской войны она также положила конец эпохе великого процветания."
+genworld.15.d: ""
+
+
+# --- Event 20: Become a Puppet ---
+ generic.20.t: "Вопрос о суверенитете"
+ generic.20.d_friends: "Наша тесная связь с [Гетнамом] достигла окончательного перепутья, их дипломаты предложили, чтобы для нашего собственного дальнейшего процветания и безопасности мы официально привели нашу администрацию в соответствие со своей, хотя технически это положило бы конец нашему статусу полностью независимого субъекта на мировой арене, защиту, предлагаемую таким могущественным благодетелем, трудно игнорировать, а присоединение к ним в качестве охраняемого государства обеспечило бы нашу безопасность в эти неспокойные времена."
+ generic.20.d_enemies: "Последнее сообщение от [от GetName] - это не что иное, как ультиматум. Они требуют, чтобы мы подчинялись их власти, фактически став государством-клиентом под их непосредственным контролем. Их тон холоден, и последствия очевидны: либо мы принимаем «руководство» их правительства, либо мы сталкиваемся с последствиями того, что мы стоим в одиночестве против их силы. Наша независимость висит на волоске."
+ generic.20.a: "У нас нет иного выбора, кроме как подчиниться."
+ generic.20.b: "Мы будем процветать под их защитой."
+ generic.20.c: "Мы никогда не откажемся от своей независимости!"
+
+ # --- Event 21: Overlord Confirmation ---
+ generic.21.t: "Новый защитник"
+ generic.21.d: "С этого дня их внешняя политика и ресурсы будут направлены на общее благо нашей сферы влияния. Карты должны быть переработаны, чтобы отразить их новый статус как верного подчиненного."
+ generic.21.a: "Огромное дополнение к нашему сближению."
+
+ # --- Event 22: Overlord Denied ---
+ generic.22.t: "Недостаток в [изобилии]"
+ generic.22.d: "Глупые люди [от Гетнама] сочли нужным отвергнуть наше великодушное предложение о защите, их лидерство по-прежнему упрямо привязано к их заблуждениям о полном суверенитете, несмотря на явную реальность геополитической ситуации, столь вопиющее унижение нашей власти не может остаться без ответа. Если они не присоединятся к нам с помощью дипломатии, то, возможно, они будут учиться с помощью более... прямых методов."
+ generic.22.a: "Они выбрали путь конфронтации."
+
+ # --- Event 23: Demand Territory ---
+ generic.23.t: "Требования о территориальном отчуждении"
+ generic.23.d: "Правительство [от Гетнама] официально потребовало немедленной передачи нашей территории, они утверждают, что этот регион исторически принадлежит им, или, возможно, они просто считают, что мы слишком слабы, чтобы удерживать его."
+ generic.23.a: "Это горькая таблетка, но мы должны сдать землю."
+ generic.23.b: "Ни один дюйм нашей земли не будет сдан!"
+
+ # --- Event 24: Territory Accepted ---
+ generic.24.t: "Территориальные требования"
+ generic.24.d: "К удивлению многих в Уайтхолле, их правительство согласилось на полную передачу требуемых территорий нашей администрации. Наши пограничники уже въезжают, чтобы обезопасить новую границу, и местное население информируется об их новой верности. Это большая победа для нашего престижа без единого выстрела."
+ excellent: "Триумф нашей дипломатии."
+
+ # --- Event 25: Territory Refused ---
+ generic.25.t: "Ультиматум отвергнут"
+ generic.25.d: "Наши требования в отношении территориальной компенсации были решительно отвергнуты [от Гетнама], они решили занять позицию, играя в азартные игры, что у нас не будет желания вести полномасштабную войну по этому вопросу, так открыто пренебрегая нами, они оставили нам только два варианта: отступить в позоре и потерять свое положение на мировой сцене, или мобилизовать наши силы и взять сталь, в которой нам было отказано по чернилам."
+ generic.25.a: "Тогда это будет война."

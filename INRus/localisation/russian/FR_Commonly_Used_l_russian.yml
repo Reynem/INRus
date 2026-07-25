@@ -1,0 +1,263 @@
+﻿l_russian:
+
+### Regular Tooltips (for use in custom_effect_tooltip) ###
+ tooltip_white_line: "n"
+
+ elections_in_one_months: "Выборы пройдут в течение одного месяца."
+ elections_in_three_months: "Выборы пройдут через три месяца."
+
+ characters_will_be_retired: "Следующие персонажи будут удалены: §§!"
+ characters_will_be_recruited: "Следующие персонажи будут набраны: §§!"
+
+ tooltip_immediate_effect_upon_focus_start: "Немедленный эффект от начала фокусировки: §!\n"
+ tooltip_effect_upon_focus_completion: "\n§GEffect on Focus Complete:§!\n"
+ after_idea_expires: "После истечения срока действия Национального Духа:"
+
+ unlock_focuses: "Этот фокус в конечном итоге будет автоматически обойден и разблокирует другие фокусы."
+ unlocks_after_event: "Этот фокус автоматически разблокируется с помощью событий."
+
+ if_controlled_by_PREV: "если контролируется §Y [PREV.GetNonIdeologyName] §§:"
+ 
+### Tooltips ###
+ KR_is_an_ally: "является союзником или субъектом"
+ KR_owned_by_ROOT_or_subject: "Принадлежит §Y[Root.GetNameDef]§! или нашему субъекту"
+ KR_owned_by_PREV_or_subject: "Принадлежит §Y[Prev.GetNameDef]§! или их субъекту"
+ KR_owned_by_PREV_or_subject_NOT: "Принадлежит §Y[Prev.GetNameDef]§! или их субъекту"
+ KR_owned_by_PREV_or_ally: "Принадлежит §Y[Prev.GetNameDef]§! или их субъекту"
+ KR_owned_by_PREV_or_ally_NOT: "является §Rnot§! принадлежит §Y[Prev.GetNameDef]§! или их предмет"
+ KR_owned_by_ROOT_or_subject_NOT: "Это §Rnot§! принадлежит §Y[Root.GetNameDef]§! или нашему субъекту"
+ KR_controlled_by_ROOT_or_subject: "Контролируется §Y [Root.GetNameDef] или нашим субъектом."
+ KR_controlled_by_ROOT_or_subject_NOT: "§Rnot§! контролируется §Y[Root.GetNameDef]§! или нашим субъектом"
+ KR_owned_and_controlled_by_ROOT_or_subject: "Владеет и контролируется §Y[Root.GetNameDef]§! или нашим субъектом"
+ KR_owned_and_controlled_by_ROOT_or_subject_NOT: "принадлежит и контролируется §Y [Root.GetNameDef] §§! или нашим субъектом"
+ KR_owned_by_ROOT_or_ally: "принадлежит §Y[Root.GetNameDef]§! или союзнику"
+ KR_owned_by_ROOT_or_ally_NOT: "является §Rnot§! принадлежит §Y[Root.GetNameDef]§! или союзник"
+ KR_controlled_by_ROOT_or_ally: "контролируется §Y[Root.GetNameDef]§! или союзником"
+ KR_controlled_by_ROOT_or_ally_NOT: "§Rnot§! контролируется §Y[Root.GetNameDef]§! или союзником"
+ KR_owned_and_controlled_by_ROOT_or_ally: "принадлежит и контролируется §Y [Root.GetNameDef] §§! или союзником"
+ KR_owned_and_controlled_by_ROOT_or_ally_NOT: "принадлежит и контролируется §Y[Root.GetNameDef]§! или союзником"
+
+
+ # used to generate tooltips in dockyard or naval base foci when the country doesn't own any coastal states
+ random_owned_controlled_coastal_state: "случайное и контролируемое прибрежное государство"
+
+ received_equipment_500: "Вы получили §G500. пехотной техники из этой страны"
+ received_equipment_1000: "Вы получили §1000 §! пехотной техники из этой страны"
+ received_equipment_1500: "Вы получили §1500 §! пехотной техники из этой страны"
+ received_equipment_2000: "Вы получили § 2000 §! пехотной техники из этой страны"
+ received_equipment_5000: "Вы получили §G5000 §! пехотной техники из этой страны"
+
+### Flag Loc segments ###
+ has_completed_decision: "Выполнено решение £decision icon small §H"
+
+ # example of the above
+ # flag_loc_entry: "$has_completed_decision$$your_decision_here$§!"
+
+### On Map Area Names ###
+ integration_tooltip: "Посмотреть Неинтегрированные области"
+
+### Decision Names ###
+ integrate_state: "Integrate (из названия)"
+
+### Custom Modifier Tooltips ###
+ cannot_enact_conscription_tt: "§ RCannot increasescription laws."
+ cannot_train_units_tt: "§RCannot train units, disband units, или edit unit templates."
+ cannot_mobilise_tt: "§RCannot increase conscription or mobilization laws."
+ cannot_build_armor_tt: "§RCannot build armour."
+ cannot_replace_character: "Этот советник не может быть заменен вручную."
+
+### Colours (for use in scripted loc) ###
+ colour_cyan: "C"
+ colour_dirty_grey: "L"
+ colour_white: "WWW"
+ colour_blue: "B"
+ colour_green: "G"
+ colour_red: "R"
+ colour_black: "b"
+ colour_grey: "г"
+ colour_yellow: "Y"
+ colour_orange: "О!"
+
+ colour_gradient_purple: "0"
+ colour_gradient_lilac: "1 1"
+ colour_gradient_blue: "2 2"
+ colour_gradient_navy_blue: "3"
+ colour_gradient_light_blue: "4.4"
+ colour_gradient_cyan: "5"
+ colour_gradient_turquoise: "6.6"
+ colour_gradient_light_green: "7."
+ colour_gradient_yellow: "8"
+ colour_gradient_orange: "9 9"
+ colour_gradient_red: "5"
+
+ colour_vanguardist_red: "о"
+ colour_syndicalist_red: "р"
+ colour_socdem_pink: "S"
+ colour_soclib_orange: "л"
+ colour_marlib_yellow: "м"
+ colour_soccon_blue: "c"
+ colour_pataut_grey: "P"
+ colour_natpop_brown: "N"
+ colour_natpop_green: "n"
+
+### KR-added Modifiers ###
+ offmap_military_factories_tooltip: "Военные фабрики Offmap"
+ offmap_civilian_factories_tooltip: "Offmap Гражданские фабрики"
+ offmap_dockyards_tooltip: "Offmap Dockyards"
+
+### Modifiers (for use as tooltips in variable effects) ###
+ consumer_goods_tooltip: "$MODIFIER CONSUMER GOODS FACTOR$: $RIGHT | H=%1$"
+ factory_output_tooltip: "$MODIFIER INDUSTRIAL CAPACITY FACTOR$: $RIGHT|+=%$"
+ dockyard_output_tooltip: "$MODIFIER INDUSTRIAL CAPACITY DOCKYARD FACTOR$: $RIGHT|+=%$"
+ construction_speed_tooltip: "$MODIFIER PRODUCTION SPEED BUILDINGS FACTOR$: $RIGHT |+=%$"
+ industry_repair_tooltip: "$MODIFIER INDUSTRY REPAIR FACTOR$: $RIGHT|+=%$"
+ local_resources_factor_tooltip: "$MODIFIER LOCAL RESOURCES FACTOR$: $RIGHT |+=%$"
+ global_building_slots_tooltip: "$MODIFIER GLOBAL BUILDING FACTOR$: $RIGHT | +=%0$"
+
+ max_efficiency_tooltip: "$MODIFIER PRODUCTION FACTORY MAX EFFICIENCY FACTOR$: $RIGHT |=%+$"
+ start_efficiency_tooltip: "$MODIFIER PRODUCTION FACTORY START EFFICIENCY FACTOR$: $RIGHT |=%+$"
+ efficiency_gain_tooltip: "$MODIFIER PRODUCTION FACTORY START EFFICIENCY FACTOR$: $RIGHT |=%+$"
+ line_change_efficiency_tooltip: "$MODIFIER LINE CHANGE PRODUCTION EFFICIENCY FACTOR$: $RIGHT |=%+$"
+
+ industrial_factory_donations_tooltip: "$MODIFIER INDUSTRIAL FACTORY DONATIONS$: $RIGHT | +=0$"
+ military_factory_donations_tooltip: "$MODIFIER MILITARY FACTORY DONATIONS$: $RIGHT | +=0$"
+ dockyard_donations_tooltip: "$MODIFIER DOCKYARD DONATIONS$: $RIGHT | +=0$"
+
+ pp_gain_tooltip: "$MODIFIER POLITICAL POWER GAIN$: $RIGHT | +=$"
+ pp_cost_tooltip: "$MODIFIER POLITICAL POWER COST$: $RIGHT"
+ pp_factor_tooltip: "$MODIFIER POLITICAL POWER FACTOR$: $RIGHT | +=%0$"
+ stability_tooltip: "$MODIFIER STABILITY FACTOR$: $RIGHT |=%+$"
+ stability_weekly_tooltip: "$MODIFIER STABILITY WEEKLY$: $RIGHT |=%+$"
+ war_support_tooltip: "$MODIFIER WAR SUPPORT FACTOR$: $RIGHT |=%+$"
+ war_support_weekly_tooltip: "$MODIFIER WAR SUPPORT WEEKLY$: $RIGHT |=%+$"
+
+ monthly_population_tooltip: "$MODIFIER GLOBAL MONTHLY POPULATION$: $RIGHT |=%+1$"
+
+ conscription_tooltip: "$MODIFIER CONSCRIPTION FACTOR$: $RIGHT"
+ conscription_factor_tooltip: "$MODIFIER CONSCRIPTION TOTAL FACTOR$: $RIGHT"
+
+ army_org_tooltip: "$MODIFIER ARMY ORG$: $RIGHT | +=1$"
+ army_org_factor_tooltip: "$MODIFIER ARMY ORG FACTOR$: $RIGHT | +=%1$"
+ army_morale_tooltip: "$MODIFIER ARMY MORALE$: $RIGHT | +=1$"
+ army_morale_factor_tooltip: "$MODIFIER ARMY MORALE FACTOR$: $RIGHT | +=%1$"
+
+ navy_org_tooltip: "$MODIFIER NAVY ORG$"
+ navy_org_factor_tooltip: "$MODIFIER NAVY ORG FACTOR$"
+ naval_morale_tooltip: "$MODIFIER NAVAL MORALE$: $RIGHT | +=1$"
+ naval_morale_factor_tooltip: "$MODIFIER NAVAL MORALE FACTOR$: $RIGHT | +=%1$"
+
+ army_xp_gain_tooltip: "$MODIFIER XP GAIN ARMY$: $RIGHT | +=$$MOD DAILY$"
+ army_xp_gain_factor_tooltip: "$MODIFIER XP GAIN ARMY FACTOR$: $RIGHT | +=%1$"
+ navy_xp_gain_tooltip: "$MODIFIER XP GAIN ARMY$: $RIGHT | +=$$MOD DAILY$"
+ navy_xp_gain_factor_tooltip: "$MODIFIER XP GAIN ARMY FACTOR$: $RIGHT | +=%1$"
+ air_xp_gain_tooltip: "$MODIFIER XP GAIN AIR$: $RIGHT | +=$ $MOD DAILY$"
+ air_xp_gain_factor_tooltip: "$MODIFIER XP GAIN AIR FACTOR$: $RIGHT | +=%1$"
+
+ army_unit_xp_gain_tooltip: "$MODIFIER XP GAIN ARMY UNIT$: $RIGHT | +=$$MOD DAILY$"
+ army_unit_xp_gain_factor_tooltip: "$MODIFIER XP GAIN ARMY UNIT FACTOR$: $RIGHT | +=%1$"
+ navy_unit_xp_gain_tooltip: "$MODIFIER XP GAIN NAVY UNIT$: $RIGHT | +=$$MOD DAILY$"
+ navy_unit_xp_gain_factor_tooltip: "$MODIFIER XP GAIN NAVY UNIT FACTOR$: $RIGHT | +=%1$"
+
+ army_speed_tooltip: "$MODIFIER ARMY SPEED FACTOR$: $RIGHT"
+ army_attack_speed_tooltip: "$MODIFIER ARMY ATTACK SPEED FACTOR$: $RIGHT"
+
+ army_attack_tooltip: "$MODIFIERS ARMY ATTACK FACTOR$: $RIGHT | +=%1$"
+ army_defence_tooltip: "$MODIFIERS ARMY DEFENCE FACTOR$: $RIGHT | +=%1$"
+ army_core_attack_tooltip: "$MODIFIERS ARMY CORE ATTACK FACTOR$: $RIGHT | +=%1$"
+ army_core_defence_tooltip: "$MODIFIERS ARMY CORE DEFENCE FACTOR$: $RIGHT | +=%1$"
+
+### Scripted Loc ###
+ empty: ""
+
+ loc_royal: "королевский"
+ loc_royal_cap: "королевский"
+ loc_royal_with_space: "$loc royal$"
+ loc_royal_cap_with_space: "$loc royal cap$"
+
+ loc_has: "иметь"
+ loc_have: "иметь"
+
+ loc_its: "его"
+ loc_their: "их"
+ loc_theirs: "их"
+
+### Custom Cost Tooltips (for use in decisions) ###
+ CP_5: "£command power §H5§!"
+ CP_5_blocked: "£command power §R5§!"
+ CP_5_tooltip: "Для принятия решения требуется $CP 5 blocked$."
+
+ CP_10: "£command power §H10§!"
+ CP_10_blocked: "£command power §R10§!"
+ CP_10_tooltip: "Для принятия решения требуется $CP 10 blocked$."
+
+ CP_15: "£command power §H15§!"
+ CP_15_blocked: "£command power §R15§!"
+ CP_15_tooltip: "Для принятия решения требуется $CP 15 blocked$."
+
+ CP_20: "£command power §H20§!"
+ CP_20_blocked: "£command power §R20§!"
+ CP_20_tooltip: "Для принятия решения требуется $CP 20 blocked$."
+
+ CP_25: "£command power §H25§!"
+ CP_25_blocked: "£command power §R25§!"
+ CP_25_tooltip: "Для принятия решения требуется $CP 25 blocked$."
+
+ CP_30: "£command power §H30§!"
+ CP_30_blocked: "£command power §R30§!"
+ CP_30_tooltip: "Для принятия решения требуется $CP 30 blocked$."
+
+ CP_35: "£command power §H35§!"
+ CP_35_blocked: "£command power §R35§!"
+ CP_35_tooltip: "Для принятия решения требуется $CP 35 blocked$."
+
+ CP_40: "£command power §H40§!"
+ CP_40_blocked: "£command power §R40§!"
+ CP_40_tooltip: "Для принятия решения требуется $CP 40 blocked$."
+
+ CP_45: "£command power §H45§!"
+ CP_45_blocked: "£command power §R45§!"
+ CP_45_tooltip: "Для принятия решения требуется $CP 45 blocked$."
+
+ CP_50: "£command power §H50§!"
+ CP_50_blocked: "£command power §R50§!"
+ CP_50_tooltip: "Для принятия решения требуется $CP 50 blocked$."
+
+ CP_55: "£command power §H55§!"
+ CP_55_blocked: "£command power §R55§!"
+ CP_55_tooltip: "Для принятия решения требуется $CP 55 blocked$."
+
+ CP_60: "£command power §H60§!"
+ CP_60_blocked: "£command power §R60§!"
+ CP_60_tooltip: "Для принятия решения требуется $CP 60 blocked$."
+
+ CP_65: "£command power §H65§!"
+ CP_65_blocked: "£command power §R65§!"
+ CP_65_tooltip: "Для принятия решения требуется $CP 65 blocked$."
+
+ CP_70: "£command power §H70§!"
+ CP_70_blocked: "£command power §R70§!"
+ CP_70_tooltip: "Для принятия решения требуется $CP 70 blocked$."
+
+ CP_75: "£command power §H75§!"
+ CP_75_blocked: "£command power §R75§!"
+ CP_75_tooltip: "Для принятия решения требуется $CP 75 blocked$."
+
+ CP_80: "£command power §H80§!"
+ CP_80_blocked: "£command power §R80§!"
+ CP_80_tooltip: "Для принятия решения требуется $CP 80 blocked$."
+
+ CP_85: "£command power §H85§!"
+ CP_85_blocked: "£command power §R85§!"
+ CP_85_tooltip: "Для принятия решения требуется $CP 85 blocked$."
+
+ CP_90: "£command power §H90§!"
+ CP_90_blocked: "£command power §R90§!"
+ CP_90_tooltip: "Для принятия решения требуется $CP 90 blocked$."
+
+ CP_95: "£command power §H95§!"
+ CP_95_blocked: "£command power §R95§!"
+ CP_95_tooltip: "Для принятия решения требуется $CP 95 blocked$."
+
+ CP_100: "£command power §H100§!"
+ CP_100_blocked: "£command power §R100§!"
+ CP_100_tooltip: "Для принятия решения требуется $CP 100 blocked$."

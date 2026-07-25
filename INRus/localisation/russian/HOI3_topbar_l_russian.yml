@@ -1,0 +1,15 @@
+﻿l_russian:
+ chart_button_label: "Схемы согласования"
+
+ flag_alignment_tip: "[Тис. Найти имя]"
+
+ main_factions_tip: "Правящая партия: [THIS. GetRulingParty] / Идеология партии: [THIS. GetRulingIdeology] / Поддержка партии: [THIS.Getparty Support]%"
+ 
+ ideology_tip: "[THIS. GetRulingIdeology]"
+
+ ### Alignment Triangle main factions ###
+
+ ### Vanilla Code
+ axis_title: "[ГЕР] [называется GetFaction]"
+ allies_title: "[ЭНГ] [называется "Гетфакшн"]"
+ comintern_title: "[SOV_ally_aray_0. GetFactionName]"

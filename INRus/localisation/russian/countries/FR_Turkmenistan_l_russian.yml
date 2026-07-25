@@ -1,0 +1,47 @@
+﻿l_russian:
+
+TRK_paternal_autocrat: "Организация &lt; &lt; Объединенные Транскаспийские вожди &gt; &gt;"
+TRK_paternal_autocrat_def: "Объединенные Транскаспийские вожди"
+TRK_paternal_autocrat_adj: "Транскаспийцы"
+TRK: "Соединенные Штаты Америки"
+TRK_def: "Приднестровские государства"
+TRK_adj: "Транскаспийцы"
+
+#### Political Parties ####
+
+ TRK_vanguardist_party_long: "Коммунистическая партия Каспии"
+ TRK_vanguardist_party: "КПК"
+ TRK_collectivist_party_long: "Коммунистическая партия Каспии"
+ TRK_collectivist_party: "КПК"
+ TRK_libertarian_socialist_party_long: "Коммунистическая партия Каспии"
+ TRK_libertarian_socialist_party: "КПК"
+ TRK_social_democrat_party_long: "Объединенное социал-демократическое Транскаспийское движение"
+ TRK_social_democrat_party: "ВТСМ долл. США"
+ TRK_social_liberal_party_long: "Либеральный фронт за модернизацию, реформу и развитие Прикаспии"
+ TRK_social_liberal_party: "LFMRDTC"
+ TRK_market_liberal_party_long: "Либеральный фронт за модернизацию, реформу и развитие Прикаспии"
+ TRK_market_liberal_party: "LFMRDTC"
+ TRK_social_conservative_party_long: "Улема"
+ TRK_social_conservative_party: "Улема"
+ TRK_authoritarian_democrat_party_long: "Британская администрация Транскаспии"
+ TRK_authoritarian_democrat_party: "Британское правительство"
+ TRK_paternal_autocrat_party_long: "Ораз Сирдар Самые преданные Шейфы"
+ TRK_paternal_autocrat_party: "Шайфайны"
+ TRK_national_populist_party_long: "Антибританское и Советское освободительное движение Транскаспии"
+ TRK_national_populist_party: "БАЗМТС"
+ TRK_valkist_party: "БАЗМТС"
+ TRK_valkist_party_long: "Антибританское и Советское освободительное движение Транскаспии"
+
+
+#### Political Ministers ####
+
+
+#####Ideas#####
+
+
+#####Tooltips#####
+
+
+#####Focus#####
+
+#####Events#####

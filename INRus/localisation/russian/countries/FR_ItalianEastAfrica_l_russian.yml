@@ -1,0 +1,131 @@
+﻿l_russian:
+
+#### PARTIES
+
+IEA_authoritarian_democrat_party: "Департамент по политическим вопросам"
+IEA_authoritarian_democrat_party_long: "Департамент по политическим вопросам"
+IEA_paternal_autocrat_party: "Департамент по политическим вопросам"
+IEA_paternal_autocrat_party_long: "Департамент по политическим вопросам"
+IEA_national_populist_party: "Департамент по политическим вопросам"
+IEA_national_populist_party_long: "Департамент по политическим вопросам"
+IEA_valkist_party: "Департамент по политическим вопросам"
+IEA_valkist_party_long: "Департамент по политическим вопросам"
+
+#### Modifiers
+IEA_colonial_resistance: "Восточноафриканское коренное сопротивление"
+IEA_Recent_Unrest_tt: "Недавняя восточноафриканская волнения"
+
+#### Autonomy States
+kr_iea_colonial_government: "Общее правительство Италии"
+
+#### Decisions
+IEA_clean_up_revolters: "Введите [Фром. Гет Наме Деф]"
+
+#### Ideas
+IEA_native_unrest: "Неокончательная война"
+IEA_native_unrest_desc: "Вслед за Великой Войной Италия смотрит на возможность небольшой пограничной стычки для полного вторжения в Эфиопию. 10 лет спустя колония по-прежнему остается без прикосновений, при этом маленькая итальянская империя едва может пощадить людей и материальные средства для своего драгоценного камня в короне, в результате чего колониальные силы ведут нескончаемую войну против сопротивления, которое кажется бездонным в телах, которые она может поставить на поле."
+IEA_pride_of_italy: "Гордость Италии"
+IEA_pride_of_italy_desc: "В то время как колония может быть нестабильной на земле, итальянцы с гордостью смотрят на свою обширную колонию, насчитывающую почти 20 миллионов человек."
+IEA_small_native_revolt: "Револьт коренного населения"
+IEA_recent_revolt: "Недавний револьт коренного населения"
+IEA_east_african_wars: "Восточноафриканские войны"
+IEA_east_african_wars_desc: "Крушение итальянского колониального режима дало нам свободу, но также привело к возникновению этнического конфликта в масштабах, невиданных ранее в этом регионе, и при таком состоянии анархии мы должны защитить наш народ от тех, кто стремится разрушить его свободу."
+IEA_anti_partisan_1939: "Антипартизанская кампания"
+
+#### Cosmetic
+ETH_shewa_rebel_state: "Шева"
+ETH_shewa_rebel_state_DEF: "Шева Империя"
+ETH_shewa_rebel_state_ADJ: "Шеван"
+
+#### Tooltips
+IEA_revolts_getting_out_of_hand: "С многочисленными восстаниями итальянское правительство теперь сможет вмешаться."
+IEA_rebellion_crushed_tt: "Противоречие, недавно раздавленное"
+
+
+#### Events
+ iearevolt.1.t: "[Револьтер. GetNameDefcap] заявляет о своей независимости"
+ iearevolt.1.d: "После того, как мы выгнали наши войска, [революционер, GetNameDef] объявил независимость, должны ли мы раздавить их нашими высшими силами, или же мы должны сократить наши потери, чтобы сосредоточиться в другом месте?"
+ iearevolt.1.a: "Они должны оставаться частью Империи!"
+ iearevolt.1.b: "У нас есть более важные вопросы, чем сокрушение местных восстаний."
+
+  iearevolt.2.t: "Победа против итальянских колонистов!"
+ iearevolt.2.d: "Когда мы начали наше восстание, никто не знает, к чему оно должно было привести, некоторые были пессимистичными, другие были более оптимистичными, но все были полны решимости бороться за нашу независимость, и теперь эта решимость принесла свои плоды, и после этой долгой войны у итальянских колонистов не было иного выбора, кроме как предложить нам мир и признать, что их правление над нашей страной закончилось. Этот день навсегда будет отмечен как славный день нашей независимости."
+ iearevolt.2.a: "Давайте радоваться!"
+
+ieageneral.1.d: ""
+
+
+
+
+
+
+
+
+
+
+
+
+### Equipment
+IEA_infantry_equipment_0: "Carcano M91"
+ IEA_infantry_equipment_0_short: "Carcano M91"
+ IEA_infantry_equipment_1: "Carcano M38"
+ IEA_infantry_equipment_1_short: "Carcano M38"
+ IEA_infantry_equipment_2: "МАБ-38"
+ IEA_infantry_equipment_2_short: "МАБ-38"
+ IEA_infantry_equipment_3: "FNAB-43"
+ IEA_infantry_equipment_3_short: "FNAB-43"
+
+ IEA_EQUIPMENT_VERSION_1: "Я сир."
+ IEA_EQUIPMENT_VERSION_2: "II сере"
+ IEA_EQUIPMENT_VERSION_3: "III сериа"
+ IEA_EQUIPMENT_VERSION_4: "IV-серия"
+ IEA_EQUIPMENT_VERSION_5: "V serie"
+ IEA_EQUIPMENT_VERSION_6: "VI Serie"
+ IEA_EQUIPMENT_VERSION_7: "VII сере"
+ IEA_EQUIPMENT_VERSION_8: "VIII сере"
+ IEA_EQUIPMENT_VERSION_9: "IX сере"
+ IEA_EQUIPMENT_VERSION_10: "Икс-сери"
+ IEA_EQUIPMENT_VERSION_11: "XI сере"
+ IEA_EQUIPMENT_VERSION_12: "XII сере"
+ IEA_EQUIPMENT_VERSION_13: "XIII сериа"
+
+ IEA_light_tank_destroyer_equipment_1: "L3 contocarro"
+ IEA_light_tank_destroyer_equipment_1_short: "L3 куб. с"
+ IEA_light_tank_destroyer_equipment_2: "Семуатив 47/32"
+ IEA_light_tank_destroyer_equipment_2_short: "Семуатив 47/32"
+ IEA_medium_tank_destroyer_equipment_2: "Семовенте 75/34"
+ IEA_medium_tank_destroyer_equipment_2_short: "Семовенте 75/34"
+ IEA_medium_tank_artillery_equipment_2: "Semovente M41 75/18"
+ IEA_medium_tank_artillery_equipment_2_short: "Симовент М 41 75/18"
+ IEA_medium_tank_destroyer_equipment_3: "Semovente M41M 90/53"
+ IEA_medium_tank_destroyer_equipment_3_short: "Semovente M41M 90/53"
+ IEA_medium_tank_aa_equipment_3: "Semovente M15/42 contraaereo"
+ IEA_medium_tank_aa_equipment_3_short: "Semovente M15/42"
+ IEA_medium_tank_artillery_equipment_3: "Semovente M42L 105/25"
+ IEA_medium_tank_artillery_equipment_3_short: "Semovente M42L 105/25"
+ IEA_heavy_tank_artillery_equipment_2: "Semovente da 149/40"
+ IEA_heavy_tank_artillery_equipment_2_short: "Semovente da 149/40"
+
+ IEA_motorized_equipment_1: "Фиат 626"
+ IEA_mechanized_equipment_1: "Фиат 2800"
+ IEA_mechanized_equipment_1_short: "Фиат 2800"
+ IEA_mechanized_equipment_2: "Фиат 727"
+ IEA_mechanized_equipment_2_short: "Фиат 727"
+ IEA_mechanized_equipment_3: "Бреда 61"
+ IEA_mechanized_equipment_3_short: "Бреда 61"
+
+ IEA_anti_tank_equipment_1: "Солотурн S-18/1000"
+ IEA_anti_tank_equipment_1_short: "Солотурн S-18/1000"
+ IEA_anti_tank_equipment_2: "Пушки да 47/32"
+ IEA_anti_tank_equipment_3: "Пушки да 75/46"
+
+ IEA_anti_air_equipment_1: "Модель &quot; Бреда &quot; 35"
+ IEA_anti_air_equipment_1_short: "Модель &quot; Бреда &quot; 35"
+ IEA_anti_air_equipment_2: "Пушки-Митраглира да 37/54"
+ IEA_anti_air_equipment_3: "Пушки да 90/53"
+
+ IEA_artillery_equipment_1: "Пушка da 75/27 модельо 06"
+ IEA_artillery_equipment_1_short: "Пушки да 75/27"
+ IEA_artillery_equipment_2: "Пушки да 149/40 Модель 35"
+ IEA_artillery_equipment_2_short: "Пушки да 149/40 м/35"
+ IEA_artillery_equipment_3: "Obice da 210/22 модель 35"
