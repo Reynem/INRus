@@ -1,28 +1,27 @@
 ﻿l_russian:
 
- #Reichspakt AI Faction Theatres
- reichspakt_theatre_western_europe: "Западноевропейская организация &lt; &lt; Рейхспакт &gt; &gt;"
- reichspakt_theatre_eastern_europe: "Восточная Европа"
- reichspakt_theatre_central_europe: "Центральная Европа"
+  #Reichspakt AI Faction Theatres
+  reichspakt_theatre_western_europe: "Западная Европа Рейхспакта"
+  reichspakt_theatre_eastern_europe: "Восточная Европа Рейхспакта"
+  reichspakt_theatre_central_europe: "Центральная Европа Рейхспакта"
 
- #Internationale AI Faction Theatres
- internationale_theatre_western_europe: "Международная организация Западной Европы"
- internationale_theatre_western_mediterranean: "Международный союз западного Средиземноморья"
+  #Internationale AI Faction Theatres
+  internationale_theatre_western_europe: "Западная Европа Интернационала"
+  internationale_theatre_western_mediterranean: "Западное Средиземноморье Интернационала"
 
- #Moscow Accord AI Faction Theatres
- moscow_accord_theatre_eastern_europe: "Московское соглашение Восточная Европа"
- moscow_accord_theatre_central_europe: "Московское соглашение Центральная Европа"
+  #Moscow Accord AI Faction Theatres
+  moscow_accord_theatre_eastern_europe: "Восточная Европа Московского соглашения"
+  moscow_accord_theatre_central_europe: "Центральная Европа Московского соглашения"
 
- #Entente AI Faction Theatres
- entente_theatre_western_europe: "&lt; &lt; Западная Европа &gt; &gt;"
- entente_theatre_western_mediterranean: "Внедрить Западный Средиземноморье"
- entente_theatre_eastern_north_america: "Восточная Северная Америка"
+  #Entente AI Faction Theatres
+  entente_theatre_western_europe: "Западная Европа Антанты"
+  entente_theatre_western_mediterranean: "Западное Средиземноморье Антанты"
+  entente_theatre_eastern_north_america: "Восточная Северная Америка Антанты"
 
- #Co-Prosperity Sphere AI Faction Theatres
- co_prosperity_sphere_theatre_northern_china: "Северный Китай"
- co_prosperity_sphere_theatre_southern_china: "Южный Китай"
+  #Co-Prosperity Sphere AI Faction Theatres
+  co_prosperity_sphere_theatre_northern_china: "Северный Китай Сферы процветания"
+  co_prosperity_sphere_theatre_southern_china: "Южный Китай Сферы процветания"
 
- #Chinese United Front AI Faction Theatres
- chinese_united_front_theatre_northern_china: "Китайский объединенный фронт Северного Китая"
- chinese_united_front_theatre_southern_china: "Китайский объединенный фронт Южного Китая"
-
+  #Chinese United Front AI Faction Theatres
+  chinese_united_front_theatre_northern_china: "Северный Китай Объединённого фронта"
+  chinese_united_front_theatre_southern_china: "Южный Китай Объединённого фронта"

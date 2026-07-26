@@ -42,7 +42,7 @@
  motorized_equipment_0_desc: "Во время Вельткрига армия начала использовать основные гражданские грузовики для перевозки предметов снабжения и грузового оборудования, которые с тех пор стали неотъемлемой частью большинства армий."
  motorized_equipment_1: "Грузовой автомобиль"
  motorized_equipment_1_desc: "Автомобильная пехота является первым шагом на пути к механизации армии. &lt; &lt; Гражданские грузовики &gt; &gt; легко приспособлены для использования в военных целях для перевозки солдат, буксировки оружия и перевозки техники и предметов снабжения, что значительно повышает стратегическую мобильность пехотных подразделений, которые в противном случае будут вынуждены проводить марш."
- support_equipment_short: "Поддержка Eq."
+ support_equipment_short: "Об. поддержки"
  support_equipment: "Вспомогательное оборудование"
  support_equipment_desc: "Радио, джипы, понтоны и прочее оборудование, используемое для поддержки войск."
  tech_support: "Вспомогательное оборудование"
@@ -90,8 +90,8 @@
  EQUIPMENT_VERSION_0_TANK: ""
  EQUIPMENT_VERSION_0_PLANE: ""
 
- gw_tank_equipment: "Цистерна &quot; Верткриг-эра &quot;"
- gw_tank_equipment_short: "Цистерна &quot; Верткриг-эра &quot;"
+ gw_tank_equipment: "Цистерна &quot; Вельткриг-эра &quot;"
+ gw_tank_equipment_short: "Цистерна &quot; Вельткриг-эра &quot;"
  gw_tank_equipment_desc: "Танки в Вельткриге были разработаны отдельно и одновременно Соединенным Королевством и Францией в качестве средства выхода из тупика, в котором находятся траншеи на Западном фронте."tanks", a name adopted during the early stages of their development as a security measure to conceal their purpose, while the German counterpart, "Panzer", stuck in many German-influenced nations. Early tanks were armed with machineguns and small cannons, moved slowly, and were armoured only enough to stop small arms fire."
 
  light_tank_equipment: "Легкий танк"
