@@ -4,11 +4,11 @@
  SER_vanguardist_party: "Истинский Комунисти"
  SER_vanguardist_party_long: "Истинский комунисити"
  SER_collectivist_party: "RDS"
- SER_collectivist_party_long: "Революционное движение &lt; &lt; Дражава Странка &gt; &gt;"
+ SER_collectivist_party_long: "Революционное движение Дражава Странка"
  SER_libertarian_socialist_party: "Социална Униджа"
  SER_libertarian_socialist_party_long: "Сосиджална unija"
  SER_social_democrat_party: "СП"
- SER_social_democrat_party_long: "Партия &lt; &lt; Социалдемократска &gt; &gt;"
+ SER_social_democrat_party_long: "Партия Социалдемократска"
  SER_social_liberal_party: "Н"
  SER_social_liberal_party_long: "Напредак"
  SER_market_liberal_party: "Либеральная Лига"
@@ -21,8 +21,8 @@
  SER_paternal_autocrat_party_long: "Дом Карадоревича"
  SER_national_populist_party: "Ультра-Карадоревичиты"
  SER_national_populist_party_long: "Ультра-Карадоревичиты"
- SER_valkist_party: "&lt; &lt; Рекламация &gt; &gt;"
- SER_valkist_party_long: "&lt; &lt; Рекламация &gt; &gt;"
+ SER_valkist_party: "Рекламация"
+ SER_valkist_party_long: "Рекламация"
 
  ### EVENTS ###
 
@@ -78,7 +78,7 @@
  ser_mutilated_victory_desc: "Несмотря на сербские амбиции, в Венгрии, формально побежденной власти, по-прежнему сохраняются Хорватия и Марибор, несмотря на сербские утверждения."
 
  ### MISC ###
- SER_hungary_nice: "Здание &lt; &lt; Здание &gt; &gt;"
+ SER_hungary_nice: "Здание Здание"
 
  ### Characters ###
  SER_petar_ii: "Петар II"

@@ -3,15 +3,15 @@
  #### Political Parties ####
 
  HOL_vanguardist_party: "RF"
- HOL_vanguardist_party_long: "&lt; &lt; Революционный фронт &gt; &gt;"
+ HOL_vanguardist_party_long: "Революционный фронт"
  HOL_collectivist_party: "VVA"
  HOL_collectivist_party_long: "Volkspartij voor Agrarièrs"
  HOL_libertarian_socialist_party: "ДП"
  HOL_libertarian_socialist_party_long: "Anarchistische partij"
  HOL_social_democrat_party: "СУПАП"
- HOL_social_democrat_party_long: "Социаально-демократическая организация &lt; &lt; Арбейдерспартидж &gt; &gt;"
+ HOL_social_democrat_party_long: "Социаально-демократическая организация Арбейдерспартидж"
  HOL_social_liberal_party: "VDB"
- HOL_social_liberal_party_long: "&lt; &lt; Vrijzinnig Democratische Bond &gt; &gt;"
+ HOL_social_liberal_party_long: "Vrijzinnig Democratische Bond"
  HOL_market_liberal_party: "ЛСП"
  HOL_market_liberal_party_long: "Либеральный Стаатспартидж"
  HOL_social_conservative_party: "CV"

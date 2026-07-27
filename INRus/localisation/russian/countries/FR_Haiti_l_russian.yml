@@ -3,27 +3,27 @@
  ### Political Parties ###
 
  HAI_vanguardist_party: "PcH"
- HAI_vanguardist_party_long: "Коммунистическая партия &lt; &lt; Гаитьен &gt; &gt;"
+ HAI_vanguardist_party_long: "Коммунистическая партия Гаитьен"
  HAI_collectivist_party: "PpH"
- HAI_collectivist_party_long: "Народная партия &lt; &lt; Гаитьен &gt; &gt;"
+ HAI_collectivist_party_long: "Народная партия Гаитьен"
  HAI_libertarian_socialist_party: "GHL"
  HAI_libertarian_socialist_party_long: "Гратуитная лига Гаити"
  HAI_social_democrat_party: "И"
  HAI_social_democrat_party_long: "Социалисты"
  HAI_social_liberal_party: "PnTO"
- HAI_social_liberal_party_long: "Национальная партия &lt; &lt; Тауро-Орйно &gt; &gt;"
+ HAI_social_liberal_party_long: "Национальная партия Тауро-Орйно"
  HAI_market_liberal_party: "PNIA"
  HAI_market_liberal_party_long: "Национальная промышленная ассоциация"
  HAI_social_conservative_party: "PL"
  HAI_social_conservative_party_long: "Либеральная партия"
  HAI_authoritarian_democrat_party: "PS"
- HAI_authoritarian_democrat_party_long: "Партия &lt; &lt; Приветствие &gt; &gt;"
+ HAI_authoritarian_democrat_party_long: "Партия Приветствие"
  HAI_paternal_autocrat_party: "Оккупация США" #American Plebiscite
  HAI_paternal_autocrat_party_long: "Оккупированное правительство Соединенных Штатов"
  HAI_national_populist_party: "Nationaux"
  HAI_national_populist_party_long: "Nationaux"
  HAI_valkist_party: "ПАНХ"
- HAI_valkist_party_long: "Национальная аятская партия &lt; &lt; Агри &gt; &gt;"
+ HAI_valkist_party_long: "Национальная аятская партия Агри"
 
  #### Ideas ####
 

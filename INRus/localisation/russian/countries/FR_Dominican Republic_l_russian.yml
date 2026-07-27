@@ -1,9 +1,9 @@
 ﻿l_russian:
 
  DOM_vanguardist_party: "ПКР"
- DOM_vanguardist_party_long: "Доминиканская партия &lt; &lt; Комунис &gt; &gt;"
+ DOM_vanguardist_party_long: "Доминиканская партия Комунис"
  DOM_collectivist_party: "PPD"
- DOM_collectivist_party_long: "Доминиканская партия &lt; &lt; Доминиканцы &gt; &gt;"
+ DOM_collectivist_party_long: "Доминиканская партия Доминиканцы"
  DOM_libertarian_socialist_party: "Dg"
  DOM_libertarian_socialist_party_long: "Доминиканцы безвозмездно!"
  DOM_social_democrat_party: "ЛС"
@@ -13,7 +13,7 @@
  DOM_market_liberal_party: "PL"
  DOM_market_liberal_party_long: "Либеральная партия"
  DOM_social_conservative_party: "НН"
- DOM_social_conservative_party_long: "&lt; &lt; Нуэвос насьонистс &gt; &gt;"
+ DOM_social_conservative_party_long: "Нуэвос насьонистс"
  DOM_authoritarian_democrat_party: "ГР"
  DOM_authoritarian_democrat_party_long: "Республиканская гвардия"
  DOM_paternal_autocrat_party: "ПН"

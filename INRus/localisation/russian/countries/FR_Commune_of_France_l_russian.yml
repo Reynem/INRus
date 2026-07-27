@@ -50,9 +50,9 @@
  COF_attacks_germany_threat: "Франция совершает нападения на Германию"
 
  ### Companies ###
- metallurgique_de_normandie: "Общество &lt; &lt; Металлургия Нормандии &gt; &gt;"
+ metallurgique_de_normandie: "Общество Металлургия Нормандии"
  famh: "ФАМХ"
- radiola: "&lt; &lt; Радиола &gt; &gt;"
+ radiola: "Радиола"
  rhone_poulenc: "Роне-Пуленч"
  manufacture_saint_etienne: "Производство оружия в Сент-Этьене"
  manufacture_bayonne: "Производство оружия в Байоне"
@@ -68,8 +68,8 @@
  kr_levasseur: "Левассер"
  morane_saulnier: "Моран Солнье"
  potez: "Потез"
- ateliers_de_la_loire: "Организация &lt; &lt; Ателье &gt; &gt; и &lt; &lt; Чантье де ла Луар &gt; &gt;"
- ateliers_de_saint_nazaire: "Организация &lt; &lt; Сант-Назэр Пенье &gt; &gt;"
+ ateliers_de_la_loire: "Организация Ателье и Чантье де ла Луар"
+ ateliers_de_saint_nazaire: "Организация Сант-Назэр Пенье"
  fcm: "ФХМ"
 
  ### Ideas ###
@@ -78,7 +78,7 @@
  COF_to_war_idea: "Реванхистская перевёртка"
  COF_to_war_idea_desc: "Наша нация должна восстать, если мы хотим победить империалистов!"
 
- COF_renseignements_generaux_lar: "&lt; &lt; Ресевериенты &gt; &gt;"
+ COF_renseignements_generaux_lar: "Ресевериенты"
 
  COF_economic_reforms_anar: "Экономические реформы"
 
@@ -137,7 +137,7 @@
  COF_fast_army_idea: "Скорость"
 
 
- COF_Red_Army: "&lt; &lt; Ружские вооруженные силы &gt; &gt;"
+ COF_Red_Army: "Ружские вооруженные силы"
 
 
  COF_working_women_idea: "Работающие женщины"
@@ -171,7 +171,7 @@
  COF_amateur_pilots_idea: "Любительские пилоты"
 
 
- COF_ecole_air_idea: "&lt; &lt; Школа мира &gt; &gt;"
+ COF_ecole_air_idea: "Школа мира"
 
 
  COF_waves_of_syndicalism_idea: "Волны синдикализма"
@@ -191,7 +191,7 @@
  COF_socialist_education_idea: "Социалистическое образование"
 
 
- COF_avantgarde_idea: "Международная организация &lt; &lt; Авант-Гарде &gt; &gt;"
+ COF_avantgarde_idea: "Международная организация Авант-Гарде"
 
 
  FRA_recovery_from_civilwar_orl: "Восстановление после гражданской войны"
@@ -211,7 +211,7 @@
  COF_tech_marine_bonus_effect: "Включает §H$COF_tech_Marine_bonus$nMarines §!! ~n Soft Attack: §G+5% §!N Hard Attack: §G+5% §!N §Hamphibious Tank Attack: §G+5% §!N §Hamphibious Battatter §!n Soft Attack: §G+5% §!n Hard Attack: §G+5% §!"
 
  ### Focuses ###
- commune_of_france_focus: "Община Франции &lt; &lt; Дерево фокуса &gt; &gt;"
+ commune_of_france_focus: "Община Франции Дерево фокуса"
 
  COF_amenagement: "Уничтожение территуаров"
  COF_amenagement_desc: ""
@@ -314,7 +314,7 @@
  COF_european_revolution_early_desc: ""
  COF_spanish_friends: "Наши испанские братья по оружию"
  COF_spanish_friends_desc: ""
- COF_renseignements_generaux: "&lt; &lt; Ренесиниенты женеро &gt; &gt;"
+ COF_renseignements_generaux: "Ренесиниенты женеро"
  COF_renseignements_generaux_desc: ""
  COF_military_buildup: "Военное строительство"
  COF_military_buildup_desc: ""
@@ -326,7 +326,7 @@
  COF_Our_time_has_come_desc: ""
  COF_department_revolutionary_ideals: "Департамент революционных идеалов"
  COF_department_revolutionary_ideals_desc: ".. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
- COF_Blanqui_Research_Institute: "Научно-исследовательский институт &lt; &lt; Бланки &gt; &gt;"
+ COF_Blanqui_Research_Institute: "Научно-исследовательский институт Бланки"
  COF_Blanqui_Research_Institute_desc: ""
  COF_military_buildup_three: "Дальнейшее военное развитие"
  COF_military_buildup_three_desc: ""
@@ -336,7 +336,7 @@
  COF_synthetic_refineries_desc: ""
  COF_secret_weaponry: "Электрические машины"
  COF_secret_weaponry_desc: ""
- COF_nuclear_weapons: "Проект &lt; &lt; Кюри &gt; &gt;"
+ COF_nuclear_weapons: "Проект Кюри"
  COF_nuclear_weapons_desc: ""
  COF_German_borders: "Укрепить германскую границу"
  COF_German_borders_desc: ""
@@ -373,7 +373,7 @@
  COF_amateur_pilots_desc: ""
  COF_valin_doctrine: "Современные исследования воздушной среды"
  COF_valin_doctrine_desc: ""
- COF_ecole_air: "&lt; &lt; Школа мира &gt; &gt;"
+ COF_ecole_air: "Школа мира"
  COF_ecole_air_desc: ""
  COF_air_bases: "Создание дополнительных авиабаз"
  COF_air_bases_desc: ""

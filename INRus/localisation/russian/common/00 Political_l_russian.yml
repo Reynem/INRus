@@ -90,8 +90,8 @@
  party_popularity_tooltip: "Популярность партии!"
  party_popularity_tooltip_long: "Популярность нашей партии: §! n$MoDIFiER_POLITIC_POWER_GAIN$: [GetPopularityPPGainValue] [Get Has Coalition] [Get Coalition Pertip]"
 
- party_popularity_dynamic_modifier: "Партия &lt; &lt; Популярность &gt; &gt;"
- party_popularity_dynamic_modifier_ideology_mapped: "Партия &lt; &lt; Популярность &gt; &gt;"
+ party_popularity_dynamic_modifier: "Партия Популярность"
+ party_popularity_dynamic_modifier_ideology_mapped: "Партия Популярность"
  party_popularity_dynamic_modifier_coalition: "Коалиции"
 
  party_popularity_value_default: "[? вечеринка_popularity@ruling_party Δ%0]"

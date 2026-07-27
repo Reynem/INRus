@@ -5,13 +5,13 @@
  GUO_vanguardist_party: "KMT-ZhunTeJu"
  GUO_vanguardist_party_long: "Куоминтанг - Центральное бюро разведки и специальных методов (Гуоминданг-Чонгян Цинбао Ю Теби Сингдон Чжу)"
  GUO_collectivist_party: "KMT-Minsheng"
- GUO_collectivist_party_long: "&lt; &lt; Куоминтанг-Живелия &gt; &gt; ( &lt; &lt; Гуоминданг-Миншенг Пай &gt; &gt; )"
+ GUO_collectivist_party_long: "Куоминтанг-Живелия ( Гуоминданг-Миншенг Пай )"
  GUO_libertarian_socialist_party: "KMT-Minsheng"
- GUO_libertarian_socialist_party_long: "&lt; &lt; Куоминтанг-Живелия &gt; &gt; ( &lt; &lt; Гуоминданг-Миншенг Пай &gt; &gt; )"
+ GUO_libertarian_socialist_party_long: "Куоминтанг-Живелия ( Гуоминданг-Миншенг Пай )"
  GUO_social_democrat_party: "KMT-Minquan Populists"
- GUO_social_democrat_party_long: "Демократическое движение &lt; &lt; Куоминтанг-Популист &gt; &gt; ( &lt; &lt; Гуоминданг-Минкван Пай Дазхун Си &gt; &gt; )"
+ GUO_social_democrat_party_long: "Демократическое движение Куоминтанг-Популист ( Гуоминданг-Минкван Пай Дазхун Си )"
  GUO_social_liberal_party: "Умеренные значения KMT-Minquan"
- GUO_social_liberal_party_long: "Демократическое движение &lt; &lt; Куоминтанг-Модерат &gt; &gt; ( &lt; &lt; Гуоминданг-Минкван Пай Вэньхе Си &gt; &gt; )"
+ GUO_social_liberal_party_long: "Демократическое движение Куоминтанг-Модерат ( Гуоминданг-Минкван Пай Вэньхе Си )"
  GUO_market_liberal_party: "Либералы"
  GUO_market_liberal_party_long: "Китайские либералы"
  GUO_social_conservative_party: "Консервативы"
@@ -105,7 +105,7 @@
  # GUO_chen_shaokuan_desc: "В 1916 году он был направлен в Соединенные Штаты для изучения воздушного судна и подводных лодок и наблюдения за войной в Европе. Когда в 1926 году вспыхнула Северная экспедиция, Чен Шаокуан, который поддерживал эту революцию, отвернулся от Сун Чуаньфана и присоединился к Национальной революционной армии. К сожалению, после прибытия немецкого военно-морского флота Чен Шаокуань был вынужден покинуть свой корабль и следовать за Куоминтангским центральным комитетом в изгнание в Коммуне Франции."
 
  GUO_liao_zhongkai: "Ляо Чжункай"
- # GUO_liao_zhongkai_sic_desc: "С возвращением Центрального комитета в Фуджиане чрезвычайное правительство было немедленно сформировано для того, чтобы слиться с лидерством и возвращающимся Центральным комитетом из Парижа, Сан-Франциско. В 1877 году, чтобы воздать должное лидерству Вангса, не было другого человека, подходящего для этой работы, кроме Ляо Чжонкай, старого государственного деятеля, личного друга Солнца, и, возможно, один из первых членов организации &lt; &lt; Куоминтанг &gt; &gt; . В 1877 году д-р Сун-Борн в Сан-Франциско, когда он увидел, как Китай унизил поражение во время Первой китайско-японской войны, Лиао, обратил свое внимание на западные исследования и женился на едином революционёре Хе Сянгининг в 1897 году. В 1897 году супружеская пара отправилась в Японию, где они были глубоко перемещены д-ром Ят-сенангом, революционными деятелями и членами его организации &lt; &lt; &lt; &lt; &gt; &gt; &gt; &gt; &gt; &gt; &gt; &lt; &gt; &gt; &gt; &lt; &gt; &gt; в 18 декабря 2013 года &gt; &gt; &gt; &lt; &gt; &gt; &gt; &gt; &gt; &gt; &gt; &lt; &lt; &gt; &lt; &lt; &gt; &lt; &gt; &lt; &lt; &lt; &lt; &lt; &lt; &gt; &gt; &gt; &lt; &lt; &gt; &lt; &gt; &gt; &gt; &lt; &lt; &gt; &gt; &gt; &gt; &gt; &gt; &gt; &lt; &lt; &lt; &gt; &lt"
+ # GUO_liao_zhongkai_sic_desc: "С возвращением Центрального комитета в Фуджиане чрезвычайное правительство было немедленно сформировано для того, чтобы слиться с лидерством и возвращающимся Центральным комитетом из Парижа, Сан-Франциско. В 1877 году, чтобы воздать должное лидерству Вангса, не было другого человека, подходящего для этой работы, кроме Ляо Чжонкай, старого государственного деятеля, личного друга Солнца, и, возможно, один из первых членов организации Куоминтанг . В 1877 году д-р Сун-Борн в Сан-Франциско, когда он увидел, как Китай унизил поражение во время Первой китайско-японской войны, Лиао, обратил свое внимание на западные исследования и женился на едином революционёре Хе Сянгининг в 1897 году. В 1897 году супружеская пара отправилась в Японию, где они были глубоко перемещены д-ром Ят-сенангом, революционными деятелями и членами его организации в 18 декабря 2013 года"
 
  GUO_chen_gongbo: "Чэнь Гонгбо"
  # GUO_chen_gongbo_sic_desc: "§YBorn: §L October 19, 1892, Guangdong, Qing Empire §L\nAn ранний революционер, чтобы сказать, что Чэнь Гонгбо путешествовал по партийным линиям, является серьезным преуменьшением. Выдающийся марксист и представитель Китайской синдикалистической партии Гуандинга (КСП) в 1922 году, он, как и многие другие в левом крыле партии, ушел из СКП из-за своей поддержки Чэнь Цзюнгмин. В 1923 году он поехал в Нью-Йорк, чтобы учиться в Колумбийском университете, а в 1925 году был завербован в Куоминтанг его левым лидером Лио Чжонкай."Revelations in Chinese History" and his newspaper “The People’s Vanguard.” To Chen, the Kuomintang must be the revolutionary vanguard, and its ranks must be filled with determined comrades willing to purge and “reorganise” the party along correct ideological lines. From there, the one-party state will reorganise the workers and peasants of the country into economic producers of society - with the eventual goal of utopian socialist economic cooperatives in both the agricultural and urban sectors of the country. He envisions a China-built from the ground up by the workers and for the workers, one that will finally break the chains of western imperialism by pursuing its native capital with the help of the state. As such, economically he does support the confiscation of land by force through the peasantry should the landlords not accept government intervention. With Wang’s consolidation of rule following the First Repatriated Congress of the Kuomintang, Chen emerged as the premier leader of Wang’s inner circle - with his advice and loyalty ever so valued by the Chairman.§!"
@@ -159,7 +159,7 @@
  # GUO_su_yu_desc: "5 марта 1904 года он участвовал в студенческих движениях Хунанана в начале 1920-х годов."
 
  GUO_zhou_zhirou: "Чжоу Чжиру"
- # GUO_zhou_zhirou_token_desc: "В 1919 году он был принят в престижную военную академию &lt; &lt; Вампоа &gt; &gt; . Когда он услышал новости об учреждении в 1924 году Военной академии &lt; &lt; Вампоа &gt; &gt; , он ушел из Баодинга и направился на юг для участия в национальной революции."
+ # GUO_zhou_zhirou_token_desc: "В 1919 году он был принят в престижную военную академию Вампоа . Когда он услышал новости об учреждении в 1924 году Военной академии Вампоа , он ушел из Баодинга и направился на юг для участия в национальной революции."
 
  GUO_mao_bangchu: "Мао Банчу"
  #GUO_mao_bangchu_air_chief_desc: "В 1927 году он закончил третий класс Военной академии Вампоа в Гуанчжоу, где его обучали французские советники основам военной подготовки и предметам."

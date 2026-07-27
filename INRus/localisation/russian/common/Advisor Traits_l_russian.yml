@@ -45,7 +45,7 @@
  KR_industrialiser: "Промышленное предприятие"
  KR_inflation_finance_advocate: "Защитник политики в области инфляции"
  KR_interventionist_economist: "Экономист-активист"
- KR_laissez_faire_capitalist: "Капиталист &lt; &lt; Лайссез-фейер &gt; &gt;"
+ KR_laissez_faire_capitalist: "Капиталист Лайссез-фейер"
  KR_mixed_economy_proponent: "Инициатор смешанной экономики"
  KR_traditionalist_economist: "Традиционистский экономист"
 
@@ -69,7 +69,7 @@
  KR_tank_proponent: "Цистерна-инициатор"
  KR_war_propagandist: "Пропагандист войны"
  KR_young_guard: "Молодая гвардия"
- KR_militia_organiser: "Организация &lt; &lt; Милиция &gt; &gt;"
+ KR_militia_organiser: "Организация Милиция"
 
  ### Research ###
  KR_education_reformer: "Реформа системы образования"
@@ -181,7 +181,7 @@
  ### BAT ###
  KR_defender_of_minorities: "Защитник меньшинств"
  KR_legalist: "Юридический работник"
- KR_landeswehr_interest_group: "Группа интересов &lt; &lt; Лэндсвер &gt; &gt;"
+ KR_landeswehr_interest_group: "Группа интересов Лэндсвер"
  KR_reactionary_erudite: "Реакция на эрудит"
  KR_natural_philosopher: "Естественный философ"
  KR_white_knight_captain: "Белый Рыцарь"
@@ -220,7 +220,7 @@
  ### CAN ###
  KR_premier_of_quebec: "Премьер Квебека"
  KR_minister_of_everything: "Министр всего"
- KR_national_unity_proponent: "Организация &lt; &lt; Национальное единство &gt; &gt;"
+ KR_national_unity_proponent: "Организация Национальное единство"
 
  ### CEY ###
  KR_lion_of_boralugoda_sic: "Льв Боралугоды"
@@ -322,7 +322,7 @@
  KR_heer_advocate: "Адвокат по защите интересов беженцев"
  KR_tank_advocate: "Адвокат Танковых сил"
  KR_propaganda_film_industry: "Пропагандистская киноиндустрия"
- KR_head_of_kw_society: "Глава общества &lt; &lt; Кайзер Вильгельм &gt; &gt;"
+ KR_head_of_kw_society: "Глава общества Кайзер Вильгельм"
  KR_leading_diplomat: "Ведущая дипломатия"
  KR_nuclear_council: "Совет по ядерным исследованиям"
  KR_air_chief_red_baron: "Красный барон (Гений)"
@@ -382,7 +382,7 @@
  KR_prince_of_zhejiang: "Князь Чжэцзян"
 
  ### LIT ###
- KR_daimler_benz_engineer: "Инженер &lt; &lt; Даймлер-Бенз &gt; &gt;"
+ KR_daimler_benz_engineer: "Инженер Даймлер-Бенз"
 
  ### NFA ###
  KR_the_master: "Хозяин"
@@ -439,7 +439,7 @@
  KR_defender_of_monsanto: "Защитник Монсанто"
 
  ### PRF ###
- KR_gun_salute_legislature_sic: "Законодательное собрание &lt; &lt; Гун Салют &gt; &gt;"
+ KR_gun_salute_legislature_sic: "Законодательное собрание Гун Салют"
  KR_dissolved_legislature_sic: "Распущенный законодательный орган"
 
  ### QIE ###
@@ -478,7 +478,7 @@
  KR_the_king_sic: "Король"
  KR_scottish_legalist_sic: "Шотландский юрист"
  KR_ambitious_engineer: "Инженер-инженер"
- KR_cooperative_advocate: "Организация &lt; &lt; Кооперативный адвокат &gt; &gt;"
+ KR_cooperative_advocate: "Организация Кооперативный адвокат"
  KR_popular_cartoonist: "Популярный карикатурист"
  KR_public_health_advocate: "Адвокат по вопросам общественного здравоохранения"
  KR_old_stonemason: "Старый Стоунмасон"
@@ -626,7 +626,7 @@
  ### Theorists ###
  KR_council_of_theorists: "Совет теоретики"
  KR_mmic_2: "МГМГ"
- KR_mmic_exiles: "Международная организация &lt; &lt; Изгои &gt; &gt;"
+ KR_mmic_exiles: "Международная организация Изгои"
  KR_military_theorist: "Военный теоретик"
  KR_armour_theorist: "Теоретик бронетехника"
  KR_mobile_warfare_expert: "Мобильный военный эксперт"
@@ -637,7 +637,7 @@
  KR_dive_bomber: "Бомбардировщик погружения"
  KR_victory_through_airpower: "Победа через огненную мощь"
  KR_close_air_support_proponent: "Закрыть механизм поддержки воздушного движения"
- KR_assault_aviation: "Авиакомпания &lt; &lt; Нападение &gt; &gt;"
+ KR_assault_aviation: "Авиакомпания Нападение"
  KR_naval_theorist: "Теоретик военно-морского флота"
  KR_naval_aviation_pioneer: "Пионер военно-морской авиации"
  KR_grand_fleet_proponent: "Великий флот"

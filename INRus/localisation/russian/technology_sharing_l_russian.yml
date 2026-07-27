@@ -1,5 +1,5 @@
 ﻿l_russian:
- TECH_SHARNG_FACTOR_PER_COUNTRY: "~n - каждый член компании, обладающий техникой, сокращает время на $VALUE.&gt; +%0 долл.: &gt; n"
+ TECH_SHARNG_FACTOR_PER_COUNTRY: "~n - каждый член компании, обладающий техникой, сокращает время на $VALUE. +%0 долл.: n"
  TECH_SHARNG_FACTOR_BASE: "Базовая сумма: $VALUE /60/0%Y$n"
  TECH_SHARNG_COUNTRY_BONUS: "Бонус: $VALUE /60/0%Y$n"
  TECH_SHARNG_FACTOR_EXTRA_DESC: "долл. США в связи с: n"

@@ -331,7 +331,7 @@
  crownland: "Корона"
  oststaat: "Остстаат"
  oststaat_autonomous: "Автономный остстаат"
- kr_mitteleuropa_integrated_member: "Интегрированный член компании &lt; &lt; Миттел европа &gt; &gt;"
+ kr_mitteleuropa_integrated_member: "Интегрированный член компании Миттел европа"
  autonomous_territory: "Автономная территория"
 
  ### Autonomy Tooltips ###
@@ -633,7 +633,7 @@
  cat_targeting: "Компьютеры пожаротушения"
  cat_torpedo: "Технология &quot; Торпедо &quot;"
  carrier_ship_tree: "Операции перевозчиков"
- capital_ship_tree: "Эксплуатация &lt; &lt; Капитальных судов &gt; &gt;"
+ capital_ship_tree: "Эксплуатация Капитальных судов"
  cat_armored_car: "Бронированные машины"
  cat_special_units: "Специальные подразделения"
  cat_air_engine: "Самолеты"
@@ -646,7 +646,7 @@
  ### Hidden Techs ###
  tech_camel_corps: "Корпус верблюдов"
 
- tech_ski_infantry: "Пехотные подразделения &lt; &lt; Ски &gt; &gt;"
+ tech_ski_infantry: "Пехотные подразделения Ски"
  tech_ski_infantry_terrain_effect: "§!: $STAT_ADJUSTER_MOVENT$[? 0.058=+1%]N $STAT_ADJUSTER_ADJTER_DEFONS$ [? 0.05 ] \ $ $ $ $ §1% § § § §: $STAT_ADJUSTER_MOVENT$ [?0.101=+1%]\ $STAT_ADJUSTER_ATACK$[? 0.05 \+1%]n $STAT_ADJTER_DEFENT$[? 0.05 \+1%]"
 
  tech_marine_bonus: "Усовершенствованные морские пехотинцы"

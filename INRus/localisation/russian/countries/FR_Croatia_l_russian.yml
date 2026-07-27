@@ -3,9 +3,9 @@
  ### Political Parties ###
 
  CRO_vanguardist_party: "KPH"
- CRO_vanguardist_party_long: "Партия &lt; &lt; Комуничка &gt; &gt;"
+ CRO_vanguardist_party_long: "Партия Комуничка"
  CRO_collectivist_party: "HSRS"
- CRO_collectivist_party_long: "&lt; &lt; Грватска социялистицка Радничка Странка &gt; &gt;"
+ CRO_collectivist_party_long: "Грватска социялистицка Радничка Странка"
  CRO_libertarian_socialist_party: "SSH"
  CRO_libertarian_socialist_party_long: "Socijalistichka Stranaka Hrvatske"
  CRO_social_democrat_party: "ПБГ"
@@ -21,9 +21,9 @@
  CRO_paternal_autocrat_party: "VH"
  CRO_paternal_autocrat_party_long: "Война Ханта"
  CRO_national_populist_party: "ГРО"
- CRO_national_populist_party_long: "Организация &lt; &lt; Хрватска революционарна &gt; &gt;"
+ CRO_national_populist_party_long: "Организация Хрватска революционарна"
  CRO_valkist_party: "УХРО"
- CRO_valkist_party_long: "Революционное движение &lt; &lt; Усташе-Хрватска &gt; &gt;"
+ CRO_valkist_party_long: "Революционное движение Усташе-Хрватска"
 
 
  ###Events###
@@ -52,7 +52,7 @@
 
  ### Characters ###
  CRO_stjepan_radic: "Степан Радич"
- CRO_ivo_pillar: "Компонент &lt; &lt; Иво &gt; &gt;"
+ CRO_ivo_pillar: "Компонент Иво"
 
  CRO_slavko_kvaternik: "Славко Кватерник"
 

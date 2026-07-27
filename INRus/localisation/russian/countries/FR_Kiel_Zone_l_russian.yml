@@ -3,7 +3,7 @@
  #### Political Parties ####
 
  SHO_vanguardist_party: "КНП"
- SHO_vanguardist_party_long: "&lt; &lt; Коллективиши &gt; &gt; -- &lt; &lt; Националистическая партия &gt; &gt;"
+ SHO_vanguardist_party_long: "Коллективиши -- Националистическая партия"
  SHO_collectivist_party: "КАП"
  SHO_collectivist_party_long: "Коллективиши Арбейтерспартей"
  SHO_libertarian_socialist_party: "СП"
@@ -15,7 +15,7 @@
  SHO_market_liberal_party: "ФВ"
  SHO_market_liberal_party_long: "Фрейхейтлих Фолькспартей"
  SHO_social_conservative_party: "КП"
- SHO_social_conservative_party_long: "Консервативная партия &lt; &lt; Консерватив &gt; &gt;"
+ SHO_social_conservative_party_long: "Консервативная партия Консерватив"
  SHO_authoritarian_democrat_party: "Убергангсрегерунг"
  SHO_authoritarian_democrat_party_long: "Убергангсрегерунг"
  SHO_paternal_autocrat_party: "Убергангсрегерунг"

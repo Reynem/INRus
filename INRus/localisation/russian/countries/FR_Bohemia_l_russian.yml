@@ -3,7 +3,7 @@
  BOH_FUHRERREICH_DESC: ""
  #PARTIES
  BOH_vanguardist_party: "KSZ"
- BOH_vanguardist_party_long: "&lt; &lt; Комунимада &gt; &gt; , &lt; &lt; Страна Западослованска &gt; &gt;"
+ BOH_vanguardist_party_long: "Комунимада , Страна Западослованска"
  BOH_collectivist_party: "ЛШЗ"
  BOH_collectivist_party_long: "Ленинске Страна Западослованска"
  BOH_libertarian_socialist_party: "СС"
@@ -11,7 +11,7 @@
  BOH_social_democrat_party: "ZSSD"
  BOH_social_democrat_party_long: "Западослованка Страна Социалне Демократика"
  BOH_social_liberal_party: "RSZML"
- BOH_social_liberal_party_long: "&lt; &lt; Републиканска &gt; &gt; , &lt; &lt; Страна Земедельскехо а малоронникехо Лиду &gt; &gt;"
+ BOH_social_liberal_party_long: "Републиканска , Страна Земедельскехо а малоронникехо Лиду"
  BOH_market_liberal_party: "НСП"
  BOH_market_liberal_party_long: "Народни Страна Прасе"
  BOH_social_conservative_party: "ZND"

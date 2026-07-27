@@ -45,7 +45,7 @@
  KR_MIO_Trait_experimental_semi_automatic_rifles: "Экспериментальные полуавтоматические винтовки" #soft_attack/defense/breakthrough
  KR_MIO_Trait_mortar_spring_loaded_shock_absorbers: "Минометные абсорберы с весенним ударом" #soft_attack/defense/breakthrough
  KR_MIO_Trait_smoothed_hmg_feeding_system: "Сгущенная система откорма HMG" #soft_attack/defense/breakthrough/reliability
- KR_MIO_Trait_mine_tilt_rod_fuses: "Мины с плавкими взрывателями &lt; &lt; Тилт Род &gt; &gt;" #soft_attack/defense/hard_attack/ap_attack
+ KR_MIO_Trait_mine_tilt_rod_fuses: "Мины с плавкими взрывателями Тилт Род" #soft_attack/defense/hard_attack/ap_attack
  KR_MIO_Trait_heavier_mortar_strike_packages: "Упаковки тяжелейших минометов" #soft_attack/defense/breakthrough/hard_attack/ap_attack
  KR_MIO_Trait_lighter_infantry_equipment: "Легкое пехотное оборудование" #maximum_speed
  KR_MIO_Trait_incendiary_bottles: "Зажигательные бутылки" #soft_attack/defense/breakthrough/hard_attack/ap_attack
@@ -68,7 +68,7 @@
  KR_MIO_Trait_improved_repair_procedures: "Совершенствование процедур ремонта" #reliability
  KR_MIO_Trait_simplified_iterative_design_process: "Упрощенный процесс итеративного проектирования" #reliability/military_industrial_organization_research_bonus/military_industrial_organization_design_team_assign_cost
  KR_MIO_Trait_specialize_in_heavy_artillery: "Специализация в тяжелой артиллерии" #soft_attack/defense/breakthrough/hard_attack/ap_attack
- KR_MIO_Trait_apc_shells: "БТР &lt; &lt; Шеллз &gt; &gt;" #hard_attack/ap_attack/breakthrough/defense
+ KR_MIO_Trait_apc_shells: "БТР Шеллз" #hard_attack/ap_attack/breakthrough/defense
  KR_MIO_Trait_short_term_government_contracts: "Краткосрочные правительственные контракты" #military_industrial_organization_research_bonus/military_industrial_organization_design_team_assign_cost/military_industrial_organization_funds_gain
  KR_MIO_Trait_long_term_government_contracts: "Долгосрочные правительственные контракты" #military_industrial_organization_research_bonus/military_industrial_organization_design_team_assign_cost/military_industrial_organization_funds_gain
  KR_MIO_Trait_specialize_in_siege_artillery: "Специализируйтесь на артиллерии Siege" #soft_attack/defense/breakthrough/hard_attack/ap_attack
@@ -93,7 +93,7 @@
  KR_MIO_Trait_improved_fragmentation_rockets: "Усовершенствованные дробление ракет" #soft_attack/defense/breakthrough/hard_attack/ap_attack
  KR_MIO_Trait_improved_shrapnel_rockets: "Усовершенствованные ракеты-шрапнель" #soft_attack/defense/breakthrough/hard_attack/ap_attack
  KR_MIO_Trait_larger_rocket_rack: "Крупнейшая ракетная стойка" #soft_attack/defense/breakthrough/hard_attack/ap_attack
- KR_MIO_Trait_heavier_rocket_payload: "Оплата ракетной нагрузки &lt; &lt; Тяжелее &gt; &gt;" #soft_attack/defense/breakthrough/hard_attack/ap_attack
+ KR_MIO_Trait_heavier_rocket_payload: "Оплата ракетной нагрузки Тяжелее" #soft_attack/defense/breakthrough/hard_attack/ap_attack
  KR_MIO_Trait_spiral_launch_frame: "Рамка запуска спиралей" #soft_attack/defense/breakthrough/hard_attack/ap_attack
  KR_MIO_Trait_recognise_survivourship_bias_reports: "&quot; Признать выжившую жизнь Биаса &quot;" #military_industrial_organization_design_team_assign_cost/military_industrial_organization_research_bonus
  KR_MIO_Trait_weight_centered_turret_design: "Конструкция с центром веса" #any
@@ -111,7 +111,7 @@
  KR_MIO_Trait_frontline_design_reporters: "Репортеры фронтального дизайна" #military_industrial_organization_design_team_assign_cost/military_industrial_organization_research_bonus
  KR_MIO_Trait_politically_connected_designers: "Политические конструкторы" #military_industrial_organization_design_team_assign_cost/military_industrial_organization_research_bonus/military_industrial_organization_funds_gain
  KR_MIO_Trait_spare_on_board_parts: "Запасные части" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
- KR_MIO_Trait_eliminate_small_arms_weak_spots: "&lt; &lt; Ликвидация слабых стволов стрелкового оружия &gt; &gt;" #armor_value/hardness/defense/breakthrough
+ KR_MIO_Trait_eliminate_small_arms_weak_spots: "Ликвидация слабых стволов стрелкового оружия" #armor_value/hardness/defense/breakthrough
  KR_MIO_Trait_refined_gearbox: "Уточнение коробки передач" #reliability/maximum_speed
  KR_MIO_Trait_increased_internal_ammunition_capacity: "Укрепление внутреннего потенциала в области боеприпасов" #any
  KR_MIO_Trait_additional_space_for_fuel_drums: "Дополнительное пространство для топливных барабанов" #fuel_capacity
@@ -149,7 +149,7 @@
  KR_MIO_Trait_reduce_machine_gun_spread: "Уменьшить распространение пулемета" #air_superiority/air_attack/soft_attack/defense/breakthrough
  KR_MIO_Trait_eliminate_aircraft_weak_spots: "Уничтожить слабое воздушное пространство" #air_superiority/naval_strike_attack/naval_strike_targetting/maximum_speed/air_range/air_agility/air_attack/air_defence
  KR_MIO_Trait_improved_gliding_potential: "Улучшенный потенциал слайдинга" #air_range
- KR_MIO_Trait_improved_ammunition_yawing: "Усовершенствованные боеприпасы &lt; &lt; Яинг &gt; &gt;" #air_attack/soft_attack/defense/breakthrough/hard_attack/ap_attack
+ KR_MIO_Trait_improved_ammunition_yawing: "Усовершенствованные боеприпасы Яинг" #air_attack/soft_attack/defense/breakthrough/hard_attack/ap_attack
  KR_MIO_Trait_redesigned_cockpit: "Модернизованная котлоагрегата" #air_defence
  KR_MIO_Trait_improved_turning_capabilities: "Повышение способности к повороту" #air_superiority/air_agility/air_defence
  KR_MIO_Trait_eliminate_wasteful_fuel_use: "Ликвидация расточительного использования топлива" #air_range/fuel_consumption
@@ -160,7 +160,7 @@
  KR_MIO_Trait_hexagonal_bombs: "Гексагональные бомбы" #air_bombing/air_ground_attack
  KR_MIO_Trait_cluster_munitions: "Кассетные боеприпасы" #air_bombing/air_ground_attack/soft_attack/defense/breakthrough
  KR_MIO_Trait_heavier_explosive_payload: "Взрывоопасная нагрузка" #soft_attack/hard_attack/ap_attack/defense/breakthrough/lg_attack/hg_attack/hg_armor_piercing/lg_armor_piercing/torpedo_attack/sub_attack/air_bombing/air_ground_attack
- KR_MIO_Trait_air_ground_radar: "Радиолокатор &lt; &lt; Воздушный круг &gt; &gt;" #sub_detection/surface_detection/air_bombing/night_penalty
+ KR_MIO_Trait_air_ground_radar: "Радиолокатор Воздушный круг" #sub_detection/surface_detection/air_bombing/night_penalty
  KR_MIO_Trait_additional_weakspot_protection: "Дополнительная защита слабых точек" #defense/breakthrough/armor_value/hardness/naval_torpedo_enemy_critical_chance_factor/naval_torpedo_damage_reduction_factor/air_superiority/reliability/air_defence
  KR_MIO_Trait_improved_bomb_fins: "Улучшенные финики для бомбоубежищ" #air_bombing/air_ground_attack
  KR_MIO_Trait_standardise_cas_parts: "Стандартизация частей КАС" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
@@ -247,7 +247,7 @@
  KR_MIO_Trait_improved_hydrodynamic_design: "Совершенствование гидродинамического проектирования" #naval_speed
  KR_MIO_Trait_increase_mine_capacity: "Наращивание минного потенциала" #mines_planting
  KR_MIO_Trait_open_cycle_propulsion: "Движение с открытым циклом" #naval_speed
- KR_MIO_Trait_large_torpedo_banks: "&lt; &lt; Большие &quot; Торпедо Бэнкс &quot; &gt; &gt;" #torpedo_attack
+ KR_MIO_Trait_large_torpedo_banks: "Большие &quot; Торпедо Бэнкс &quot;" #torpedo_attack
  KR_MIO_Trait_increased_contact_detonator_reliability: "Повышение надежности контактного детонатора" #reliability
  KR_MIO_Trait_longer_catapult_launch_system: "Система запуска более продолжительных катализаторов" #surface_detection
  KR_MIO_Trait_longer_radar_range: "Более длинный радиолокационный диапазон" #sub_detection/surface_detection
@@ -289,7 +289,7 @@
  KR_MIO_Trait_lightweight_infantry_equipment: "Легкое пехотное оборудование" #maximum_speed
  KR_MIO_Trait_increased_hmg_lmg_fire_rate: "Повышение коэффициента пожаротушения ОГФ/МГК" #soft_attack/defense/breakthrough
  KR_MIO_Trait_increased_hmg_lmg_accuracy: "Повышение точности ОГФ/МГК" #soft_attack/defense/breakthrough
- KR_MIO_Trait_increased_recoilless_rifle_velocity: "Увеличение скорости движения безоткатных винтовок &lt; &lt; Моззл &gt; &gt;" #hard_attack/ap_attack/defense/breakthrough
+ KR_MIO_Trait_increased_recoilless_rifle_velocity: "Увеличение скорости движения безоткатных винтовок Моззл" #hard_attack/ap_attack/defense/breakthrough
  KR_MIO_Trait_extended_hmg_lmg_magazines: "Расширенные журналы HMG/LMG" #soft_attack/defense/breakthrough
  KR_MIO_Trait_increased_rifle_magazines: "Увеличение числа винтовок" #soft_attack/defense/breakthrough
  KR_MIO_Trait_anti_tank_sticky_bombs: "Бомбы с противотанковой ловушкой" #hard_attack/ap_attack/defense/breakthrough
@@ -301,7 +301,7 @@
  KR_MIO_Trait_apbc_shells: "APBC Корпуса" #hard_attack/ap_attack/defense/breakthrough
  KR_MIO_Trait_increased_fragmentation_shell_fragments: "Увеличение осколков скорлупы" #soft_attack/defense/breakthrough
  KR_MIO_Trait_specialise_in_heavy_artillery: "Специализация в тяжелой артиллерии" #soft_attack/defense/breakthrough/hard_attack/ap_attack
- KR_MIO_Trait_apcbc_shells: "АТЦБК &lt; &lt; Шеллз &gt; &gt;" #hard_attack/ap_attack/defense/breakthrough
+ KR_MIO_Trait_apcbc_shells: "АТЦБК Шеллз" #hard_attack/ap_attack/defense/breakthrough
  KR_MIO_Trait_expertly_timed_fuses: "Интеллектуальные взрыватели" #soft_attack/defense/breakthrough/hard_attack/ap_attack/hg_attack/lg_attack
  KR_MIO_Trait_specialise_in_siege_artillery: "Специализируйтесь на артиллерии &quot; Siege &quot;" #soft_attack/defense/breakthrough/hard_attack/ap_attack
  KR_MIO_Trait_increased_air_burst_munition_fragments: "Увеличение количества осколков боеприпасов для взрыва воздуха" #air_attack
@@ -317,7 +317,7 @@
  KR_MIO_Trait_reduced_engine_noise: "Снижение шума двигателя" #sub_visibility
  KR_MIO_Trait_longer_barrels: "Более длинные баррели" #hard_attack/ap_attack/soft_attack/defense/breakthrough
  KR_MIO_Trait_smoother_transmission: "Спутниковая трансмиссия" #maximum_speed
- KR_MIO_Trait_rush_production_process: "Производственный процесс &lt; &lt; Раш &gt; &gt;" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
+ KR_MIO_Trait_rush_production_process: "Производственный процесс Раш" #build_cost_ic/production_cost_factor/production_capacity_factor/production_efficiency_cap_factor/production_efficiency_gain_factor/production_conversion_speed_factor
 
  ##################
  ### KR Headers ###

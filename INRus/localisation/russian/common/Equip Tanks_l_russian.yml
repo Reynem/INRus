@@ -38,7 +38,7 @@
    RUS_improved_light_tank_chassis_short: "Серия BT"
    RUS_light_tank_chassis_2: "BT Шасси"
    RUS_light_tank_chassis_2_desc: "Линия БТ легких танков основана на шасси "Американская Кристи". БТ, как правило, быстры и упаковывают достойный удар, но крайне легко бронированы. БТ стал главным танком армии в начале 1930-х годов, а также использовался в качестве шасси для различных других систем, таких, как первые российские самоходные ружья, которые лоббировались Василием Грэбином."
-   RUS_advanced_light_tank_chassis_short: "Серия &lt; &lt; Астров &gt; &gt;"
+   RUS_advanced_light_tank_chassis_short: "Серия Астров"
    RUS_light_tank_chassis_3: "Астров Шасси"
    RUS_light_tank_chassis_3_desc: "Семья Астров и T50 являются духовным наследником серии BT. T-50 и T-60 являются достойными танками, хотя на практике они почти во всем превосходят T-34."
 
@@ -48,7 +48,7 @@
 
    RUS_basic_medium_tank_chassis_short: "Экспериментальные средние цистерны"
    RUS_medium_tank_chassis_1: "Экспериментальный средний шасси"
-   RUS_medium_tank_chassis_1_desc: "Российские средние танки были спроектированы с несколькими турнирами, что привело к постоянным проблемам с надежностью и общей чрезмерной конструкцией, они прошли через множество вариаций, при этом сверхсекретный проект тяжелого бронированного легкого танка был наиболее желательным вариантом для военных. &lt; &lt; Шедуя серию BT-20 &gt; &gt; из-за более детальной разработки, Т-111 по-прежнему имеет фундаментальные проблемы с ранними средними цистернами, но он может идти ногами с любым эквивалентным немецким танком."
+   RUS_medium_tank_chassis_1_desc: "Российские средние танки были спроектированы с несколькими турнирами, что привело к постоянным проблемам с надежностью и общей чрезмерной конструкцией, они прошли через множество вариаций, при этом сверхсекретный проект тяжелого бронированного легкого танка был наиболее желательным вариантом для военных. Шедуя серию BT-20 из-за более детальной разработки, Т-111 по-прежнему имеет фундаментальные проблемы с ранними средними цистернами, но он может идти ногами с любым эквивалентным немецким танком."
    RUS_improved_medium_tank_chassis_short: "Серия T-34"
    RUS_medium_tank_chassis_2: "Т-34 Шасси"
    RUS_medium_tank_chassis_2_desc: "Серия T-34 - это рабочая лошадь российских бронетанков, которая представляет собой круглосуточный быстродействующий танк, разработанный в рамках проекта BT-20. Надежные одноствольные средние танки во многих отношениях являются вершиной разработки средних танков в своей простоте, и России удалось достичь этой стадии только с помощью постоянного пробного и эрратора. Конструкция усовершенствована только в более позднем танке T-34M с 57-мм пушками и пониженным профилем, что значительно улучшило цены на более сложное производство."
@@ -59,7 +59,7 @@
    RUS_basic_heavy_tank_chassis_short: "Серия T-100"
    RUS_heavy_tank_chassis_1: "Т-100 Шасси"
    RUS_heavy_tank_chassis_1_desc: "Разработка российских тяжелых цистерн, как правило, игнорировалась в пользу более ориентированной на мобильность серии легковых цистерн и страдала теми же проблемами с конструкцией многих турниров, что и первые средние цистерны. Т-100 является явным улучшением по сравнению с печально ненадежными Т-35, но тем не менее остается лишь посредственной тяжелой цистерной."
-   RUS_improved_heavy_tank_chassis_short: "Серия &lt; &lt; Витяз &gt; &gt;"
+   RUS_improved_heavy_tank_chassis_short: "Серия Витяз"
    RUS_heavy_tank_chassis_2: "Витеаз Шасси"
    RUS_heavy_tank_chassis_2_desc: "Серия тяжелых танков &quot; Рыцари &quot; ( &quot; Витьяз &quot; ) - это чудовищные машины, представляющие собой самые тяжелые бронетранспортеры в российском арсенале. &quot; Тяжелые &quot; танки, как правило, оказываются в трудном положении, будучи слишком громоздкими и тяжелыми, чтобы их можно было использовать в быстрых наступательных операциях, и переклассифицированы соответствующими бронеразрушителями в оборонительной роли. &quot; Рычание &quot; , тем не менее, оказывает сильное психологическое воздействие на поле боя."
    RUS_advanced_heavy_tank_chassis_short: "Серия Suvorov"
@@ -99,7 +99,7 @@
    RUS_light_tank_artillery_equipment_1: "Samokhodnaya setanovka SU-5"
    RUS_light_tank_artillery_equipment_1_short: "СУ-5"
    # AT-1 :
-   RUS_light_tank_destroyer_equipment_1: "Танк AT-1 &lt; &lt; Артиллерийский &gt; &gt;"
+   RUS_light_tank_destroyer_equipment_1: "Танк AT-1 Артиллерийский"
    RUS_light_tank_destroyer_equipment_1_short: "АТ-1"
    # SU-6 :
    RUS_light_tank_aa_equipment_1: "Samokhodnaya setanovka SU-6"
@@ -110,7 +110,7 @@
    RUS_light_tank_equipment_2_short: "БТ-7"
    RUS_light_tank_equipment_2_desc: "$RUS_light_tank_chassis_2_desc$"
    # BT-7A :
-   RUS_light_tank_artillery_equipment_2: "Танк &lt; &lt; Артиллерийский &gt; &gt; BT-7A"
+   RUS_light_tank_artillery_equipment_2: "Танк Артиллерийский BT-7A"
    RUS_light_tank_artillery_equipment_2_short: "BT-7A"
    # BT-7 SPG with the 95mm F-39 gun:
    RUS_light_tank_destroyer_equipment_2: "Самокодная утановка СЮ-9"
@@ -353,9 +353,9 @@
    RUS_super_heavy_tank_amphibious_equipment_1_short: "PT-AN"
 
    # Danchenko's tank heavily modified, fictional
-   #RUS_land_cruiser_equipment: "Танк &lt; &lt; Святогор &gt; &gt;"
+   #RUS_land_cruiser_equipment: "Танк Святогор"
    #RUS_land_cruiser_equipment_short: "Святогор"
-   RUS_land_cruiser_equipment_1: "Танк &lt; &lt; Святогор &gt; &gt;"
+   RUS_land_cruiser_equipment_1: "Танк Святогор"
    RUS_land_cruiser_equipment_1_short: "Святогор"
    RUS_land_cruiser_chassis_1: "Святогор"
 
@@ -627,7 +627,7 @@
    MON_light_tank_artillery_equipment_1: "SU-5 öööö yavagch uu"
    MON_light_tank_artillery_equipment_1_short: "СУ-5"
    # AT-1 :
-   MON_light_tank_destroyer_equipment_1: "Танк AT-1 &lt; &lt; Артильерин &gt; &gt;"
+   MON_light_tank_destroyer_equipment_1: "Танк AT-1 Артильерин"
    MON_light_tank_destroyer_equipment_1_short: "АТ-1"
    # SU-6 :
    MON_light_tank_aa_equipment_1: "SU-6 öööö yavagch uu"
@@ -1158,7 +1158,7 @@
    ARM_light_tank_flame_equipment_2: "Танк &quot; Кимиакан &quot; KBT-8"
    ARM_light_tank_flame_equipment_2_short: "ХБТ-8"
    # T-70 with flamethrower :
-   ARM_light_tank_flame_equipment_3: "Танк &lt; &lt; Флейми &gt; &gt; T-600"
+   ARM_light_tank_flame_equipment_3: "Танк Флейми T-600"
    ARM_light_tank_flame_equipment_3_short: "Т-600"
 
    # T-37 :
@@ -1299,10 +1299,10 @@
    ARM_heavy_tank_aa_equipment_3_short: "СУ-37"
 
    # T-35 with flamethower :
-   ARM_heavy_tank_flame_equipment_0: "Танк &lt; &lt; Кимиакан &gt; &gt;"
+   ARM_heavy_tank_flame_equipment_0: "Танк Кимиакан"
    ARM_heavy_tank_flame_equipment_0_short: "ХТ-35"
    # T-100 :
-   ARM_heavy_tank_flame_equipment_1: "Танк &lt; &lt; Кимиакан &gt; &gt;"
+   ARM_heavy_tank_flame_equipment_1: "Танк Кимиакан"
    ARM_heavy_tank_flame_equipment_1_short: "ХТ-100"
    # KV-8 :
    ARM_heavy_tank_flame_equipment_2: "Цистерна RV-1O"
@@ -1340,7 +1340,7 @@
    ARM_super_heavy_tank_destroyer_equipment_1: "Цистерна DD"
    ARM_super_heavy_tank_destroyer_equipment_1_short: "ДД"
    # KV-4 Dukhov's project with flamethrower:
-   ARM_super_heavy_tank_flame_equipment_1: "Танк &lt; &lt; Флейми &gt; &gt;"
+   ARM_super_heavy_tank_flame_equipment_1: "Танк Флейми"
    ARM_super_heavy_tank_flame_equipment_1_short: "АНО"
 
   ### East Turkestan ###
@@ -1585,7 +1585,7 @@
    ETS_super_heavy_tank_destroyer_equipment_1: "Цистерна DD"
    ETS_super_heavy_tank_destroyer_equipment_1_short: "ДД"
    # KV-4 Dukhov's project with flamethrower:
-   ETS_super_heavy_tank_flame_equipment_1: "Танк &lt; &lt; Химики &gt; &gt;"
+   ETS_super_heavy_tank_flame_equipment_1: "Танк Химики"
    ETS_super_heavy_tank_flame_equipment_1_short: "АНО"
 
   ### Bukhara ###
@@ -2568,7 +2568,7 @@
    TRK_super_heavy_tank_destroyer_equipment_1: "Цистерна DD"
    TRK_super_heavy_tank_destroyer_equipment_1_short: "ДД"
    # KV-4 Dukhov's project with flamethrower:
-   TRK_super_heavy_tank_flame_equipment_1: "Танк &lt; &lt; Химики &gt; &gt;"
+   TRK_super_heavy_tank_flame_equipment_1: "Танк Химики"
    TRK_super_heavy_tank_flame_equipment_1_short: "АНО"
 
   ### Romania ###
@@ -2823,12 +2823,12 @@
    USA_light_tank_destroyer_equipment_1_short: "GMC M5"
    USA_light_tank_destroyer_equipment_2: "Автомобильный транспорт T56"
    USA_light_tank_destroyer_equipment_2_short: "GMC T56"
-   USA_light_tank_destroyer_equipment_3: "Автомобильный транспорт M18 &lt; &lt; Хеллкат &gt; &gt;"
+   USA_light_tank_destroyer_equipment_3: "Автомобильный транспорт M18 Хеллкат"
    USA_light_tank_destroyer_equipment_3_short: "Адская кошка"
 
    USA_light_tank_artillery_equipment_1: "Автомобильный транспорт Т3"
    USA_light_tank_artillery_equipment_1_short: "ВМС Т3"
-   USA_light_tank_artillery_equipment_2: "Автомобильный транспорт М8 &lt; &lt; Скотт &gt; &gt;"
+   USA_light_tank_artillery_equipment_2: "Автомобильный транспорт М8 Скотт"
    USA_light_tank_artillery_equipment_2_short: "Скотт"
    USA_light_tank_artillery_equipment_3: "Автомобильный транспорт М41"
    USA_light_tank_artillery_equipment_3_short: "МВЦ М41"
@@ -2842,10 +2842,10 @@
 
    USA_light_tank_flame_equipment_1: "М2 Зиппо"
    USA_light_tank_flame_equipment_1_short: "М2 Зиппо"
-   USA_light_tank_flame_equipment_2: "М3 &lt; &lt; Зиппо &gt; &gt;"
-   USA_light_tank_flame_equipment_2_short: "М3 &lt; &lt; Зиппо &gt; &gt;"
-   USA_light_tank_flame_equipment_3: "М24 &lt; &lt; Зиппо &gt; &gt;"
-   USA_light_tank_flame_equipment_3_short: "М24 &lt; &lt; Зиппо &gt; &gt;"
+   USA_light_tank_flame_equipment_2: "М3 Зиппо"
+   USA_light_tank_flame_equipment_2_short: "М3 Зиппо"
+   USA_light_tank_flame_equipment_3: "М24 Зиппо"
+   USA_light_tank_flame_equipment_3_short: "М24 Зиппо"
 
    USA_light_tank_amphibious_equipment_1: "M2 Глубинная вагонная передача"
    USA_light_tank_amphibious_equipment_1_short: "М2 ДРГ"
@@ -2862,7 +2862,7 @@
    USA_medium_tank_equipment_2: "Средняя цистерна, модель 4"
    USA_medium_tank_equipment_2_short: "М4"
    USA_medium_tank_equipment_3: "Средняя цистерна, модель 23"
-   USA_medium_tank_equipment_3_short: "&lt; &lt; М23 &gt; &gt;"
+   USA_medium_tank_equipment_3_short: "М23"
 
    USA_medium_tank_destroyer_equipment_0: "Автомобильный транспорт M1"
    USA_medium_tank_destroyer_equipment_0_short: "GMC M1"
@@ -2888,17 +2888,17 @@
    USA_medium_tank_aa_equipment_1_short: "GMC T36"
    USA_medium_tank_aa_equipment_2: "Автомобильный транспорт T53"
    USA_medium_tank_aa_equipment_2_short: "GMC T53"
-   USA_medium_tank_aa_equipment_3: "Автомобильный транспорт &lt; &lt; М23 &gt; &gt;"
+   USA_medium_tank_aa_equipment_3: "Автомобильный транспорт М23"
    USA_medium_tank_aa_equipment_3_short: "GMC M23"
 
    USA_medium_tank_flame_equipment_0: "Средний танк M1 Zippo"
-   USA_medium_tank_flame_equipment_0_short: "М1 &lt; &lt; Зиппо &gt; &gt;"
+   USA_medium_tank_flame_equipment_0_short: "М1 Зиппо"
    USA_medium_tank_flame_equipment_1: "Средний танк M3 Zippo"
-   USA_medium_tank_flame_equipment_1_short: "М3 &lt; &lt; Зиппо &gt; &gt;"
+   USA_medium_tank_flame_equipment_1_short: "М3 Зиппо"
    USA_medium_tank_flame_equipment_2: "Средний танк M4 Zippo"
-   USA_medium_tank_flame_equipment_2_short: "М4 &lt; &lt; Зиппо &gt; &gt;"
+   USA_medium_tank_flame_equipment_2_short: "М4 Зиппо"
    USA_medium_tank_flame_equipment_3: "Средний танк M23 Zippo"
-   USA_medium_tank_flame_equipment_3_short: "М23 &lt; &lt; Зиппо &gt; &gt;"
+   USA_medium_tank_flame_equipment_3_short: "М23 Зиппо"
 
    USA_medium_tank_amphibious_equipment_0: "Средний танк M1 Двойной привод"
    USA_medium_tank_amphibious_equipment_0_short: "Средний М1 DD"
@@ -2946,11 +2946,11 @@
    USA_heavy_tank_aa_equipment_3_short: "GMC T29"
 
    USA_heavy_tank_flame_equipment_1: "Тяжелый танк М6 &quot; Зиппо &quot;"
-   USA_heavy_tank_flame_equipment_1_short: "М6 &lt; &lt; Зиппо &gt; &gt;"
+   USA_heavy_tank_flame_equipment_1_short: "М6 Зиппо"
    USA_heavy_tank_flame_equipment_2: "Средний танк M4 Jumbo Zippo"
    USA_heavy_tank_flame_equipment_2_short: "Джамбо Зиппо"
    USA_heavy_tank_flame_equipment_3: "Средний танк M26 Zippo"
-   USA_heavy_tank_flame_equipment_3_short: "М26 &lt; &lt; Зиппо &gt; &gt;"
+   USA_heavy_tank_flame_equipment_3_short: "М26 Зиппо"
 
    USA_heavy_tank_amphibious_equipment_1: "Тяжелый танк М6 Глубинная вагонная передача"
    USA_heavy_tank_amphibious_equipment_1_short: "Тяжелый М6 ДРГ"
@@ -3244,13 +3244,13 @@
    NEE_medium_tank_aa_equipment_3_short: "$USA_medium_tank_aa_equipment_3_short$"
 
    NEE_medium_tank_flame_equipment_0: "Средний танк M1 Zippo"
-   NEE_medium_tank_flame_equipment_0_short: "М1 &lt; &lt; Зиппо &gt; &gt;"
+   NEE_medium_tank_flame_equipment_0_short: "М1 Зиппо"
    NEE_medium_tank_flame_equipment_1: "Средний танк M3 Zippo"
-   NEE_medium_tank_flame_equipment_1_short: "М3 &lt; &lt; Зиппо &gt; &gt;"
+   NEE_medium_tank_flame_equipment_1_short: "М3 Зиппо"
    NEE_medium_tank_flame_equipment_2: "Средний танк M4 Zippo"
-   NEE_medium_tank_flame_equipment_2_short: "М4 &lt; &lt; Зиппо &gt; &gt;"
+   NEE_medium_tank_flame_equipment_2_short: "М4 Зиппо"
    NEE_medium_tank_flame_equipment_3: "Средний танк M20 Zippo"
-   NEE_medium_tank_flame_equipment_3_short: "М20 &lt; &lt; Зиппо &gt; &gt;"
+   NEE_medium_tank_flame_equipment_3_short: "М20 Зиппо"
 
    NEE_medium_tank_amphibious_equipment_0: "Средний танк M1 Двойной привод"
    NEE_medium_tank_amphibious_equipment_0_short: "Средний М1 DD"
@@ -3298,7 +3298,7 @@
    NEE_heavy_tank_aa_equipment_3_short: "$USA_heavy_tank_aa_equipment_3_short$"
 
    NEE_heavy_tank_flame_equipment_1: "Средний танк M1 Zippo"
-   NEE_heavy_tank_flame_equipment_1_short: "М1 &lt; &lt; Зиппо &gt; &gt;"
+   NEE_heavy_tank_flame_equipment_1_short: "М1 Зиппо"
    NEE_heavy_tank_flame_equipment_2: "Средний танк M1941 Zippo"
    NEE_heavy_tank_flame_equipment_2_short: "М1941 Зиппо"
    NEE_heavy_tank_flame_equipment_3: "Средняя цистерна M1943 Zippo"
@@ -3702,12 +3702,12 @@
    WCA_light_tank_destroyer_equipment_1_short: "GMC M5"
    WCA_light_tank_destroyer_equipment_2: "Автомобильный транспорт T56"
    WCA_light_tank_destroyer_equipment_2_short: "GMC T56"
-   WCA_light_tank_destroyer_equipment_3: "Автомобильный транспорт M18 &lt; &lt; Хеллкат &gt; &gt;"
+   WCA_light_tank_destroyer_equipment_3: "Автомобильный транспорт M18 Хеллкат"
    WCA_light_tank_destroyer_equipment_3_short: "Адская кошка"
 
    WCA_light_tank_artillery_equipment_1: "Автомобильный транспорт Т3"
    WCA_light_tank_artillery_equipment_1_short: "ВМС Т3"
-   WCA_light_tank_artillery_equipment_2: "Автомобильный транспорт М8 &lt; &lt; Скотт &gt; &gt;"
+   WCA_light_tank_artillery_equipment_2: "Автомобильный транспорт М8 Скотт"
    WCA_light_tank_artillery_equipment_2_short: "Скотт"
    WCA_light_tank_artillery_equipment_3: "Автомобильный транспорт М41"
    WCA_light_tank_artillery_equipment_3_short: "МВЦ М41"
@@ -3719,12 +3719,12 @@
    WCA_light_tank_aa_equipment_3: "Автомобильная перевозка с несколькими пушками T77E1"
    WCA_light_tank_aa_equipment_3_short: "MGMC T77E1"
 
-   WCA_light_tank_flame_equipment_1: "L2 &lt; &lt; Зиппо &gt; &gt;"
-   WCA_light_tank_flame_equipment_1_short: "L2 &lt; &lt; Зиппо &gt; &gt;"
-   WCA_light_tank_flame_equipment_2: "L3 &lt; &lt; Зиппо &gt; &gt;"
-   WCA_light_tank_flame_equipment_2_short: "L3 &lt; &lt; Зиппо &gt; &gt;"
-   WCA_light_tank_flame_equipment_3: "L5 &lt; &lt; Зиппо &gt; &gt;"
-   WCA_light_tank_flame_equipment_3_short: "L5 &lt; &lt; Зиппо &gt; &gt;"
+   WCA_light_tank_flame_equipment_1: "L2 Зиппо"
+   WCA_light_tank_flame_equipment_1_short: "L2 Зиппо"
+   WCA_light_tank_flame_equipment_2: "L3 Зиппо"
+   WCA_light_tank_flame_equipment_2_short: "L3 Зиппо"
+   WCA_light_tank_flame_equipment_3: "L5 Зиппо"
+   WCA_light_tank_flame_equipment_3_short: "L5 Зиппо"
 
    WCA_light_tank_amphibious_equipment_1: "L2 Глубинная ваудирующая передача"
    WCA_light_tank_amphibious_equipment_1_short: "L2 ДРГ"
@@ -3769,17 +3769,17 @@
    WCA_medium_tank_aa_equipment_1_short: "GMC T36"
    WCA_medium_tank_aa_equipment_2: "Автомобильный транспорт T53"
    WCA_medium_tank_aa_equipment_2_short: "GMC T53"
-   WCA_medium_tank_aa_equipment_3: "Автомобильный транспорт &lt; &lt; М23 &gt; &gt;"
+   WCA_medium_tank_aa_equipment_3: "Автомобильный транспорт М23"
    WCA_medium_tank_aa_equipment_3_short: "GMC M23"
 
    WCA_medium_tank_flame_equipment_0: "Средний танк M1 Zippo"
-   WCA_medium_tank_flame_equipment_0_short: "М1 &lt; &lt; Зиппо &gt; &gt;"
+   WCA_medium_tank_flame_equipment_0_short: "М1 Зиппо"
    WCA_medium_tank_flame_equipment_1: "Средний танк M4 Zippo"
-   WCA_medium_tank_flame_equipment_1_short: "М4 &lt; &lt; Зиппо &gt; &gt;"
+   WCA_medium_tank_flame_equipment_1_short: "М4 Зиппо"
    WCA_medium_tank_flame_equipment_2: "Средний танк M5 Zippo"
-   WCA_medium_tank_flame_equipment_2_short: "М5 &lt; &lt; Зиппо &gt; &gt;"
+   WCA_medium_tank_flame_equipment_2_short: "М5 Зиппо"
    WCA_medium_tank_flame_equipment_3: "Средний танк M9 Zippo"
-   WCA_medium_tank_flame_equipment_3_short: "М9 &lt; &lt; Зиппо &gt; &gt;"
+   WCA_medium_tank_flame_equipment_3_short: "М9 Зиппо"
 
    WCA_medium_tank_amphibious_equipment_0: "Средний танк M1 Двойной привод"
    WCA_medium_tank_amphibious_equipment_0_short: "Средний М1 DD"
@@ -3834,7 +3834,7 @@
    WCA_heavy_tank_flame_equipment_2: "Тяжелая цистерна H2 Zippo"
    WCA_heavy_tank_flame_equipment_2_short: "H2 Зиппо"
    WCA_heavy_tank_flame_equipment_3: "Тяжелая цистерна H4 Zippo"
-   WCA_heavy_tank_flame_equipment_3_short: "H4 &lt; &lt; Зиппо &gt; &gt;"
+   WCA_heavy_tank_flame_equipment_3_short: "H4 Зиппо"
 
    WCA_heavy_tank_amphibious_equipment_1: "Тяжелый танк H1 Глубинная вагонная передача"
    WCA_heavy_tank_amphibious_equipment_1_short: "Тяжелый Н1 ДРГ"
@@ -3845,7 +3845,7 @@
 
    WCA_super_heavy_tank_equipment_1: "Континентальная армия, тяжелый танк, модель 5"
    WCA_super_heavy_tank_equipment_1_short: "CA-H5"
-   WCA_super_heavy_tank_equipment_1_desc: "Несмотря на то, что тяжелый танк H2 сыграл свою роль, его вооружения и бронежилеты были признаны недостаточными, особенно для городской среды. &lt; &lt; Н5 &gt; &gt; , несмотря на то, что он был оснащен более крупным двигателем, новым 105ммм пистолетом и более толстым покрытием, его шасси были удлинены, а новая башня была спроектирована. &lt; &lt; Верхний бронетранспортер &gt; &gt; был достаточно значительным и был способен выдержать прямые удары из пушек большого калибра."
+   WCA_super_heavy_tank_equipment_1_desc: "Несмотря на то, что тяжелый танк H2 сыграл свою роль, его вооружения и бронежилеты были признаны недостаточными, особенно для городской среды. Н5 , несмотря на то, что он был оснащен более крупным двигателем, новым 105ммм пистолетом и более толстым покрытием, его шасси были удлинены, а новая башня была спроектирована. Верхний бронетранспортер был достаточно значительным и был способен выдержать прямые удары из пушек большого калибра."
 
    WCA_modern_tank_equipment_1: "Континентальная армия, средний танк, модель 12"
    WCA_modern_tank_equipment_1_short: "CA-M12"
@@ -3885,12 +3885,12 @@
    APG_light_tank_destroyer_equipment_1_short: "GMC M5"
    APG_light_tank_destroyer_equipment_2: "Автомобильный транспорт T56"
    APG_light_tank_destroyer_equipment_2_short: "GMC T56"
-   APG_light_tank_destroyer_equipment_3: "Автомобильный транспорт M18 &lt; &lt; Хеллкат &gt; &gt;"
+   APG_light_tank_destroyer_equipment_3: "Автомобильный транспорт M18 Хеллкат"
    APG_light_tank_destroyer_equipment_3_short: "Адская кошка"
 
    APG_light_tank_artillery_equipment_1: "Автомобильный транспорт Т3"
    APG_light_tank_artillery_equipment_1_short: "ВМС Т3"
-   APG_light_tank_artillery_equipment_2: "Автомобильный транспорт М8 &lt; &lt; Скотт &gt; &gt;"
+   APG_light_tank_artillery_equipment_2: "Автомобильный транспорт М8 Скотт"
    APG_light_tank_artillery_equipment_2_short: "Скотт"
    APG_light_tank_artillery_equipment_3: "Автомобильный транспорт М41"
    APG_light_tank_artillery_equipment_3_short: "МВЦ М41"
@@ -3952,7 +3952,7 @@
    APG_medium_tank_aa_equipment_1_short: "GMC T36"
    APG_medium_tank_aa_equipment_2: "Автомобильный транспорт T53"
    APG_medium_tank_aa_equipment_2_short: "GMC T53"
-   APG_medium_tank_aa_equipment_3: "Автомобильный транспорт &lt; &lt; М23 &gt; &gt;"
+   APG_medium_tank_aa_equipment_3: "Автомобильный транспорт М23"
    APG_medium_tank_aa_equipment_3_short: "GMC M23"
 
    APG_medium_tank_flame_equipment_0: "Средний танк M1 Zippo"
@@ -4061,11 +4061,11 @@
    ITA_light_tank_equipment_3: "L16/41"         # M16/43
    ITA_light_tank_equipment_3_short: "L16/41"
 
-   ITA_light_tank_destroyer_equipment_1: "L3 &lt; &lt; Контро Карро &gt; &gt;"
+   ITA_light_tank_destroyer_equipment_1: "L3 Контро Карро"
    ITA_light_tank_destroyer_equipment_1_short: "L3 CC"
-   ITA_light_tank_destroyer_equipment_2: "L6 &lt; &lt; Контро Карро &gt; &gt;"
+   ITA_light_tank_destroyer_equipment_2: "L6 Контро Карро"
    ITA_light_tank_destroyer_equipment_2_short: "L6 CC"
-   ITA_light_tank_destroyer_equipment_3: "L16 &lt; &lt; Контро Карро &gt; &gt;"
+   ITA_light_tank_destroyer_equipment_3: "L16 Контро Карро"
    ITA_light_tank_destroyer_equipment_3_short: "L16 CC"
 
    ITA_light_tank_artillery_equipment_1: "Semovente L3"
@@ -4105,13 +4105,13 @@
    ITA_medium_tank_equipment_3: "М30/43"         # P43 (or P30/43) bis
    ITA_medium_tank_equipment_3_short: "М30/43"
 
-   ITA_medium_tank_destroyer_equipment_0: "M10 &lt; &lt; Контро Карро &gt; &gt;"
+   ITA_medium_tank_destroyer_equipment_0: "M10 Контро Карро"
    ITA_medium_tank_destroyer_equipment_0_short: "М10 CC"
-   ITA_medium_tank_destroyer_equipment_1: "M11 &lt; &lt; Контро Карро &gt; &gt;"
+   ITA_medium_tank_destroyer_equipment_1: "M11 Контро Карро"
    ITA_medium_tank_destroyer_equipment_1_short: "М11 CC"
-   ITA_medium_tank_destroyer_equipment_2: "M15 &lt; &lt; Контро Карро &gt; &gt;"
+   ITA_medium_tank_destroyer_equipment_2: "M15 Контро Карро"
    ITA_medium_tank_destroyer_equipment_2_short: "М15 CC"
-   ITA_medium_tank_destroyer_equipment_3: "М30 &lt; &lt; Контро Карро &gt; &gt;"
+   ITA_medium_tank_destroyer_equipment_3: "М30 Контро Карро"
    ITA_medium_tank_destroyer_equipment_3_short: "М30 CC"
 
    ITA_medium_tank_artillery_equipment_0: "Semovente M10"
@@ -4145,8 +4145,8 @@
    ITA_medium_tank_amphibious_equipment_0_short: "М10 Анфибио"
    ITA_medium_tank_amphibious_equipment_1: "М11 Анфибио"
    ITA_medium_tank_amphibious_equipment_1_short: "М11 Анфибио"
-   ITA_medium_tank_amphibious_equipment_2: "М15 &lt; &lt; Анфибио &gt; &gt;"
-   ITA_medium_tank_amphibious_equipment_2_short: "М15 &lt; &lt; Анфибио &gt; &gt;"
+   ITA_medium_tank_amphibious_equipment_2: "М15 Анфибио"
+   ITA_medium_tank_amphibious_equipment_2_short: "М15 Анфибио"
    ITA_medium_tank_amphibious_equipment_3: "М30 Анфибио"
    ITA_medium_tank_amphibious_equipment_3_short: "М30 Анфибио"
 
@@ -4159,13 +4159,13 @@
    ITA_heavy_tank_equipment_3: "P56/43"
    ITA_heavy_tank_equipment_3_short: "P56/43"
 
-   ITA_heavy_tank_destroyer_equipment_0: "P40 &lt; &lt; Контро Карро &gt; &gt;"
+   ITA_heavy_tank_destroyer_equipment_0: "P40 Контро Карро"
    ITA_heavy_tank_destroyer_equipment_0_short: "P40 CC"
-   ITA_heavy_tank_destroyer_equipment_1: "P25 &lt; &lt; Контро Карро &gt; &gt;"
+   ITA_heavy_tank_destroyer_equipment_1: "P25 Контро Карро"
    ITA_heavy_tank_destroyer_equipment_1_short: "P25 CC"
-   ITA_heavy_tank_destroyer_equipment_2: "P26 &lt; &lt; Контро Карро &gt; &gt;"
+   ITA_heavy_tank_destroyer_equipment_2: "P26 Контро Карро"
    ITA_heavy_tank_destroyer_equipment_2_short: "P26 CC"
-   ITA_heavy_tank_destroyer_equipment_3: "P56 &lt; &lt; Контро Карро &gt; &gt;"
+   ITA_heavy_tank_destroyer_equipment_3: "P56 Контро Карро"
    ITA_heavy_tank_destroyer_equipment_3_short: "P56 CC"
 
    ITA_heavy_tank_artillery_equipment_0: "Семивенция P40"
@@ -4206,7 +4206,7 @@
 
    ITA_super_heavy_tank_equipment_1: "P140 Центурио"     # Fully fictional. Around same weight as E100 and O-I (140t)
    ITA_super_heavy_tank_equipment_1_short: "P140 Центурио"
-   ITA_super_heavy_tank_destroyer_equipment_1: "P140 &lt; &lt; Контро Карро &gt; &gt;"
+   ITA_super_heavy_tank_destroyer_equipment_1: "P140 Контро Карро"
    ITA_super_heavy_tank_destroyer_equipment_1_short: "P140 CC"
    ITA_super_heavy_tank_artillery_equipment_1: "Семовент Р140"
    ITA_super_heavy_tank_artillery_equipment_1_short: "Семовент Р140"
@@ -5856,7 +5856,7 @@
    FRA_heavy_tank_artillery_equipment_3: "SOMUA M4 Canon de 155-мм автомотров"
    FRA_heavy_tank_artillery_equipment_3_short: "SOMUA M4 155A"
 
-   FRA_heavy_tank_aa_equipment_0: "2C ДК &lt; &lt; Канон &gt; &gt;"
+   FRA_heavy_tank_aa_equipment_0: "2C ДК Канон"
    FRA_heavy_tank_aa_equipment_0_short: "2C ДКА"
    FRA_heavy_tank_aa_equipment_1: "B1 DCA Canon"
    FRA_heavy_tank_aa_equipment_1_short: "B1 ДСС"
@@ -5890,7 +5890,7 @@
    FRA_super_heavy_tank_artillery_equipment_1: "ARL 'Char d'Egalité'"
    FRA_super_heavy_tank_artillery_equipment_1_short: "Чар д'Эгалите"
    FRA_super_heavy_tank_aa_equipment_1: "ARL "Char de Fraternité""
-   FRA_super_heavy_tank_aa_equipment_1_short: "&lt; &lt; Братство &gt; &gt;"
+   FRA_super_heavy_tank_aa_equipment_1_short: "Братство"
    FRA_super_heavy_tank_flame_equipment_1: "Lance-Flammes CDF ARL"
    FRA_super_heavy_tank_flame_equipment_1_short: "Lance-Flammes CDF ARL"
    FRA_super_heavy_tank_amphibious_equipment_1: "Amphibie CDF ARL"
@@ -6863,7 +6863,7 @@
 
    SER_medium_tank_equipment_0: "$RUS_medium_tank_equipment_0$"
    SER_medium_tank_equipment_0_short: "$RUS_medium_tank_equipment_0_short$"
-   SER_medium_tank_equipment_1: "Модель &lt; &lt; Ратна кола &gt; &gt; 1933 года"
+   SER_medium_tank_equipment_1: "Модель Ратна кола 1933 года"
    SER_medium_tank_equipment_1_short: "РК М. 1933 года"
    SER_medium_tank_equipment_2: "Модель Ratna kola 1942"
    SER_medium_tank_equipment_2_short: "RK M. 1942"
@@ -6919,7 +6919,7 @@
    SER_heavy_tank_equipment_0_short: "ДК М. 1929 года"
    SER_heavy_tank_equipment_1: "Модель &quot; Юришна кола &quot; 1934 года"
    SER_heavy_tank_equipment_1_short: "ДК М. 1934 года"
-   SER_heavy_tank_equipment_2: "Модель &lt; &lt; Юришна кола &gt; &gt; 1941 года"
+   SER_heavy_tank_equipment_2: "Модель Юришна кола 1941 года"
    SER_heavy_tank_equipment_2_short: "ДК М. 1941 года"
    SER_heavy_tank_equipment_3: "Модель Jurishna kola 1943"
    SER_heavy_tank_equipment_3_short: "ДК М. 1943 года"
@@ -6990,9 +6990,9 @@
    SER_modern_tank_amphibious_equipment_1: "$FRA_modern_tank_amphibious_equipment_1$"
    SER_modern_tank_amphibious_equipment_1_short: "$FRA_modern_tank_amphibious_equipment_1_short$"
 
-   SER_amphibious_tank_equipment_1: "Модель &lt; &lt; Плутаджука кола &gt; &gt; 1940 года"
+   SER_amphibious_tank_equipment_1: "Модель Плутаджука кола 1940 года"
    SER_amphibious_tank_equipment_1_short: "ПК М. 1940 года"
-   SER_amphibious_tank_equipment_2: "Модель &lt; &lt; Плутаджука кола &gt; &gt; 1943 года"
+   SER_amphibious_tank_equipment_2: "Модель Плутаджука кола 1943 года"
    SER_amphibious_tank_equipment_2_short: "ПК М. 1943 года"
   ### France (Puppet) ###
    FRP_gw_tank_equipment: "$FRA_gw_tank_equipment$"
@@ -11183,7 +11183,7 @@
 
    BEL_light_tank_destroyer_equipment_1: "Т13"
    BEL_light_tank_destroyer_equipment_1_short: "Т13"
-   BEL_light_tank_destroyer_equipment_1_desc: "Благодаря благоприятному приему канадских танкеров &lt; &lt; Виккерс &gt; &gt; и давлению Германии на правительство Фландро-Валлона с целью разрыва связей с канадскими производителями, когда возникла необходимость в принятии уничтожителя танков, был выбран проект производителя стрелкового оружия вблизи Хайнаута, главным образом из-за его сходства с известными канадскими конструкциями. &lt; &lt; Автомобиль &gt; &gt; вооружен тем же 47-миллиметровым противотанковым пистолетом, который уже используется в армии."
+   BEL_light_tank_destroyer_equipment_1_desc: "Благодаря благоприятному приему канадских танкеров Виккерс и давлению Германии на правительство Фландро-Валлона с целью разрыва связей с канадскими производителями, когда возникла необходимость в принятии уничтожителя танков, был выбран проект производителя стрелкового оружия вблизи Хайнаута, главным образом из-за его сходства с известными канадскими конструкциями. Автомобиль вооружен тем же 47-миллиметровым противотанковым пистолетом, который уже используется в армии."
    BEL_light_tank_destroyer_equipment_2: "T13 B3"
    BEL_light_tank_destroyer_equipment_2_short: "T13 B3"
    BEL_light_tank_destroyer_equipment_2_desc: "Спортив как башню, так и новый 75-миллиметровый пистолет на полностью переработанном шасси, B3 также может быть совершенно новым транспортным средством."
@@ -11730,7 +11730,7 @@
 
    HOL_light_tank_equipment_1: "DAF M39 &quot; Штандерваген &quot;"
    HOL_light_tank_equipment_1_short: "DAF M39"
-   HOL_light_tank_equipment_1_desc: "В свое время DAF M39 был современным дизайном с полностью сваренным монококом корпуса и широким использованием наклонных бронежилетов. &lt; &lt; Лэндсверк &gt; &gt; произвел в Швеции турнир с относительно мощной 37-миллиметровой пушкой. &lt; &lt; Лэндсверк &gt; &gt; легко бронированный и относительно быстрый, с хорошей способностью пересекать страну."
+   HOL_light_tank_equipment_1_desc: "В свое время DAF M39 был современным дизайном с полностью сваренным монококом корпуса и широким использованием наклонных бронежилетов. Лэндсверк произвел в Швеции турнир с относительно мощной 37-миллиметровой пушкой. Лэндсверк легко бронированный и относительно быстрый, с хорошей способностью пересекать страну."
    HOL_light_tank_equipment_2: "Штандервоэртуйг 2"
    HOL_light_tank_equipment_2_short: "PVT-2"
    HOL_light_tank_equipment_3: "Штандервоэртуйг 5"
@@ -12102,12 +12102,12 @@
    TUR_light_tank_equipment_0_short: "Z-V"
    TUR_gw_tank_equipment_desc: "Во время Велткрига оттоманская армия захватила танки Марка V и ФТ, а затем переоборудовала их в боевой состав, обманав их "Зирхли V" и "MT-17". После того, как британские войска сдались, Османская империя получила большое количество марок V в качестве трофеев войны. Танк Z-V был главным танком в оттоманской бронекорпусе. Хотя более совершенные танки заменили Z-V в конечном итоге, армия все еще рассматривает их для подготовки своих танковых экипажей."
 
-   TUR_light_tank_equipment_1: "&lt; &lt; Мухаребе Танки &gt; &gt;"
+   TUR_light_tank_equipment_1: "Мухаребе Танки"
    TUR_light_tank_equipment_1_short: "MT-52 "Sekban""
-   TUR_light_tank_equipment_1_desc: "Проект &lt; &lt; Секбан &gt; &gt; является первой попыткой реорганизовать и реформировать оттоманский бронетранспортерный корпус, который был включен в военные реформы в Харб-и-Ильдыриме. С этой целью &lt; &lt; Оттоманская империя &gt; &gt; приобрела лицензию для немецкого &lt; &lt; Спяпанцер II &gt; &gt; и разработала производственную линию, которую могли бы обработать предприятия &lt; &lt; Оттоман &gt; &gt; . Первоначальный план предусматривал замену старого Z-V MT-52, однако полевые испытания показали, что MT-52 не соответствует уровню производства в Германии. Тем не менее качество нового танка было признано достаточно хорошим."
-   TUR_light_tank_equipment_2: "&lt; &lt; Мухаребе Танки &gt; &gt;"
+   TUR_light_tank_equipment_1_desc: "Проект Секбан является первой попыткой реорганизовать и реформировать оттоманский бронетранспортерный корпус, который был включен в военные реформы в Харб-и-Ильдыриме. С этой целью Оттоманская империя приобрела лицензию для немецкого Спяпанцер II и разработала производственную линию, которую могли бы обработать предприятия Оттоман . Первоначальный план предусматривал замену старого Z-V MT-52, однако полевые испытания показали, что MT-52 не соответствует уровню производства в Германии. Тем не менее качество нового танка было признано достаточно хорошим."
+   TUR_light_tank_equipment_2: "Мухаребе Танки"
    TUR_light_tank_equipment_2_short: "MT-55 "Бейлик""
-   TUR_light_tank_equipment_2_desc: "MT-55 Beylik является вторым значительным шагом по модернизации оттоманского бронетанкового корпуса. &lt; &lt; Ошибки и проблемы надежности &gt; &gt; , связанные с MT-52, были в основном установлены, а в пушки, корпус и двигатель были внесены дополнительные изменения с помощью немецких консультантов."
+   TUR_light_tank_equipment_2_desc: "MT-55 Beylik является вторым значительным шагом по модернизации оттоманского бронетанкового корпуса. Ошибки и проблемы надежности , связанные с MT-52, были в основном установлены, а в пушки, корпус и двигатель были внесены дополнительные изменения с помощью немецких консультантов."
    TUR_light_tank_equipment_3: "I. Хафиф Жирхли Мухаребе Васитаси"
    TUR_light_tank_equipment_3_short: "I.HZMV "Звезда""
    TUR_light_tank_equipment_3_desc: "I. Hafif Zirhli Muharebe Vasitası "Tatar" - это более легкий вариант разработанного в то же время II. ZMV Uygur. Он был разработан для целей разведки и фланга на базе немецких цистерн Sturmpanzerkampfwagen IV и других немецких танков с использованием опыта разработки MT-55."
@@ -12119,16 +12119,16 @@
    TUR_light_tank_artillery_equipment_3: "I. Хафиф Сейяр Топчу"
    TUR_light_tank_artillery_equipment_3_short: "И.С. "Османия""
 
-   TUR_light_tank_destroyer_equipment_1: "&lt; &lt; Мухаребе Танки &gt; &gt; , Калип 1352 Zirhsavar"
+   TUR_light_tank_destroyer_equipment_1: "Мухаребе Танки , Калип 1352 Zirhsavar"
    TUR_light_tank_destroyer_equipment_1_short: "MT-52ZS"
    TUR_light_tank_destroyer_equipment_2: "Мухаребе Танки Калип 1355 Зырхсавар"
    TUR_light_tank_destroyer_equipment_2_short: "MT-55ZS"
    TUR_light_tank_destroyer_equipment_3: "I. Хафиф Васитаси Зырхсавар"
    TUR_light_tank_destroyer_equipment_3_short: "I.HVZS "Сезерчик""
 
-   TUR_light_tank_aa_equipment_1: "&lt; &lt; Мухаребе Танки &gt; &gt; , Калип 1352 Uçaksavar"
+   TUR_light_tank_aa_equipment_1: "Мухаребе Танки , Калип 1352 Uçaksavar"
    TUR_light_tank_aa_equipment_1_short: "MT-52US"
-   TUR_light_tank_aa_equipment_2: "&lt; &lt; Мухаребе Танки &gt; &gt; , Калип 1355 года, Учаксавар"
+   TUR_light_tank_aa_equipment_2: "Мухаребе Танки , Калип 1355 года, Учаксавар"
    TUR_light_tank_aa_equipment_2_short: "MT-55US"
    TUR_light_tank_aa_equipment_3: "I. Хафиф Моторлу Учаксавар"
    TUR_light_tank_aa_equipment_3_short: "И.ХУС "Тува""
@@ -12156,7 +12156,7 @@
    TUR_medium_tank_equipment_2_short: "II. ЗМВ &quot; Куман &quot;"
    TUR_medium_tank_equipment_2_desc: "Средний танк II. ZMV "Kuman" является обновленной версией I. ZMV. Он предназначен для того, чтобы выдержать самые суровые условия, сохраняя при этом достойную боевую эффективность. Он имеет 7,7 см CVT основное вооружение и M1358 коаксиальных MG. Экспериментальные бронежилеты и бронированные юбки также были введены в попытке противостоять вступающим в атаку вражеским патронам AT."
    TUR_medium_tank_equipment_3: "III. Жирхли Мухаребе Васитаси"
-   TUR_medium_tank_equipment_3_short: "III. ЗМВ &lt; &lt; Алтей &gt; &gt;"
+   TUR_medium_tank_equipment_3_short: "III. ЗМВ Алтей"
    TUR_medium_tank_equipment_3_desc: "Альтай - это обычное название среднего танка, разработанного Османской империей во время Второй Велткриг и на поздних этапах Второй Арабской Револьт. Он предназначен для стандартизации производства танков, а также для замены I. ZMV и II. ZMV. Хотя он имеет слишком сложный дизайн, чтобы заменить их на полях боя, танк Altay быстро нашел нишу в боевой тактике Оттоманской армии. Немцы назвали Altay Tank "Clausewitz Pasha", потому что на его проект оказал сильное влияние немецкий панзеркампфваген V фон Клаузвиц."
 
    TUR_medium_tank_artillery_equipment_0: "$GER_medium_tank_artillery_equipment_0$"
@@ -12190,7 +12190,7 @@
    TUR_medium_tank_aa_equipment_2_desc: "Cherkez — мобильная противовоздушная артиллерия, установленная на шасси II. ZMV."
    TUR_medium_tank_aa_equipment_3: "III. Motorlu Tayare Topu"
    TUR_medium_tank_aa_equipment_3_short: "III. МТТ &quot; Тюркмены &quot;"
-   TUR_medium_tank_aa_equipment_3_desc: "Прототипы противовоздушной артиллерии СП, разработанные во время проекта &lt; &lt; Альтай &gt; &gt; , но сам проект пришлось отменить из-за его дорогостоящего и сложного дизайна."
+   TUR_medium_tank_aa_equipment_3_desc: "Прототипы противовоздушной артиллерии СП, разработанные во время проекта Альтай , но сам проект пришлось отменить из-за его дорогостоящего и сложного дизайна."
 
    TUR_medium_tank_flame_equipment_0: "$GER_medium_tank_flame_equipment_0$"
    TUR_medium_tank_flame_equipment_0_short: "$GER_medium_tank_flame_equipment_0_short$"
@@ -12215,7 +12215,7 @@
    TUR_heavy_tank_equipment_1: "Агир Васита Калип 1341"
    TUR_heavy_tank_equipment_1_short: "AV-41 "Гази""
    TUR_heavy_tank_equipment_2: "II. Агир Зирхли Мухаребе Васитаси"
-   TUR_heavy_tank_equipment_2_short: "II. АЗМВ &lt; &lt; Арслан &gt; &gt;"
+   TUR_heavy_tank_equipment_2_short: "II. АЗМВ Арслан"
    TUR_heavy_tank_equipment_3: "III. Агир Зирхли Мухаребе Васитаси"
    TUR_heavy_tank_equipment_3_short: "III. АЗМВ &quot; Азап &quot;"
 
@@ -12278,11 +12278,11 @@
    TUR_super_heavy_tank_amphibious_equipment_1_short: "$GER_super_heavy_tank_amphibious_equipment_1_short$"
 
    TUR_modern_tank_equipment_1: "IV. Жирхли Мухаребе Васитаси"
-   TUR_modern_tank_equipment_1_short: "IV. ЗМВ &lt; &lt; Алтынорда &gt; &gt;"
+   TUR_modern_tank_equipment_1_short: "IV. ЗМВ Алтынорда"
    TUR_modern_tank_artillery_equipment_1: "IV. Кендинден Тахрикли Топ"
    TUR_modern_tank_artillery_equipment_1_short: "IV. KTT "Altynsapan""
    TUR_modern_tank_destroyer_equipment_1: "IV. Зирхли Моторлу Зырхсавар"
-   TUR_modern_tank_destroyer_equipment_1_short: "IV. ЗМЗС &lt; &lt; Алтынмицрак &gt; &gt;"
+   TUR_modern_tank_destroyer_equipment_1_short: "IV. ЗМЗС Алтынмицрак"
    TUR_modern_tank_destroyer_equipment_1_desc: "Обновленная версия III. ZMZS "Selcuk", Altynmyzrak быстрее и лучше бронирует"
    TUR_modern_tank_aa_equipment_1: "IV. Зирхли Моторлу Учаксавар"
    TUR_modern_tank_aa_equipment_1_short: "IV. ZMUS &quot; Алтынок &quot;"
@@ -13479,11 +13479,11 @@
    BLR_light_tank_artillery_equipment_3: "105-мм Самаходная Устанука uз.1941"
    BLR_light_tank_artillery_equipment_3_short: "СУ-41"
 
-   BLR_light_tank_destroyer_equipment_1: "50-мм &lt; &lt; Процитанкаваджа Самаходная Устанука &gt; &gt; uз.1932"
+   BLR_light_tank_destroyer_equipment_1: "50-мм Процитанкаваджа Самаходная Устанука uз.1932"
    BLR_light_tank_destroyer_equipment_1_short: "PTSU-50"
-   BLR_light_tank_destroyer_equipment_2: "75-мм &lt; &lt; Процитанкаваджа Самаходная Устанука &gt; &gt; uз.1936"
+   BLR_light_tank_destroyer_equipment_2: "75-мм Процитанкаваджа Самаходная Устанука uз.1936"
    BLR_light_tank_destroyer_equipment_2_short: "ПТУ-75"
-   BLR_light_tank_destroyer_equipment_3: "75-мм &lt; &lt; Процитанкаваджа Самаходная Устанука &gt; &gt; uз.1941"
+   BLR_light_tank_destroyer_equipment_3: "75-мм Процитанкаваджа Самаходная Устанука uз.1941"
    BLR_light_tank_destroyer_equipment_3_short: "ПТУ-41"
 
    BLR_light_tank_aa_equipment_1: "20-мм Зьенитнажа Самаходная Устанука uз 1932 года"
@@ -13529,9 +13529,9 @@
    BLR_medium_tank_destroyer_equipment_0_short: "$GER_medium_tank_destroyer_equipment_0_short$"
    BLR_medium_tank_destroyer_equipment_1: "75-мм Штурмаваджа Самаходная Устанука uз.1936"
    BLR_medium_tank_destroyer_equipment_1_short: "ШСУ-75"
-   BLR_medium_tank_destroyer_equipment_2: "75-мм &lt; &lt; Процитанкаваджа Самаходная Устанука &gt; &gt; uз.1939"
+   BLR_medium_tank_destroyer_equipment_2: "75-мм Процитанкаваджа Самаходная Устанука uз.1939"
    BLR_medium_tank_destroyer_equipment_2_short: "ПТУ-39"
-   BLR_medium_tank_destroyer_equipment_3: "88-мм &lt; &lt; Процитанкаваджа Самаходная Устанука &gt; &gt; uз.1942"
+   BLR_medium_tank_destroyer_equipment_3: "88-мм Процитанкаваджа Самаходная Устанука uз.1942"
    BLR_medium_tank_destroyer_equipment_3_short: "PTSU-88"
 
    BLR_medium_tank_aa_equipment_0: "$GER_medium_tank_aa_equipment_0$"
@@ -13641,9 +13641,9 @@
    BLR_modern_tank_amphibious_equipment_1: "$GER_modern_tank_amphibious_equipment_1$"
    BLR_modern_tank_amphibious_equipment_1_short: "$GER_modern_tank_amphibious_equipment_1_short$"
 
-   BLR_amphibious_tank_equipment_1: "Цистерна &lt; &lt; Льохки &gt; &gt;"
+   BLR_amphibious_tank_equipment_1: "Цистерна Льохки"
    BLR_amphibious_tank_equipment_1_short: "PLT-41"
-   BLR_amphibious_tank_equipment_2: "Цистерна &lt; &lt; Плювчи сиаредни &gt; &gt; 1943 года"
+   BLR_amphibious_tank_equipment_2: "Цистерна Плювчи сиаредни 1943 года"
    BLR_amphibious_tank_equipment_2_short: "PST-43"
   ### Lithuania ###
    LIT_gw_tank_equipment: "1919 м. Modelio lengvasis танка "Leikhtraktor""
@@ -13838,7 +13838,7 @@
    LAT_light_tank_equipment_0_short: "19. Лейхтрактор"
 
    LAT_light_tank_equipment_1: "1932 год. g. режим &quot; вегеталы &quot;"
-   LAT_light_tank_equipment_1_short: "32. &lt; &lt; Кляйнпанзер &gt; &gt; 1b"
+   LAT_light_tank_equipment_1_short: "32. Кляйнпанзер 1b"
    LAT_light_tank_equipment_2: "1936. g. режим &quot; вегетарианская цистерна &quot; Kleinpanzer 2 &quot;"
    LAT_light_tank_equipment_2_short: "36. &quot; Кляйнпанзер &quot; 2"
    LAT_light_tank_equipment_3: "1940 год. g. режим &quot; Vairogs 2 &quot;"
@@ -14069,7 +14069,7 @@
    EST_medium_tank_equipment_0_short: "$GER_medium_tank_equipment_0_short$"
    EST_medium_tank_equipment_1: "Цистерна &quot; Мудель &quot; 1936 года"
    EST_medium_tank_equipment_1_short: "М36"
-   EST_medium_tank_equipment_2: "Цистерна &lt; &lt; Мудель 1939 года &gt; &gt;"
+   EST_medium_tank_equipment_2: "Цистерна Мудель 1939 года"
    EST_medium_tank_equipment_2_short: "М39"
    EST_medium_tank_equipment_3: "Цистерна &quot; Мудель 1942 &quot; Кескмин"
    EST_medium_tank_equipment_3_short: "М42"
@@ -14125,7 +14125,7 @@
    EST_heavy_tank_equipment_1_short: "М35"
    EST_heavy_tank_equipment_2: "&quot; Мудель 1941 &quot; Танк &quot; Раске &quot;"
    EST_heavy_tank_equipment_2_short: "М41"
-   EST_heavy_tank_equipment_3: "Мудель 1943 года Танк &lt; &lt; Раске &gt; &gt;"
+   EST_heavy_tank_equipment_3: "Мудель 1943 года Танк Раске"
    EST_heavy_tank_equipment_3_short: "М43"
 
    EST_heavy_tank_artillery_equipment_0: "$GER_heavy_tank_artillery_equipment_0$"
@@ -14188,7 +14188,7 @@
 
    EST_modern_tank_equipment_1: "Цистерна &quot; Мудель 1945 &quot;"
    EST_modern_tank_equipment_1_short: "М45"
-   EST_modern_tank_artillery_equipment_1: "&lt; &lt; Мудель 1945 &gt; &gt; 150-мм Likursuurtükk"
+   EST_modern_tank_artillery_equipment_1: "Мудель 1945 150-мм Likursuurtükk"
    EST_modern_tank_artillery_equipment_1_short: "150-мм М45"
    EST_modern_tank_destroyer_equipment_1: "Мудель 1945 года 105-мм Tankihävitaja"
    EST_modern_tank_destroyer_equipment_1_short: "105-мм М45"
@@ -14759,8 +14759,8 @@
 
    POL_amphibious_tank_equipment_1: "PZIn130"
    POL_amphibious_tank_equipment_1_short: "PZIn130"
-   POL_amphibious_tank_equipment_2: "&lt; &lt; Хробок III &gt; &gt;"
-   POL_amphibious_tank_equipment_2_short: "&lt; &lt; Хробок III &gt; &gt;"
+   POL_amphibious_tank_equipment_2: "Хробок III"
+   POL_amphibious_tank_equipment_2_short: "Хробок III"
   ### Ukraine ###
    UKR_gw_tank_equipment: "Lehkyi Tank zr.1919"
    UKR_light_tank_equipment_0: "Lehkyi Tank zr.1919"
@@ -14934,9 +14934,9 @@
    UKR_modern_tank_amphibious_equipment_1: "$GER_modern_tank_amphibious_equipment_1$"
    UKR_modern_tank_amphibious_equipment_1_short: "$GER_modern_tank_amphibious_equipment_1_short$"
 
-   UKR_amphibious_tank_equipment_1: "Цистерна &lt; &lt; Плаваючи &gt; &gt; &lt; &lt; Лехкий &gt; &gt; , 1941 год"
+   UKR_amphibious_tank_equipment_1: "Цистерна Плаваючи Лехкий , 1941 год"
    UKR_amphibious_tank_equipment_1_short: "PLT-41"
-   UKR_amphibious_tank_equipment_2: "Цистерна &lt; &lt; Плаваючи &gt; &gt; , цистерна &lt; &lt; Середни &gt; &gt; , 1943 год"
+   UKR_amphibious_tank_equipment_2: "Цистерна Плаваючи , цистерна Середни , 1943 год"
    UKR_amphibious_tank_equipment_2_short: "PST-43"
 
   ### Free Russian Army ###
@@ -15152,7 +15152,7 @@
    NFA_light_tank_equipment_2: "Шар де Маньювр д'Энсембл Рено Моделе 1935 года"
    NFA_light_tank_equipment_2_short: "CMER-35"
    NFA_light_tank_equipment_2_desc: "После разработки танка КДПГ-30, который уже был выведен из чисто пехотной поддержки, французская армия заказала новый танк, который мог бы вести борьбу с вражескими партнерами. &quot; Рено &quot; запросила финансирование для разработки нового танка, который был отклонен, пока они не представили прототип. &quot; Рено УЗ &quot; был введен в 1935 году и был немедленно принят в эксплуатацию в качестве &quot; Чар де Манювр д &apos; Энсембл рено Модель &quot; 1935 года из-за финансовых проблем французского правительства, но в ограниченном количестве. &quot; CMER-35 &quot; во многих отношениях представляет собой несколько расширенную модель КДПГ-30, сохраняющую многие характеристики предыдущего автомобиля, но с увеличенными бронежилетами и вооружён 47-ммм пушками."
-   NFA_light_tank_equipment_3: "&lt; &lt; Чар Легер де бой цитруэн &gt; &gt;"
+   NFA_light_tank_equipment_3: "Чар Легер де бой цитруэн"
    NFA_light_tank_equipment_3_short: "CLC-C"
    NFA_light_tank_equipment_3_desc: "Шар Легер де Бой Ситруэн - это легкий танк, созданный по просьбе французской армии для легкой бронированной тяжелой боевой машины. CLC-C имеет извилистую башню с куполом для оружейника, расположенной вдоль осевой линии турнира. Сама башня смещается влево, чтобы освободить место для отделения водителя в корпусе и вооружена журналом с 90-мм пушкой с правой стороны."
 
@@ -15196,10 +15196,10 @@
    NFA_medium_tank_equipment_1: "Shar de Bataille Peugeot Modèle 1939"
    NFA_medium_tank_equipment_1_short: "КБП-39"
    NFA_medium_tank_equipment_1_desc: "Char de Bataille Peugeot Modèle 1939 — модернизированный комплекс CMER-35 и CRP-37S, разработанный Peugeot в рамках подготовки к возвращению во Францию, CBP-39 вооружён 75-мм пистолетом и хорошими доспехами, однако CBP-39 не имеет специальной ниши и используется главным образом для заполнения дыр в тактических и стратегических планах французского командования."
-   NFA_medium_tank_equipment_2: "&lt; &lt; Рено &gt; &gt;"
+   NFA_medium_tank_equipment_2: "Рено"
    NFA_medium_tank_equipment_2_short: "CdC G1-R"
    NFA_medium_tank_equipment_2_desc: "CdC G1-R представляет собой 20-тонную замену CMER-35. CdC G1-R является одним из самых современных французских танков, обеспечивающих хорошее вооружение и мобильность и пригодных для выполнения различных функций. Вооруженная 75-миллиметровым пистолетом с улучшенной защитой, эта цистерна первоначально страдала низкой надежностью, однако после нескольких изменений в технических требованиях была принята CdC G1-R. Учитывая многофункциональную цистерну, CdC G1-R имеет несколько инновационных элементов, таких как стабилизация оружия и полуавтоматические системы загрузки и оптический дистанционно-дистанционный манометр."
-   NFA_medium_tank_equipment_3: "&lt; &lt; Генерал-2 Пежо &gt; &gt;"
+   NFA_medium_tank_equipment_3: "Генерал-2 Пежо"
    NFA_medium_tank_equipment_3_short: "CdC G2-P"
    NFA_medium_tank_equipment_3_desc: "CdC G2-P представляет собой цистерну следующего поколения, предназначенную для замены CdC G1-R. Мощный двигатель и низкий вес обеспечивают новую машину отличной подвижностью, а 90-мм пушка с механизированным боеприпасом обеспечивает хорошую скорость возгорания."
 
@@ -15256,7 +15256,7 @@
    NFA_heavy_tank_equipment_2: "Char d'Attaque des Fortifications Citroën Modèle 1941"
    NFA_heavy_tank_equipment_2_short: "CAFC-41"
    NFA_heavy_tank_equipment_2_desc: "Разработанный по тем же спецификациям, что и CRP-37S, CAFC-41 был отклонен из-за его высокой стоимости и веса, даже по сравнению с CRP-37S. С тем же вооружением, что и в CRP-37S, новый танк поступил в эксплуатацию только в 1941 году после нескольких модификаций. 1941 модель почти идентична модели 1937 года, однако передача и выхлопные газы перемещались в централизованном порядке, а 47-ммм пистолет в башне был заменен 75-миллиметровым пистолетом."
-   NFA_heavy_tank_equipment_3: "Платформа &lt; &lt; Слепой &gt; &gt;"
+   NFA_heavy_tank_equipment_3: "Платформа Слепой"
    NFA_heavy_tank_equipment_3_short: "ПБАФС"
    NFA_heavy_tank_equipment_3_desc: "ПБАФС, официально получившая название &quot; Платформа слепых &quot; , была первоначально задумана как соревнование по CdC G1-R, но была отклонена за то, что она была слишком тяжёлой. 2 года спустя после значительных изменений, таких, как замена 75-мм пистолета в башне на 90 мм и увеличение бронежилета, цель ПБАФС состоит в том, чтобы прорваться через вражеские крепости и поддерживать более легкие танки на расстоянии из-за того, что у нее по-прежнему слишком слабые бронежилеты для прямого боя с тяжелыми танками противника."
 
@@ -15313,7 +15313,7 @@
    NFA_super_heavy_tank_amphibious_equipment_1: "Amphibie CFP-43"
    NFA_super_heavy_tank_amphibious_equipment_1_short: "Amphibie CFP-43"
 
-   NFA_modern_tank_equipment_1: "&lt; &lt; Генерал-3 &gt; &gt;"
+   NFA_modern_tank_equipment_1: "Генерал-3"
    NFA_modern_tank_equipment_1_short: "CdC G3"
    NFA_modern_tank_equipment_1_desc: "В рамках обсуждения вопроса о стандартизации французских цистерн и замене цистерн CdC G2-P и CdC G1-R была предложена конструкция Shar de Strate Général-3. В качестве ударного танка, который может перевозиться по железной дороге, CdC G3 страдает от многих неисправностей, таких, как слабость бронежилетов и низкая надежность, несмотря на наличие хорошего 105-мм основного ружья и скорость 50 км/ч."
 
@@ -27100,7 +27100,7 @@
    AUS_medium_tank_equipment_0_short: "mKpfW M.34"
    AUS_medium_tank_equipment_1: "Skoda-MAVAG Mittlerer Kampfwagen Modell 40"
    AUS_medium_tank_equipment_1_short: "mKpfW М.40"
-   AUS_medium_tank_equipment_1_desc: "Опыт второй американской гражданской войны, Китай и Испания привели бы командование К.У.К. к тому, чтобы заказать новый танк с большой триместрной башней, 75-миллиметровым пистолетом и еще более прочными лобовыми доспехами. &lt; &lt; Окончательный проект &gt; &gt; был совместным предприятием Чехии Шкоды, предоставляющей корпус, и Венгерской компании &lt; &lt; MAVAG &gt; &gt; , занимающейся строительством башни и пистолета."
+   AUS_medium_tank_equipment_1_desc: "Опыт второй американской гражданской войны, Китай и Испания привели бы командование К.У.К. к тому, чтобы заказать новый танк с большой триместрной башней, 75-миллиметровым пистолетом и еще более прочными лобовыми доспехами. Окончательный проект был совместным предприятием Чехии Шкоды, предоставляющей корпус, и Венгерской компании MAVAG , занимающейся строительством башни и пистолета."
    AUS_medium_tank_equipment_2: "Skoda-MAVAG Mittlerer Kampfwagen Modell 40/42"
    AUS_medium_tank_equipment_2_short: "mKpfW M.42"
    AUS_medium_tank_equipment_2_desc: "Хотя в начале войны оружия и бронежилетов М.40 было более чем достаточно, внедрение пехоты, удерживаемой под пехотой &quot; АТ &quot; , с использованием формированных зарядов, и увеличение толщины бронетанков противника ознаменовали М.40 как почти устаревшие к концу 1941 года. &quot; М.40 &quot; в ответ на это инженеры Шкоды разработали новый проект с аналогичной базой, но с полностью новым двигателем, бронированными боковыми юбками и более мощными фронтальными бронежилетами. &quot; МАВАГ &quot; обеспечит совершенно новую башню, улучшив при этом пространство для экипажа и поле зрения в автомобиле в целом с длинным стволом пистолетом калибра 75 мм."
@@ -27693,12 +27693,12 @@
    BOS_light_tank_amphibious_equipment_3: "$AUS_light_tank_amphibious_equipment_3$"
    BOS_light_tank_amphibious_equipment_3_short: "$AUS_light_tank_amphibious_equipment_3_short$"
 
-   BOS_medium_tank_equipment_0: "&lt; &lt; Шкода-Маваг &gt; &gt; , &lt; &lt; Конджицкий оклоп М.34 &gt; &gt;"
+   BOS_medium_tank_equipment_0: "Шкода-Маваг , Конджицкий оклоп М.34"
    BOS_medium_tank_equipment_0_short: "KO M.34"
    BOS_medium_tank_equipment_1: "&quot; Шкода-МаВАГ Конжицкий оклоп М.40 &quot;"
    BOS_medium_tank_equipment_1_short: "KO M.40"
    BOS_medium_tank_equipment_1_desc: "$AUS_medium_tank_equipment_1_desc$"
-   BOS_medium_tank_equipment_2: "&lt; &lt; Шкода-МаВАГ Конжицкий оклоп М.40/42 &gt; &gt;"
+   BOS_medium_tank_equipment_2: "Шкода-МаВАГ Конжицкий оклоп М.40/42"
    BOS_medium_tank_equipment_2_short: "KO M.42"
    BOS_medium_tank_equipment_2_desc: "$AUS_medium_tank_equipment_2_desc$"
    BOS_medium_tank_equipment_3: "MTK Konjicki oklop M.44"
@@ -28290,12 +28290,12 @@
    CRO_light_tank_amphibious_equipment_3: "$AUS_light_tank_amphibious_equipment_3$"
    CRO_light_tank_amphibious_equipment_3_short: "$AUS_light_tank_amphibious_equipment_3_short$"
 
-   CRO_medium_tank_equipment_0: "&lt; &lt; Шкода-Маваг &gt; &gt; , &lt; &lt; Конджицкий оклоп М.34 &gt; &gt;"
+   CRO_medium_tank_equipment_0: "Шкода-Маваг , Конджицкий оклоп М.34"
    CRO_medium_tank_equipment_0_short: "KO M.34"
    CRO_medium_tank_equipment_1: "&quot; Шкода-МаВАГ Конжицкий оклоп М.40 &quot;"
    CRO_medium_tank_equipment_1_short: "KO M.40"
    CRO_medium_tank_equipment_1_desc: "$AUS_medium_tank_equipment_1_desc$"
-   CRO_medium_tank_equipment_2: "&lt; &lt; Шкода-МаВАГ Конжицкий оклоп М.40/42 &gt; &gt;"
+   CRO_medium_tank_equipment_2: "Шкода-МаВАГ Конжицкий оклоп М.40/42"
    CRO_medium_tank_equipment_2_short: "KO M.42"
    CRO_medium_tank_equipment_2_desc: "$AUS_medium_tank_equipment_2_desc$"
    CRO_medium_tank_equipment_3: "MTK Konjicki oklop M.44"
@@ -28688,12 +28688,12 @@
    SLV_light_tank_amphibious_equipment_3: "$AUS_light_tank_amphibious_equipment_3$"
    SLV_light_tank_amphibious_equipment_3_short: "$AUS_light_tank_amphibious_equipment_3_short$"
 
-   SLV_medium_tank_equipment_0: "&lt; &lt; Шкода-Маваг &gt; &gt; , &lt; &lt; Конджицкий оклоп М.34 &gt; &gt;"
+   SLV_medium_tank_equipment_0: "Шкода-Маваг , Конджицкий оклоп М.34"
    SLV_medium_tank_equipment_0_short: "KO M.34"
    SLV_medium_tank_equipment_1: "&quot; Шкода-МаВАГ Конжицкий оклоп М.40 &quot;"
    SLV_medium_tank_equipment_1_short: "KO M.40"
    SLV_medium_tank_equipment_1_desc: "$AUS_medium_tank_equipment_1_desc$"
-   SLV_medium_tank_equipment_2: "&lt; &lt; Шкода-МаВАГ Конжицкий оклоп М.40/42 &gt; &gt;"
+   SLV_medium_tank_equipment_2: "Шкода-МаВАГ Конжицкий оклоп М.40/42"
    SLV_medium_tank_equipment_2_short: "KO M.42"
    SLV_medium_tank_equipment_2_desc: "$AUS_medium_tank_equipment_2_desc$"
    SLV_medium_tank_equipment_3: "MTK Konjicki oklop M.44"
@@ -29344,7 +29344,7 @@
    ENG_heavy_tank_equipment_1: "Тяжелый танк Mk I"
    ENG_heavy_tank_equipment_1_short: "Тяжелый Mk I"
    ENG_heavy_tank_equipment_2: "Нападение на танк &quot; Mk II &quot;"
-   ENG_heavy_tank_equipment_2_short: "Нападение &lt; &lt; Мк II &gt; &gt;"
+   ENG_heavy_tank_equipment_2_short: "Нападение Мк II"
    ENG_heavy_tank_equipment_3: "Нападение на танк Mk VII"
    ENG_heavy_tank_equipment_3_short: "Нападение Mk VII"
 
@@ -29395,9 +29395,9 @@
 
    ENG_super_heavy_tank_equipment_1: "Колосс"
    ENG_super_heavy_tank_equipment_1_short: "Колосс"
-   ENG_super_heavy_tank_artillery_equipment_1: "Огнестрельное оружие &lt; &lt; Колоссус &gt; &gt;"
+   ENG_super_heavy_tank_artillery_equipment_1: "Огнестрельное оружие Колоссус"
    ENG_super_heavy_tank_artillery_equipment_1_short: "Colosus AG"
-   ENG_super_heavy_tank_destroyer_equipment_1: "Антитанк &lt; &lt; Колоссус &gt; &gt;"
+   ENG_super_heavy_tank_destroyer_equipment_1: "Антитанк Колоссус"
    ENG_super_heavy_tank_destroyer_equipment_1_short: "Colosus AT"
    ENG_super_heavy_tank_aa_equipment_1: "Противоядие Колосса"
    ENG_super_heavy_tank_aa_equipment_1_short: "Колосса АА"
@@ -33179,7 +33179,7 @@
    JAP_light_tank_aa_equipment_1: "Тип 97 Ki-to"
    JAP_light_tank_aa_equipment_1_short: "Ki-to"
    JAP_light_tank_aa_equipment_2: "Тип 1 Ho-Ki AAG"
-   JAP_light_tank_aa_equipment_2_short: "ААГ &lt; &lt; Хо-Ки &gt; &gt;"
+   JAP_light_tank_aa_equipment_2_short: "ААГ Хо-Ки"
    JAP_light_tank_aa_equipment_3: "Тип 5 Ta-Se"
    JAP_light_tank_aa_equipment_3_short: "Та-Се"
 
@@ -33260,8 +33260,8 @@
    JAP_heavy_tank_equipment_3: "Тип 5 Ji-Ni"
    JAP_heavy_tank_equipment_3_short: "Чжи-Ни"
 
-   JAP_heavy_tank_destroyer_equipment_0: "Тип 91 &lt; &lt; Отсу &gt; &gt;"
-   JAP_heavy_tank_destroyer_equipment_0_short: "Тип 91 &lt; &lt; Отсу &gt; &gt;"
+   JAP_heavy_tank_destroyer_equipment_0: "Тип 91 Отсу"
+   JAP_heavy_tank_destroyer_equipment_0_short: "Тип 91 Отсу"
    JAP_heavy_tank_destroyer_equipment_1: "Тип 94 Ji-Ro"
    JAP_heavy_tank_destroyer_equipment_1_short: "Джи-Ро"
    JAP_heavy_tank_destroyer_equipment_2: "Тип 4 Чжи-Ха II"
@@ -33271,7 +33271,7 @@
 
    JAP_heavy_tank_artillery_equipment_0: "Тип 91 Tei"
    JAP_heavy_tank_artillery_equipment_0_short: "Тип 91 Tei"
-   JAP_heavy_tank_artillery_equipment_1: "Тип 94 &lt; &lt; Отсу Джи-Ро &gt; &gt;"
+   JAP_heavy_tank_artillery_equipment_1: "Тип 94 Отсу Джи-Ро"
    JAP_heavy_tank_artillery_equipment_1_short: "Отсу Цзи-Ро"
    JAP_heavy_tank_artillery_equipment_2: "Тип 4 Чжи-Ха III"
    JAP_heavy_tank_artillery_equipment_2_short: "Чжи-Ха III"

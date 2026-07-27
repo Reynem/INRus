@@ -28,7 +28,7 @@
  INS_MAJ_national_populist_party: "Кераджан Маджапахит"
  INS_MAJ_national_populist_party_long: "Ордо Кераджан Маджапахит (националис)"
  INS_valkist_party: "ПВИ"
- INS_valkist_party_long: "Валькистская партия &lt; &lt; Индулиндия &gt; &gt;"
+ INS_valkist_party_long: "Валькистская партия Индулиндия"
 
  #### Ideas ####
  INS_war_for_insulindian_independence_idea: "Война за независимость инсулиндов"
@@ -56,12 +56,12 @@
 
  INS_find_democratic_friends_idea: "Демократическая внешняя политика"
  INS_insulindian_revolution_idea: "Революционная внешняя политика"
- INS_strive_for_united_insulindia_idea: "Организация &lt; &lt; Объединенная внешняя политика в области инсулиндии &gt; &gt;"
+ INS_strive_for_united_insulindia_idea: "Организация Объединенная внешняя политика в области инсулиндии"
  INS_east_asian_relations_idea: "Внешняя политика Восточной Азии"
  INS_try_buying_sulawesi_idea: "Оплата продажи сулавеси"
 
- INS_pesinsu_unity_idea: "&lt; &lt; Единство песинсу &gt; &gt;"
- INS_fight_for_gender_equality_idea: "&lt; &lt; Единство песинсу &gt; &gt;"
+ INS_pesinsu_unity_idea: "Единство песинсу"
+ INS_fight_for_gender_equality_idea: "Единство песинсу"
  INS_workers_farmers_rights_idea: "Трудящиеся и права фермеров"
 
  INS_promote_mahaenism_idea: "Мархенизм"
@@ -192,7 +192,7 @@
  insulindia.102.d: "Французы отклонили нашу просьбу о присоединении к «Энтанте», хотя это и вызывает беспокойство, но мы заверили себя, что именно они проиграют свое решение."
  insulindia.102.a: "Это они пропустили!"
 
- insulindia.103.t: "&lt; &lt; Инсулиндия &gt; &gt; желает вступить в третью Международную организацию"
+ insulindia.103.t: "Инсулиндия желает вступить в третью Международную организацию"
  insulindia.103.d: "Инсулиндия подошла к нам в истерике присоединения к Третьему Интернационалу. Если мы примем их, мы найдем союзника в этом районе, который может помочь распространить влияние совиета в Азии. Некоторые из них решили разрешить бывшей британской колонии вступить в наш союз, но мы должны помнить, что Интернационал предназначен для всех людей."
  insulindia.103.a: "Они будут приветствоваться!"
  insulindia.103.b: "Нам не нужны новые члены!"
@@ -348,7 +348,7 @@
  INS_join_soviet_alliance_desc: ""
  INS_strive_for_united_insulindia: "Стремитесь к свободной инсулиндии"
  INS_strive_for_united_insulindia_desc: ""
- INS_sieze_timor: "&lt; &lt; Осев Тимор &gt; &gt;"
+ INS_sieze_timor: "Осев Тимор"
  INS_sieze_timor_desc: ""
  INS_kick_out_japanese: "Выбросить японцев"
  INS_kick_out_japanese_desc: ""
@@ -380,7 +380,7 @@
  INS_pki_government_desc: ""
  INS_strike_down_foreign_capitalists: "Уничтожить иностранных капиталистов"
  INS_strike_down_foreign_capitalists_desc: ""
- INS_pesinsu_unity: "&lt; &lt; Единство песинсу &gt; &gt;"
+ INS_pesinsu_unity: "Единство песинсу"
  INS_pesinsu_unity_desc: ""
  INS_collectivize_industries: "Объединение промышленных предприятий"
  INS_collectivize_industries_desc: ""
@@ -405,7 +405,7 @@
  INS_introduce_pancasila_desc: ""
  INS_guided_democracy: "Демократия"
  INS_guided_democracy_desc: ""
- INS_united_in_nationalism: "Организация &lt; &lt; Объединение в национализме &gt; &gt;"
+ INS_united_in_nationalism: "Организация Объединение в национализме"
  INS_united_in_nationalism_desc: ""
  INS_entrench_political_independence: "Укрепить нашу политическую независимость"
  INS_entrench_political_independence_desc: ""

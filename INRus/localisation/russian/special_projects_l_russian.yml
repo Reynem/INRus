@@ -206,7 +206,7 @@
  DISMANTLE_FACILITY_DESC_TT: "§GClick§!, чтобы демонтировать здание объекта."
  ABORT_DISMANTLE_FACILITY_DESC_TT: "§GClick§! Прекратить демонтаж здания объекта."
  ABORT_DISMANTLE_PROJECT_POPUP_DESC: "Отмена демонтажа здания?"
- DISMANTLE_FACILITY_TT: "Дезагрегировано в $DayS &apos; s &apos; s &apos; days &apos; s &apos; univers &apos; days &apos; s &apos; days &apos; s &apos; ynow &apos; s days &apos; days &apos; s &apos; und &apos; d &apos; days &apos; y$ &apos; ( &lt; &lt; Демобилизовано в день &gt; &gt; )"
+ DISMANTLE_FACILITY_TT: "Дезагрегировано в $DayS &apos; s &apos; s &apos; days &apos; s &apos; univers &apos; days &apos; s &apos; days &apos; s &apos; ynow &apos; s days &apos; days &apos; s &apos; und &apos; d &apos; days &apos; y$ &apos; ( Демобилизовано в день )"
  DISMANTLE_FACILITY_PROGRESS: "$PROGRESS|0%Y$"
 
  SPECIAL_PROJECT_CAPTURE_FACILITY_PROGRESS_GAINED_TITLE: "Украденные исследования"
@@ -280,7 +280,7 @@
  SP_UNLOCK_BUILDING: "Разблокированное здание: $BUILDINGY$"
  SP_UNLOCK_BUILDING_ICON_DESC: "Строительство шлюзов: $BUILDINGY$nnn-GFX_buildings_strip $ICON_FRAME$ nn $BUILDING_Description$"
  SP_BUILDING_MISSING_PROJECT: "Отсутствие предварительного условия для осуществления специального проекта в размере $PROJECTIY$"
- SP_UNLOCK_PROJECT: "Специальный проект &lt; &lt; Разблокировка &gt; &gt; : $PROJECTY$"
+ SP_UNLOCK_PROJECT: "Специальный проект Разблокировка : $PROJECTY$"
  SP_UNLOCK_TECH: "Разблокировать технологию в размере $TECIY$."
  SP_UNLOCK_TECH_WITH_EXTRA_PROJECT: "В сочетании со специальным проектом $EXTRA_PROJECTY$ открывает технологию $TECIY$."
  SP_UNLOCK_TECH_WITH_EXTRA_TECH: "В сочетании с Technology $EXTRA_technology$ открывает Technology$."
@@ -308,7 +308,7 @@
 
  sp_land_super_heavy_railway_gun: "Пистолет сверхтяжелой железной дороги"
  sp_land_super_heavy_railway_gun_desc: "Огромное оружие непревзойденной силы и точности, которое станет свидетельством военного превосходства любой страны, способной его развертывать."
- sp_land_stronghold_network: "Сеть &lt; &lt; Укрепление &gt; &gt;"
+ sp_land_stronghold_network: "Сеть Укрепление"
  sp_land_stronghold_network_desc: "Сложная сеть сильно укрепленных бункеров и опор, построенная для того, чтобы противостоять интенсивным нападениям и защитить критически важные стратегические точки от вторжений противника."
  sp_land_flamethrower_tank: "Цистерна для пожаротушения"
  sp_land_flamethrower_tank_desc: "Бронированная машина, оснащенная разрушительной огневой мощью близкого радиуса действия, предназначенная для разлива пламени на позиции противника."
@@ -344,7 +344,7 @@
  sp_land_reward_option_land_cruiser_engine_modify_bonus_name: "Усовершенствованный двигатель"
  sp_land_reward_option_land_cruiser_engine_new: "Создать новый двигатель"
  sp_land_reward_option_land_cruiser_engine_new_bonus_name: "Модифицированный двигатель"
- sp_land_reward_land_cruiser_turret: "Сложный механизм &lt; &lt; Туррет &gt; &gt;"
+ sp_land_reward_land_cruiser_turret: "Сложный механизм Туррет"
  sp_land_reward_land_cruiser_turret_desc: "Огромная конструкция многогранных турниров вызывает серьезные проблемы с настройкой, замедляя интеграцию оружия. Инженерная команда рекомендует упростить планировку турниров для повышения надежности, но это уменьшит запланированную огневую мощь [специального проекта.Гетнам]."
  sp_land_reward_option_land_cruiser_turret_original: "Сохранить оригинальный дизайн"
  sp_land_reward_option_land_cruiser_turret_simplify: "Упрощение дизайна туррета"
@@ -583,7 +583,7 @@
  sp_rockets_long_range_ballistic_missile: "ICBM"
  sp_rockets_long_range_ballistic_missile_desc: "Межконтинентальная баллистическая ракета, вероятнее всего самая крупная из когда-либо созданных ракет, способная доставлять боеголовку с большой точностью, по сути, в любой точке земного шара."
 
- sp_rockets_ground_to_air_missile: "Ракеты класса &lt; &lt; земля-воздух &gt; &gt;"
+ sp_rockets_ground_to_air_missile: "Ракеты класса земля-воздух"
  sp_rockets_ground_to_air_missile_desc: "Крупная ракетная противовоздушная ракета, способная сбить бомбардировщика с неба одним ударом."
 
  sp_rocket_interceptor: "Перехватчик ракет"
@@ -661,7 +661,7 @@
 
  sp_rockets_warhead_detonation_mechanisms_reward: "Механизмы детонации боеголовок"
  sp_rockets_warhead_detonation_mechanisms_reward_desc: "Важная часть всего развития состоит в том, чтобы заставить оружие взорваться в нужном месте."
- sp_surface_air_missile_warhead_detonation_bonus: "Ракета &lt; &lt; Наземный воздух &gt; &gt; : усовершенствованная детонация боеголовки"
+ sp_surface_air_missile_warhead_detonation_bonus: "Ракета Наземный воздух : усовершенствованная детонация боеголовки"
  #Ballistic missile
 
  sp_rocket_wind_tunnel_choice_reward: "Инженеры просят ветеровой туннель"
@@ -929,8 +929,8 @@
  sp_nuclear_submarine_eq_bonus_ic_reduction: "Ядерная подводная лодка - дешёвое строительство"
  sp_nuclear_submarine_eq_bonus_quality: "Ядерная подводная лодка - фокус на качестве"
  sp_rocket_submarine_eq_bonus_range_increase: "Ракетная подводная лодка - расширенный дальность"
- sp_rocket_submarine_eq_bonus_reliability: "Ракетная подводная лодка &lt; &lt; Ракета-носитель &gt; &gt;"
- sp_rocket_submarine_eq_bonus_stealth: "Ракетный запуск подводной лодки &lt; &lt; Украденный фокус &gt; &gt;"
+ sp_rocket_submarine_eq_bonus_reliability: "Ракетная подводная лодка Ракета-носитель"
+ sp_rocket_submarine_eq_bonus_stealth: "Ракетный запуск подводной лодки Украденный фокус"
  sp_nuclear_missile_submarine_eq_bonus_stealth: "Подводные лодки с ядерными ракетами"
  sp_nuclear_missile_submarine_eq_bonus_strength: "Подводные лодки с ядерными ракетами - повышенная износоустойчивость"
  sp_midget_submarine_eq_bonus_stealth: "Подводная лодка - фокус с украдкой"
@@ -1139,9 +1139,9 @@
  ###########################################
   ### AIR PROJECT EQUIPMENT BONUS NAME ###
  ###########################################
- sp_earthshaker_bomb_naval_targetting: "Интеграция проекта &lt; &lt; Земля-шакер &gt; &gt; -- точность"
- sp_earthshaker_bomb_power: "Интеграция проекта &lt; &lt; Земля-шакер &gt; &gt; -- увеличение рабочей нагрузки"
- sp_earthshaker_bomb_both: "Интеграция проекта &lt; &lt; Земля-шакер &gt; &gt; -- точность и полезная нагрузка"
+ sp_earthshaker_bomb_naval_targetting: "Интеграция проекта Земля-шакер -- точность"
+ sp_earthshaker_bomb_power: "Интеграция проекта Земля-шакер -- увеличение рабочей нагрузки"
+ sp_earthshaker_bomb_both: "Интеграция проекта Земля-шакер -- точность и полезная нагрузка"
  sp_air_intercontinental_bomber_bombing_payload: "Межконтинентальный бомбардировщик - увеличение рабочей нагрузки"
  sp_air_intercontinental_bomber_balanced: "Межконтинентальный бомбардировщик - надежное улучшение"
  sp_air_intercontinental_bomber_protection: "Межконтинентальный бомбардировщик - усиление защиты"
@@ -1170,7 +1170,7 @@
  sp_air_jet_fighter_free_design: "Маленькая авиамашина"
  sp_air_air_equipment_tech_bonus: "Специальные проекты - авиационные бонусы"
  sp_air_medium_air_tech_bonus: "Специальные проекты - &quot; Средние авиационные бонусы &quot;"
- sp_air_light_air_tech_bonus: "Специальные проекты - &lt; &lt; Бонус &gt; &gt; для легких воздушных судов"
+ sp_air_light_air_tech_bonus: "Специальные проекты - Бонус для легких воздушных судов"
 
  ###### SPECIAL PROJECT TAGS ########
 

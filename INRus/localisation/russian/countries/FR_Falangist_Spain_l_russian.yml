@@ -5,13 +5,13 @@
  SPF_collectivist_party: "ПТЭ"
  SPF_collectivist_party_long: "Партия Испании"
  SPF_libertarian_socialist_party: "ПСО"
- SPF_libertarian_socialist_party_long: "Социалистическая партия &lt; &lt; Обреро &gt; &gt;"
+ SPF_libertarian_socialist_party_long: "Социалистическая партия Обреро"
  SPF_social_democrat_party: "Галегиста"
- SPF_social_democrat_party_long: "Партия &lt; &lt; Галегиста &gt; &gt;"
+ SPF_social_democrat_party_long: "Партия Галегиста"
  SPF_social_liberal_party: "IR/UR"
  SPF_social_liberal_party_long: "&quot; Изкьерда республикана &quot; / &quot; Юнион республикана &quot;"
  SPF_market_liberal_party: "PRR/DLR"
- SPF_market_liberal_party_long: "Республиканская партия &lt; &lt; Радикально &gt; &gt; / &lt; &lt; Либеральная Республика &gt; &gt;"
+ SPF_market_liberal_party_long: "Республиканская партия Радикально / Либеральная Республика"
  SPF_social_conservative_party: "ГД"
  SPF_social_conservative_party_long: "Дерейта Галегиста"
  SPF_authoritarian_democrat_party: "КЕДА"
@@ -19,15 +19,15 @@
  SPF_paternal_autocrat_party: "Националист"
  SPF_paternal_autocrat_party_long: "Национальная партия Испании"
  SPF_pataut_one_party: "Фаланж де лас ДЖАХ"
- SPF_pataut_one_party_long: "&lt; &lt; Эспаньола &gt; &gt; (Falange Espanola de las Juntas Castellanas de Actuación Hipanica)"
+ SPF_pataut_one_party_long: "Эспаньола (Falange Espanola de las Juntas Castellanas de Actuación Hipanica)"
  SPF_national_populist_party: "Фаланж"
  SPF_national_populist_party_long: "Фаланж Эспаньола"
  SPF_natpop_one_party: "Фаланж де лас ДЖАХ"
- SPF_natpop_one_party_long: "&lt; &lt; Эспаньола &gt; &gt; (Falange Espanola de las Juntas Castellanas de Actuación Hipanica)"
+ SPF_natpop_one_party_long: "Эспаньола (Falange Espanola de las Juntas Castellanas de Actuación Hipanica)"
  SPF_valkist_party: "JCAH"
- SPF_valkist_party_long: "&lt; &lt; Кастелланас де Актуасьон испаника &gt; &gt;"
+ SPF_valkist_party_long: "Кастелланас де Актуасьон испаника"
  SPF_valkist_one_party: "Фаланж де лас ДЖАХ"
- SPF_valkist_one_party_long: "&lt; &lt; Эспаньола &gt; &gt; (Falange Espanola de las Juntas Castellanas de Actuación Hipanica)"
+ SPF_valkist_one_party_long: "Эспаньола (Falange Espanola de las Juntas Castellanas de Actuación Hipanica)"
 
  ### National Spirits ###
  SPF_condor_legion_idea: "Легион кондора"
@@ -148,7 +148,7 @@
  carspain.103.a: "Лучше они, чем традиционалисты!"
  carspain.103.b: "Мы сильны сами по себе!"
 
- carspain.104.t: "Пакт &lt; &lt; Примо де Ривера -- Ледесма Рамос &gt; &gt;"
+ carspain.104.t: "Пакт Примо де Ривера -- Ледесма Рамос"
  carspain.104.d: "Хосе Антонио Примо де Ривера и Рамиро Ледесма Рамос собрались сегодня и согласились сотрудничать, хотя у фалангистов и национальных синдикалистов есть некоторые разногласия, мы смогли создать своего рода политический союз, поскольку угроза консервативных традиционистов важнее, чем угроза самых откровенных радикалов, этот союз имеет смысл, и именно мы введем Испанию в будущее, а не разрушим его в прошлое, наши враги могут утверждать, что мы всего лишь немецкая марионетка, но вместе мы покажем им, что мы испанская нация."
  carspain.104.a: "Ради испанской судьбы и нашего испанского будущего!"
 
@@ -183,7 +183,7 @@
  carspain.111.b: "Чтобы сохранить народ в безопасности, мы должны согласиться"
 
  carspain.112.t: "Рамиро Ледесма Рамос принимает командование"
- carspain.112.d: "После того как Хосе Антонио Примо де Ривера согласился с предложением радикалов, возглавляемым Рамиро Ледесмой Рамос, произошла смена власти. &lt; &lt; Национальный синдикалист &gt; &gt; , &lt; &lt; Радикализм &gt; &gt; и &lt; &lt; Валькисты &gt; &gt; теперь занимают более прочное положение в стране. &lt; &lt; Аристократический &gt; &gt; и &lt; &lt; Консервативный фаланкс &gt; &gt; будет править Испанией."
+ carspain.112.d: "После того как Хосе Антонио Примо де Ривера согласился с предложением радикалов, возглавляемым Рамиро Ледесмой Рамос, произошла смена власти. Национальный синдикалист , Радикализм и Валькисты теперь занимают более прочное положение в стране. Аристократический и Консервативный фаланкс будет править Испанией."
  carspain.112.a: "Да здравствует народ!"
 
  carspain.113.t: "Король Испании Хавьер де Борбон-Парма"
@@ -238,7 +238,7 @@
  SPF_fortress_burgos_desc: "Мы должны укрепить наши позиции в Кастилии и Леоне, чтобы у нас был шанс в этой гражданской войне, если только мы не окажемся застрявшими на холмах Галисии и Астурии."
  SPF_front_national_unity: "Фронт национального единства"
  SPF_front_national_unity_desc: ""
- SPF_power_primo_de_rivera: "Расширение прав и возможностей &lt; &lt; Примо де Ривера &gt; &gt;"
+ SPF_power_primo_de_rivera: "Расширение прав и возможностей Примо де Ривера"
  SPF_power_primo_de_rivera_desc: ""
  SPF_power_movement: "Расширить возможности Движения"
  SPF_power_movement_desc: ""
@@ -266,7 +266,7 @@
  SPF_stomp_eastern_revolutionaries_desc: ""
  SPF_integrated_south: "Мир на юге"
  SPF_integrated_south_desc: ""
- SPF_spain_united_free: "Испания, &lt; &lt; Юнайтед &gt; &gt; и &lt; &lt; Свободные &gt; &gt;"
+ SPF_spain_united_free: "Испания, Юнайтед и Свободные"
  SPF_spain_united_free_desc: "Мы победили! Мы уничтожили республиканцев, скоиалистов и монархистов! Начнется новая эра испанского национализма, когда мы начнем процесс восстановления после гражданской войны."
 
  SPF_reyes_navy: "Национальный ВМС Испании"
@@ -390,7 +390,7 @@
 
  SPF_victory_for_nationalistas: "Победа националистов"
  SPF_victory_for_nationalistas_desc: "Мы одержали победу после гражданской войны!"
- SPF_ban_socialist_militas: "&lt; &lt; Запрет социалистической милиции &gt; &gt;"
+ SPF_ban_socialist_militas: "Запрет социалистической милиции"
  SPF_ban_socialist_militas_desc: "Социалисты причинили больше вреда этой стране, чем пользы."
  SPF_ban_communist_party: "Запрет Коммунистической партии"
  SPF_ban_communist_party_desc: "Мы должны преодолеть разногласия, возникшие в результате гражданской войны, и создать страну для всех."
@@ -416,7 +416,7 @@
  SPF_pasify_traditionalists: "Удостоверься традиционалистов"
  SPF_pasify_traditionalists_desc: "Традиционалисты нашего правительства долгое время были на нашей стороне, и мы должны предоставить им небольшие уступки, чтобы успокоить их на данный момент."
  SPF_blue_shirts: "Голубые рубашки"
- SPF_blue_shirts_desc: "Мы уже давно полагаемся на неофициальные силы безопасности для достижения наших целей среди населения. &lt; &lt; Полагаясь на них &gt; &gt; в официальной организации &lt; &lt; Голубые рубашки &gt; &gt; , на данный момент это всего лишь формальность."
+ SPF_blue_shirts_desc: "Мы уже давно полагаемся на неофициальные силы безопасности для достижения наших целей среди населения. Полагаясь на них в официальной организации Голубые рубашки , на данный момент это всего лишь формальность."
  SPF_forging_new_state: "Формирование нового государства"
  SPF_forging_new_state_desc: "Испания находится в неизведанных водах, мы должны выбить и построить наше новое государство и нашу новую судьбу под нашим новым руководством."
  SPF_will_to_empire: "Воля к Империи"
@@ -510,7 +510,7 @@
  SPR_Alberto_M_Artejo_Alvarez_for_ade: "Альберто М. Артехо-Альварес"
  SPR_Francisco_de_Asis_Serrat_y_Bonastre_for_pau: "Франсиско де Асис Серрат и Бонастр"
  SPR_Jose_Luis_Arrese_Magra_for_pau: "Хосе Луис Арресе Магра"
- SPR_Tomas_Conde_de_Redezno_for_pau: "&lt; &lt; Томас Конде де Редесно &gt; &gt;"
+ SPR_Tomas_Conde_de_Redezno_for_pau: "Томас Конде де Редесно"
  SPR_Raimundo_Fernandez_Cuesta_for_npo: "Раймундо Фернандес-Куэста"
  ## Economy Minister
  SPR_Anxel_Casal_eco_sde: "Анксель Касаль"
@@ -552,7 +552,7 @@
  SPR_Jose_Antonio_Primo_de_Rivera_sec_pau: "Хосе Антонио Примо де Ривера"
  SPR_Jose_Luis_Arrese_Magra_sec_pau: "Хосе Луис Арресе Магра"
  SPR_Pedro_Mourlane_Michelena_sec_pau: "Педро Мурлане Микелена"
- SPR_Tomas_Conde_de_Redezno_sec_pau: "&lt; &lt; Томас Конде де Редесно &gt; &gt;"
+ SPR_Tomas_Conde_de_Redezno_sec_pau: "Томас Конде де Редесно"
  SPA_Tomas_Dominguez_Arevalo_sec_pau: "Томас Домингес Аревало"
 
  ### Chief of Staff ###

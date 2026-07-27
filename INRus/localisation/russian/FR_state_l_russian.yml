@@ -3,7 +3,7 @@
  STATE_UPGRADE_BUILDING_DESC: "Дни строительства: $COST_H долл."
  STATE_BUILDING_LEVEL:1 "$BUILDING|H$ (State level: $LEVEL|H$)"
  STATE_BUILDING_LEVEL_SHARED_SLOTS: "$LEVEL|H$ $BUILDING|H$"
- STATE_BUILDING_INCONSTRUCTION: "В стадии строительства: 6,3 долл. США по курсу &lt; &lt; УРОВН &gt; &gt; ."
+ STATE_BUILDING_INCONSTRUCTION: "В стадии строительства: 6,3 долл. США по курсу УРОВН ."
  STATE_BUILDING_SLOT_TECH: "У нас нет информации о гражданской инфраструктуре в этом штате."
  STATE_BUILDING_AIR_UNKNOWN_ANTI_AIR_TECH: "У нас нет информации о противовоздушных технологиях в этом штате."
  STATE_BUILDING_AIR_UNKNOWN_ANTI_AIR: "У нас нет информации о противовоздушных установках в этом штате."

@@ -5,25 +5,25 @@
  ### Parties ###
  SYR_vanguardist_party: "Привет."
  #Party of al-Hawrani -> could be used as a precursor for the Ba'ath maybe?:
- SYR_vanguardist_party_long: "&lt; &lt; Харакат аль-Иштаракиен аль-Араб &gt; &gt; (Арабское социалистическое движение)"
+ SYR_vanguardist_party_long: "Харакат аль-Иштаракиен аль-Араб (Арабское социалистическое движение)"
  SYR_collectivist_party: "HNS"
  #Party of Khalid Bakdash... could potentially use Radwan al-Hilu of the Palestinian Communist Party?:
- SYR_collectivist_party_long: "&lt; &lt; Хизб аль-Никабиу ас-Сури &gt; &gt; (Сирийская социалистическая партия)"
+ SYR_collectivist_party_long: "Хизб аль-Никабиу ас-Сури (Сирийская социалистическая партия)"
  SYR_libertarian_socialist_party: "HNS"
  #Party of Khalid Bakdash... could potentially use Radwan al-Hilu of the Palestinian Communist Party?:
- SYR_libertarian_socialist_party_long: "&lt; &lt; Хизб аль-Никабиу ас-Сури &gt; &gt; (Сирийская социалистическая партия)"
+ SYR_libertarian_socialist_party_long: "Хизб аль-Никабиу ас-Сури (Сирийская социалистическая партия)"
  SYR_social_democrat_party: "HNS"
  #Party of Khalid Bakdash ... could potentially use Radwan al-Hilu of the Palestinian Communist Party?:
- SYR_social_democrat_party_long: "&lt; &lt; Хизб аль-Никабиу ас-Сури &gt; &gt; (Сирийская социалистическая партия)"
+ SYR_social_democrat_party_long: "Хизб аль-Никабиу ас-Сури (Сирийская социалистическая партия)"
  SYR_social_liberal_party: "HS (Damascene Wing)"
  #Palestinian/Damascene wing of the People's Party. This wing represents al-Nashashibi (Jerusalem) and al-Jazairi (Damascus):
- SYR_social_liberal_party_long: "&lt; &lt; Хизб аш-Шааб &gt; &gt; (Народная партия)"
+ SYR_social_liberal_party_long: "Хизб аш-Шааб (Народная партия)"
  SYR_market_liberal_party: "HS (алеппановое крыло)"
  #Aleppo wing of the Party of Nazim al-Kudsi (doesn't have a portrait) and Rushdi al-Kikhiya (does have a portrait now :). Supports closer relations with Iraq and is the main anti-Damascene bloc in Aleppo/Northern Syria.:
- SYR_market_liberal_party_long: "&lt; &lt; Хизб аш-Шааб &gt; &gt; (Народная партия)"
+ SYR_market_liberal_party_long: "Хизб аш-Шааб (Народная партия)"
  SYR_social_conservative_party: "KW"
  #Party of Hashim al-Atassi and Shukri al-Quwaitli :
- SYR_social_conservative_party_long: "&lt; &lt; Аль-Кутла аль-Ватания &gt; &gt; (Национальный Блок)"
+ SYR_social_conservative_party_long: "Аль-Кутла аль-Ватания (Национальный Блок)"
  #Previous comment, I guess by Jean: Used to show support for the Alawiyya dynasty of Moneimi, in practice this mainly consists of the National Bloc in the shape of Shukri al-Quwaitli:
  SYR_authoritarian_democrat_party_sultanate: "Аль-Усра аль-Алавийя"
  SYR_authoritarian_democrat_party_long_sultanate: "Аль-Усра аль-Алавийя (Династия Алавия)"
@@ -37,7 +37,7 @@
  #Extreme nationalist party under the leadership of Antun Saadeh:
  SYR_national_populist_party_long: "Хизб ас-Сури аль-Кавми аль-Иджтимаи (Сирийская социальная националистическая партия)"
  SYR_valkist_party: "ССНП (V)"
- SYR_valkist_party_long: "Хизб аль-Сури аль-Кавми аль-Иджтимаи (Сирийская социальная националистическая партия &lt; &lt; Валькист крыло &gt; &gt; )"
+ SYR_valkist_party_long: "Хизб аль-Сури аль-Кавми аль-Иджтимаи (Сирийская социальная националистическая партия Валькист крыло )"
 
  #Decisions
  SYR_announce_greater_syria_claims: "Объявление большего количества сирийских притязаний"
@@ -65,7 +65,7 @@
  SYR_adib_bin_hassan: "Адиб бен Хасан ас-Шисхакли"
  SYR_aziz_ali_al_misri: "Азиз Али аль-Мисри"
 
- SYR_abd_al_rahman_shahbandar: "&lt; &lt; Абд аль-Рахман Шахбандар &gt; &gt;"
+ SYR_abd_al_rahman_shahbandar: "Абд аль-Рахман Шахбандар"
  SYR_jamil_mardam_bey: "Джамиль Мардам Бей"
  SYR_muhsen_barazi: "Мусен аль-Барази"
  SYR_maarouf_al_dawalibi: "Мааруф аль-Давалиби"
@@ -75,7 +75,7 @@
  SYR_fakhri_nashashibi: "Фахри ан-Нашашиби"
  SYR_edmond_homsi: "Эдмонд аль-Хомси"
  SYR_saadallah_jabiri: "Саадалла аль-Ябири"
- SYR_fares_khoury: "Вознаграждение &lt; &lt; Аль-Хури &gt; &gt;"
+ SYR_fares_khoury: "Вознаграждение Аль-Хури"
  SYR_abdulrahman_kayali: "Абд аль-Рахман аль-Кайяли"
  SYR_lutfi_haffar: "Лутфи аль-Хаффар"
  SYR_abdullah_atfeh: "Абдулла Атфех"

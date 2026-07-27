@@ -34,9 +34,9 @@
  
  ### Political Parties ###
  CMR_vanguardist_party: "НРС"
- CMR_vanguardist_party_long: "Организация &lt; &lt; Лига защиты Камеруна &gt; &gt;"
+ CMR_vanguardist_party_long: "Организация Лига защиты Камеруна"
  CMR_collectivist_party: "НРС"
- CMR_collectivist_party_long: "Организация &lt; &lt; Лига защиты Камеруна &gt; &gt;"
+ CMR_collectivist_party_long: "Организация Лига защиты Камеруна"
  CMR_libertarian_socialist_party: "СКП"
  CMR_libertarian_socialist_party_long: "Союз народов Камеруна"
  CMR_social_democrat_party: "СКП"
@@ -90,9 +90,9 @@
 
 
  CMR_colony_vanguardist_party: "НРС"
- CMR_colony_vanguardist_party_long: "Организация &lt; &lt; Лига защиты Камеруна &gt; &gt;"
+ CMR_colony_vanguardist_party_long: "Организация Лига защиты Камеруна"
  CMR_colony_collectivist_party: "НРС"
- CMR_colony_collectivist_party_long: "Организация &lt; &lt; Лига защиты Камеруна &gt; &gt;"
+ CMR_colony_collectivist_party_long: "Организация Лига защиты Камеруна"
  CMR_colony_libertarian_socialist_party: "СКП"
  CMR_colony_libertarian_socialist_party_long: "Союз народов Камеруна"
  CMR_colony_social_democrat_party: "СКП"

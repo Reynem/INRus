@@ -74,7 +74,7 @@
 
  ### Bindable Localisation ###
  tooltip_enable_focus: "§GEnables§! Национальный фокус $FOCUS_Y$."
- tooltip_enable_two_focuses: "§GEnables§! В центре внимания страны находятся доллары FOCUS1 &lt; &lt; 1 &gt; &gt; и &lt; &lt; FOCUS2 &gt; &gt; в долл. США."
+ tooltip_enable_two_focuses: "§GEnables§! В центре внимания страны находятся доллары FOCUS1 1 и FOCUS2 в долл. США."
  tooltip_disable_focus: "§Rdisables§! Национальный фокус $FOCUS_Y$."
  tooltip_disable_two_focuses: "§R Disables§! В центре внимания страны находятся $FOCUS1 &apos; y$ и $FOCUS2 &apos; y$."
 
@@ -278,9 +278,9 @@
  day_saturday: "Суббота"
 
  ### KR-added Modifiers ###
- offmap_military_factories_tooltip: "Военные фабрики &lt; &lt; вне карт &gt; &gt;"
+ offmap_military_factories_tooltip: "Военные фабрики вне карт"
  offmap_military_factories_change_tooltip: "$offmap_military_factories_tooltip$: $RIGHT|+=0$"
- offmap_civilian_factories_tooltip: "Гражданские фабрики &lt; &lt; вне карт &gt; &gt;"
+ offmap_civilian_factories_tooltip: "Гражданские фабрики вне карт"
  offmap_civilian_factories_change_tooltip: "$offmap_civilian_factories_tooltip$: $RIGHT|+=0$"
  offmap_dockyards_tooltip: "Некрайние докьяры"
  daily_popularity_drift: "Ежедневная поддержка правящей партии"

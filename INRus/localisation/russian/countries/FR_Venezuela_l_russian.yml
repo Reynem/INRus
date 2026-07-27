@@ -9,7 +9,7 @@
  VEN_authoritarian_democrat_party: "ПР"
  VEN_authoritarian_democrat_party_long: "Гобьерно Провисорио"
  VEN_paternal_autocrat_party: "JNV"
- VEN_paternal_autocrat_party_long: "Национальная венесуэльская организация &lt; &lt; Джунта &gt; &gt;"
+ VEN_paternal_autocrat_party_long: "Национальная венесуэльская организация Джунта"
  VEN_national_populist_party: "МНО"
  VEN_national_populist_party_long: "Национальное движение &quot; За свободу &quot;"
  VEN_social_liberal_party: "URD"
@@ -17,11 +17,11 @@
  VEN_market_liberal_party: "PS"
  VEN_market_liberal_party_long: "Социокриштиано"
  VEN_libertarian_socialist_party: "АРДИ"
- VEN_libertarian_socialist_party_long: "Революционное движение &lt; &lt; Изкьерда &gt; &gt;"
+ VEN_libertarian_socialist_party_long: "Революционное движение Изкьерда"
  VEN_collectivist_party: "PSV"
  VEN_collectivist_party_long: "Социалистическая партия Венесуэлы"
  VEN_vanguardist_party: "МИРСТ"
- VEN_vanguardist_party_long: "Революционное движение &lt; &lt; Изкьерда &gt; &gt;"
+ VEN_vanguardist_party_long: "Революционное движение Изкьерда"
 
  ### Characters ###
  VEN_tomas_contreras_villalobos: "Томас Контрерас Вильялобос"
@@ -33,7 +33,7 @@
  VEN_elias_toro_ponce_de_leon: "Элиас Торо Каспер"
 
  VEN_romulo_ernesto_betancourt_bello: "Ромуло Эрнесто Бетанкур Белло"
- #VEN_romulo_ernesto_betancourt_bello_leader_desc: "Молодой бомбастичный, но умеренный член широкой коалиции, которая свергнула диктатора Хуана Висенте Гомеса, выборы Бетанкура привели к расколу в этой коалиции. &lt; &lt; Бетанкур &gt; &gt; стремится укрепить восстановление демократии в Венесуэле и избавиться от зависимости от нефти в интересах экономического роста."
+ #VEN_romulo_ernesto_betancourt_bello_leader_desc: "Молодой бомбастичный, но умеренный член широкой коалиции, которая свергнула диктатора Хуана Висенте Гомеса, выборы Бетанкура привели к расколу в этой коалиции. Бетанкур стремится укрепить восстановление демократии в Венесуэле и избавиться от зависимости от нефти в интересах экономического роста."
 
  VEN_juan_bautista_fuenmayor: "Хуан Баутиста Фуэнмайор"
  VEN_gustavo_machado_morales: "Густаво Мачадо Моралес"
@@ -59,4 +59,4 @@
  VEN_felipe_larrazabal_blanco: "Фелипе Ларразабаль Бланко"
  VEN_carlos_meyer_baldo: "Карлос Мейер Бальдо"
  VEN_luis_camilo_ramirez: "Луис Камило Рамирес"
- VEN_academia_militar_de_venezuela: "Академия &lt; &lt; Милитария Венесуэлы &gt; &gt;"
+ VEN_academia_militar_de_venezuela: "Академия Милитария Венесуэлы"

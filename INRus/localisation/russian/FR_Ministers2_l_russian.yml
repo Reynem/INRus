@@ -94,7 +94,7 @@
  ALB_Eqrem_Vlora_for_mli: "Экрем Влёра"
  ALB_Llazar_Fundua_for_sco: "Llazar Fundua"
  ALB_Pandeli_Evangjeli_for_sco: "Пандели Эванжели"
- ALB_Rexhep_Mitrovica_for_sco: "Митровица &lt; &lt; Рексхеп &gt; &gt;"
+ ALB_Rexhep_Mitrovica_for_sco: "Митровица Рексхеп"
  ALB_Fiqri_Dine_for_ade: "Fikri Dine"
  ALB_Fuat_Aslam_for_ade: "Фуат Аслам"
  ALB_Hysen_Vrioni_for_ade: "Гизен Вриони"
@@ -115,7 +115,7 @@
  ALB_Ferit_Vokopola_eco_mli: "Ферит Вокопола"
  ALB_Fejzi_Alizoti_eco_sco: "Фейзи Ализоти"
  ALB_Myfid_Libohova_eco_sco: "Мифид Либохова"
- ALB_Rexhep_Mitrovica_eco_sco: "Митровица &lt; &lt; Рексхеп &gt; &gt;"
+ ALB_Rexhep_Mitrovica_eco_sco: "Митровица Рексхеп"
  ALB_Xhelal_Mitrovica_eco_sco: "Хелал Митровица"
  ALB_Et'hem_Cara_eco_ade: "Эт'хм Кара"
  ALB_Fiqri_Dine_eco_ade: "Fikri Dine"
@@ -160,7 +160,7 @@
  ALB_Xhelal_Mitrovica_cos_sco: "Хелал Митровица"
  ALB_Nazim_Dedolli_cos_ade: "Назим Дедолли"
  ALB_Qemal_Komani_cos_ade: "Кемаль Камани"
- ALB_Rexhep_Mitrovica_cos_ade: "Митровица &lt; &lt; Рексхеп &gt; &gt;"
+ ALB_Rexhep_Mitrovica_cos_ade: "Митровица Рексхеп"
  ALB_Kol_Bibe_Mirakaj_cos_pau: "Кол Бибе Миракай"
  ALB_Kristo_Cajupi_cos_pau: "Кристо Каджупи"
 
@@ -188,7 +188,7 @@
  ALB_Nazim_Dedolli_cnav_ade: "Назим Дедолли"
  ALB_Nexhip_Deva_cnav_ade: "Nexhip Deva"
  ALB_Quamar_Pakazi_cnav_ade: "Квамар Пакази"
- ALB_Rexhep_Mitrovica_cnav_ade: "Митровица &lt; &lt; Рексхеп &gt; &gt;"
+ ALB_Rexhep_Mitrovica_cnav_ade: "Митровица Рексхеп"
  ALB_Sthfphen_Delvine_cnav_ade: "Стффен Дельвине"
  ALB_Hasan_Begolli_cnav_pau: "Хасан Беголли"
  ALB_Ismael_Ghaxa_cnav_pau: "Исмаил Гакса"
@@ -234,7 +234,7 @@
  ALG_Mahmoud_Cherif_eco_rso: "Махмуд Шериф"
  ALG_Mostefa_Ben_Boulaid_eco_rso: "Мостефа Бен-Булаид"
  ALG_Ahmed_Francis_eco_sli: "Ахмед Фрэнсис"
- ALG_Belkacem_Radjef_eco_ade: "&lt; &lt; Раджеф Белкасема &gt; &gt;"
+ ALG_Belkacem_Radjef_eco_ade: "Раджеф Белкасема"
  ALG_Messali_Hadj_eco_ade: "Мессали Хадж"
  ALG_Said_Mohammedi_eco_ade: "Саид Мохаммеди"
  ## Security Minister
@@ -324,7 +324,7 @@
  AMA_Pedro_Ventura_Pomar_hog_syn: "Педро Вентура Помар"
  AMA_Claudio_Santoro_hog_rso: "Клаудио Санторо"
  AMA_Alvaro_Botelho_Maia_hog_sde: "Альваро Ботельо Майя"
- AMA_Efigenio_Sales_hog_sli: "Распродажа продукции &lt; &lt; Эфигенио &gt; &gt;"
+ AMA_Efigenio_Sales_hog_sli: "Распродажа продукции Эфигенио"
  AMA_Landry_Sales_Goncalves_hog_mli: "Гонсалвисы, занимающиеся продажей земли"
  AMA_Antonio_Faciola_hog_sco: "Антонио Фасиола"
  AMA_Lauro_Sodre_hog_ade: "Лауро Содре"
@@ -401,7 +401,7 @@
  ANG_Vasco_Lopes_Alves_eco_ade: "Васко Лопес Алвис"
  ## Security Minister
  ANG_Antonio_Aniceto_Monteiro_sec_rso: "Антониу Анисето Монтейру"
- ANG_Euclides_da_Costa_Bravo_sec_rso: "&lt; &lt; Евклиды да Коста Браво &gt; &gt;"
+ ANG_Euclides_da_Costa_Bravo_sec_rso: "Евклиды да Коста Браво"
  ANG_Henrique_Galvao_sec_rso: "Энрики Гальван"
  ANG_Manuel_Gomes_da_Costa_sec_mli: "Мануэль Гомеш да Кошта"
  ANG_Wenceslau_Borini_sec_mli: "Венсеслау Борини"
@@ -623,7 +623,7 @@
  ARM_Artashes_Enfiajyan_eco_ade: "Арташи Энфиаджян"
  ARM_Berch_Keresteciyan_eco_ade: "Берч Керестециян"
  ARM_Krikor_Amirian_eco_ade: "Крикор Амирян"
- ARM_Movses_Adjemov_eco_ade: "Движение &lt; &lt; Адджемов &gt; &gt;"
+ ARM_Movses_Adjemov_eco_ade: "Движение Адджемов"
  ARM_Sargis_Hambardzumyan_eco_ade: "Саргис Хамбардзумян"
  ## Security Minister
  ARM_Arsham_Khondkaryan_sec_syn: "Аршам Хондкарян"
@@ -643,7 +643,7 @@
  ARM_Christophor_Araratov_cos_sli: "Кристофор Араратов"
  ARM_Hovhannes_Bagramyan_cos_sli: "Ховханнес Баграмян"
  ARM_Hovhannes_Hakhverdyan_cos_ade: "Ховханнес Хахвердян"
- ARM_Movses_Silikyan_cos_ade: "Движение &lt; &lt; Сильвикян &gt; &gt;"
+ ARM_Movses_Silikyan_cos_ade: "Движение Сильвикян"
  ARM_Ruben_Ter_Minasian_cos_ade: "Рубен-Тер-Миназиан"
  ARM_Drastamat_Kanayan_cos_npo: "Драстамат Канаян"
 
@@ -659,7 +659,7 @@
  ARM_Hovhannes_Ter_Isahakyan_cnav_ade: "Ховханнес Тер-Ишакян"
 
  ### Chief of Air Force ###
- ARM_Armenak_Khanferiants_cair_sli: "&lt; &lt; Анферианты Арменака &gt; &gt;"
+ ARM_Armenak_Khanferiants_cair_sli: "Анферианты Арменака"
 
  ####################################################################################################
  ### AST
@@ -1064,7 +1064,7 @@
  ## Foreign Minister
  BAH_Antonio_Maciel_Bonfim_for_tot: "Антонио Макиэль Бонфим"
  BAH_Edmundo_Moniz_for_syn: "Эдмундо Монис"
- BAH_Antonio_Firmato_de_Almeida_for_sde: "Антонио Фирма &lt; &lt; Альмейда &gt; &gt;"
+ BAH_Antonio_Firmato_de_Almeida_for_sde: "Антонио Фирма Альмейда"
  BAH_Wilson_Lins_for_sli: "Уилсон Линс"
  BAH_Landulfo_Alves_for_mli: "Landulfo Alves"
  BAH_Durval_Neves_da_Rocha_for_sco: "Durval Neves da Rocha"
@@ -1249,7 +1249,7 @@
  ### Head of Government ###
  BEL_Julien_Lahaut_hog_tot: "Жюльен Лахо"
  BEL_Joseph_Jacquemotte_hog_syn: "Джозеф Жакмотт"
- BEL_War_van_Overstraeten_hog_syn: "Военный фургон &lt; &lt; Оверстен &gt; &gt;"
+ BEL_War_van_Overstraeten_hog_syn: "Военный фургон Оверстен"
  BEL_Lucie_Dejardin_hog_rso: "Люси Дежардин"
  BEL_Achille_Van_Acker_hog_sde: "Ахилль Ван Аккер"
  BEL_Victor_de_Laveleye_hog_sli: "Виктор де Лавелейе"
@@ -1264,7 +1264,7 @@
  ### Person of Influence ###
  ## Foreign Minister
  BEL_Edgar_Lalmand_for_tot: "Эдгар Лальманд"
- BEL_War_van_Overstraeten_for_syn: "Военный фургон &lt; &lt; Оверстен &gt; &gt;"
+ BEL_War_van_Overstraeten_for_syn: "Военный фургон Оверстен"
  BEL_Louis_Paul_Boon_for_rso: "Луи Пол Бун"
  BEL_Camille_Huysmans_for_sde: "Камилла Хюйсманс"
  BEL_Jules_Pire_for_sde: "Джулс Пир"
@@ -1524,7 +1524,7 @@
  BRA_J_J_Seabra_hog_mli: "Сибра"
  BRA_Affonso_Camargo_hog_sco: "Афонсо Камарго"
  BRA_Altino_Arantes_hog_sco: "Artino Artsentes"
- BRA_Armando_de_Sales_Oliveira_hog_sco: "&lt; &lt; Армандо де сел Оливейра &gt; &gt;"
+ BRA_Armando_de_Sales_Oliveira_hog_sco: "Армандо де сел Оливейра"
  BRA_Joao_Neves_da_Fontoura_hog_sco: "Жоау Невес да Фонтура"
  BRA_Jose_Antonio_Flores_da_Cunha_hog_sco: "Хосе Антониу Флорес да Кунья"
  BRA_Osvaldo_Aranha_hog_sco: "Освальдо Арана"
@@ -1612,7 +1612,7 @@
  BRA_Juarez_do_Nascimento_Fernandes_Tavora_carm_sli: "Хуарес ду Насименто Фернандес Тавора"
  BRA_Manuel_Rabelo_carm_npo: "Мануэль Рабело"
  BRA_Afonso_Augusto_de_Albuquerque_Lima_carm: "Афонсо Аугусто де Альбукерке Лима"
- BRA_Euclides_Figueiredo_carm: "&lt; &lt; Евклидс Фигейредо &gt; &gt;"
+ BRA_Euclides_Figueiredo_carm: "Евклидс Фигейредо"
  BRA_Francisco_de_Paula_Cidade_carm: "Франциско де Паула Сидаде"
  BRA_Francisco_Jose_da_Silva_Junior_carm: "Франсиско Хосе да Силва Юньор"
  BRA_Garrastazu_Medici_carm: "Гарастазу Медичи"
@@ -1626,10 +1626,10 @@
  BRA_Valdomiro_Castilho_de_Lima_carm: "Вальдомиро Кастильо де Лима"
 
  ### Chief of Navy ###
- BRA_Adalberto_de_Barros_Nunes_cnav_pau: "&lt; &lt; Адалберто де Баррос Нунес &gt; &gt;"
+ BRA_Adalberto_de_Barros_Nunes_cnav_pau: "Адалберто де Баррос Нунес"
  BRA_Antonio_Alves_Camara_Junior_cnav: "Антонио Алвис Чамара Юньор"
  BRA_Henrique_Aristides_Guilhem_cnav: "Энрики Аристидес Гильем"
- BRA_Isaias_de_Noronha_cnav: "&lt; &lt; Исайяс де Норонха &gt; &gt;"
+ BRA_Isaias_de_Noronha_cnav: "Исайяс де Норонха"
  BRA_Joao_Candido_cnav: "Жуан Кандидо"
  BRA_Protogenes_Guimaraes_cnav: "Протогены Гимарские"
 
@@ -1910,7 +1910,7 @@
  CAM_Phan_Sina_for_sco: "Фан Сина"
  CAM_Krisan_Cheda_for_ade: "Крисан Чеда"
  ## Economy Minister
- CAM_Nuon_Chea_eco_tot: "&lt; &lt; Нуон чеа &gt; &gt;"
+ CAM_Nuon_Chea_eco_tot: "Нуон чеа"
  CAM_Chai_Saing_Yun_eco_sli: "Чай Сян Юнь"
  CAM_Sisowath_Monireth_eco_sli: "Сисоват Монирет"
  CAM_Sam_An_eco_sco: "Сэм Ан"
@@ -4097,7 +4097,7 @@
  ### Head of Government ###
  FLN_Georges_Vereecken_hog_tot: "Жорж Верекен"
  FLN_Louis_Paul_Boon_hog_syn: "Луи Пол Бун"
- FLN_War_van_Overstraeten_hog_rso: "Военный фургон &lt; &lt; Оверстен &gt; &gt;"
+ FLN_War_van_Overstraeten_hog_rso: "Военный фургон Оверстен"
  FLN_Camille_Huysmans_hog_sde: "Камилла Хюйсманс"
  FLN_Adolphe_Van_Glabbeke_hog_sli: "Адольф Ван Глаббеке"
  FLN_Octave_Dierckx_hog_mli: "Octave Dierckx"
@@ -4151,7 +4151,7 @@
  FLN_Lucien_Rijckeboer_cos_npo: "Люсьен Риджкебоэр"
  FLN_Raf_Van_Hulse_cos_npo: "Раф Ван Хульсе"
  FLN_Robert_Verbelen_cos_npo: "Роберт Вербрен"
- FLN_Seraf_Trio_cos_npo: "Трио &lt; &lt; Сераф &gt; &gt;"
+ FLN_Seraf_Trio_cos_npo: "Трио Сераф"
 
  ### Chief of Army ###
  FLN_Oscar_Michiels_carm_sco: "Оскар Михильс"
@@ -4332,7 +4332,7 @@
  FRA_Marcel_Cachin_hog_tot: "Марсель Качин"
  FRA_Benoit_Frachon_hog_syn: "Бенуа Фракон"
  FRA_Boris_Souvarine_hog_syn: "Борис Суварин"
- FRA_Comite_de_Salut_Public_hog_syn: "Общественный комитет &lt; &lt; Салют &gt; &gt;"
+ FRA_Comite_de_Salut_Public_hog_syn: "Общественный комитет Салют"
  FRA_Guy_Mollet_hog_syn: "Парень Молет"
  FRA_Marceau_Pivert_hog_syn: "Марсо Пиверт"
  FRA_Benoit_Broutchoux_hog_rso: "Бенуа Брутчу"
@@ -5235,7 +5235,7 @@
  GRP_Octavio_Brandao_eco_tot: "Октавио Брандау"
  GRP_Diogenes_Arruda_Camara_eco_syn: "Диогены Арруда Камара"
  GRP_Gregorio_Bezerra_eco_rso: "Грегорио Безерра"
- GRP_Hastinfilo_de_Moura_eco_sde: "&lt; &lt; Мура &gt; &gt;"
+ GRP_Hastinfilo_de_Moura_eco_sde: "Мура"
  GRP_Barbosa_Lima_Sobrinho_eco_sli: "Барбоса Лима Собринхо"
  GRP_Anibal_Freire_da_Fonseca_eco_mli: "Анибаль Фрейре да Фонсека"
  GRP_Luis_da_Camara_Cascudo_eco_sco: "Люс да Камара Каскудо"
@@ -6056,7 +6056,7 @@
  HUN_Geza_Lakatos_de_Csikszentsimon_hog_ade: "Геза Лакатос де Циксценцимон"
  HUN_Istvan_Bethlen_hog_ade: "Иштван Бетлен"
  HUN_Karoly_Bartha_de_Dalnokfalva_hog_ade: "Кароли Барта-де-Далнокфальва"
- HUN_Pal_Teleki_de_Szek_hog_ade: "&lt; &lt; Телеки де Сек &gt; &gt;"
+ HUN_Pal_Teleki_de_Szek_hog_ade: "Телеки де Сек"
  HUN_Bela_Imredy_de_Omoravia_hog_pau: "Бела Имреди де Оморавиа"
  HUN_Dezso_Pattantyus_Abraham_hog_pau: "Дассю Паттантус-Абрахам"
  HUN_Gyula_Goemboes_de_Jakfa_hog_pau: "Гюла Гёмбёш де Якфа"
@@ -6080,7 +6080,7 @@
  HUN_Francois_Deak_for_sco: "Франсуа-Дик"
  HUN_Janos_Gyoengyoesi_for_sco: "Янос Гёнгиёси"
  HUN_Edgar_Keksz_for_ade: "Эдгар Кексц"
- HUN_Pal_Teleki_de_Szek_for_ade: "&lt; &lt; Телеки де Шек &gt; &gt;"
+ HUN_Pal_Teleki_de_Szek_for_ade: "Телеки де Шек"
  HUN_Bela_Imredy_de_Omoravia_for_pau: "Бела Имреди де Оморавиа"
  HUN_Endre_Bajcsy_Zsilinszky_for_pau: "Эндрю Байчи-Зилинки"
  HUN_Ferenc_Keresztes_Fischer_for_pau: "Ференк Керештес-Фишер"
@@ -6125,7 +6125,7 @@
  HUN_Edgar_Keksz_sec_ade: "Эдгар Кексц"
  HUN_Laszlo_Baky_sec_ade: "Ласло Баки"
  HUN_Miklos_Banffy_sec_ade: "Миклош Банффи"
- HUN_Pal_Teleki_de_Szek_sec_ade: "&lt; &lt; Телеки де Шек &gt; &gt;"
+ HUN_Pal_Teleki_de_Szek_sec_ade: "Телеки де Шек"
  HUN_Ferenc_Keresztes_Fischer_sec_pau: "Ференк Керештес-Фишер"
  HUN_Kalman_Daranyi_de_Pusztaszentgyoergyi_sec_pau: "Kálmán Darany de Pusztasentgyörgyi"
  HUN_Kalman_Szell_sec_pau: "Калман Шелл"
@@ -6189,7 +6189,7 @@
  ICE_Jon_Baldvinsson_hog_sde: "Джон Болдвинссон"
  ICE_Stefan_Johann_Stefansson_hog_sde: "Стефан Йоханн Стефанссон"
  ICE_Jonas_Jonsson_hog_sli: "Джонас Йонссон"
- ICE_Olafur_Thors_hog_mli: "Торы &lt; &lt; Лафур &gt; &gt;"
+ ICE_Olafur_Thors_hog_mli: "Торы Лафур"
  ICE_Sveinn_Bjoernsson_hog_sco: "Свейнн Бьёрнссон"
  ICE_Agnar_Hansen_hog_ade: "Агнар Хансен"
  ICE_Thor_Thors_hog_pau: "Торы"
@@ -7399,7 +7399,7 @@
  LEB_Farid_Jubran_hog_rso: "Фарид Джубран"
  LEB_Abdallah_Yafi_hog_sli: "Абдалла Яфи"
  LEB_Aref_Abu_Chakra_hog_sli: "Ареф Абу Чакра"
- LEB_Petro_Trad_hog_mli: "&lt; &lt; Петро Трэд &gt; &gt;"
+ LEB_Petro_Trad_hog_mli: "Петро Трэд"
  LEB_Raymond_Edde_hog_mli: "Рэймонд Эдде"
  LEB_Bechara_El_Khoury_hog_sco: "Бечара Эль-Хури"
  LEB_Boutros_El_Khoury_hog_sco: "Бутрос Эль-Хури"
@@ -7732,7 +7732,7 @@
  LOM_Ivanoe_Bonomi_hog_sli: "Ивано Бономи"
  LOM_Luigi_Einaudi_hog_mli: "Луиджи Эйнауди"
  LOM_Sebastiano_Visconti_Prasca_hog_sco: "Себастьян Висконти Праска"
- LOM_Emilio_de_Bono_hog_ade: "&lt; &lt; Эмилио де Боно &gt; &gt;"
+ LOM_Emilio_de_Bono_hog_ade: "Эмилио де Боно"
  LOM_Piero_Parini_hog_pau: "Пьеро Парини"
  LOM_Gian_Giacomo_Gallarati_Scotti_hog_npo: "Джан Джакомо Галларати Скотти"
 
@@ -7766,7 +7766,7 @@
 
  ### Chief of Staff ###
  LOM_Alberto_Pariani_cos: "Альберто Периани"
- LOM_Emilio_de_Bono_cos: "&lt; &lt; Эмилио де Боно &gt; &gt;"
+ LOM_Emilio_de_Bono_cos: "Эмилио де Боно"
  LOM_Ferrante_Vincenzo_Gonzaga_cos: "Феррант Винченцо Гонсалеса"
  LOM_Sebastiano_Visconti_Prasca_cos: "Себастьян Висконти Праска"
 
@@ -8008,7 +8008,7 @@
 
  ### Head of Government ###
  MEX_Abelardo_L_Rodriguez_hog_tot: "Абелардо Л. Родригес"
- MEX_Emilio_Portes_Gil_hog_tot: "&lt; &lt; Эмилио Портс Гил &gt; &gt;"
+ MEX_Emilio_Portes_Gil_hog_tot: "Эмилио Портс Гил"
  MEX_Lazaro_Cardenas_hog_tot: "Лазаро Карденас"
  MEX_Plutarco_Elias_Calles_hog_tot: "Плутарко Элиас Каллес"
  MEX_Fidel_Velazquez_hog_syn: "Фидель Веласкес"
@@ -9066,8 +9066,8 @@
  ### Head of Government ###
  PAN_Ricardo_Alfaro_Jovane_hog_sli: "Рикардо Альфаро Йоване"
  PAN_Juan_Demostenes_Arosemena_hog_sco: "Хуан Демостенес Аросемена"
- PAN_Arnulfo_Arias_de_la_Madrid_hog_ade: "&lt; &lt; Арнульфо Ариас де ла Мадрид &gt; &gt;"
- PAN_Harmodio_Arias_de_la_Madrid_hog_ade: "&lt; &lt; Хармодио Ариас де ла Мадрид &gt; &gt;"
+ PAN_Arnulfo_Arias_de_la_Madrid_hog_ade: "Арнульфо Ариас де ла Мадрид"
+ PAN_Harmodio_Arias_de_la_Madrid_hog_ade: "Хармодио Ариас де ла Мадрид"
  PAN_Manuel_Pino_hog_pau: "Мануэль Пино"
 
  ### Person of Influence ###
@@ -10041,7 +10041,7 @@
  PUE_Antonio_Rafael_Barcelo_sec_sli: "Антонио Рафаэль Барсело"
  PUE_Maria_Martinez_Acosta_sec_sli: "Мария Мартинес Акоста"
  PUE_Jose_S_Alegria_sec_ade: "Хосе С. Алегрия"
- PUE_Blanca_Canales_sec_npo: "&lt; &lt; Бланка канализ &gt; &gt;"
+ PUE_Blanca_Canales_sec_npo: "Бланка канализ"
  PUE_Pedro_Albizu_Campos_sec_npo: "Педро Альбису Кампос"
 
  ### Chief of Staff ###
@@ -10310,7 +10310,7 @@
  RJM_Augusto_Frederico_Schmidt_hog_sli: "Августо Фредерико Шмидт"
  RJM_Raul_Fernandes_hog_mli: "Рауль Фернандес"
  RJM_Artur_Bernardes_hog_sco: "Артур Бернардес"
- RJM_Adalberto_de_Barros_Nunes_hog_ade: "&lt; &lt; Адалберто де Баррос Нунес &gt; &gt;"
+ RJM_Adalberto_de_Barros_Nunes_hog_ade: "Адалберто де Баррос Нунес"
  RJM_Afranio_de_Melo_Franco_hog_pau: "Афранио де Мело Франко"
  RJM_Gofredo_Teles_hog_npo: "Телеграммы Gofredo"
 
@@ -10360,9 +10360,9 @@
  RJM_Newton_Estilac_Leal_carm: "Ньютон Эстилак Лиал"
 
  ### Chief of Navy ###
- RJM_Adalberto_de_Barros_Nunes_cnav: "&lt; &lt; Адалберто де Баррос Нунес &gt; &gt;"
+ RJM_Adalberto_de_Barros_Nunes_cnav: "Адалберто де Баррос Нунес"
  RJM_Henrique_Aristides_Guilhem_cnav: "Энрики Аристидес Гильем"
- RJM_Isaias_de_Noronha_cnav: "&lt; &lt; Исайяс де Норонха &gt; &gt;"
+ RJM_Isaias_de_Noronha_cnav: "Исайяс де Норонха"
 
  ### Chief of Air Force ###
  RJM_Armando_Figueira_Trompowsky_cair: "Армандо Фигуэйра Тромповский"
@@ -11086,7 +11086,7 @@
  SIA_Phraya_Sri_Sitthisongkram_hog_ade: "Фрайя Шри Ситтисонгкрам"
  SIA_Pin_Malakul_hog_ade: "Пин Малакул"
  SIA_Boworadet_Kritsadakorn_hog_pau: "Боворадет Критсадакорн"
- SIA_Chumbhotbongs_Paribatra_hog_pau: "&lt; &lt; Чамбхотбонс Парибатра &gt; &gt;"
+ SIA_Chumbhotbongs_Paribatra_hog_pau: "Чамбхотбонс Парибатра"
  SIA_Khun_Kongritsuksagorn_hog_pau: "Кхун Конгритсуксагорн"
  SIA_Paribatra_Sukhumbhand_hog_pau: "Парибатра Сукхумбанд"
  SIA_Sarit_Thanarat_hog_pau: "Сарит Танарат"
@@ -11325,7 +11325,7 @@
  SIC_Aurelio_Liotta_cair_sli: "Аурелио Лиотта"
  SIC_Francesco_De_Pinedo_cair_sli: "Франческо де Пинедо"
  SIC_Francesco_Pricolo_cair_sli: "Франческо Приколо"
- SIC_Fulco_Ruffo_di_Calabria_cair_sli: "&lt; &lt; Фулько Руффо ди Калабрия &gt; &gt;"
+ SIC_Fulco_Ruffo_di_Calabria_cair_sli: "Фулько Руффо ди Калабрия"
  SIC_Mario_Ajmone_Cat_cair_sli: "Марио Аджмон Кэт"
 
  ####################################################################################################
@@ -11692,7 +11692,7 @@
  SPA_Alberto_M_Artejo_Alvarez_for_ade: "Альберто М. Артехо-Альварес"
  SPA_Francisco_de_Asis_Serrat_y_Bonastre_for_pau: "Франсиско де Асис Серрат и Бонастр"
  SPA_Jose_Luis_Arrese_Magra_for_pau: "Хосе Луис Арресе Магра"
- SPA_Tomas_Conde_de_Redezno_for_pau: "&lt; &lt; Томас Конде де Редесно &gt; &gt;"
+ SPA_Tomas_Conde_de_Redezno_for_pau: "Томас Конде де Редесно"
  ## Economy Minister
  SPA_Anxel_Casal_eco_sde: "Анксель Касаль"
  SPA_Bibiano_Fernandez_Ossorio_eco_sde: "Бибиано Фернандес Осорио"
@@ -11733,7 +11733,7 @@
  SPA_Jose_Antonio_Primo_de_Rivera_sec_pau: "Хосе Антонио Примо де Ривера"
  SPA_Jose_Luis_Arrese_Magra_sec_pau: "Хосе Луис Арресе Магра"
  SPA_Pedro_Mourlane_Michelena_sec_pau: "Педро Мурлане Микелена"
- SPA_Tomas_Conde_de_Redezno_sec_pau: "&lt; &lt; Томас Конде де Редесно &gt; &gt;"
+ SPA_Tomas_Conde_de_Redezno_sec_pau: "Томас Конде де Редесно"
 
  ### Chief of Staff ###
  SPA_Miguel_Cabanellas_Ferrer_cos_mli: "Мигель Кабанеллас Феррер"
@@ -11819,11 +11819,11 @@
  SPO_Joao_Penteado_sec_syn: "Жуан Пентеадо"
  SPO_Elisa_Kauffmann_Abramovich_sec_rso: "Элиса Кауффман Абрамович"
  SPO_Jose_Pires_do_Rio_sec_sde: "Хосе Пирес ду Рио"
- SPO_Clineu_Braga_de_Magalhaes_sec_sli: "&lt; &lt; Клину Брага де Магальхаес &gt; &gt;"
+ SPO_Clineu_Braga_de_Magalhaes_sec_sli: "Клину Брага де Магальхаес"
  SPO_Jose_Maria_Whitaker_sec_mli: "Хосе Мария Уитакер"
  SPO_Basilio_Taborda_sec_sco: "Басилио Таборда"
  SPO_Julio_Marcondes_Salgado_sec_ade: "Хулио Маркундес Сальгадо"
- SPO_Euclides_Figueiredo_sec_pau: "&lt; &lt; Евклидс Фигейредо &gt; &gt;"
+ SPO_Euclides_Figueiredo_sec_pau: "Евклидс Фигейредо"
  SPO_Herculano_de_Carvalho_e_Silva_sec_npo: "Эркулано де Карвалью и Сильва"
 
  ### Chief of Staff ###
@@ -11833,7 +11833,7 @@
 
  ### Chief of Army ###
  SPO_Basilio_Taborda_carm_sco: "Басилио Таборда"
- SPO_Euclides_Figueiredo_carm_pau: "&lt; &lt; Евклидс Фигейредо &gt; &gt;"
+ SPO_Euclides_Figueiredo_carm_pau: "Евклидс Фигейредо"
  SPO_Manuel_Rabelo_carm: "Мануэль Рабело"
 
  ### Chief of Navy ###
@@ -11880,7 +11880,7 @@
  SPR_Alberto_M_Artejo_Alvarez_for_ade: "Альберто М. Артехо-Альварес"
  SPR_Francisco_de_Asis_Serrat_y_Bonastre_for_pau: "Франсиско де Асис Серрат и Бонастр"
  SPR_Jose_Luis_Arrese_Magra_for_pau: "Хосе Луис Арресе Магра"
- SPR_Tomas_Conde_de_Redezno_for_pau: "&lt; &lt; Томас Конде де Редесно &gt; &gt;"
+ SPR_Tomas_Conde_de_Redezno_for_pau: "Томас Конде де Редесно"
  ## Economy Minister
  SPR_Anxel_Casal_eco_sde: "Анксель Касаль"
  SPR_Bibiano_Fernandez_Ossorio_eco_sde: "Бибиано Фернандес Осорио"
@@ -11921,7 +11921,7 @@
  SPR_Jose_Antonio_Primo_de_Rivera_sec_pau: "Хосе Антонио Примо де Ривера"
  SPR_Jose_Luis_Arrese_Magra_sec_pau: "Хосе Луис Арресе Магра"
  SPR_Pedro_Mourlane_Michelena_sec_pau: "Педро Мурлане Микелена"
- SPR_Tomas_Conde_de_Redezno_sec_pau: "&lt; &lt; Томас Конде де Редесно &gt; &gt;"
+ SPR_Tomas_Conde_de_Redezno_sec_pau: "Томас Конде де Редесно"
 
  ### Chief of Staff ###
  SPR_Miguel_Cabanellas_Ferrer_cos_mli: "Мигель Кабанеллас Феррер"
@@ -12026,7 +12026,7 @@
  SRD_Mario_Berlinguer_hog_sde: "Марио Берлингер"
  SRD_Anselmo_Contu_hog_sli: "Ансельмо Конту"
  SRD_Camillo_Bellieni_hog_sli: "Камилло Беллиени"
- SRD_Francesco_Cocco_Ortu_hog_mli: "Орту &lt; &lt; Франческо Коко &gt; &gt;"
+ SRD_Francesco_Cocco_Ortu_hog_mli: "Орту Франческо Коко"
  SRD_Luigi_Crespellani_hog_mli: "Луиджи Креспеллани"
  SRD_Alfredo_Corrias_hog_sco: "Альфредо Корриас"
  SRD_Luigi_Efisio_Marras_hog_sco: "Луиджи Эфисио Маррас"
@@ -12041,7 +12041,7 @@
  SRD_Michele_Lanza_for_sli: "Мишель Ланза"
  SRD_Raffaele_Sanna_Randaccio_for_mli: "Раффаэле Санна Рандачччо"
  SRD_Silvio_Mastio_for_mli: "Сильвио Матио"
- SRD_Renato_Prunas_for_sco: "&lt; &lt; Ренато Прунас &gt; &gt;"
+ SRD_Renato_Prunas_for_sco: "Ренато Прунас"
  SRD_Vittorio_Zoppi_for_ade: "Витторио Зоппи"
  SRD_Raffaele_Guariglia_for_pau: "Раффаэле Гуарилья"
  SRD_Vittorio_Ambrosio_for_pau: "Витторио Амбросио"
@@ -12546,7 +12546,7 @@
  SYR_Aref_Abu_Chakra_hog_sli: "Ареф Абу Чакра"
  SYR_Jamil_Mardam_Bey_hog_sli: "Джамиль Мардам Бей"
  SYR_Ali_Rida_Pasha_al_Rikabi_hog_mli: "Али Рида Паша аль-Рикаби"
- SYR_Petro_Trad_hog_mli: "&lt; &lt; Петро Трэд &gt; &gt;"
+ SYR_Petro_Trad_hog_mli: "Петро Трэд"
  SYR_Raymond_Edde_hog_mli: "Рэймонд Эдде"
  SYR_Bechara_El_Khoury_hog_sco: "Бечара Эль-Хури"
  SYR_Boutros_El_Khoury_hog_sco: "Бутрос Эль-Хури"
@@ -12595,7 +12595,7 @@
  SYR_Akram_al_Hourani_sec_rso: "Акрам аль-Хурани"
  SYR_Aziz_Aoun_sec_sde: "Азиз Аун"
  SYR_Nazik_al_Abid_sec_sde: "Назик аль-Абид"
- SYR_Fares_al_Khoury_sec_sli: "Вознаграждение &lt; &lt; Аль-Хури &gt; &gt;"
+ SYR_Fares_al_Khoury_sec_sli: "Вознаграждение Аль-Хури"
  SYR_Muhammad_Jamil_Beyhum_sec_sli: "Мухаммад Джамиль Бейхум"
  SYR_Selim_Takla_sec_mli: "Селим Такла"
  SYR_Yusuf_al_Azma_sec_mli: "Юсуф аль-Азма"

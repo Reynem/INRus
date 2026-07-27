@@ -55,7 +55,7 @@
  INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_PLANE: "Самолеты"
  INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_MATERIEL: "Материальное оборудование"
  INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_TOOLTIP: "Показ только военных промышленных организаций за $ КАТЕГОРИЮ в долл. США"
- INDUSTRIAL_ORG_POLITICAL_SCREEN_OPEN_ROSTER_WITH_FILTER: "§GClick показать военные промышленные организации за §! КАТЕГОРИЮ &gt; &gt; в долл. США"
+ INDUSTRIAL_ORG_POLITICAL_SCREEN_OPEN_ROSTER_WITH_FILTER: "§GClick показать военные промышленные организации за §! КАТЕГОРИЮ в долл. США"
  INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CAN_UNLOCK_TOOLTIP: "Показать только военные промышленные организации с очками Трайта, чтобы потратить"
 
  INDUSTRIAL_ORG_DETAIL_MIO_MODIFIERS: "Атрибуты"
@@ -487,7 +487,7 @@
  generic_mio_trait_light_assault_gun_improvements: "Мобильная артиллерия"
  generic_mio_trait_light_assault_gun_anti_tank_combo: "Взрывоопасные боеприпасы"
  generic_mio_trait_light_assault_gun_improved_cannon_stabilization: "Улучшенная стабилизация пушек"
- generic_mio_trait_light_assault_gun_10_5_iefh_ammunition: "Боеприпасы &lt; &lt; Хауитцер &gt; &gt;"
+ generic_mio_trait_light_assault_gun_10_5_iefh_ammunition: "Боеприпасы Хауитцер"
  generic_mio_trait_medium_assault_gun_improvements: "Бронированная артиллерия"
  generic_mio_lighter_materials_assault_guns: "Легкие материалы"
  generic_mio_armor_hardening_process_assault_guns: "Обширные процессы армирования"
@@ -571,7 +571,7 @@
  generic_mio_trait_raiding_cruisers: "Нападающие круизеры"
  generic_mio_trait_raiding_submarines: "Подводные лодки"
  generic_mio_trait_spotting_tops: "Скачивающиеся вершины"
- generic_mio_trait_large_torpedo_banks: "&lt; &lt; Большие &quot; Торпедо Бэнкс &quot; &gt; &gt;"
+ generic_mio_trait_large_torpedo_banks: "Большие &quot; Торпедо Бэнкс &quot;"
  generic_mio_trait_mass_produced_raiders: "Массовые рейдеры"
 
  ##############################
@@ -599,7 +599,7 @@
  #####################################
  ### GREEN WATER SHIP MANUFACTURER ###
  #####################################
- generic_small_fleet_organization: "Изготовитель судна &lt; &lt; Зеленая вода &gt; &gt;"
+ generic_small_fleet_organization: "Изготовитель судна Зеленая вода"
  generic_mio_initial_trait_small_fleet_designer: "Проектировщик судна &quot; Зеленая вода &quot;"
  generic_mio_trait_submarine_hunters_black_sea: "Охотники на подводные лодки"
  generic_mio_trait_efficient_patrolling_scheme: "Система эффективного патрулирования"
@@ -657,7 +657,7 @@
  generic_mio_trait_fast_bombers: "Быстрые бомбардировщики"
  generic_mio_trait_bomber_aircraft_production: "Производство самолётов"
  generic_mio_trait_naval_aircraft_specialists: "Специалисты по военно-морским воздушным судам"
- generic_mio_trait_naval_strike: "Морской зал &lt; &lt; Столкновение &gt; &gt;"
+ generic_mio_trait_naval_strike: "Морской зал Столкновение"
  generic_mio_trait_naval_air_patrol: "Морское воздушное патрулирование"
  generic_mio_trait_naval_aircraft_production: "Производство военно-морских летательных аппаратов"
 
@@ -713,7 +713,7 @@
  generic_mio_trait_reinforced_frames: "Укрепленные рамки"
  generic_mio_trait_transport_conversions: "Преобразование транспортных средств"
  generic_mio_trait_standardized_alloys: "Стандартизированные сплавы"
- generic_mio_trait_drop_hammer_alloy_straining: "Сброс сплава &lt; &lt; Хаммер &gt; &gt;"
+ generic_mio_trait_drop_hammer_alloy_straining: "Сброс сплава Хаммер"
  generic_mio_trait_refined_secondary_aluminium: "Уточнение вторичного алюминия"
  generic_mio_trait_high_quality_aluminium_alloys: "Высококачественные алюминиевые сплавы"
  generic_mio_trait_pressurized_cockpit: "Жесткий коктейль"
@@ -843,7 +843,7 @@
  generic_mio_trait_improved_direct_fire_targeting: "Улучшенная непосредственная погода за пожарами"
  generic_mio_trait_advanced_anti_air_targeting: "Усовершенствованная антивоздушная целеопределение"
  generic_mio_trait_advanced_trajectory_calculations: "Усовершенствованные траектории вычислений"
- generic_mio_trait_sliding_breech_block: "Слайдирующий блок &lt; &lt; Брич &gt; &gt;"
+ generic_mio_trait_sliding_breech_block: "Слайдирующий блок Брич"
  generic_mio_trait_rapid_fire: "Быстрый огонь"
  generic_mio_trait_advanced_barrel_forging: "Усовершенствованная фальшивка" #ALSO FOR INFANTRY WEAPONS
  generic_mio_trait_big_guns: "Большие пушки"
@@ -858,7 +858,7 @@
  generic_mio_initial_trait_infantry_manufacturer: "Конструктор пехотного оружия"
  generic_mio_trait_drum_pattern_sights: "Виды модели барабана"
  generic_mio_trait_reinforced_stocks: "Укрепленные запасы"
- generic_mio_trait_bolt_action: "Винтовки &lt; &lt; Болт-экшн &gt; &gt;"
+ generic_mio_trait_bolt_action: "Винтовки Болт-экшн"
  generic_mio_trait_semi_auto: "Полуавтомобильные винтовки"
  generic_mio_trait_medium_machineguns: "Производство среднего пулемета"
  generic_mio_trait_mass_rifle_production: "Массовое производство винтовки"
@@ -933,7 +933,7 @@
  #################################
  generic_helicopter_organization: "Изготовитель вертолетов"
  generic_mio_initial_trait_helicopter_manufacturer: "Дизайн вертолета"
- generic_mio_trait_tandem_rotor_innovations: "&lt; &lt; Тандем Ротор инновации &gt; &gt;"
+ generic_mio_trait_tandem_rotor_innovations: "Тандем Ротор инновации"
  generic_mio_trait_single_rotor_innovations: "Инновации, связанные с одним ротором"
  generic_mio_trait_side_venting_exhaust: "Боковой выхлоп"
  generic_mio_trait_improved_engine: "Усовершенствованный двигатель"

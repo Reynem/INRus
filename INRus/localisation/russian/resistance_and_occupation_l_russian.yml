@@ -85,7 +85,7 @@
  
  OCCUPIED_COUNTRY_CORE_COUNT_TOOLTIP: "В стране есть $NUM_CORES/H$ в целом, и вы контролируете $NUM_CONTROLLED_CORES/H$ из этих штатов."
  OCCUPIED_COUNTRY_MANPOWER_TOOLTIP: "$NUM_TOTAL_MANPOWER* H$ популяция в штатах, которые вы контролируете, и с вашим действующим законодательством и другими изменениями вы можете получить доступ к $$RATIO. 1H% долларов ($NUM_ACCESED_MANPOWER* H$) этих людей."
- OCCUPIED_COUNTRY_RESOURCES_TOOLTIP: "$NUM_TOTAL_RESURCES_0H$ ($resources$) в штатах, которые вы контролируете, и с вашим действующим законодательством и другими изменениями вы можете получить доступ к $$RATIO&gt; 1H% ($NUM_ACISED_RESURCES_1H$) этих ресурсов."
+ OCCUPIED_COUNTRY_RESOURCES_TOOLTIP: "$NUM_TOTAL_RESURCES_0H$ ($resources$) в штатах, которые вы контролируете, и с вашим действующим законодательством и другими изменениями вы можете получить доступ к $$RATIO 1H% ($NUM_ACISED_RESURCES_1H$) этих ресурсов."
  OCCUPIED_COUNTRY_INDUSTRIAL_CAPACITY_TOOLTIP: "$NUM_TOTAL_FACTORIES.0H$ (NUM_TOTAL_CIV_FACTORIES.0 долл."
  OCCUPIED_COUNTRY_NO_MANPOWER_TOOLTIP: "В штатах, которые вы контролируете, нет населения."
  OCCUPIED_COUNTRY_NO_RESOURCES_TOOLTIP: "У государств, которые вы контролируете, нет ресурсов."

@@ -4,17 +4,17 @@
 
 
  ### Parties ###
- COS_vanguardist_party_long: "Народная партия &lt; &lt; Вангуардия &gt; &gt;"
+ COS_vanguardist_party_long: "Народная партия Вангуардия"
  COS_vanguardist_party: "ПВП"
- COS_collectivist_party_long: "Народная партия &lt; &lt; Вангуардия &gt; &gt;"
+ COS_collectivist_party_long: "Народная партия Вангуардия"
  COS_collectivist_party: "ПВП"
- COS_libertarian_socialist_party_long: "Народная партия &lt; &lt; Вангуардия &gt; &gt;"
+ COS_libertarian_socialist_party_long: "Народная партия Вангуардия"
  COS_libertarian_socialist_party: "ПВП"
  COS_social_democrat_party_long: "Республиканская партия"
  COS_social_democrat_party: "ПРН"
- COS_social_liberal_party_long: "Центр &lt; &lt; Эль-Центр &gt; &gt;"
- COS_social_liberal_party: "Центр &lt; &lt; Эль-Центр &gt; &gt;"
- COS_market_liberal_party_long: "&lt; &lt; Юнайтед фрут компани &gt; &gt;"
+ COS_social_liberal_party_long: "Центр Эль-Центр"
+ COS_social_liberal_party: "Центр Эль-Центр"
+ COS_market_liberal_party_long: "Юнайтед фрут компани"
  COS_market_liberal_party: "UFC"
  COS_social_conservative_party_long: "Республиканская партия"
  COS_social_conservative_party: "ПРН"
@@ -22,9 +22,9 @@
  COS_authoritarian_democrat_party: "Военное правительство"
  COS_paternal_autocrat_party_long: "Национальный совет по делам женщин"
  COS_paternal_autocrat_party: "ДНС"
- COS_national_populist_party_long: "&lt; &lt; Карибский союз &gt; &gt;"
+ COS_national_populist_party_long: "Карибский союз"
  COS_national_populist_party: "ЛК"
- COS_valkist_party_long: "&lt; &lt; Карибский союз &gt; &gt;"
+ COS_valkist_party_long: "Карибский союз"
  COS_valkist_party: "ЛК-V"
 
  ### Characters ###

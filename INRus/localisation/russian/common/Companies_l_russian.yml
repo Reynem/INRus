@@ -1,6 +1,6 @@
 ﻿l_russian:
 
- generic_arms_company: "Компания &lt; &lt; Стрелковое оружие &gt; &gt;"
+ generic_arms_company: "Компания Стрелковое оружие"
  generic_artillery_company: "Артиллерийская компания"
  generic_car_company: "Моторная компания"
 
@@ -8,13 +8,13 @@
 
  generic_naval_company: "Морская рота"
 
- generic_light_aircraft_company: "Компания &lt; &lt; Легкие самолеты &gt; &gt;"
- generic_medium_aircraft_company: "Компания &lt; &lt; Средние воздушные суда &gt; &gt;"
+ generic_light_aircraft_company: "Компания Легкие самолеты"
+ generic_medium_aircraft_company: "Компания Средние воздушные суда"
  generic_naval_aircraft_company: "Военно-морская авиакомпания"
  generic_multi_role_aircraft_company: "Многоцелевая авиакомпания"
 
  generic_industrial_company: "Промышленная компания"
- generic_electronics_company: "Компания &lt; &lt; Электроника &gt; &gt;"
+ generic_electronics_company: "Компания Электроника"
 
  ### Armour ###
  general_tank_manufacturer: "$generic_mio_initial_trait_general_tank_designer$"
@@ -117,7 +117,7 @@
  industrial_manufacturer: "Промышленная озабоченность"
  electronics_manufacturer: "Разработчик электроники"
  railroad_company: "Железнодорожная компания"
- oil_concern: "&lt; &lt; Нефтяная компания &gt; &gt;"
+ oil_concern: "Нефтяная компания"
  energy_company: "Энергетическая компания"
  construction_company: "Строительная компания"
  industrial_conglomerate: "Промышленный конгломерат"
