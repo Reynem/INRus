@@ -1,6 +1,6 @@
-l_russian:
+﻿l_russian:
 
-### Parties ###
+ ### Parties ###
  NIR_vanguardist_party: "УВЛК"
  NIR_vanguardist_party_long: "Ольстерский комитет по освобождению трудящихся"
  NIR_collectivist_party: "УВЛК"
@@ -24,7 +24,7 @@ l_russian:
  NIR_valkist_party: "СОК"
  NIR_valkist_party_long: "Солдаты Христа"
 
-### Ideas ###
+ ### Ideas ###
  NIR_NO_SURRENDER: "Не сдаваться!"
  NIR_NO_SURRENDER_desc: "Угроза папского и ирландского репрессий - очень реальная угроза, и мы должны защищать нашу маленькую протестантскую опору до последнего человека!"
  NIR_CATHOLICS: "Ольстерские католики"

@@ -1,4 +1,4 @@
-l_russian:
+﻿l_russian:
 
  generic_arms_company: "Компания &lt; &lt; Стрелковое оружие &gt; &gt;"
  generic_artillery_company: "Артиллерийская компания"
@@ -16,7 +16,7 @@ l_russian:
  generic_industrial_company: "Промышленная компания"
  generic_electronics_company: "Компания &lt; &lt; Электроника &gt; &gt;"
 
-### Armour ###
+ ### Armour ###
  general_tank_manufacturer: "$generic_mio_initial_trait_general_tank_designer$"
  general_tank_manufacturer_improved: "$general_tank_manufacturer$"
 
@@ -38,7 +38,7 @@ l_russian:
  tank_refurbishment_plant: "$generic_mio_initial_trait_tank_refurbishment_plant$"
  tank_refurbishment_plant_improved: "$tank_refurbishment_plant$"
 
-### Air ###
+ ### Air ###
  general_aircraft_manufacturer: "$generic_mio_initial_trait_general_aircraft_designer$"
  general_aircraft_manufacturer_improved: "$general_aircraft_manufacturer$"
 
@@ -66,7 +66,7 @@ l_russian:
  range_focused_aircraft_manufacturer: "$generic_mio_initial_trait_range_focused_aircraft_designer$"
  range_focused_aircraft_manufacturer_improved: "$range_focused_aircraft_manufacturer$"
 
-### Materiel ###
+ ### Materiel ###
  infantry_equipment_manufacturer_offence: "Проектировщик огнестрельного оружия с применением огнестрельного оружия"
  infantry_equipment_manufacturer_defence: "Проектировщик огнестрельного оружия, используемого для целей обороны"
  infantry_equipment_manufacturer_reliable: "Надежный проектировщик огнестрельного оружия"
@@ -87,7 +87,7 @@ l_russian:
 
  armored_car_manufacturer: "$generic_mio_initial_trait_armored_car_manufacturer$"
 
-### Naval ###
+ ### Naval ###
  task_force_ship_manufacturer: "$generic_mio_initial_trait_task_force_ship_builders$"
  task_force_ship_manufacturer_improved: "$task_force_ship_manufacturer$"
 
@@ -111,7 +111,7 @@ l_russian:
 
  merchant_marine_manufacturer: "Торговый морской производитель"
 
-### General Industry ###
+ ### General Industry ###
  mining_company: "Горнодобывающая компания"
  chemical_producer: "Химическая компания"
  industrial_manufacturer: "Промышленная озабоченность"

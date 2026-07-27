@@ -1,10 +1,10 @@
-l_russian:
+﻿l_russian:
 
-###Focus Localisation###
+ ###Focus Localisation###
  iceland_tree: "Исландия Фокусное дерево"
 
 
-### Parties ###
+ ### Parties ###
  ICE_vanguarist_party: "Народный альянс"
  ICE_vanguardist_party_long: "Алчжубандалаги"
  ICE_libertarian_socialist_party: "Партия фермеров"
@@ -29,12 +29,12 @@ l_russian:
  ICE_valkist_party_long: "Flokkur ¶jórnissinna"
 
 
-### Cosmetic Tags ###
+ ### Cosmetic Tags ###
  ICE_DEN: "Королевство Исландия"
  ICE_DEN_ADJ: "Исландский"
  ICE_DEN_DEF: "Королевство Исландия"
 
-### Characters ###
+ ### Characters ###
  ICE_brynjolfur_bjarnason: "Бринджольфур Бьярнасон"
  ICE_brynjolfur_bjarnason_leader_desc: "26 мая 1898 года, в Хели, Арнесса, Исландия§!"
  ICE_hannibal_valdimarsson: "Ганнибал Вальдимарссон"

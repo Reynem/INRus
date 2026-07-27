@@ -1,6 +1,6 @@
-l_russian:
+﻿l_russian:
 
-### Regular Tooltips (for use in custom_effect_tooltip) ###
+ ### Regular Tooltips (for use in custom_effect_tooltip) ###
  tooltip_white_line: "~n"
  tooltip_line_break: "~n"
  tooltip_line_break_2: "$tooltip_line_break$$tooltip_line_break$"
@@ -72,7 +72,7 @@ l_russian:
  focus_tree_has_changed_tt: "§R Политическая ситуация изменилась.§!"
  focus_tree_will_change_tt: "Дерево фокуса изменится... §!"
 
-### Bindable Localisation ###
+ ### Bindable Localisation ###
  tooltip_enable_focus: "§GEnables§! Национальный фокус $FOCUS_Y$."
  tooltip_enable_two_focuses: "§GEnables§! В центре внимания страны находятся доллары FOCUS1 &lt; &lt; 1 &gt; &gt; и &lt; &lt; FOCUS2 &gt; &gt; в долл. США."
  tooltip_disable_focus: "§Rdisables§! Национальный фокус $FOCUS_Y$."
@@ -186,7 +186,7 @@ l_russian:
 
  may_lead_to_war_with: ""Действительно, ведёт войну с $ONTRY$§!""
 
-### Flag Loc segments ###
+ ### Flag Loc segments ###
  tooltip_event_choice: "§Cevent Choice§!:"
  production_cost_tt: "£GFX_production_cost  Production Cost:  "
 
@@ -197,17 +197,17 @@ l_russian:
  # example of the above
  # flag_loc_entry: "$has_completed_decision$$your_decision_here$§!"
 
-### On Map Area Names ###
+ ### On Map Area Names ###
  integration_tooltip: "Неинтегрированные районы"
 
-### Events ###
+ ### Events ###
  KR.hidden.t: ""
  KR.hidden.d: ""
  KR.hidden.a: ""
 
  AI_OPTION: "Только вариант АИ"
 
-### Decision Names ###
+ ### Decision Names ###
  integrate_state: "Включите [от имени]"
  integrate_country: "Включите [от GetNameDef]"
  join_faction: "Присоединяйтесь к [От имени Гетфакшн]"
@@ -216,7 +216,7 @@ l_russian:
  invade_country: "Введи его в курс дела."
  liberate_country: "Освобождение [FROM. GetNameDef]"
 
-### Custom Modifier Tooltips ###
+ ### Custom Modifier Tooltips ###
  cannot_enact_conscription_tt: "§ § § § §!"
  cannot_train_units_tt: "§RCanno teams, распускаемые или редактируемые шаблоны §!"
  cannot_mobilise_tt: "§ §RCan не увеличивает количество законов о призыве на военную службу или мобилизации. §!"
@@ -228,10 +228,10 @@ l_russian:
  cannot_build_aircraft_ships_tt: "§RCan не производит самолётов или кораблей.§!"
  cannot_build_anything_tt: "§RCan не производит доспехов, самолетов или кораблей.§!"
 
-### Idea Names ###
+ ### Idea Names ###
  black_monday: "Чёрный понедельник"
 
-### Colours (for use in scripted loc) ###
+ ### Colours (for use in scripted loc) ###
  colour_cyan: "C"
  colour_dirty_grey: "L"
  colour_white: "W"
@@ -268,7 +268,7 @@ l_russian:
  colour_brown: "Н"
  colour_mustard: "М"
 
-### Day of the Week ### (for use in scripted loc)
+ ### Day of the Week ### (for use in scripted loc)
  day_sunday: "Воскресенье"
  day_monday: "Понедельник"
  day_tuesday: "Вторник"
@@ -277,7 +277,7 @@ l_russian:
  day_friday: "Пятница"
  day_saturday: "Суббота"
 
-### KR-added Modifiers ###
+ ### KR-added Modifiers ###
  offmap_military_factories_tooltip: "Военные фабрики &lt; &lt; вне карт &gt; &gt;"
  offmap_military_factories_change_tooltip: "$offmap_military_factories_tooltip$: $RIGHT|+=0$"
  offmap_civilian_factories_tooltip: "Гражданские фабрики &lt; &lt; вне карт &gt; &gt;"
@@ -292,7 +292,7 @@ l_russian:
  state_defection_chance: "Вероятность отказа штата"
  state_defection_chance_tooltip: "$state_defection_chance$: $RIGHT|-=%%0$"
 
-### Modifiers (for use as tooltips in variable effects) ###
+ ### Modifiers (for use as tooltips in variable effects) ###
  consumer_goods_factor_tooltip: "$MODIFIER_CONSUMER_GOODS_FACTOR$: $RIGHT|Y=%1$"
  consumer_goods_expected_value_tooltip: "$MODIFIER_CONSUMER_GOODS_EXPECTED_VALUE$: $RIGHT|Y=%1$"
  industrial_capacity_factory_tooltip: "$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: $RIGHT|+=%$"
@@ -780,11 +780,11 @@ l_russian:
  drift_defence_factor_tooltip: "$MODIFIER_DRIFT_DEFENCE_FACTOR$: $RIGHT|+=%1$"
 
 
-### check_variable Tooltips ###
+ ### check_variable Tooltips ###
  more_owned_states_than_tooltip: "Больше государств, чем $RYGHTIY0 долл."
  fewer_owned_states_than_tooltip: "Меньше государств, чем $RYGHTIY0 долл."
 
-### Scripted Loc ###
+ ### Scripted Loc ###
  loc_empty: ""
 
  loc_empire: "Империя"
@@ -864,7 +864,7 @@ l_russian:
  TRIGGER_NO: "£GFX_trigger_no"
  TRIGGER_YES: "£GFX_trigger_yes"
 
-### Custom Cost Tooltips (for use in decisions) ###
+ ### Custom Cost Tooltips (for use in decisions) ###
  CP_5: "£command_power §H5§!"
  CP_5_blocked: "£command_power §R5§!"
  CP_5_tooltip: "Для принятия решения потребуется $CP_5_block$"

@@ -1,11 +1,11 @@
-l_russian:
+﻿l_russian:
 
-### Aliases ###
+ ### Aliases ###
  GTM: "Арендодатель бухты Гуантанамо"
  MSN: "Море Сен-Николасская лизинговая компания"
  SAM: "Держатель лизинга &lt; &lt; Самана &gt; &gt;"
 
-### Ideas ###
+ ### Ideas ###
  holds_leases_idea: "Захват малых территорий"
  holds_leases_idea_desc: "В настоящее время мы либо сдаем в аренду, либо прямо владеем важными, но сокращающими территории во всем мире."
  holds_leases_idea_modifier_tooltip: "[гитмо_активный] [моле_активный] [самана_активный]"
@@ -17,7 +17,7 @@ l_russian:
  samana_lease_idea: "Самана Лиз"
  samana_lease_idea_desc: "В настоящее время мы сдаем в аренду прибрежный город Санта-Барбара-де-Самана §!.. .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
 
-### Dynamic Loc ###
+ ### Dynamic Loc ###
  gitmo_active_yes: "§YGuantanamo Bay§!! n §W(§Y[820. Владелец. GetNameWithFlag]§) Гражданская индустрия из страны-объекта: §! [? 0.058/+=%]"
  mole_active_yes: "§YMale Saint-Nicolas§! §W(§Y[318.weller. GetNameWithFlag]§!) Гражданская индустрия из страны-объекта: §! [? 0.028/+=%]"
  samana_active_yes: "Гражданская индустрия из страны-объекта: §! [? 0.02.+=%]"
@@ -30,11 +30,11 @@ l_russian:
  treatyport_whichisit2_mole: "Моле Сен-Николас"
  treatyport_whichisit2_samana: "Самана"
 
-### Tooltips ###
+ ### Tooltips ###
  gitmo_ended_tt: "Убрать §YGuantanamo Bay Lare§! n §WEFactory Change:n(§Y[820. Владелец. GetNameWithFlag]§!) Гражданская промышленность из страны-объекта: §R-5.00%§!§!"
  gitmo_ended2_tt: "Убрать §YGuantanamo Bay Lare§! n §WEFONE: n(§Y [PREV. GetNameWithFlag]§!) Гражданская промышленность в страну-объект: §G-5.00%§!§!"
 
-### Events ###
+ ### Events ###
  treaty_territory_events.1.t: "Изъятие [договорного порта]"
  treaty_territory_events.1.d: "С началом войны наши силы немедленно перешли к власти над [договорным портом], и после короткой борьбы победил."
  treaty_territory_events.1.a: "Нация снова цела!"

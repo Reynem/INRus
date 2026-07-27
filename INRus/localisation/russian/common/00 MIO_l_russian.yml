@@ -1,6 +1,6 @@
-l_russian:
+﻿l_russian:
 
-### Bel ###
+ ### Bel ###
  cockerill: "Кокерилл"
  acec: "ACEC"
  solvay: "Солвей"
@@ -17,25 +17,25 @@ l_russian:
  sabca: "САБКА"
  stampe_vertongen: "Стэмп и Вертонген"
 
-#Arg
+ #Arg
 
-somisa: "СОМИСА"
-universidad_buenos_aires: "Буэнос-Айресский университет"
-ypf: "ФИФ"
-fabricaciones_militares: "Фабриканские милитары"
-hispano_argentina: "Испано-Аргентина"
-seccion_industrial_amasadoras_mecanicas: "Промышленное отделение &quot; Амасадорас меканикас &quot;"
-fabrica_militar_aviones: "&lt; &lt; Милитар-де-Авион &gt; &gt;"
-afne: "АФНЕ"
-astarsa: "АСТАРСА"
-astilleros_alianza: "Astilleros Alianza"
-argentina_bmw: "ДМВ Аргентина"
-argentina_mauser: "Маузер Аргентина"
-argentina_fokker: "&lt; &lt; Фоккер Аргентина &gt; &gt;"
-argentina_frc: "РСВС Аргентина"
-argentina_dwm: "ДВМ Аргентина"
+ somisa: "СОМИСА"
+ universidad_buenos_aires: "Буэнос-Айресский университет"
+ ypf: "ФИФ"
+ fabricaciones_militares: "Фабриканские милитары"
+ hispano_argentina: "Испано-Аргентина"
+ seccion_industrial_amasadoras_mecanicas: "Промышленное отделение &quot; Амасадорас меканикас &quot;"
+ fabrica_militar_aviones: "&lt; &lt; Милитар-де-Авион &gt; &gt;"
+ afne: "АФНЕ"
+ astarsa: "АСТАРСА"
+ astilleros_alianza: "Astilleros Alianza"
+ argentina_bmw: "ДМВ Аргентина"
+ argentina_mauser: "Маузер Аргентина"
+ argentina_fokker: "&lt; &lt; Фоккер Аргентина &gt; &gt;"
+ argentina_frc: "РСВС Аргентина"
+ argentina_dwm: "ДВМ Аргентина"
 
-### Canada ###
+ ### Canada ###
  dominion_steel_and_coal: "Корпорация &lt; &lt; Доминион сталь &gt; &gt; и &lt; &lt; Уголь &gt; &gt;"
  bell_canada: "&lt; &lt; Белл Канада &gt; &gt;"
  canadian_marconi_company: "Канадская компания &lt; &lt; Маркони &gt; &gt;"
@@ -63,7 +63,7 @@ argentina_dwm: "ДВМ Аргентина"
  orenda_engines: "Двигатели &lt; &lt; Оренда &gt; &gt;"
  raac_canada: "Королевская атлантическая аэронавтика"
 
-### ENG ###
+ ### ENG ###
  UK_imperial_chemical_industries: "Имперская химическая промышленность"
  UK_english_electric: "Английский электрик"
  UK_marconi: "Маркони беспроводной"
@@ -89,7 +89,7 @@ argentina_dwm: "ДВМ Аргентина"
  UK_cammell_laird: "Кэммелл Лэрд"
  UK_raac: "Королевская атлантическая аэронавтика"
 
-### Bulgaria ###
+ ### Bulgaria ###
 
  bdz: "BDZ"
  su_kliment_ohridski: "СО Климент Охридский"
@@ -100,9 +100,9 @@ argentina_dwm: "ДВМ Аргентина"
  darzhavna_aeroplanna_rabotilnitsa: "&lt; &lt; Аэропланна &gt; &gt; &lt; &lt; Работилнитса &gt; &gt;"
  kaproni_bulgarski: "Капрони Булгарски"
 
-#############
-# Tur  #
-#############
+ #############
+ # Tur  #
+ #############
 
  karabuk_demir: "Карабюк Демир Челик Фабрикалари"
  koc: "Коч Тикарт А.Ш."
@@ -123,7 +123,7 @@ argentina_dwm: "ДВМ Аргентина"
  sadolin: "Садолин ве Яшарин А."
  basak: "Башак Трактьёр"
 
-### USA ###
+ ### USA ###
  USA_att: "AT&T"
  USA_general_electric: "Генерал Электрик"
  USA_ibm: "IBM"
@@ -182,7 +182,7 @@ argentina_dwm: "ДВМ Аргентина"
  USA_boeing: "Боинг"
  USA_douglas: "Дуглас"
 
-### Rhodesia ###
+ ### Rhodesia ###
  african_explosives_rhodesia: "Африка Взрывчатые вещества и промышленность Родезия"
  salisbury_arsenal: "Солсбери Арсенал"
  dorman_long_rhodesia: "Дорман Лонг Родезия"
@@ -192,7 +192,7 @@ argentina_dwm: "ДВМ Аргентина"
  anglo_american_rhodesia: "Англоамериканская Родезия"
  engen_petroleum_rhodesia: "Энген Родезия"
 
-### Portugal ###
+ ### Portugal ###
  companhia_fabril: "Союз &lt; &lt; Компанхия &gt; &gt;"
  ap_telephone: "Англо-португальский телефон"
  sacor: "ОКОР"
@@ -205,7 +205,7 @@ argentina_dwm: "ДВМ Аргентина"
  estaleiros_navais: "Estaleiros Navais de Viana do Castelo"
  lisnave: "ЛИСНАВЬ"
 
-### Polska POLAND ###
+ ### Polska POLAND ###
  cop: "КС"
  ava: "АВА"
  fb_radom: "ФБР &quot; Радом &quot;"
@@ -222,7 +222,7 @@ argentina_dwm: "ДВМ Аргентина"
  sto_gdansk: "Стоцния Гданьска"
  huta_stalowa_wola: "ГСЖ СА"
 
-### Austria ###
+ ### Austria ###
  austria_montage: "Остеррейчиш-Альпайн Монтангеселльшафт"
  puch: "Puch"
  leopold_gasser_waffenfabrik: "Леопольд Гассер Ваффенфабрик"
@@ -248,7 +248,7 @@ argentina_dwm: "ДВМ Аргентина"
  hirtenberger: "Хёртенбергер"
 
 
-### Chinese Arsenal Mechanic ###
+ ### Chinese Arsenal Mechanic ###
  CHN_armour_industry_organisation: "Китайская бронетанковая промышленность"
  CHN_naval_industry_organisation: "Китайская военно-морская промышленность"
  CHN_aviation_industry_organisation: "Китайская авиационная промышленность"
@@ -261,7 +261,7 @@ argentina_dwm: "ДВМ Аргентина"
  china_mio_arsenal_integration_decision_category: "Создание китайской промышленности внутренней обороны"
  china_mio_arsenal_integration_decision_category_desc: "Одной из немногих серебряных подкладок десятилетий гражданской войны является то, что огромные военные расходы заложили прочную основу для современного военно-промышленного комплекса, однако многие барьеры сохраняются. Помимо обычных подозреваемых в коррупции, неопытности и срыве войны, китайские солдаты исторически были оснащены иностранными замыслами, если не прямым иностранным импортом, которые сдерживали рост отечественной оружейной промышленности. Кроме того, большая часть огромных арсеналов Китая сильно децентрализована и плохо интегрирована, продуктом регионализма военных военачальников. По мере нашего продвижения к объединению мы должны работать над захватом и синхронизацией этих военных производственных центров, высвобождая весь потенциал китайской промышленности!"
 
-### Chinese Unique MIO traits ###
+ ### Chinese Unique MIO traits ###
 
  China_mio_trait_integrated_shenyang: "Объединение Шэньянского Арсенала"
  China_mio_trait_integrated_taiyuan: "Объединение тайюаньского арсенала"
@@ -271,7 +271,7 @@ argentina_dwm: "ДВМ Аргентина"
  China_mio_trait_integrated_jinling: "Объединение дрожжевого арсенала"
  China_mio_trait_integrated_hanyang: "Объединение ханьянского арсенала"
 
-### Denmark ###
+ ### Denmark ###
  DEN_atlas_maskinfabrik: "&lt; &lt; Атлас &gt; &gt; Маскинфабрик А/С"
  DEN_bang_olufsen: "Bang & Olufsen"
  DEN_novo_terapeutisk_laboratorium: "Ново Терапеутский лабораторий"
@@ -290,7 +290,7 @@ argentina_dwm: "ДВМ Аргентина"
  DEN_aalborg_verft: "Аальборг Вирфт"
 
 
-### Bohemia ###
+ ### Bohemia ###
  skodovy_zavody: "Шкодови Заводи"
  bata: "Баха"
  elektro_praga: "Электро Прага"
@@ -309,7 +309,7 @@ argentina_dwm: "ДВМ Аргентина"
  avia: "Авиа"
  #tesla_company: "Тесла"
 
-### Hungary ###
+ ### Hungary ###
  feg: "ФЕГ"
  raba: "Раба"
  mavag: "МАВАГ"
@@ -323,7 +323,7 @@ argentina_dwm: "ДВМ Аргентина"
  ungarische_flugzeugfabrik: "Венгерский легкий воздух"
  danubian_aircraft_company: "Авиакомпания &lt; &lt; Магьяр &gt; &gt;"
 
-### Japan ###
+ ### Japan ###
  Nippon_Electric_Company: "&lt; &lt; Ниппон электрик компани &gt; &gt;"
  Ishikawajima_Heavy_Industries: "&quot; Ишикаваджима Тяжелая промышленность &quot;"
  mitsui: "Мицуи"
@@ -354,7 +354,7 @@ argentina_dwm: "ДВМ Аргентина"
  sasebo_naval_arsenal: "Морской арсенал &lt; &lt; Сасебо &gt; &gt;"
  maizuru_naval_arsenal: "Морской арсенал &lt; &lt; Маидзуру &gt; &gt;"
 
-### Mexico ###
+ ### Mexico ###
  altos_hornos_mexico: "&lt; &lt; Альтос Хорнос де Мехико &gt; &gt;"
  universidad_mexico: "Национальный автономной университет Мексики"
  pemex: "ПЭМЕКС"
@@ -364,7 +364,7 @@ argentina_dwm: "ДВМ Аргентина"
  tnca: "ТНК"
  talleres_navales_golfo: "Таллеры Морские суда дель Голфо"
 
-### Norway ###
+ ### Norway ###
  norsk_hydro: "Норвежское гидроэлектростанция"
  christiania_spigerverk: "Кристиания Спигерверк"
  norsk_jernverk: "Норск Йернверк"
@@ -383,7 +383,7 @@ argentina_dwm: "ДВМ Аргентина"
  marinens_hovedverft: "Морские пехотинцы Ховедверфт"
  nylands_verksted: "Nylands Verksted"
 
-### Romania ###
+ ### Romania ###
  malaxa: "Малакса"
  universitatea_bucuresti: "Университета дин Букурешти"
  rafinaria_steaua_romana: "Рафинария Стеоа Романе"
@@ -396,11 +396,11 @@ argentina_dwm: "ДВМ Аргентина"
  fabrica_avioane_set: "Фабрика Авиоан СЕТ"
  santierul_naval_constanta: "Военно-морский константаa"
 
-### MIO Traits ###
+ ### MIO Traits ###
  ROM_mio_trait_coastal_defense_production: "Производственная деятельность в области береговой обороны"
  ROM_mio_trait_mobile_tank_destroyers: "Уничтожение мобильных цистерн"
 
-### Persia ###
+ ### Persia ###
  shabaz_aircraft_manufacturer: "Изготовитель воздушных судов &lt; &lt; Шабаз &gt; &gt;"
  imperial_arms_company: "[ROOT.PER_GetArms CompanyPrefix] Оружейная компания"
  imperial_artillery_company: "[ROOT.PER_GetArms CompanyPrefix] Артиллерийская компания"
@@ -408,7 +408,7 @@ argentina_dwm: "ДВМ Аргентина"
  PER_imperial_arms_company_organisation: "[THIS.Owner.PER_GetArms CompanyPrefix] Оружейная компания"
  PER_imperial_artillery_company_organisation: "[THIS.Owner.PER_GetArms CompanyPrefix] Артиллерийская компания"
 
-### Sweden ###
+ ### Sweden ###
  SWE_lkab: "ЛКАБ"
  SWE_ericsson: "Эрикссон"
  SWE_aga: "АГА"
@@ -423,7 +423,7 @@ argentina_dwm: "ДВМ Аргентина"
  SWE_gotaverken: "Гётаверкен"
  SWE_kockums: "Кокумы"
 
-### Spain ###
+ ### Spain ###
  altos_hornos: "Altos Hornos de Vizcaya"
  compania_telefonica_nacional: "Национальная школа Испании"
  campsa: "КАМПСА"
@@ -444,7 +444,7 @@ argentina_dwm: "ДВМ Аргентина"
  sociedad_espanola_construccion: "Военно-морское общество &lt; &lt; Эспаньола де конструксьон &gt; &gt;"
  euskalduna: "Euscalduna"
 
-### Serbia ###
+ ### Serbia ###
  sartid: "САРТИД"
  univerzitet_beogradu: "Организация &lt; &lt; Университет ю Београду &gt; &gt;"
  galenika: "Галеника"
@@ -458,7 +458,7 @@ argentina_dwm: "ДВМ Аргентина"
  rogozarski: "Рогожарски"
  aeroput: "Аэропорт"
 
-### South Africa ###
+ ### South Africa ###
  south_african_steel_and_iron: "Южноафриканская корпорация черной металлургии."
  university_of_cape_town: "Университет Кейптауна"
  african_explosives: "Взрывчатые вещества и промышленность Африки"
@@ -475,7 +475,7 @@ argentina_dwm: "ДВМ Аргентина"
  engen_petroleum: "&lt; &lt; Энген &gt; &gt;"
  directorate_of_supplies: "Управление снабжения"
 
-### Netherlands ###
+ ### Netherlands ###
  koninklijke_hoogovens: "Конинклийке Хоговенс"
  philips: "Филипс"
  hazemeyer: "Хаземейер Сигналапапаратенфабриек"
@@ -495,7 +495,7 @@ argentina_dwm: "ДВМ Аргентина"
  rotterdamsche_maatschappij: "Роттердамш Другдок Маатшаппидж"
  rotterdamsche_maatschappij_desc: "Крупнейшая компания по строительству и ремонту судов в Роттердаме, &lt; &lt; Роттердамш Другдок Маатшаппидж &gt; &gt; , построила различные гражданские и военные суда, включая большинство голландского подводного флота, построенного в специально разработанном"Onderzeebootloods" (Submarine Hall)."
 
-### Greece ###
+ ### Greece ###
  neorion: "Неорион"
  spap: "СПАП"
  ntua: "НТУА"
@@ -510,7 +510,7 @@ argentina_dwm: "ДВМ Аргентина"
  hellenic_shipyard: "Эллинико Нафтико Нафтигейо"
  neorion_thassos: "Неорион Тассос"
 
-### Finland ###
+ ### Finland ###
  FIN_outokumpu: "Outokumpu"
  FIN_tampella: "Tampella"
  FIN_pohjolan_voima: "Похджолан Войма"

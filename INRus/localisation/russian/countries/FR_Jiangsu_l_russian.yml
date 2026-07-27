@@ -1,42 +1,42 @@
 ﻿l_russian:
-#desc
-JIA_FUHRERREICH_DESC: ""
-#PARTIES
-JIA_vanguardist_party: ""
-JIA_vanguardist_party_long: ""
-JIA_collectivist_party: ""
-JIA_collectivist_party_long: ""
-JIA_libertarian_socialist_party: ""
-JIA_libertarian_socialist_party_long: ""
-JIA_social_democrat_party: ""
-JIA_social_democrat_party_long: ""
-JIA_social_liberal_party: ""
-JIA_social_liberal_party_long: ""
-JIA_market_liberal_party: ""
-JIA_market_liberal_party_long: ""
-JIA_social_conservative_party: ""
-JIA_social_conservative_party_long: "" 
-JIA_authoritarian_democrat_party: ""
-JIA_authoritarian_democrat_party_long: ""
-JIA_paternal_autocrat_party: ""
-JIA_paternal_autocrat_party_long: "" 
-JIA_national_populist_party: ""
-JIA_national_populist_party_long: ""
-JIA_valkist_party: ""
-JIA_valkist_party_long: ""
+ #desc
+ JIA_FUHRERREICH_DESC: ""
+ #PARTIES
+ JIA_vanguardist_party: ""
+ JIA_vanguardist_party_long: ""
+ JIA_collectivist_party: ""
+ JIA_collectivist_party_long: ""
+ JIA_libertarian_socialist_party: ""
+ JIA_libertarian_socialist_party_long: ""
+ JIA_social_democrat_party: ""
+ JIA_social_democrat_party_long: ""
+ JIA_social_liberal_party: ""
+ JIA_social_liberal_party_long: ""
+ JIA_market_liberal_party: ""
+ JIA_market_liberal_party_long: ""
+ JIA_social_conservative_party: ""
+ JIA_social_conservative_party_long: "" 
+ JIA_authoritarian_democrat_party: ""
+ JIA_authoritarian_democrat_party_long: ""
+ JIA_paternal_autocrat_party: ""
+ JIA_paternal_autocrat_party_long: "" 
+ JIA_national_populist_party: ""
+ JIA_national_populist_party_long: ""
+ JIA_valkist_party: ""
+ JIA_valkist_party_long: ""
 
-#Focus
+ #Focus
 
-#Events
-jia.1.t: "Нападение на Анкинга!"
-jia.1.d: "Наши союзники в нынешнем конфликте подвергаются нападению со стороны армии Южной Жили, мы должны им помочь!"
-jia.1.a: "К оружию!"
-###
-jia.2.t: "Жили стучатся."
-jia.2.d: "Несмотря на наш недавний успех в Восточном Китае, Жили по-прежнему стремятся подчинить нас под своим империалистическим правлением, где мы можем вновь стать жертвами злоупотреблений со стороны иностранных держав."
-jia.2.a: "Мы лучше умрем на ногах."
-jia.2.b: "Увы, у нас нет выбора."
+ #Events
+ jia.1.t: "Нападение на Анкинга!"
+ jia.1.d: "Наши союзники в нынешнем конфликте подвергаются нападению со стороны армии Южной Жили, мы должны им помочь!"
+ jia.1.a: "К оружию!"
+ ###
+ jia.2.t: "Жили стучатся."
+ jia.2.d: "Несмотря на наш недавний успех в Восточном Китае, Жили по-прежнему стремятся подчинить нас под своим империалистическим правлением, где мы можем вновь стать жертвами злоупотреблений со стороны иностранных держав."
+ jia.2.a: "Мы лучше умрем на ногах."
+ jia.2.b: "Увы, у нас нет выбора."
 
-#Decisions
+ #Decisions
 
-#Factions
+ #Factions

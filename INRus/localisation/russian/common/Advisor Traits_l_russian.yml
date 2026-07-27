@@ -1,21 +1,21 @@
-l_russian:
-##################################
-### Generic Political Advisors ###
-##################################
+﻿l_russian:
+ ##################################
+ ### Generic Political Advisors ###
+ ##################################
 
-### Placeholder Generic Characters ###
+ ### Placeholder Generic Characters ###
  KR_generic_parliament_sic: "Владелец законодательной власти"
  KR_generic_authoritarian_sic: "Владелец исполнительной власти"
  KR_generic_socialist_sic: "Расширение прав и возможностей профсоюзов"
 
-### Placeholder Traits ###
+ ### Placeholder Traits ###
  KR_parliament_sic: "Законодательная власть"
  KR_authoritarian_sic: "Контролируемый законодательный орган"
  KR_socialist_sic: "Расширение прав и возможностей профсоюзов"
  KR_colonial_government_sic: "Колониальное правительство"
  KR_colonial_government_paperless_sic: "$KR_colonial_government_sic$"
 
-### Political ###
+ ### Political ###
  KR_backroom_backstabber: "Задняя часть задней комнаты"
  KR_compassionate_gentleman: "Сострадательный джентльмен"
  KR_flamboyant_brute: "Ледяной Брут"
@@ -35,7 +35,7 @@ l_russian:
  KR_silent_workhorse: "Молчаливый рабочий лошадь"
  KR_ultranationalist_agitator: "Ультранационалист-агитатор"
 
-### Economic ###
+ ### Economic ###
  KR_agricultural_economist: "Экономист по сельскому хозяйству"
  KR_austere_finance_advocate: "Адвокат по финансовым вопросам Остере"
  KR_bank_president: "Президент банка"
@@ -49,7 +49,7 @@ l_russian:
  KR_mixed_economy_proponent: "Инициатор смешанной экономики"
  KR_traditionalist_economist: "Традиционистский экономист"
 
-### Military ###
+ ### Military ###
  KR_adventurous_daredevil: "Привлекательный Спаситель"
  KR_air_superiority_proponent: "Воздушная верховная власть"
  KR_armaments_organiser: "Организатор вооружений"
@@ -71,21 +71,21 @@ l_russian:
  KR_young_guard: "Молодая гвардия"
  KR_militia_organiser: "Организация &lt; &lt; Милиция &gt; &gt;"
 
-### Research ###
+ ### Research ###
  KR_education_reformer: "Реформа системы образования"
  KR_electronics_expert: "Эксперт по электронике"
  KR_industrial_chemist: "Индустриальный химик"
  KR_technocrat: "Технократ"
  KR_theoretical_scientist: "Теоретический научный сотрудник"
 
-### Construction ###
+ ### Construction ###
  KR_captain_of_industry: "Капитан промышленности"
  KR_construction_magnate: "Магнат строительства"
  KR_fortification_engineer: "Инженер по вопросам укрепления"
  KR_railway_magnate: "Железнодорожный магнат"
  KR_war_industrialist: "Военный промышленник"
 
-### Other ###
+ ### Other ###
  KR_ambitious_union_boss: "Амбициозный союзный босс"
  KR_administrative_genius: "Административный гений"
  KR_brilliant_lawyer: "Блестящий адвокат"
@@ -114,9 +114,9 @@ l_russian:
  KR_womens_organiser: "Женская организация"
  KR_faithful_lieutenant: "Верный лейтенант"
 
-##################################
-### Generic Seconds in Command ###
-##################################
+ ##################################
+ ### Generic Seconds in Command ###
+ ##################################
 
  KR_empty_sic: "ТЕМП - пустая траектория"
 
@@ -152,11 +152,11 @@ l_russian:
  KR_young_guard_sic: "$KR_young_guard$"
  KR_education_reformer_sic: "$KR_education_reformer$"
 
-######################################################
-### Unique Political Advisors & Seconds in Command ###
-######################################################
+ ######################################################
+ ### Unique Political Advisors & Seconds in Command ###
+ ######################################################
 
-### ARM ###
+ ### ARM ###
  KR_emergency_government_sic: "Чрезвычайное правило"
  KR_dashnak_pragmatist_sic: "Дашнак Прагматист"
  KR_nzhdehs_protege_sic: "Протеже Nzzdeh's Protege"
@@ -171,14 +171,14 @@ l_russian:
  KR_supportive_metropolitan: "Поддержанный столичный"
  KR_gray_eminence_sic: "Серое преосвященство"
 
-### AUS ###
+ ### AUS ###
  KR_paneuropean: "Величайший панъевропейский"
  KR_genius_cryptologist: "Гений Криптолог"
 
  ### AZR ###
  KR_ottoman_attache: "Оттоманский атташе"
 
-### BAT ###
+ ### BAT ###
  KR_defender_of_minorities: "Защитник меньшинств"
  KR_legalist: "Юридический работник"
  KR_landeswehr_interest_group: "Группа интересов &lt; &lt; Лэндсвер &gt; &gt;"
@@ -190,7 +190,7 @@ l_russian:
  KR_leader_of_the_democratic_bloc: "Лидер демократического Блока"
  KR_the_fuhrenden_bruder_sic: "Фюренден Брюдер"
 
-### BUL ###
+ ### BUL ###
  KR_sorelian_ideologue: "Сорельский идеолог"
  KR_etatist_ideologue: "Идеолог-статист"
  KR_imro_veteran: "Ветеран IMRO"
@@ -200,7 +200,7 @@ l_russian:
  KR_socialist_industrializer_sic: "Социалистический промышленник"
  KR_agrarian_activist_sic: "Аграрный активист"
 
-### BHU ###
+ ### BHU ###
  KR_genius_gongzim_sic: "Гений Гонгзим"
  KR_head_of_the_guard_sic: "Начальник гвардии"
  KR_fraternal_crony_sic: "Братский крон"
@@ -217,18 +217,18 @@ l_russian:
  BRA_royal_legitimist_sic: "Королевский легитимист"
  KR_regional_traditionalist_leader: "Региональный традиционный руководитель"
 
-### CAN ###
+ ### CAN ###
  KR_premier_of_quebec: "Премьер Квебека"
  KR_minister_of_everything: "Министр всего"
  KR_national_unity_proponent: "Организация &lt; &lt; Национальное единство &gt; &gt;"
 
-### CEY ###
+ ### CEY ###
  KR_lion_of_boralugoda_sic: "Льв Боралугоды"
  KR_parippu_mahathmaya_sic: "Париппу Махатмайя"
  CEY_genteel_historian: "Гентил историй"
  CEY_charismatic_opportunist_trait: "Чаризматичный оппортунист"
 
-## CHI ###
+ ## CHI ###
  KR_heir_to_the_revolution_sic: "Наследники китайской революции"
  KR_heir_to_the_revolution: "Наследники китайской революции"
 
@@ -289,28 +289,28 @@ l_russian:
  KR_shadowy_junta: "Тень джунта"
  KR_shadowy_junta_lar: "Тень джунта"
 
-### BLR ###
+ ### BLR ###
  KR_genius_playwright: "Гений Плейрайт"
  KR_mtsg_chair: "Председатель МТГС"
 
-### ENG ###
+ ### ENG ###
  KR_the_minister_sic: "Министр"
  KR_red_ellen_sic: "Красная Эллен"
 
-### ETH ###
+ ### ETH ###
  KR_tribal_headman: "Глава племени"
 
-### FRA ###
+ ### FRA ###
  KR_modern_dombrowvski: ""Modern Day Dombrowski""
 
-### GAL ###
+ ### GAL ###
  KR_agrarian_conservative_sic: "Аграрный консерватор"
 
-### GEO ###
+ ### GEO ###
  KR_prominent_feminist: "Знаменитый феминист"
  KR_consolidated_power_sic: "Энергоснабжение, консолидированное премьер-министром"
 
-### GER ###
+ ### GER ###
  KR_ephialtes_of_zentrum_sic: "Фефиалты Центра"
  KR_pragmatic_intriguer_sic: "Прагматический интригер"
  KR_lion_of_africa_sic: "Льва Африки"
@@ -327,18 +327,18 @@ l_russian:
  KR_nuclear_council: "Совет по ядерным исследованиям"
  KR_air_chief_red_baron: "Красный барон (Гений)"
 
-### HND ###
+ ### HND ###
  KR_integration_proponent: "Инициатор интеграции"
  KR_integration_proponent_sic: "$KR_integration_proponent$"
 
-### HUN ###
+ ### HUN ###
  KR_morphine_manufacturer: "Изготовитель морфина"
  KR_human_rights_lawyer: "Адвокат по правам человека"
 
-### INC ###
+ ### INC ###
  INC_rent_maintained_egalitarian: "Арендованное имущество эгалитарного типа"
 
-### IRE ###
+ ### IRE ###
  KR_big_fellow_3: "$IRE_big_fellow_1$"
  KR_the_chief_4: "$IRE_the_chief_1$"
  KR_agrarian_firebrand: "Аграрный пожарный корпус"
@@ -347,7 +347,7 @@ l_russian:
  KR_consummate_proceduralist: "Процедурный работник"
  KR_loyal_lieutenant_sic: "Верный лейтенант"
 
-### IRQ ###
+ ### IRQ ###
  KR_conniving_opportunist: "Сознательный оппортунист"
  KR_paramilitary_leader: "Военный лидер"
  KR_MHC_navy_council: "Совет командования военно-морского флота"
@@ -355,7 +355,7 @@ l_russian:
  KR_navy_chief_navy_council: "Совет по реформе ВМС"
  KR_air_chief_air_council: "Совет по реформе воздушного транспорта"
 
-### JAP ###
+ ### JAP ###
  KR_imperial_prince_sic: "Имперский Принц"
  KR_reformist_socialist_sic: "Реформист-социалист"
  KR_man_with_thousand_friends_sic: "Человек с тысячей друзей"
@@ -367,24 +367,24 @@ l_russian:
  KR_nationalist_ideologue: "Националистский идеолог"
  KR_governor_of_bank_of_japan: "Губернатор Банка Японии"
 
-### KUM ###
+ ### KUM ###
  KUM_royal_advisory_sic: "Королевский консультативный совет"
 
-### LBA ###
+ ### LBA ###
  KR_desert_cartographer: "Картографы пустыни"
  KR_desert_spy_ring: "Кольца шпионов пустыни"
  KR_armed_caravans: "Вооруженные караваны"
  KR_pliant_authorities: "Плодотворные органы"
 
-### LEP ###
+ ### LEP ###
  KR_flour_king: "Король пламени"
  KR_general_guillotine: "Генерал Гильотина"
  KR_prince_of_zhejiang: "Князь Чжэцзян"
 
-### LIT ###
+ ### LIT ###
  KR_daimler_benz_engineer: "Инженер &lt; &lt; Даймлер-Бенз &gt; &gt;"
 
-### NFA ###
+ ### NFA ###
  KR_the_master: "Хозяин"
  KR_pied_noir_hero: "Крысолов нуар"
  KR_the_pilot: "Пилот"
@@ -398,13 +398,13 @@ l_russian:
  KR_citizen_soldier_proponent: "Гражданин-военнослужащий"
  KR_tireless_recruiter: "Бесшовный рекруитер"
 
-### NIC ###
+ ### NIC ###
  NIC_fervent_sandinista: "Фервент Сандиниста"
 
-### NEP ###
+ ### NEP ###
  KR_committed_democrat_sic: "Демократия"
 
-### PAP ###
+ ### PAP ###
  KR_affable_insider: "Эффективный инсайдер"
  KR_pious_entrepreneur: "Благочестивый предприниматель"
  KR_popular_nobleman: "Популярный ноблемен"
@@ -414,12 +414,12 @@ l_russian:
  KR_conservative_prelate_sic: "Консервативный прелат"
  KR_firebrand_advocate_sic: "Адвокат пожарной охраны"
 
-### PER ###
+ ### PER ###
  KR_red_star: "Красная звезда"
  KR_thundering_traditionalist: "Громкий традиционист"
  KR_king_of_poets: "Король поэтов"
 
-### POL ###
+ ### POL ###
  KR_grand_magnate: "Великий Магнат"
  KR_folk_researcher: "Народный исследователь"
  KR_man_of_culture_and_science_sic: "Человек культуры и науки"
@@ -429,7 +429,7 @@ l_russian:
  KR_the_commissionaire: "Комиссия"
  POL_polish_machiavelli_sic: "Польский Махиавелли"
 
-### POR ###
+ ### POR ###
  KR_organic_doctrinaire_sic: "Органический доклер"
  KR_the_kings_lieutenant_sic: "Лейтенант короля"
  KR_militant_reactionary: "Реакция на боевые действия"
@@ -438,11 +438,11 @@ l_russian:
  KR_charismatic_blueshirt: "Чаризматическая синяя рубашка"
  KR_defender_of_monsanto: "Защитник Монсанто"
 
-### PRF ###
+ ### PRF ###
  KR_gun_salute_legislature_sic: "Законодательное собрание &lt; &lt; Гун Салют &gt; &gt;"
  KR_dissolved_legislature_sic: "Распущенный законодательный орган"
 
-### QIE ###
+ ### QIE ###
  KR_army_chief_imperial_commissioner: "Имперский уполномоченный"
  KR_idealistic_monarchist: "Идеалистический монархист"
  KR_the_fugitive_self: "Скрывающееся от правосудия я"
@@ -455,21 +455,21 @@ l_russian:
  KR_detested_educator: "Неисправность преподавателя"
  KR_director_general: "Генеральный директор"
 
-### HNN ###
+ ### HNN ###
  KR_resented_attache: "Отменённый атташе"
  KR_the_executioner: "Исполнитель"
  KR_king_of_xiangxi: "Король Сянси"
  KR_king_of_xiangxi_1: "$KR_king_of_xiangxi$"
  KR_emperor_of_xiangxi: "Император Сянси"
  KR_emperor_of_xiangxi_1: "$KR_emperor_of_xiangxi$"
-### ROM ###
+ ### ROM ###
  KR_the_capitanul_sic: "Кепитанул"
  KR_marshal_of_the_palace: "Маршал дворца"
 
-### RUS ###
+ ### RUS ###
  KR_social_reformer_sic: "Социальный реформатор"
 
-### SCO ###
+ ### SCO ###
  KR_vanguardist_worker_sic: "Работник-авангардист"
  KR_modest_trade_unionist: "Скромный профсоюзист"
  KR_old_clydesider_sic: "Старый Клайдесайдер"
@@ -484,7 +484,7 @@ l_russian:
  KR_old_stonemason: "Старый Стоунмасон"
  KR_cultural_organiser: "Организатор по вопросам культуры"
 
-### SER ####
+ ### SER ####
  KR_chetnik_veteran: "Четник Ветеран"
  KR_republican_academic: "Республиканская академическая"
  KR_socialism_proponent: "Сербский социализм"
@@ -495,34 +495,34 @@ l_russian:
  KR_political_survivor: "Политический выживший"
  KR_machiavellian_schemer_sic: "Махиавеллианский планировщик"
 
-### SHX ###
+ ### SHX ###
  KR_beijing_liason_sic: "Связь с Пекином"
 
-### SRD ###
+ ### SRD ###
  KR_iron_willed_invalid_sic: "Неверное наличие черепно-желудочно-кишечного материала"
  KR_sardist_firebrand_sic: "Sardist Firebrand"
 
-### SRI ###
+ ### SRI ###
  KR_catholic_syndicalist: "Католический синдикалист"
  KR_nuclear_research_group: "Группа ядерных исследований"
 
-### SWE ###
+ ### SWE ###
  KR_staunch_idealist: "Стаунч Идеалист"
  KR_populist_reactionary: "Популистский реакционный орган"
 
-### SWF ###
+ ### SWF ###
  KR_la_pasionaria: "Пассивия"
 
-### SZC ###
+ ### SZC ###
  KR_gentleman_polymath_sic: "Джентльмен Полимат"
  KR_establishment_navigator_sic: "Организация &quot; Навигатор &quot;"
  KR_marshal_of_tianjin: "Маршал Тяньцзина"
  KR_saint_of_sichuan: "Святой Сычуань"
 
-### TIB ###
+ ### TIB ###
  KR_foreign_buddhist: "Иностранный буддист"
 
-### UKR ###
+ ### UKR ###
  KR_socialist_moderate: "Социалистический умеренный"
  KR_red_divine: "Красный Бог"
  KR_geopolitical_theorist: "Геополитический теоретик"
@@ -571,7 +571,7 @@ l_russian:
  KR_mass_offensive_school: "Теоретик по массовым наступательным действиям"
  KR_mechanised_wave_school: "Механизированный теоретик по волнам"
 
-### USA ###
+ ### USA ###
  KR_agrarian_expert: "Эксперт по аграрным вопросам"
  KR_catholic_anarchist: "Католический анархист"
  KR_renaissance_man: "Человек-ренессанс"
@@ -600,13 +600,13 @@ l_russian:
  KR_rifleman_superiority: "Винтовка Величие"
  KR_night_attack_theorist: "Теоретик ночной атаки"
 
-### VEN ###
+ ### VEN ###
  KR_malariologist: "Малариолог"
 
-### BLR ###
+ ### BLR ###
  KR_bundist: "Бундист"
 
-### WLS ###
+ ### WLS ###
  KR_socialist_economist_sic: "Социалистический экономист"
  KR_welsh_dragoness_sic: "Драгоценность Уэльса"
  KR_the_penadur_sic: "Пенадур"
@@ -615,15 +615,15 @@ l_russian:
  KR_peoples_economist: "Народный экономист"
  KR_welsh_warrior: "Уэльский Воин"
 
-### XSM ###
+ ### XSM ###
  KR_clan_council_sic: "Совет кланов"
  KR_nationalist_imam: "Националист Имам"
 
-####################################################
-### Generic Military Staff - ported from vanilla ###
-####################################################
+ ####################################################
+ ### Generic Military Staff - ported from vanilla ###
+ ####################################################
 
-### Theorists ###
+ ### Theorists ###
  KR_council_of_theorists: "Совет теоретики"
  KR_mmic_2: "МГМГ"
  KR_mmic_exiles: "Международная организация &lt; &lt; Изгои &gt; &gt;"
@@ -646,7 +646,7 @@ l_russian:
  KR_nuclear_scientist: "Научный сотрудник по ядерным вопросам"
  KR_electronic_scientist: "Электронный научный сотрудник"
 
-### Chiefs of Army ###
+ ### Chiefs of Army ###
  KR_army_chief_defensive_1: "Армия обороны n (специалист)"
  KR_army_chief_defensive_2: "Армия обороны n (эксперт)"
  KR_army_chief_defensive_3: "Армия обороны н (Гений)"
@@ -676,7 +676,7 @@ l_russian:
  KR_army_chief_entrenchment_2: "Уничтожение/n (эксперт)"
  KR_army_chief_entrenchment_3: "Уничтожение n(Genius)"
 
-### Chiefs of Navy ###
+ ### Chiefs of Navy ###
  KR_navy_chief_naval_aviation_1: "Морская авиация n (специалист)"
  KR_navy_chief_naval_aviation_2: "Морская авиация n (эксперт)"
  KR_navy_chief_naval_aviation_3: "Морская авиация n(Genius)"
@@ -694,7 +694,7 @@ l_russian:
  KR_navy_chief_manoeuvre_2: "Морской Маноевр/н (эксперт)"
  KR_navy_chief_manoeuvre_3: "Manoeuvre(Genius)"
 
-### Chiefs of Air Force ###
+ ### Chiefs of Air Force ###
  KR_air_chief_reform_1: "Реформер воздуха n (специалист)"
  KR_air_chief_reform_2: "Реформер воздуха n (эксперт)"
  KR_air_chief_reform_3: "Реформер воздуха n(Genius)"
@@ -715,7 +715,7 @@ l_russian:
  KR_air_chief_pursuit_doctrine_2: "Доктрина иска n (эксперт)"
  KR_air_chief_pursuit_doctrine_3: "Доктрина иска n(Genius)"
 
-### Military High Command ###
+ ### Military High Command ###
  KR_MHC_entrenchment_1: "Уничтожение n (специалист)"
  KR_MHC_entrenchment_2: "Уничтожение/n (эксперт)"
  KR_MHC_entrenchment_3: "Уничтожение n(Genius)"

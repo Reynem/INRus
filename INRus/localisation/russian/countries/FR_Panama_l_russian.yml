@@ -1,6 +1,6 @@
-l_russian:
+﻿l_russian:
 
-###Parties
+ ###Parties
  PAN_vanguardist_party_long: "Партия &lt; &lt; Марксиста де панама &gt; &gt;"
  PAN_vanguardist_party: "ПИЧ"
  PAN_collectivist_party_long: "Панамская синдикалистическая партия"
@@ -26,7 +26,7 @@ l_russian:
 
 
 
-#Decisions
+ #Decisions
  PAN_panama_canal_category: "Панамский канал"
  PAN_panama_canal_desc: "Панамский канал уже давно управляется США, и теперь мы наконец можем сделать его частью Панамы."
  PAN_remove_monroe: "Отмена доктрины Монро"
@@ -36,9 +36,9 @@ l_russian:
  PAN_foreign_category: "Иностранные инвестиции"
  PAN_investment_decision: "Поиск инвестиций"
 
-#Flags
+ #Flags
 
-### Characters ###
+ ### Characters ###
  PAN_demetrio_augusto_porras_juarez: "Деметрио Аугусто Поррас Хуарес"
  PAN_ricardo_alfaro_jovane: "Рикардо Альфаро Йоване"
 

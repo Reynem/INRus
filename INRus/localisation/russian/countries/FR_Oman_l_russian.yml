@@ -1,6 +1,6 @@
-l_russian:
+﻿l_russian:
 
-### Parties ###
+ ### Parties ###
  OMA_social_democrat_party: "Alhizb Alaijtimaeiu"
  OMA_social_democrat_party_long: "Alhizb Alaijtimaeiu"
  OMA_social_conservative_party: "Хизб Альтахалуф"
@@ -24,7 +24,7 @@ l_russian:
  OMA_vanguardist_party: "Alhizb Alshuyueiu Aleumaniu"
  OMA_vanguardist_party_long: "Alhizb Alshuyueiu Aleumaniu"
 
-### Characters ###
+ ### Characters ###
  OMA_said_ibn_taimur: "Сказал Ибн Таймур"
  
  OMA_suleiman_bin_himayer_al_ryami: "Сулейман бен Химайер аль-Рьями"

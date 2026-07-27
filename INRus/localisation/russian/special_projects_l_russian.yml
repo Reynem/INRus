@@ -274,9 +274,9 @@
  TRIGGER_SPECIAL_PROJECT_FLAG_NOT_SET: "Нет:"
  TRIGGER_SPECIAL_PROJECT_FLAG_SET: ""
 
-##########################
-### Scripted tooltips ###
-##########################
+ ##########################
+ ### Scripted tooltips ###
+ ##########################
  SP_UNLOCK_BUILDING: "Разблокированное здание: $BUILDINGY$"
  SP_UNLOCK_BUILDING_ICON_DESC: "Строительство шлюзов: $BUILDINGY$nnn-GFX_buildings_strip $ICON_FRAME$ nn $BUILDING_Description$"
  SP_BUILDING_MISSING_PROJECT: "Отсутствие предварительного условия для осуществления специального проекта в размере $PROJECTIY$"
@@ -285,9 +285,9 @@
  SP_UNLOCK_TECH_WITH_EXTRA_PROJECT: "В сочетании со специальным проектом $EXTRA_PROJECTY$ открывает технологию $TECIY$."
  SP_UNLOCK_TECH_WITH_EXTRA_TECH: "В сочетании с Technology $EXTRA_technology$ открывает Technology$."
 
-##########################
-### Complexity Strings ###
-##########################
+ ##########################
+ ### Complexity Strings ###
+ ##########################
  complexity_small: "Маленький"
  complexity_medium: "Средняя"
  complexity_large: "Большой"
@@ -295,9 +295,9 @@
 
  generic_no_effects_to_equipment_tt: "Никаких изменений в отношении оборудования в размере $EQUIPINT$ не будет вноситься."
 
-##########################
+ ##########################
   ### LAND PROJECTS ###
-##########################
+ ##########################
  sp_land_multi_charge_large_caliber_gun: "Многозарядное крупнокалиберное оружие"
  sp_land_multi_charge_large_caliber_gun_desc: "С ее многослойной двигательной установкой и большим калибром это оружие способно произвести разрушительные бомбардировки на больших расстояниях."
  sp_land_reward_multi_charge_large_caliber_gun_test_failure: "Катастрофический взрыв"
@@ -417,9 +417,9 @@
  sp_land_reward_option_stronghold_network_collapse_02: "$sp_land_reward_option_stronghold_network_collapse_01$"
  sp_land_reward_option_stronghold_network_collapse_02_desc: "Неожиданно рухнул туннель под одним из основных бункеров, в результате чего несколько рабочих оказались в ловушке, а строительство застопорилось."
 
-################################
+ ################################
   ### GENERIC LAND REWARDS ###
-################################
+ ################################
  sp_land_generic_reward_scientist_xp_1: "Новые занятия"
  sp_land_generic_reward_scientist_xp_2: "Уточнение экспертных знаний"
  sp_land_generic_reward_scientist_xp_3: "Разумное открытие"
@@ -462,9 +462,9 @@
 
  sp_land_generic_reward_critical_failure: "Критическая неисправность"
 
-##########################
+ ##########################
   ## NUCLEAR PROJECTS ##
-##########################
+ ##########################
 
  sp_nuclear_reactor: "Ядерный реактор"
  sp_nuclear_reactor_desc: "Эксперименты доказали, что разделение атомов через деление высвобождает огромное количество энергии, которая может быть использована для производства энергии или, возможно, в качестве топлива для бомб..."
@@ -481,9 +481,9 @@
  sp_nuclear_warheads: "Ядерные боеголовки"
  sp_nuclear_warheads_desc: "Создавая конденсированное ядерное оружие, мы сможем использовать его в качестве полезной нагрузки на широкий спектр ракетно-пусковых систем, что позволит нам нанести удар по огромным расстояниям."
 
-#################################
+ #################################
   ## NUCLEAR PROJECT REWARDS ##
-#################################
+ #################################
 
  # Nuclear reactor
  sp_nuclear_design_choice_reward: "Конструкция реактора"
@@ -525,7 +525,7 @@
  sp_nuclear_bomb_information_leak_reward_desc: "По всей видимости, один из работников [специального проекта.Гетнам] сливал информацию иностранным агентам, независимо от того, было ли это преднамеренным или нет, пока еще неизвестно, а также трудно определить, какой ущерб был нанесен проекту."
  sp_nuclear_bomb_information_leak_reward_tt: "Прогресс в осуществлении проекта"
 
-# Nuclear Reactor
+ # Nuclear Reactor
  sp_nuclear_reactor_radioactive_leak_stabilized_reward: "Радиоактивная утечка - под контролем"
  sp_nuclear_reactor_radioactive_leak_stabilized_reward_desc: "К сожалению, во время работы с реактором произошел серьезный инцидент."
  sp_nuclear_reactor_minor_explosion_reward: "Незначительный взрыв, без повреждений"
@@ -560,16 +560,16 @@
  sp_nuclear_bomb_design_choice_reward_gun_type: "Пистолет безопаснее."
  sp_nuclear_bomb_design_choice_reward_implosion: "Имплозия - это прекрасная конструкция."
 
-# Thermonuclear Bombs
+ # Thermonuclear Bombs
  sp_thermonuclear_bomb_test_reward: "Предложение по испытанию"
  sp_thermonuclear_bomb_test_reward_desc: "Для того чтобы подтвердить теорию, лежащую в основе термоядерной бомбы, наши ученые запросили возможность провести испытательный взрыв, что потребовало бы выделения существующей атомной бомбы для инициирования цепной реакции, но значительно ускорило бы ход осуществления проекта."
  sp_thermonuclear_bomb_test_reward_option_yes: "Провести тест."
  sp_thermonuclear_bomb_test_reward_option_no: "Мы не можем пощадить материал."
  sp_no_nukes_available_tt: "$sp_thermonuclear_bomb_test_reward_option_no$"
 
-#########################
+ #########################
   ## ROCKET PROJECTS ##
-#########################
+ #########################
  sp_rockets_experimental_rockets: "Экспериментальные ракеты"
  sp_rockets_experimental_rockets_desc: "$experimental_rockets_desc$"
  sp_rockets_flying_bomb: "Летающая бомба"
@@ -589,9 +589,9 @@
  sp_rocket_interceptor: "Перехватчик ракет"
  sp_rocket_interceptor_desc: "Сочетая мощность ракеты с маневренностью маленького шасси, мы создадим несопоставимый перехватчик."
 
-################################
+ ################################
   ## ROCKET PROJECT REWARDS ##
-################################
+ ################################
 
  # Generic
  sp_rockets_scientist_xp_generic_reward: "Новые занятия"
@@ -699,9 +699,9 @@
  SP_ROCKET_AND_SUBMARINE_SITE_REMINDER_PROJECT: "Для того чтобы эффективно использовать $PROJECTY$, нам нужно построить ракетный объект или иметь подводные лодки с ракетным ударом."
  SP_ROCKET_SITE_REMINDER_PROJECT: "Для того чтобы эффективно использовать $PROJECTY$, нам нужно построить ракетный объект."
 
-########################
+ ########################
   ## NAVAL PROJECTS ##
-########################
+ ########################
  sp_naval_cruiser_submarine: "Подводные лодки"
  sp_naval_cruiser_submarine_desc: "Подводная лодка с более высокой дальностью, предназначенная для движения на большие расстояния без поддержки, была бы идеальной для нападения на вражеские суда."
  sp_naval_cruiser_submarine_free_design: "Подводные лодки"
@@ -776,9 +776,9 @@
  sp_naval_armoured_cruiser_desc: "Бронированный круизер (Panzerschiff) — небольшой корабль, который заполняет разрыв между почитаемым катером и более недавними тяжёлыми крейсерами. Они должны быть дальними и способными к независимым действиям, особенно к налетам на поверхность. Они популярны, но ошибочно известны как «Покетные боевые корабли» из-за их тяжелого вооружения, несмотря на размер их корпуса."
  sp_naval_armoured_cruiser_free_design: "Бронированный крузер"
 
-#################################
+ #################################
   ## NAVAL PROTOTYPE REWARDS ###
-#################################
+ #################################
  sp_naval_cruiser_submarine_unique_reward_a: "Протокол рейдинга"
  sp_naval_cruiser_submarine_unique_reward_a_desc: "Хотя большие размеры наших новых подводных лодок дают возможность резко увеличить пропускную способность палуб, мы должны также рассмотреть вопрос об использовании пространства для увеличения тактической дальности."
  sp_naval_cruiser_submarine_preference_a: "Гибкие операции"
@@ -918,9 +918,9 @@
  sp_naval_armoured_cruiser_preference_b: "Легкая атака, чтобы уничтожить более мелкие суда."
  sp_naval_armoured_cruiser_preference_c: "Тяжелая атака, дайте ему боевое оружие!"
 
-#########################################
+ #########################################
  ### NAVAL ADD_EQUIPMENT_BONUS ###
-########################################
+ ########################################
 
  sp_cruiser_submarine_eq_bonus_range: "Подводные лодки Крузера - расширенная дальность"
  sp_cruiser_submarine_eq_bonus_raiding: "Подводные лодки крузеров - эффективность рейдов"
@@ -971,9 +971,9 @@
  sp_armoured_cruiser_eq_bonus_light_attack: "Большой бронированный крузер"
  sp_armoured_cruiser_eq_bonus_heavy_attack: "Карманный боевой корабль"
 
-#########################################
+ #########################################
  ## GENERIC NAVAL PROTOTYPE REWARDS ###
-#########################################
+ #########################################
  sp_naval_generic_reward_scientist_xp_1: "Плавание в идеях"
  sp_naval_generic_reward_scientist_xp_2: "Утопление в творчестве"
  sp_naval_generic_reward_scientist_xp_3: "В ванной - Эврика!"
@@ -996,9 +996,9 @@
  sp_naval_generic_reward_option_armor_tech_bonus_name: "Экспериментальные военно-морские бронетанковые исследования"
  sp_naval_generic_reward_option_artillery_tech_bonus_name: "Экспериментальные исследования морской артиллерии"
 
-######################
+ ######################
   ## AIR PROJECTS ##
-######################
+ ######################
 
  sp_air_bouncing_bomb: "Бомба с прыжком"
  sp_air_bouncing_bomb_desc: "Бомба, которая может пропустить и перепрыгнуть через водные поверхности, может быть идеальным инструментом для нарушения защиты плотин и может оказаться полезной и в других ситуациях."
@@ -1031,9 +1031,9 @@
  sp_air_helicopter: "Вертолеты"
  sp_air_helicopter_desc: "Разработка вертолета, обладающего уникальной способностью к выдерживанию на месте, может дать крайне важное тактическое преимущество в ходе военных операций."
 
-#############################
+ #############################
   ## AIR PROJECT REWARDS ##
-#############################
+ #############################
 
  # Generic
  sp_air_scientist_xp_generic_reward: "Новые открытия"
@@ -1161,9 +1161,9 @@
  sp_air_helicopter_compromise: "Вертолеты - Предпочтение безопасности"
  sp_air_helicopter_protection: "Вертолеты - защита от мелкого пожара"
 
-######################################################
+ ######################################################
  ### AIR PROJECT TECH BONUS & DESIGN BONUS NAMES ###
-######################################################
+ ######################################################
 
  sp_air_supersonic_jet_fighter_free_design: "Supersonic Small Airfraft"
  sp_air_jet_tactical_bomber_free_design: "Средняя авиамашина"

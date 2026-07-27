@@ -1,13 +1,13 @@
 ﻿l_russian:
 
-TRK_paternal_autocrat: "Организация &lt; &lt; Объединенные Транскаспийские вожди &gt; &gt;"
-TRK_paternal_autocrat_def: "Объединенные Транскаспийские вожди"
-TRK_paternal_autocrat_adj: "Транскаспийцы"
-TRK: "Соединенные Штаты Америки"
-TRK_def: "Приднестровские государства"
-TRK_adj: "Транскаспийцы"
+ TRK_paternal_autocrat: "Организация &lt; &lt; Объединенные Транскаспийские вожди &gt; &gt;"
+ TRK_paternal_autocrat_def: "Объединенные Транскаспийские вожди"
+ TRK_paternal_autocrat_adj: "Транскаспийцы"
+ TRK: "Соединенные Штаты Америки"
+ TRK_def: "Приднестровские государства"
+ TRK_adj: "Транскаспийцы"
 
-#### Political Parties ####
+ #### Political Parties ####
 
  TRK_vanguardist_party_long: "Коммунистическая партия Каспии"
  TRK_vanguardist_party: "КПК"
@@ -33,15 +33,15 @@ TRK_adj: "Транскаспийцы"
  TRK_valkist_party_long: "Антибританское и Советское освободительное движение Транскаспии"
 
 
-#### Political Ministers ####
+ #### Political Ministers ####
 
 
-#####Ideas#####
+ #####Ideas#####
 
 
-#####Tooltips#####
+ #####Tooltips#####
 
 
-#####Focus#####
+ #####Focus#####
 
-#####Events#####
+ #####Events#####

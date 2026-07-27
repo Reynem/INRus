@@ -1,6 +1,6 @@
 ﻿l_russian:
- FR_MENU_HOMEPAGE: "Раздор фюрера"
- FR_MENU_FORUM: "Фюреррейх Реддит"
- FR_MENU_FACEBOOK: "Мастерская Fuhrerreich Steam"
- FR_MENU_TWITTER: "Twitter фюрера"
- FR_MENU_PRIVACY_POLICY: "Фюреррейх Патреон"
+ FR_MENU_HOMEPAGE:0 "Fuhrerreich Discord"
+ FR_MENU_FORUM:0 "Fuhrerreich Reddit"
+ FR_MENU_FACEBOOK:0 "Fuhrerreich Steam Workshop"
+ FR_MENU_TWITTER:0 "Fuhrerreich Twitter"
+ FR_MENU_PRIVACY_POLICY:0 "Fuhrerreich Patreon"

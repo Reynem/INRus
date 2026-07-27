@@ -1,10 +1,10 @@
 ﻿l_russian:
 
-#### Focuses ####
-#Remember to add descriptions.
-UCK_meeting_of_the_emirs: "Встреча эмиров"
+ #### Focuses ####
+ #Remember to add descriptions.
+ UCK_meeting_of_the_emirs: "Встреча эмиров"
 
-UCK_the_khan_remains: "Хан остаётся"
+ UCK_the_khan_remains: "Хан остаётся"
   UCK_reign_in_khiva: "Власть в Хиве"
   UCK_the_generals_must_go: "Генералы должны уйти."
   UCK_incentives_for_loyalty: "Стимулы к преданности"
@@ -15,7 +15,7 @@ UCK_the_khan_remains: "Хан остаётся"
   UCK_bolster_islam: "Ислам &lt; &lt; Болстер &gt; &gt;"
   UCK_islamic_cabinet: "Исламский кабинет"
 
-UCK_the_military_asserts_itself: "Военная служба сама по себе"
+ UCK_the_military_asserts_itself: "Военная служба сама по себе"
   UCK_create_the_development_bureau: "Создание Бюро по вопросам развития"
   UCK_empower_the_bureau: "Расширение полномочий Бюро"
   UCK_employ_more_workers: "Занятость большего числа работников"
@@ -26,7 +26,7 @@ UCK_the_military_asserts_itself: "Военная служба сама по се
   UCK_state_arms_company: "Государственная оружейная компания"
   UCK_begin_our_ascension: "Начинаем наше Вознесение"
 
-UCK_khiva_instills_democracy: "Хива поддерживает демократию"
+ UCK_khiva_instills_democracy: "Хива поддерживает демократию"
   UCK_keep_alims_son: "Оставить сына Алима"
   UCK_abolish_bukhara: "Упразднять Бухару"
   UCK_instate_federal_parliament: "Федеральный парламент штата"
@@ -41,7 +41,7 @@ UCK_khiva_instills_democracy: "Хива поддерживает демокра�
     UCK_new_usury_laws: "Новые законы о ростовщичестве"
   UCK_the_goals_of_our_democracy: "Цели нашей демократии"
 
-UCK_the_count_stands_triumphant: "Граф стоит на триумфанте"
+ UCK_the_count_stands_triumphant: "Граф стоит на триумфанте"
   UCK_those_who_resist: "Те, кто выступает против"
   UCK_decimation_anew: "Новое определение"
   UCK_crack_the_devils_skull: "Разбей череп дьявола"

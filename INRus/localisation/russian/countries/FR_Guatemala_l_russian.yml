@@ -1,35 +1,35 @@
 ﻿l_russian:
 
-#### Political Parties ####
+ #### Political Parties ####
 
-GUA_vanguardist_party: "КСП"
-GUA_vanguardist_party_long: "Синдикат цепных выключателей"
-GUA_collectivist_party: "ППП"
-GUA_collectivist_party_long: "Политический синдикат трудящихся"
-GUA_libertarian_socialist_party: "ППП"
-GUA_libertarian_socialist_party_long: "Политический синдикат трудящихся"
-GUA_social_democrat_party: "ПДР"
-GUA_social_democrat_party_long: "Демократическая реформистская партия"
-GUA_social_liberal_party: "PLC"
-GUA_social_liberal_party_long: "Либеральная партия Центральной Америки"
-GUA_market_liberal_party: "РР"
-GUA_market_liberal_party_long: "Партия &lt; &lt; Процветание &gt; &gt;"
-GUA_social_conservative_party: "PNC"
-GUA_social_conservative_party_long: "Национальная партия Центральной Америки"
-GUA_authoritarian_democrat_party: "Военная хунта"
-GUA_authoritarian_democrat_party_long: "Военная организация за национальное совершенствование"
-GUA_paternal_autocrat_party: "ПРН"
-GUA_paternal_autocrat_party_long: "Партия национального обновления"
-GUA_national_populist_party: "ПРН"
-GUA_national_populist_party_long: "Партия национального обновления"
-GUA_valkist_party: "ФНХ"
-GUA_valkist_party_long: "Национальный фронт спасения Гватемалы"
+ GUA_vanguardist_party: "КСП"
+ GUA_vanguardist_party_long: "Синдикат цепных выключателей"
+ GUA_collectivist_party: "ППП"
+ GUA_collectivist_party_long: "Политический синдикат трудящихся"
+ GUA_libertarian_socialist_party: "ППП"
+ GUA_libertarian_socialist_party_long: "Политический синдикат трудящихся"
+ GUA_social_democrat_party: "ПДР"
+ GUA_social_democrat_party_long: "Демократическая реформистская партия"
+ GUA_social_liberal_party: "PLC"
+ GUA_social_liberal_party_long: "Либеральная партия Центральной Америки"
+ GUA_market_liberal_party: "РР"
+ GUA_market_liberal_party_long: "Партия &lt; &lt; Процветание &gt; &gt;"
+ GUA_social_conservative_party: "PNC"
+ GUA_social_conservative_party_long: "Национальная партия Центральной Америки"
+ GUA_authoritarian_democrat_party: "Военная хунта"
+ GUA_authoritarian_democrat_party_long: "Военная организация за национальное совершенствование"
+ GUA_paternal_autocrat_party: "ПРН"
+ GUA_paternal_autocrat_party_long: "Партия национального обновления"
+ GUA_national_populist_party: "ПРН"
+ GUA_national_populist_party_long: "Партия национального обновления"
+ GUA_valkist_party: "ФНХ"
+ GUA_valkist_party_long: "Национальный фронт спасения Гватемалы"
 
-#### Events ####
+ #### Events ####
 
-#guatemala
+ #guatemala
 
-guatemala.1.t: "Гондурас присоединяется к Великой Республике"
-guatemala.1.d: "Не так давно социалистический переворот захватил всю власть в Гондурасе после того, как они получили контроль большинства в законодательном органе, главным образом никарагуанцы, которые бежали после провала восстания против американской военной оккупации, существуют четкие параллели между нами и ними, учитывая большое число мексиканских иммигрантов, которые стали оказывать влияние на нашу страну."
-guatemala.1.a: ""Трэбаджадоры дель Мундо, Юниос!""
+ guatemala.1.t: "Гондурас присоединяется к Великой Республике"
+ guatemala.1.d: "Не так давно социалистический переворот захватил всю власть в Гондурасе после того, как они получили контроль большинства в законодательном органе, главным образом никарагуанцы, которые бежали после провала восстания против американской военной оккупации, существуют четкие параллели между нами и ними, учитывая большое число мексиканских иммигрантов, которые стали оказывать влияние на нашу страну."
+ guatemala.1.a: ""Трэбаджадоры дель Мундо, Юниос!""
 

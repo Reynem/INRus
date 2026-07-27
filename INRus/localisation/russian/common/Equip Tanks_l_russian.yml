@@ -1,24 +1,24 @@
-l_russian:
+﻿l_russian:
 
-### The purpose of this file is to group tags that use the same tank icons together
-### It greatly reduces maintenance and refactoring time
-### Do not format it with any scripts, please
-### Contents:
-### 1. Russian tanks
-### 2. USA tanks
-### 3. Italian tanks
-### 4. French tanks
-### 5. German tanks
-### 6. German tanks - EE edition
-### 7. French Exiles tanks
-### 8. German-American mix
-### 9. Commonwealth tanks
-### 10. Danubian tanks
-### 11. British tanks
-### 12. Chinese Mix (German-Italian-Russian)
-### 13. Japanese tanks
+ ### The purpose of this file is to group tags that use the same tank icons together
+ ### It greatly reduces maintenance and refactoring time
+ ### Do not format it with any scripts, please
+ ### Contents:
+ ### 1. Russian tanks
+ ### 2. USA tanks
+ ### 3. Italian tanks
+ ### 4. French tanks
+ ### 5. German tanks
+ ### 6. German tanks - EE edition
+ ### 7. French Exiles tanks
+ ### 8. German-American mix
+ ### 9. Commonwealth tanks
+ ### 10. Danubian tanks
+ ### 11. British tanks
+ ### 12. Chinese Mix (German-Italian-Russian)
+ ### 13. Japanese tanks
 
-### 1. Russian tanks
+ ### 1. Russian tanks
 	 ### RUS, FER  - direct copypaste
 	 ### RSA, MON, PER, KAZ, ARM, ETS, BUK, KHI, TRK - changed names
 	 ### ROM - some unique loc
@@ -2799,7 +2799,7 @@ l_russian:
    ROM_super_heavy_tank_equipment_1: "Tanc 'AN', модель 1942 года, Малакса"
    ROM_super_heavy_tank_equipment_1_short: "АН"
 
-### 2. USA tanks
+ ### 2. USA tanks
    ### USA, HAW, LIB - direct copypaste
 	### ACC, NEE, WCA, APG - some loc changes
   ### United States ###
@@ -4047,7 +4047,7 @@ l_russian:
    APG_self_propelled_super_heavy_artillery_equipment_1: "$USA_self_propelled_super_heavy_artillery_equipment_1$"
    APG_self_propelled_super_heavy_artillery_equipment_1_short: "$USA_self_propelled_super_heavy_artillery_equipment_1_short$"
 
-### 3. Italian tanks
+ ### 3. Italian tanks
    ### ITA, SRI, SIC, SRD, PAP, VNC, LOM, EMI, TUS - direct copypaste
   ### Italian Republic ###
    ITA_gw_tank_equipment: "L5/21"               # Fiat 3000
@@ -5715,7 +5715,7 @@ l_russian:
    TUS_amphibious_tank_equipment_2: "$ITA_amphibious_tank_equipment_2$"
    TUS_amphibious_tank_equipment_2_short: "$ITA_amphibious_tank_equipment_2_short$"
 
-### 4. French tanks
+ ### 4. French tanks
    ### FRA, ALG, EGY, CHL, INC, FOP, FRP, CHI - direct copypaste
 	### SER - mix w.RUS and some unique loc
   ### France ###
@@ -7355,7 +7355,7 @@ l_russian:
    LIL_amphibious_tank_equipment_2: "$FRA_amphibious_tank_equipment_2$"
    LIL_amphibious_tank_equipment_2_short: "$FRA_amphibious_tank_equipment_2_short$"
 
-### 5. German tanks
+ ### 5. German tanks
    ### GER, AZR, GEA, ICE, IRE, MAF, NMB, BAT, VIN, FLA, WAL, MOR, LEP, QIE, SWI, GRU, NGF, PRE, RHI, BAY - direct copypaste
    ### BEL, BUL, FIN - some loc changes
    ### HOL, DEI - unique loc for tanks
@@ -13454,7 +13454,7 @@ l_russian:
    DEN_amphibious_tank_equipment_2: "$SWE_amphibious_tank_equipment_2$"
    DEN_amphibious_tank_equipment_2_short: "$SWE_amphibious_tank_equipment_2_short$"
 
-### 6. German tanks - EE edition
+ ### 6. German tanks - EE edition
    ### BLR, LIT, LAT, EST, GEO, BRM - direct copypaste
    ### POL - unique tank icons
    ### UKR - unique tank icons
@@ -15123,7 +15123,7 @@ l_russian:
    RSA_amphibious_tank_equipment_2: "Цистерна PT-20"
    RSA_amphibious_tank_equipment_2_short: "PT-20"
 
-### 7. French Exiles tanks
+ ### 7. French Exiles tanks
 	### NFA, DAH, GNA, VOL, CHA, IVO, MLI, MRT, NGR, SEN, TUN - direct coypaste
   ### Sand France ###
     ### Light tanks
@@ -17469,7 +17469,7 @@ l_russian:
    ANT_amphibious_tank_equipment_2_short: "$NFA_amphibious_tank_equipment_2_short$"
    ANT_amphibious_tank_equipment_2_desc: "$NFA_amphibious_tank_equipment_2_desc$"
 
-### 8. German - American mix
+ ### 8. German - American mix
 	### ARG, BRA, BOL, COL, PAR, PRU, AMA, BAH, CEN, COS, CUB, DOM, ECU, ELS, GOY, GRP, GUA, HAI, HON, LEC, NIC, PAN, PHI, PIR, PUE, URG, VCR, SPO - direct copypaste
 	 ### Ligt 0/1/2, Medium 0/1, Heavy 1 - US, rest - GER
   ### Argentina ###
@@ -22737,7 +22737,7 @@ l_russian:
    SPO_amphibious_tank_equipment_2: "$GER_amphibious_tank_equipment_2$"
    SPO_amphibious_tank_equipment_2_short: "$GER_amphibious_tank_equipment_2_short$"
 
-### 9. Commonwealth tanks
+ ### 9. Commonwealth tanks
 	### IMP, AFG, ANG, ASY, AST, RAJ, GRE, MZB, NZL, POR, ZIM, SIE, SAF, WIF, PRF, PJB, BHU, NEP, GYA, JAM, TRI, QUE  - direct copypaste
   ### Canada/UK ###
    IMP_gw_tank_equipment: "Виккеры А1, лёгкие"
@@ -27041,7 +27041,7 @@ l_russian:
    QUE_amphibious_tank_equipment_2: "$IMP_amphibious_tank_equipment_2$"
    QUE_amphibious_tank_equipment_2_short: "$IMP_amphibious_tank_equipment_2_short$"
 
-### 10. Danubian tanks
+ ### 10. Danubian tanks
    ### AUS, ALB - direct copypaste
    ### CZE, BOS, GAL, CRO, SLO, SLV, TRS, SIA - some unique loc
    ### HUN - unique loc
@@ -29235,7 +29235,7 @@ l_russian:
    SIA_amphibious_tank_equipment_2_short: "$AUS_amphibious_tank_equipment_2_short$"
    SIA_amphibious_tank_equipment_2_desc: "$AUS_amphibious_tank_equipment_2_desc$"
 
-### 11. British tanks
+ ### 11. British tanks
    ### ENG, HND, MEX, NOR, VEN, YUC, GBP, WLS, SCO - direct copypaste
   ### Union of Britain ###
    ENG_gw_tank_equipment: "Легкий танк Mk II"
@@ -31098,7 +31098,7 @@ l_russian:
    CHI_amphibious_tank_equipment_2: "$ENG_amphibious_tank_equipment_2$"
    CHI_amphibious_tank_equipment_2_short: "$ENG_amphibious_tank_equipment_2_short$"
 
-### 12. Chinese Mix (German-Italian-Russian)
+ ### 12. Chinese Mix (German-Italian-Russian)
    ### ANQ, HNN, GXC, XSM, SHD, SHX, SZC, TIB, SIK, YUN, KUM - direct copypaste
   ### Anqing Clique ###
    ANQ_gw_tank_equipment: "$ITA_gw_tank_equipment$"
@@ -33147,7 +33147,7 @@ l_russian:
    KUM_amphibious_tank_equipment_2: "$GER_amphibious_tank_equipment_2$"
    KUM_amphibious_tank_equipment_2_short: "$GER_amphibious_tank_equipment_2_short$"
 
-### 13. Japanese tanks
+ ### 13. Japanese tanks
    ### JAP, CAM, FER, FNG, INS, KOR, LAO, MAL - direct copypaste
   ### Japan ###
    JAP_gw_tank_equipment: "Тип 94"
@@ -34451,4 +34451,4 @@ l_russian:
    MAL_amphibious_tank_equipment_1_short: "$JAP_amphibious_tank_equipment_1_short$"
    MAL_amphibious_tank_equipment_2: "$JAP_amphibious_tank_equipment_2$"
    MAL_amphibious_tank_equipment_2_short: "$JAP_amphibious_tank_equipment_2_short$"
-###
+ ###

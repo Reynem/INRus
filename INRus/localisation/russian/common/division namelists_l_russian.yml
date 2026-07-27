@@ -1,6 +1,6 @@
-l_russian:
+﻿l_russian:
 
-### Common ###
+ ### Common ###
  div_normal_division: "Обычная дивизия"
  div_normal_brigade: "Обычная бригада"
 
@@ -71,22 +71,22 @@ l_russian:
  div_militia: "Вооруженные формирования"
  div_militia_division: "Отдел по военным вопросам"
 
-### ENG ###
+ ### ENG ###
  div_home_guard: "Домашняя гвардия"
 
-### GER ###
+ ### GER ###
  div_GER_panzer_division: "Панцерийный отдел"
  div_GER_landwehr_division: "Отдел Ландвера"
  div_GER_overseas_garrison_command: "Командование гарнизона за рубежом"
 
-### JAP ###
+ ### JAP ###
  div_JAP_snlf: "СНОФМ"
  div_JAP_combined_snlf: "Комбинированная СНОФМ"
  div_JAP_mixed_brigade: "Смешанная бригада"
  div_JAP_amphibious_rapid_brigade: "Бригада быстрого реагирования"
  div_JAP_independent_garrison_unit: "Независимый гардеробный отдел"
 
-### RUS ###
+ ### RUS ###
  div_rifle_division: "Отдел винтовок"
  div_motor_rifle_division: "Отдел машинных винтовок"
 

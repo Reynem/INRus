@@ -1,34 +1,34 @@
 ﻿l_russian:
 
-##ideas
-NZL_SocCrednew: "Первый кабинет по социальным кредитам"
-#### Political Parties ####
+ ##ideas
+ NZL_SocCrednew: "Первый кабинет по социальным кредитам"
+ #### Political Parties ####
 
-NZL_vanguardist_party: "НЗКП"
-NZL_vanguardist_party_long: "Новозеландская коммунистическая партия"
-NZL_collectivist_party: "НЗРЛ"
-NZL_collectivist_party_long: "Новозеландская радикальная рабочая сила"
-NZL_libertarian_socialist_party: "Социалистическая партия &lt; &lt; НЗ &gt; &gt;"
-NZL_libertarian_socialist_party_long: "СП"
-NZL_social_democrat_party: "НЗЛ"
-NZL_social_democrat_party_long: "Трудовые ресурсы"
-NZL_social_liberal_party: "Либеральная партия"
-NZL_social_liberal_party_long: "Либеральная партия"
-NZL_market_liberal_party: "Новозеландские новые граждане"
-NZL_market_liberal_party_long: "Новые национальные"
-NZL_social_conservative_party: "Британские лоялисты"
-NZL_social_conservative_party_long: "Британские лоялисты"
-NZL_authoritarian_democrat_party: "КЦХП"
-NZL_authoritarian_democrat_party_long: "Страна - Сторона Конвенции о социальном кредитовании"
-NZL_paternal_autocrat_party: "МРА"
-NZL_paternal_autocrat_party_long: "Военная временная администрация"
-NZL_national_populist_party: "НЗААП"
-NZL_national_populist_party_long: "Новая Зеландия"
-NZL_valkist_party: "Националистическая лига"
-NZL_valkist_party_long: "Националистическая лига"
+ NZL_vanguardist_party: "НЗКП"
+ NZL_vanguardist_party_long: "Новозеландская коммунистическая партия"
+ NZL_collectivist_party: "НЗРЛ"
+ NZL_collectivist_party_long: "Новозеландская радикальная рабочая сила"
+ NZL_libertarian_socialist_party: "Социалистическая партия &lt; &lt; НЗ &gt; &gt;"
+ NZL_libertarian_socialist_party_long: "СП"
+ NZL_social_democrat_party: "НЗЛ"
+ NZL_social_democrat_party_long: "Трудовые ресурсы"
+ NZL_social_liberal_party: "Либеральная партия"
+ NZL_social_liberal_party_long: "Либеральная партия"
+ NZL_market_liberal_party: "Новозеландские новые граждане"
+ NZL_market_liberal_party_long: "Новые национальные"
+ NZL_social_conservative_party: "Британские лоялисты"
+ NZL_social_conservative_party_long: "Британские лоялисты"
+ NZL_authoritarian_democrat_party: "КЦХП"
+ NZL_authoritarian_democrat_party_long: "Страна - Сторона Конвенции о социальном кредитовании"
+ NZL_paternal_autocrat_party: "МРА"
+ NZL_paternal_autocrat_party_long: "Военная временная администрация"
+ NZL_national_populist_party: "НЗААП"
+ NZL_national_populist_party_long: "Новая Зеландия"
+ NZL_valkist_party: "Националистическая лига"
+ NZL_valkist_party_long: "Националистическая лига"
 
 
-### Characters ###
+ ### Characters ###
  NZL_alexander_galbraith: "Александр Галбрейт"
  NZL_john_alfred_alexander_lee: "Джон Альфред Александр Ли"
  NZL_elsie_violet_farrelly: "Элси Вайолет Фаррелли"
@@ -88,5 +88,5 @@ NZL_valkist_party_long: "Националистическая лига"
  NZL_henry_edward_horan: "Генри Эдвард Хоран"
  NZL_leonard_monk_isitt: "Леонард Монк Изитт"
 
-### Traits ###
+ ### Traits ###
  NZL_black_prince: "Черный принц"

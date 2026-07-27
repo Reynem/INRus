@@ -1,6 +1,6 @@
-l_russian:
+﻿l_russian:
 
-### Tooltips ###
+ ### Tooltips ###
  irq_join_faction: "Исходя из предыдущего выбора, мы либо присоединимся к § [GER.GetNameWithFlag]§!, либо §Y[EGY.GetNameWithFlag]§! в их борьбе."
 
  yasin_concedes: "Рашид аль-Гейлани входит в состав кабинета"
@@ -10,33 +10,33 @@ l_russian:
  irq_iran_help_effect_tt: "§aW значительно увеличит шансы сил «Мунтафика» на достижение своей цели.§!"
  irq_remove_old_reforms_tt: "Новое правительство отменяет многие из реформ, введенных их бывшими, устранив достигнутый прогресс!"
 
-### Cosmetic Tags ###
+ ### Cosmetic Tags ###
  IRQ: "Ирак"
  IRQ_ADJ: "Ирак"
  IRQ_DEF: "Ирак"
 
-#Kingdom
-IRQ_KINGDOM_social_democrat: "Королевство Ирак"
-IRQ_KINGDOM_social_democrat_ADJ: "Ирак"
-IRQ_KINGDOM_social_democrat_DEF: "Королевство Ирак"
-IRQ_KINGDOM_social_liberal: "Королевство Ирак"
-IRQ_KINGDOM_social_liberal_ADJ: "Ирак"
-IRQ_KINGDOM_social_liberal_DEF: "Королевство Ирак"
-IRQ_KINGDOM_market_liberal: "Королевство Ирак"
-IRQ_KINGDOM_market_liberal_ADJ: "Ирак"
-IRQ_KINGDOM_market_liberal_DEF: "Королевство Ирак"
-IRQ_KINGDOM_social_conservative: "Королевство Ирак"
-IRQ_KINGDOM_social_conservative_ADJ: "Ирак"
-IRQ_KINGDOM_social_conservative_DEF: "Королевство Ирак"
-IRQ_KINGDOM_authoritarian_democrat: "Королевство Ирак"
-IRQ_KINGDOM_authoritarian_democrat_ADJ: "Ирак"
-IRQ_KINGDOM_authoritarian_democrat_DEF: "Королевство Ирак"
-IRQ_KINGDOM_paternal_autocrat: "Королевство Ирак"
-IRQ_KINGDOM_paternal_autocrat_ADJ: "Ирак"
-IRQ_KINGDOM_paternal_autocrat_DEF: "Королевство Ирак"
-IRQ_KINGDOM_national_populist: "Королевство Ирак"
-IRQ_KINGDOM_national_populist_ADJ: "Ирак"
-IRQ_KINGDOM_national_populist_DEF: "Королевство Ирак"
+ #Kingdom
+ IRQ_KINGDOM_social_democrat: "Королевство Ирак"
+ IRQ_KINGDOM_social_democrat_ADJ: "Ирак"
+ IRQ_KINGDOM_social_democrat_DEF: "Королевство Ирак"
+ IRQ_KINGDOM_social_liberal: "Королевство Ирак"
+ IRQ_KINGDOM_social_liberal_ADJ: "Ирак"
+ IRQ_KINGDOM_social_liberal_DEF: "Королевство Ирак"
+ IRQ_KINGDOM_market_liberal: "Королевство Ирак"
+ IRQ_KINGDOM_market_liberal_ADJ: "Ирак"
+ IRQ_KINGDOM_market_liberal_DEF: "Королевство Ирак"
+ IRQ_KINGDOM_social_conservative: "Королевство Ирак"
+ IRQ_KINGDOM_social_conservative_ADJ: "Ирак"
+ IRQ_KINGDOM_social_conservative_DEF: "Королевство Ирак"
+ IRQ_KINGDOM_authoritarian_democrat: "Королевство Ирак"
+ IRQ_KINGDOM_authoritarian_democrat_ADJ: "Ирак"
+ IRQ_KINGDOM_authoritarian_democrat_DEF: "Королевство Ирак"
+ IRQ_KINGDOM_paternal_autocrat: "Королевство Ирак"
+ IRQ_KINGDOM_paternal_autocrat_ADJ: "Ирак"
+ IRQ_KINGDOM_paternal_autocrat_DEF: "Королевство Ирак"
+ IRQ_KINGDOM_national_populist: "Королевство Ирак"
+ IRQ_KINGDOM_national_populist_ADJ: "Ирак"
+ IRQ_KINGDOM_national_populist_DEF: "Королевство Ирак"
 
 
 
@@ -65,7 +65,7 @@ IRQ_KINGDOM_national_populist_DEF: "Королевство Ирак"
  IRQ_federation_national_populist: "Арабская федерация"
  IRQ_federation_national_populist_DEF: "Арабской федерации"
 
-### Parties ###
+ ### Parties ###
  IRQ_vanguardist_party: "HSI"
  IRQ_vanguardist_party_long: "&quot; Хизб пепел &quot; , &quot; Ираки &quot; (Социалистическая партия Ирака)"
  IRQ_collectivist_party: "HSI"
@@ -91,7 +91,7 @@ IRQ_KINGDOM_national_populist_DEF: "Королевство Ирак"
  IRQ_saadun_party: "Садюнь."
  IRQ_saadun_party_long: "Дом Саадуна"
 
-### Dynamic Modifiers ###
+ ### Dynamic Modifiers ###
  IRQ_Rampant_Corruption: "Вспыльчивая коррупция"
  IRQ_Rampant_Corruption_desc: "Отсутствие надзора со стороны Костантинийе серьезно усугубило этот вопрос, поскольку многие квалифицированные бюрократы и военные руководители были вынуждены уехать в Турцию, что позволило создать условия для жизни в основном необразованного и менее дисциплинированного следующего поколения."
 
@@ -101,10 +101,10 @@ IRQ_KINGDOM_national_populist_DEF: "Королевство Ирак"
  IRQ_Sectarian_Divide: "Разделение секторов"
  IRQ_Sectarian_Divide_desc: "Несмотря на то, что большинство политических сил принадлежит мусульманам-суннитам, в Ираке проживает большинство шиитов и значительное число меньшинств евреев, христиан и мусульман. &lt; &lt; Нахождение баланса между этими группами &gt; &gt; практически невозможно, и отсутствие желания сотрудничать привело к недееспособности правительства."
 
-### Traits ###
+ ### Traits ###
  IRQ_bismarck_of_arabia: "Бисмарк (Аравия)"
 
-### Ideas ###
+ ### Ideas ###
  IRQ_Socialist_Agitation: "Социалистическая агитация"
  IRQ_Muthanna_Paramilitaries: "Военнослужащие &lt; &lt; Аль-Мутанна &gt; &gt;"
  IRQ_Education_Reform: "Реформированный Департамент национального образования"
@@ -125,7 +125,7 @@ IRQ_KINGDOM_national_populist_DEF: "Королевство Ирак"
  IRQ_Council_Social_Affairs: "Арабский совет по социальным вопросам"
  IRQ_Arab_Federation_idea: "Дисфункциональный союз"
 
-### Foci ###
+ ### Foci ###
  iraq_focus: "Иракское дерево фокуса"
 
  IRQ_Conscription_Law: "Провозглашайте закон о призыве"
@@ -288,7 +288,7 @@ IRQ_KINGDOM_national_populist_DEF: "Королевство Ирак"
  IRQ_Cooperate_Oman_desc: "Султан Маскат и Оман наверняка должны быть заинтересованы в нашем общем проекте."
 
 
-### Characters ###
+ ### Characters ###
  IRQ_yasin_al_hashimi: "Ясин аль-Хашими"
  IRQ_yasin_al_hashimi_leader_desc: "§L1884 в Багдаде, Вилайет из Багдада, Османская империя §!"
  IRQ_taha_al_hashimi: "Таха аль-Хашими"

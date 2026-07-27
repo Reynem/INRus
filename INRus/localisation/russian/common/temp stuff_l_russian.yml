@@ -1,6 +1,6 @@
-l_russian:
+﻿l_russian:
 
-## false positives because they use text on top of id here
+ ## false positives because they use text on top of id here
  RUS_Naval_Infantry_MTG: ""
  RUS_New_Tactics_For_New_Ships_MTG: ""
  FER_Create_The_VDV: ""
@@ -12,7 +12,7 @@ l_russian:
  FER_Ural_Tractor_Plants: ""
  FER_Research_Investments: ""
 
-## ditto
+ ## ditto
  SZC_Restructure_The_Army_2: ""
  SZC_Recruit_NRA_Veterans_2: ""
  SZC_Form_Minjun_2: ""
@@ -25,7 +25,7 @@ l_russian:
  SZC_Land_Value_Tax_2: ""
  SZC_Judicial_Renewal_2: ""
 
-## various interface tooltips
+ ## various interface tooltips
  tooltip_effect_annex: ""
  NO_COMMANDER_FOR_GROUP: ""
  mines_desc: ""

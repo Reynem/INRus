@@ -1,6 +1,6 @@
 ﻿l_russian:
 
-#### Political Parties ####
+ #### Political Parties ####
 
  TIH_vanguardist_party_long: "-"
  TIH_vanguardist_party: "-"
@@ -25,7 +25,7 @@
  TIH_valkist_party: "-"
  TIH_valkist_party_long: "-"
 
-### Country Names ###
+ ### Country Names ###
  JBS: "Тихама"
  TIH_ADJ: "Тихамахи"
  TIH_DEF: "Тихама"
@@ -61,19 +61,19 @@
  TIH_valkist_ADJ: "Тихамахи"
  TIH_valkist_DEF: "Эмират Тихама"
 
-### Autonomy ###
+ ### Autonomy ###
 
-### Characters ###
+ ### Characters ###
 
-#### Political Ministers ####
-
-
-#####Ideas#####
+ #### Political Ministers ####
 
 
-#####Tooltips#####
+ #####Ideas#####
 
 
-#####Focus#####
+ #####Tooltips#####
 
-#####Events#####
+
+ #####Focus#####
+
+ #####Events#####

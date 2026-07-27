@@ -1,17 +1,17 @@
-l_russian:
+﻿l_russian:
 
-###################
-### Please note ###
-###################
-# The splash screen credits are a list of all current contributors to the mod. It isn't a full list of everyone who helps out, or everyone who has ever helped
-# A more complete list can be found in \interface\credits.txt
-# When updating this list, please make sure to also update that credit list as well, as well as updating the other credit lists we keep (change notes, steam workshop descriptions etc.)
-# Some of those can only be updated by a Kaiserdev, so if you aren't one, please tell one when updating this list
+ ###################
+ ### Please note ###
+ ###################
+ # The splash screen credits are a list of all current contributors to the mod. It isn't a full list of everyone who helps out, or everyone who has ever helped
+ # A more complete list can be found in \interface\credits.txt
+ # When updating this list, please make sure to also update that credit list as well, as well as updating the other credit lists we keep (change notes, steam workshop descriptions etc.)
+ # Some of those can only be updated by a Kaiserdev, so if you aren't one, please tell one when updating this list
 
-### Main Menu ###
+ ### Main Menu ###
  play_in_english_tt: ""
 
-### Splash Screen ###
+ ### Splash Screen ###
  KR_welcome_splash_tab_1: "Страна"
  KR_welcome_splash_tab_2: "Путеводители"
  KR_welcome_splash_tab_3: "Как играть"
@@ -73,10 +73,10 @@ l_russian:
  KR_welcome_splash_tab_4_content_8: "SuperGreenBeans ~ zan_mi.ya / Alpha Dog / The Don Golian / The Irredentista"
  KR_welcome_splash_tab_4_content_9: "Итальянский Jojo ; Toaster ; Vidyaország ; Владимир Лемон ; Zimbia Salt Co."
 
-### Career Profile ###
+ ### Career Profile ###
  KAISERREICH_CAREER_PROFILE: "Кайзеррейх"
 
-### Diplomacy Tooltips ###
+ ### Diplomacy Tooltips ###
  REQUEST_EXP_FORCE_BLOCKED_GENERIC_TT: "Эта страна не позволяет вам просить их силы!"
 
  REQUEST_EXP_FORCE_BLOCKED_CROWNLAND_HUNGARY_TT: "§R Венгерская наследница не позволяет вам требовать от своих сил до тех пор, пока не будут проведены переговоры между Королем и Королем Осглёхом 1947 года. §!"
@@ -97,7 +97,7 @@ l_russian:
  RECALL_VOLUNTEERS_ACTION_DESC: "Вспомните всех добровольцев, направленных в эту страну."
  RECALL_VOLUNTEERS_ACTION_SEND_DESC: "Вспомните всех добровольцев, посланных в §Y [FROM. GetNameDef]§!?"
 
-### Regular Tooltips ###
+ ### Regular Tooltips ###
  puppet_but_keep_government_tt: "§H [Значок_страна. Гетфлаг] §H [[Беб_Владелец. Гетнам]§! становится марионеткой §H [[Беб_Владелец. Гетнам]§!, но сохраняет свою нынешнюю популярность в правительстве и партиях."
 
  RULE_GUARANTEES_AFTER_WK2_TT: "§RBefore Second Weltkrieg начинается, гарантии могут быть предоставлены только через национальные фокусы, события и решения.§!"
@@ -106,7 +106,7 @@ l_russian:
  RULE_DISABLED_IN_KR_TT: "- Недееспособный в Кайзеррейхе!"
 
 
-### Diplomacy Triggers ###
+ ### Diplomacy Triggers ###
  cannot_call_allies_or_join_wars: "Не могут звонить союзникам или вступать в войны"
  cannot_call_allies_or_join_wars_except_subjects: "Не могут звонить союзникам или вступать в войны (за исключением предметов)"
  cannot_call_allies_or_join_wars_warning: "Не могу звонить союзникам или вступать в войны!"
@@ -115,7 +115,7 @@ l_russian:
  cannot_receive_volunteers: "Не удалось получить добровольцев"
  cannot_receive_volunteers_warning: "Я не могу принимать добровольцев!"
 
-### Regional Triggers ###
+ ### Regional Triggers ###
  is_in_asia: "Это страна азиатская!"
  is_in_india: "Это страна §YIndian§!"
  is_in_europe: "Это страна, которая является европейцем!"
@@ -171,7 +171,7 @@ l_russian:
  is_greek_tag: "Это страна, говорящая на греческом языке"
  is_baltic_tag: "является балтийской страной"
 
-### Actual Major Power Tooltip ###
+ ### Actual Major Power Tooltip ###
  is_actual_major_tooltip_base: "является крупной мировой державой:"
  is_actual_major_tooltip_major: "[THIS. Major World Power_ MajorCheck] $TRIGGER_IS_MAJOR$"
  is_actual_major_tooltip_OR: "~n $TRIGGER_OR_ STARS$"
@@ -184,10 +184,10 @@ l_russian:
  is_actual_major: "$is_actual_major_without_exceptions$$is_actual_major_tooltip_INT$$is_actual_major_tooltip_ENT$$is_actual_major_tooltip_GEX$"
  is_actual_major_without_exceptions: "$is_actual_major_tooltip_base$$is_actual_major_tooltip_major$$is_actual_major_tooltip_OR$$is_actual_major_tooltip_seven_largest$$is_actual_major_tooltip_average$"
 
-### Political Tab UI ###
+ ### Political Tab UI ###
  power_balance_button_disabled: "Ваша страна не имеет активной системы §Власть§!!"
 
-### Options GUI ###
+ ### Options GUI ###
  kr_options_title: "§Kaiserreich Options§!"
  kr_options_tooltip: "Параметры игры для Kaiserreich"
 
@@ -209,7 +209,7 @@ l_russian:
  world_news_text: "Мероприятия, посвященные мировым новостям"
  world_news_tooltip: "§GClick§! здесь для того, чтобы заглянуть в новости для всех глобальных событий, независимо от того, что имеет отношение к принимающей их стране."
 
-### Economic Spheres GUI ###
+ ### Economic Spheres GUI ###
  is_in_economic_sphere: "Это часть § § § экономической сферы!"
  is_in_economic_sphere_NOT: "§Rnot§! Часть § § экономической сферы!"
 
@@ -232,7 +232,7 @@ l_russian:
  economic_sphere_default_icon: "GFX_Цель_генерия_позитивная_торговля_отношения_золото"
  economic_sphere_default_desc: ""
 
-### International Market Triggers ###
+ ### International Market Triggers ###
  trade_partners_at_peace: "Страны, живущие в мире"
  trade_partners_at_war: "Страны, находящиеся в состоянии войны"
  trade_partners_majors: "Основные страны"
@@ -295,7 +295,7 @@ l_russian:
  trade_partners_same_continent_neighbours: "Те же континентальные соседи"
  trade_partners_home_area_neighbours: "Соседи по району проживания"
 
-### Static Modifiers ###
+ ### Static Modifiers ###
  volunteer_limit_plus_three: "Увеличение лимита для добровольцев"
  volunteer_limit_plus_three_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?3|0+=]"
  volunteer_limit_plus_two: "$volunteer_limit_plus_three$"
@@ -307,13 +307,13 @@ l_russian:
  volunteer_limit_plus_hundred_percent: "$volunteer_limit_plus_three$"
  volunteer_limit_plus_hundred_percent_tt: "$MODIFIER_SEND_VOLUNTEER_FACTOR$: [?1|+=%]"
 
-### Continents ###
+ ### Continents ###
  is_actually_an_island: "() — островное государство."
 
-### Intelligence Agency Blocker ###
+ ### Intelligence Agency Blocker ###
  INTELLIGENCE_AGENCY_BLOCK_TOOLTIP: "[!разведка_агентство_блокировщик_batt_clic_с приводом]"
 
-### Autonomy Levels ###
+ ### Autonomy Levels ###
  integrated_puppet: "Комплексная кукла"
  autonomy_integrated_puppet: "Комплексная кукла"
  occupied_puppet: "Оккупированная кукла"
@@ -334,7 +334,7 @@ l_russian:
  kr_mitteleuropa_integrated_member: "Интегрированный член компании &lt; &lt; Миттел европа &gt; &gt;"
  autonomous_territory: "Автономная территория"
 
-### Autonomy Tooltips ###
+ ### Autonomy Tooltips ###
  can_lower_autonomy_level: "Может снизить уровень автономии"
  can_raise_autonomy_level: "Может повысить уровень автономии"
  puppet_can_become_free: "Может стать независимым"
@@ -345,7 +345,7 @@ l_russian:
  clamour_for_independence: "Призыв к независимости"
  clamour_for_autonomy: "Призыв к автономии"
 
-### Opinion Modifiers ###
+ ### Opinion Modifiers ###
  KR_friendly: "Дружелюбный"
  KR_hostile: "Враждебные действия"
  KR_liberated_us: "Освободили нас"
@@ -375,7 +375,7 @@ l_russian:
  KR_similar_ideology_distant: "Аналогичная идеология"
  KR_same_ideology: "Та же идеология"
 
-### Focus Filters ###
+ ### Focus Filters ###
  FOCUS_FILTER_PRODUCTION: "Производство"
  FOCUS_FILTER_ARMY_BONUS: "Армия"
  FOCUS_FILTER_NAVY_BONUS: "Военно-морские силы"
@@ -385,18 +385,18 @@ l_russian:
  FOCUS_FILTER_GER_PREPAREDNESS: "Готовность к войне"
  FOCUS_FILTER_RUS_POWER_PROJECTION: "Проекция мощности"
 
-### Autonomy Events ###
+ ### Autonomy Events ###
  FROM_becomes_puppet: "§H [От GetNameDefcap] §! больше не является §H Занятой куклой §!"
  FROM_becomes_autonomous_puppet: "§H [От GetNameDefcap] §! становится §HA автономным куклом §!!"
  FROM_becomes_nominal_puppet: "§H [От GetNameDefcap] §! становится §HNominal Puppet §!"
 
-### Compliance ###
+ ### Compliance ###
  compliance_integration_50: "Интеграция"
  compliance_integration_80: "Интеграция"
  territorial_integration: "Интеграция"
  territorial_integration_tt: "Дает ядро на состояние по достижении §H50% или 80% соблюдения §! (значение зависит от состояния)."
 
-### World Tension ##
+ ### World Tension ##
  AL_avricourt_shelled: "Деревня Аврикура, забитая CNY [GER.Bet nonIdeology NameDef]§!"
  AL_elfringen_shelled: "Деревня Эльфринген Шеллед по §Y [FRA. Get nonIdeology NameDef]§!"
  FRA_mobilizes_on_border: "§Y [FRA. Возьмите nonIdeology NameDefcap] §! Мобилизует свои силы на границе §Y [GER.GetAductive] §!"
@@ -413,7 +413,7 @@ l_russian:
  second_weltkrieg_has_started: "Второй вельткриг уже начался."
  second_weltkrieg_has_ended: "Второй Вельткриг закончился."
 
-### Operatives ###
+ ### Operatives ###
  operation_infiltrate_armed_forces_army_outcome: "$operation_infiltrate_armed_forces_army$ effectiveness"
  operation_infiltrate_armed_forces_army_risk: "$operation_infiltrate_armed_forces_army$ risk"
  operation_infiltrate_armed_forces_army_cost: "$operation_infiltrate_armed_forces_army$ cost"
@@ -430,7 +430,7 @@ l_russian:
  operation_infiltrate_civilian_risk: "$operation_infiltrate_civilian$ risk"
  operation_infiltrate_civilian_cost: "$operation_infiltrate_civilian$ cost"
 
-### Ship Name Lists ###
+ ### Ship Name Lists ###
  NAME_THEME_ISLANDS: "Острова"
  NAME_THEME_ROYAL_BARGE: "Королевский барж"
  NAME_THEME_ROYAL_HOUSES: "Королевские дома и здания"
@@ -441,13 +441,13 @@ l_russian:
  NAME_THEME_MONARCHS: "Монархи"
  NAME_THEME_FAMOUS_PEOPLE: "Знаменитые люди"
 
-### Second in Command ###
+ ### Second in Command ###
  second_in_command_slot: "Вторая командная"
  second_in_command: "Вторая командная"
  second_in_command_cost_factor: "Вторая в командной цене"
  second_in_command_cost_factor_tooltip: "$second_in_command_cost_factor$: $RIGHT|-=%0$"
 
-### Character Tooltips ###
+ ### Character Tooltips ###
  is_dead: "Умер."
  is_dead_NOT: "Не умер."
 
@@ -465,23 +465,23 @@ l_russian:
  is_monarchy: "Это §ymonarchy§!"
  is_monarchy_NOT: "Это §Rnot§! § § Имонархия!"
 
-### Mobilisation Effects ###
+ ### Mobilisation Effects ###
  disband_ten_percent_units: "Разблокируйте §Y10%§! из всех постоянных дивизий, сохраняя свое оборудование."
  disband_twenty_percent_units: "Разблокируйте §Y20%§! из всех постоянных дивизий, сохраняя свое оборудование."
  disband_twenty_percent_units_delete_equipment: "Разблокируйте §Y20%§! из всех постоянных дивизий."
  disband_fifty_percent_units: "Разблокируйте §Y50%§! из всех постоянных дивизий, сохраняя свое оборудование."
 
-### MIO Policies ###
+ ### MIO Policies ###
  mio_policy_general_industrial_self_sufficiency: "Самодостаточность промышленности"
 
-### Custom Triggers ###
+ ### Custom Triggers ###
  is_in_faction_but_not_leader: "является группировкой, но не ее лидером"
  is_in_faction_but_not_leader_NOT: "Лидер фракции или нет в фракции"
 
  has_guarantor: "Гарантируется"
  has_guarantor_NOT: "Не гарантируется"
 
-### Events ###
+ ### Events ###
  generic_events.100.t: "Распорядок восстановлен в [Root. GetNameDef]"
  generic_events.100.d: "В то время как [Root.GetNameDef] все еще работает под контролем [Root.overlord.Get Adquesty], [Root.Get Adquestive] военные установили достаточный контроль над нашими собственными границами, что теперь можно использовать подобие большей автономии. Это не независимость - далеко от нее, но это означает, что мы больше не должны полагаться на [Root.overd.GetAdguctive] войска для обеспечения безопасности наших границ."
  generic_events.100.a: "Отлично."
@@ -559,7 +559,7 @@ l_russian:
  generic_events.257.t: "Война с [войной_целью. Получил Наме Деф]?"
  generic_events.257.d: "[Знаменитая страна. GetNameDefCap] объявит войну [войне.get.GetNameDef]. Нет никаких проверок, чтобы убедиться, что это действительное заявление, кроме того, что две страны не являются союзниками и не находятся в состоянии войны."
 
-### Unit Leader Events ###
+ ### Unit Leader Events ###
  unit_leader.1.t: "Падение Айлл."
  unit_leader.1.d: "Похоже, что в служении народу оно зашло слишком далеко, и из-за плохой обстановки в операционной зоне оно заболело, и, вероятно, потребуется время, чтобы выздороветь, пока не поправится."
  unit_leader.1.a: "Неудачно."
@@ -568,7 +568,7 @@ l_russian:
  unit_leader.2.d: "Похоже, что, добившись успеха в сражении, оно подвергло себя слишком большому риску, в то время как оно вело людей. [От Гетхехе Капитана] было ранено, и, вероятно, потребуется некоторое время, чтобы полностью залечить раны, до тех пор, пока [от Гетранка] не будет выступать на обычном уровне."
  unit_leader.2.a: "Неудачно."
 
-### Government in Exile Events ###
+ ### Government in Exile Events ###
  mtg_exile_leader_added.1.t: "Лидер изгнания предлагает службу"
  mtg_exile_leader_added.1.desc: "После долгого и опасного путешествия через захваченную врагом территорию и несколько нейтральных государств в столицу наконец прибыл высокопоставленный офицер из одного из наших капитулятивных союзников."
  mtg_exile_leader_added.1.a: "Твоя битва еще не закончилась."
@@ -595,19 +595,19 @@ l_russian:
  mtg_generic.1.desc: "Ссылаясь на явное отсутствие поддержки в проведении выборов для нашего нынешнего правительства, [от GetNameDef] потребовали перемен в политике."
  mtg_generic.1.a: "У нас нет другого выбора, кроме как согласиться."
 
-### Sub-unit Modifiers ###
+ ### Sub-unit Modifiers ###
  modifier_army_sub_unit_category_mobile_infantry_attack_factor: "Кав/Мот/Мех Нападение"
  modifier_army_sub_unit_category_mobile_infantry_defence_factor: "Cav/Mot/Mech Protection"
  modifier_army_sub_unit_category_mobile_infantry_speed_factor: "Скорость Cav/Mot/Mech"
 
-### Research Bonus Names ###
+ ### Research Bonus Names ###
  refinery_bonus: "Бонус на нефтеперерабатывающем заводе"
 
-### Custom Triggers ###
+ ### Custom Triggers ###
  had_war: "Воевал во время войны."
  not_during_ceasefire: "Не до тех пор, пока не будет сохранено прекращение огня"
 
-### Other ###
+ ### Other ###
  asked_to_join: "Еще одна страна обратилась с просьбой об участии."
  generic_research_advances: "Достижения в области научных исследований"
 
@@ -618,7 +618,7 @@ l_russian:
  increase_state_category_by_two_levels_tt: "Это предусматривает §G2§! Дополнительные промежутки в базовом здании.n"
  decrease_state_category_by_one_level_tt: "Этот §Rremoves§! Строительный участок из штата.n"
 
-### General ###
+ ### General ###
  fighter_techs: "Техник-истребитель"
  cat_strategic_destruction: "Технология стратегического уничтожения"
  maintenance_company_tech: "Ремонтно-эксплуатационная компания"
@@ -643,7 +643,7 @@ l_russian:
  marine_tech_research: "Скорость исследования морской пехоты"
  cat_light_armor_research: "Скорость исследования легкого бронетранспортера"
 
-### Hidden Techs ###
+ ### Hidden Techs ###
  tech_camel_corps: "Корпус верблюдов"
 
  tech_ski_infantry: "Пехотные подразделения &lt; &lt; Ски &gt; &gt;"

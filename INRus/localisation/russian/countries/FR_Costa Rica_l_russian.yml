@@ -1,9 +1,9 @@
-l_russian:
+﻿l_russian:
 
  costa_rica_focus: "Коста-Рика"
 
 
-### Parties ###
+ ### Parties ###
  COS_vanguardist_party_long: "Народная партия &lt; &lt; Вангуардия &gt; &gt;"
  COS_vanguardist_party: "ПВП"
  COS_collectivist_party_long: "Народная партия &lt; &lt; Вангуардия &gt; &gt;"
@@ -27,7 +27,7 @@ l_russian:
  COS_valkist_party_long: "&lt; &lt; Карибский союз &gt; &gt;"
  COS_valkist_party: "ЛК-V"
 
-### Characters ###
+ ### Characters ###
  COS_manuel_mora_valverde: "Мануэль Мора Вальверде"
  COS_rafael_angel_calderon_guardia: "Рафаэль Анхель Кальдерон Гвардия"
  COS_teodoro_picado_michalski: "Теодоро Пикадо Мичальский"

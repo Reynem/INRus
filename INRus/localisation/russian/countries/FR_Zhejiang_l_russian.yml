@@ -1,47 +1,47 @@
 ﻿l_russian:
 
-### POLITICAL PARTIES ###
-ZHE_vanguardist_party: "Куоминтанг"
-ZHE_vanguardist_party_long: "Куоминтанг"
-ZHE_collectivist_party: "Куоминтанг"
-ZHE_collectivist_party_long: "Куоминтанг"
-ZHE_libertarian_socialist_party: "Куоминтанг"
-ZHE_libertarian_socialist_party_long: "Куоминтанг"
-ZHE_social_democrat_party: "Куоминтанг"
-ZHE_social_democrat_party_long: "Куоминтанг"
-ZHE_social_liberal_party: "Куоминтанг"
-ZHE_social_liberal_party_long: "Куоминтанг"
-ZHE_market_liberal_party: "Куоминтанг"
-ZHE_market_liberal_party_long: "Куоминтанг"
-ZHE_social_conservative_party: "Клика Клика"
-ZHE_social_conservative_party_long: "Клика Клика"
-ZHE_authoritarian_democrat_party: "Клика Клика"
-ZHE_authoritarian_democrat_party_long: "Клика Клика"
-ZHE_paternal_autocrat_party: "Клика Клика"
-ZHE_paternal_autocrat_party_long: "Клика Клика"
-ZHE_national_populist_party: "Клика Клика"
-ZHE_national_populist_party_long: "Клика Клика"
-ZHE_valkist_party: "Клика Клика"
-ZHE_valkist_party_long: "Клика Клика"
+ ### POLITICAL PARTIES ###
+ ZHE_vanguardist_party: "Куоминтанг"
+ ZHE_vanguardist_party_long: "Куоминтанг"
+ ZHE_collectivist_party: "Куоминтанг"
+ ZHE_collectivist_party_long: "Куоминтанг"
+ ZHE_libertarian_socialist_party: "Куоминтанг"
+ ZHE_libertarian_socialist_party_long: "Куоминтанг"
+ ZHE_social_democrat_party: "Куоминтанг"
+ ZHE_social_democrat_party_long: "Куоминтанг"
+ ZHE_social_liberal_party: "Куоминтанг"
+ ZHE_social_liberal_party_long: "Куоминтанг"
+ ZHE_market_liberal_party: "Куоминтанг"
+ ZHE_market_liberal_party_long: "Куоминтанг"
+ ZHE_social_conservative_party: "Клика Клика"
+ ZHE_social_conservative_party_long: "Клика Клика"
+ ZHE_authoritarian_democrat_party: "Клика Клика"
+ ZHE_authoritarian_democrat_party_long: "Клика Клика"
+ ZHE_paternal_autocrat_party: "Клика Клика"
+ ZHE_paternal_autocrat_party_long: "Клика Клика"
+ ZHE_national_populist_party: "Клика Клика"
+ ZHE_national_populist_party_long: "Клика Клика"
+ ZHE_valkist_party: "Клика Клика"
+ ZHE_valkist_party_long: "Клика Клика"
 
-### DESCRIPTION ###
-ZHE_FUHRERREICH_DESC: ""
+ ### DESCRIPTION ###
+ ZHE_FUHRERREICH_DESC: ""
 
-### EVENTS ###
-zhe.1.t: "Война за свободу!"
-zhe.1.d: "Наше провозглашение независимости из Пекина было встречено протестами и насилием, как мы и ожидали. Мы ожидаем, что Республиканская армия когда-нибудь пересечет Янцзы, где мы столкнемся с ними с беспощадной жестокостью и агрессивностью. Несмотря на то, что наша борьба за независимость начинается здесь, и это, несомненно, будет кровавая и жесткая битва, но ради всего Китая мы должны добиться успеха и свергнуть этих коррумпированных империалистических марионеток."
-zhe.1.a: "К оружию!"
+ ### EVENTS ###
+ zhe.1.t: "Война за свободу!"
+ zhe.1.d: "Наше провозглашение независимости из Пекина было встречено протестами и насилием, как мы и ожидали. Мы ожидаем, что Республиканская армия когда-нибудь пересечет Янцзы, где мы столкнемся с ними с беспощадной жестокостью и агрессивностью. Несмотря на то, что наша борьба за независимость начинается здесь, и это, несомненно, будет кровавая и жесткая битва, но ради всего Китая мы должны добиться успеха и свергнуть этих коррумпированных империалистических марионеток."
+ zhe.1.a: "К оружию!"
 
-### FLAGS ###
+ ### FLAGS ###
 
-###FOCUSES###
+ ###FOCUSES###
 
-###SPIRITS###
+ ###SPIRITS###
 
-###TOOLTIPS###
+ ###TOOLTIPS###
 
-###FACTIONS###
+ ###FACTIONS###
 
-###MESSAGES###
+ ###MESSAGES###
 
-###MINISTERS###
+ ###MINISTERS###

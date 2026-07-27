@@ -1,6 +1,6 @@
-l_russian:
+﻿l_russian:
 
-### Operative Traits ###
+ ### Operative Traits ###
  operative_bold: "Крепкое"
  operative_bold_desc: "Операционный отлично принимает быстрые решения и вычисляет лучшее время для забастовки."
  operative_cautious: "Осторожно."
@@ -26,7 +26,7 @@ l_russian:
  operative_master_saboteur: "Мастер Саботеур"
  operative_master_saboteur_desc: "Если этот оперативник может приблизиться к нему, они могут саботировать его."
 
-### Unit Leader Traits ###
+ ### Unit Leader Traits ###
  artillery_officer: "Артиллерийский офицер"
  artillery_officer_desc: "Офицер артиллерии!"
  artillery_specialist: "Артиллерийский лидер"

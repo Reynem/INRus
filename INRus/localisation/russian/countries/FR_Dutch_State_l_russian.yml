@@ -1,47 +1,47 @@
 ﻿l_russian:
 
-#### Political Parties ####
+ #### Political Parties ####
 
-HOL_vanguardist_party: "RF"
-HOL_vanguardist_party_long: "&lt; &lt; Революционный фронт &gt; &gt;"
-HOL_collectivist_party: "VVA"
-HOL_collectivist_party_long: "Volkspartij voor Agrarièrs"
-HOL_libertarian_socialist_party: "ДП"
-HOL_libertarian_socialist_party_long: "Anarchistische partij"
-HOL_social_democrat_party: "СУПАП"
-HOL_social_democrat_party_long: "Социаально-демократическая организация &lt; &lt; Арбейдерспартидж &gt; &gt;"
-HOL_social_liberal_party: "VDB"
-HOL_social_liberal_party_long: "&lt; &lt; Vrijzinnig Democratische Bond &gt; &gt;"
-HOL_market_liberal_party: "ЛСП"
-HOL_market_liberal_party_long: "Либеральный Стаатспартидж"
-HOL_social_conservative_party: "CV"
-HOL_social_conservative_party_long: "Консерватив Вертонд"
-HOL_authoritarian_democrat_party: "NNB"
-HOL_authoritarian_democrat_party_long: "Ниоуе Недерландс Бьювинг"
-HOL_paternal_autocrat_party: "NNB"
-HOL_paternal_autocrat_party_long: "Ниоуе Недерландс Бьювинг"
-HOL_national_populist_party: "NNB"
-HOL_national_populist_party_long: "Ниоуе Недерландс Бьювинг"
-HOL_valkist_party: "PVV"
-HOL_valkist_party_long: "Partij Vor't Vaoderland"
+ HOL_vanguardist_party: "RF"
+ HOL_vanguardist_party_long: "&lt; &lt; Революционный фронт &gt; &gt;"
+ HOL_collectivist_party: "VVA"
+ HOL_collectivist_party_long: "Volkspartij voor Agrarièrs"
+ HOL_libertarian_socialist_party: "ДП"
+ HOL_libertarian_socialist_party_long: "Anarchistische partij"
+ HOL_social_democrat_party: "СУПАП"
+ HOL_social_democrat_party_long: "Социаально-демократическая организация &lt; &lt; Арбейдерспартидж &gt; &gt;"
+ HOL_social_liberal_party: "VDB"
+ HOL_social_liberal_party_long: "&lt; &lt; Vrijzinnig Democratische Bond &gt; &gt;"
+ HOL_market_liberal_party: "ЛСП"
+ HOL_market_liberal_party_long: "Либеральный Стаатспартидж"
+ HOL_social_conservative_party: "CV"
+ HOL_social_conservative_party_long: "Консерватив Вертонд"
+ HOL_authoritarian_democrat_party: "NNB"
+ HOL_authoritarian_democrat_party_long: "Ниоуе Недерландс Бьювинг"
+ HOL_paternal_autocrat_party: "NNB"
+ HOL_paternal_autocrat_party_long: "Ниоуе Недерландс Бьювинг"
+ HOL_national_populist_party: "NNB"
+ HOL_national_populist_party_long: "Ниоуе Недерландс Бьювинг"
+ HOL_valkist_party: "PVV"
+ HOL_valkist_party_long: "Partij Vor't Vaoderland"
 
-#### Political Ministers ####
+ #### Political Ministers ####
 
 
-#####Ideas#####
-HOL_enemies_on_all_sides: "Враги со всех сторон"
-HOL_enemies_on_all_sides_desc: "Неоправданная агрессия против нас в Версале была лишь первой из серии предательств, которые оставляли нас в изоляции в нашем уголке Европы. На Юге бельгийцы, которые, как мы уверены, жаждут большего количества нашей земли, и которые, вероятно, будут сотрудничать с французами, остающимися враждебными по отношению к нам. На наш Юго-Восточный Восток - это Рейн, занятый враждебными французами, которые не хотели бы больше ничего больше, чем дружеское правительство. На нашем Востоке - немцы, потенциальный союзник, каким бы не был тот, который в последнее время увязал бельгийских граждан, и чья риторика о пан-германизме вызывает у нас опасения. На Западе - это британцы, которые в целом более нейтральны, но при этом испытывают явные соболезнования к правительству Суринама и продолжают действовать в качестве защитников подлых бельгийских властей. Пока мы не заключим союз с одной из этих держав, голландцы будут стремиться и готовы к любым попыткам вторгнуться в наши земли."
+ #####Ideas#####
+ HOL_enemies_on_all_sides: "Враги со всех сторон"
+ HOL_enemies_on_all_sides_desc: "Неоправданная агрессия против нас в Версале была лишь первой из серии предательств, которые оставляли нас в изоляции в нашем уголке Европы. На Юге бельгийцы, которые, как мы уверены, жаждут большего количества нашей земли, и которые, вероятно, будут сотрудничать с французами, остающимися враждебными по отношению к нам. На наш Юго-Восточный Восток - это Рейн, занятый враждебными французами, которые не хотели бы больше ничего больше, чем дружеское правительство. На нашем Востоке - немцы, потенциальный союзник, каким бы не был тот, который в последнее время увязал бельгийских граждан, и чья риторика о пан-германизме вызывает у нас опасения. На Западе - это британцы, которые в целом более нейтральны, но при этом испытывают явные соболезнования к правительству Суринама и продолжают действовать в качестве защитников подлых бельгийских властей. Пока мы не заключим союз с одной из этих держав, голландцы будут стремиться и готовы к любым попыткам вторгнуться в наши земли."
 
-#####Tooltips#####
+ #####Tooltips#####
 
-#####Opinion Modifiers#####
-HOL_hates_waffles: "Бельгийско-голландская враждебность"
-KNE_hates_waffles: "Бельгийско-голландская враждебность"
-HOL_dutch_split: "Нидерландское разделение"
+ #####Opinion Modifiers#####
+ HOL_hates_waffles: "Бельгийско-голландская враждебность"
+ KNE_hates_waffles: "Бельгийско-голландская враждебность"
+ HOL_dutch_split: "Нидерландское разделение"
 
-#####Focus#####
+ #####Focus#####
 
-#####Events#####
-hol.1.t: "Объединенные провинции в 1936 году"
-hol.1.d: ""
-hol.1.a: "Да здравствует принц!"
+ #####Events#####
+ hol.1.t: "Объединенные провинции в 1936 году"
+ hol.1.d: ""
+ hol.1.a: "Да здравствует принц!"

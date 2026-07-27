@@ -1,16 +1,16 @@
-l_russian:
+﻿l_russian:
 
-#Reorganised painfully by PPsyrius
+ #Reorganised painfully by PPsyrius
 
-######################################
-### Country Specific Air Equipment ###
-######################################
+ ######################################
+ ### Country Specific Air Equipment ###
+ ######################################
 
-#ATTENTION! THIS FILE IS SORTED BY TAG, NOT BY NAME
+ #ATTENTION! THIS FILE IS SORTED BY TAG, NOT BY NAME
 
-###
-### ALB - Albania ###
-###
+ ###
+ ### ALB - Albania ###
+ ###
 
  ALB_CAS_equipment_1: "Aero Vodochody A.101"
  ALB_CAS_equipment_1_short: "А.101"
@@ -103,9 +103,9 @@ l_russian:
  ALB_transport_plane_equipment_1: "Aero A.204"
  ALB_transport_plane_equipment_1_short: "A.204"
 
-###
-### ARG - Argentina ###
-###
+ ###
+ ### ARG - Argentina ###
+ ###
 
  ARG_CAS_equipment_1: "Нортроп А-17"
  ARG_CAS_equipment_1_short: "A-17"
@@ -176,9 +176,9 @@ l_russian:
  ARG_transport_plane_equipment_3: "$GER_transport_plane_equipment_3$"
  ARG_transport_plane_equipment_3_short: "$GER_transport_plane_equipment_3_short$"
 
-###
-### AST - Australasia ###
-###
+ ###
+ ### AST - Australasia ###
+ ###
 
  AST_CAS_equipment_1: "CAC CA-1 Wirraway"
  AST_CAS_equipment_1_short: "CA-1 Ущерб"
@@ -271,9 +271,9 @@ l_russian:
  AST_transport_plane_equipment_3: "$IMP_transport_plane_equipment_3$"
  AST_transport_plane_equipment_3_short: "$IMP_transport_plane_equipment_3_short$"
 
-###
-### ASY - Assyria ###
-###
+ ###
+ ### ASY - Assyria ###
+ ###
 
  ASY_CAS_equipment_1: "Фейри Битва"
  ASY_CAS_equipment_1_short: "Битва"
@@ -366,9 +366,9 @@ l_russian:
  ASY_transport_plane_equipment_3: "$IMP_transport_plane_equipment_3$"
  ASY_transport_plane_equipment_3_short: "$IMP_transport_plane_equipment_3_short$"
 
-###
-### AUS - Austria ###
-###
+ ###
+ ### AUS - Austria ###
+ ###
 
  AUS_CAS_equipment_1: "Aero Vodochody A.101"
  AUS_CAS_equipment_1_short: "А.101"
@@ -461,9 +461,9 @@ l_russian:
  AUS_transport_plane_equipment_1: "Aero A.204"
  AUS_transport_plane_equipment_1_short: "A.204"
 
-###
-### BAT - Baltic Duchy ###
-###
+ ###
+ ### BAT - Baltic Duchy ###
+ ###
 
  BAT_CAS_equipment_0: "$GER_CAS_equipment_0$"
  BAT_CAS_equipment_0_short: "$GER_CAS_equipment_0_short$"
@@ -613,7 +613,7 @@ l_russian:
  BAT_mothership_equipment_0: "$GER_mothership_equipment_0$"
  BAT_mothership_equipment_0_short: "$GER_mothership_equipment_0_short$"
 
-#Missile
+ #Missile
  BAT_guided_missile_equipment_1: "Vergeltungswaffe-1"
  BAT_guided_missile_equipment_1_short: "V-1"
  BAT_guided_missile_equipment_2: "Vergeltungswaffe-2"
@@ -621,9 +621,9 @@ l_russian:
  BAT_guided_missile_equipment_3: "Агрегата-10"
  BAT_guided_missile_equipment_3_short: "А-10"
 
-###
-### BAY - Bavaria ###
-###
+ ###
+ ### BAY - Bavaria ###
+ ###
 
  BAY_CAS_equipment_0: "$GER_CAS_equipment_0$"
  BAY_CAS_equipment_0_short: "$GER_CAS_equipment_0_short$"
@@ -773,7 +773,7 @@ l_russian:
  BAY_mothership_equipment_0: "$GER_mothership_equipment_0$"
  BAY_mothership_equipment_0_short: "$GER_mothership_equipment_0_short$"
 
-#Missile
+ #Missile
  BAY_guided_missile_equipment_1: "Vergeltungswaffe-1"
  BAY_guided_missile_equipment_1_short: "V-1"
  BAY_guided_missile_equipment_2: "Vergeltungswaffe-2"
@@ -781,9 +781,9 @@ l_russian:
  BAY_guided_missile_equipment_3: "Агрегата-10"
  BAY_guided_missile_equipment_3_short: "А-10"
 
-###
-### BEL - Flanders-Wallonia ###
-###
+ ###
+ ### BEL - Flanders-Wallonia ###
+ ###
 
  BEL_CAS_equipment_1: "Сабка-Каприни 47"
  BEL_CAS_equipment_1_short: "S.47"
@@ -841,16 +841,16 @@ l_russian:
  BEL_scout_plane_equipment_2: "Каприн Ка 311"
  BEL_scout_plane_equipment_2_short: "Ка 311"
 
-###
-### BOL - Bolivia ###
-###
+ ###
+ ### BOL - Bolivia ###
+ ###
 
  BOL_fighter_equipment_1: "Кёртисы CW-19R"
  BOL_fighter_equipment_1_short: "CW-19R"
 
-###
-### BOS - Bosnia ###
-###
+ ###
+ ### BOS - Bosnia ###
+ ###
 
  BOS_CAS_equipment_1: "Aero Vodochody A.101"
  BOS_CAS_equipment_1_short: "А.101"
@@ -943,9 +943,9 @@ l_russian:
  BOS_transport_plane_equipment_1: "Aero A.204"
  BOS_transport_plane_equipment_1_short: "A.204"
 
-###
-### BRA - Brazil ###
-###
+ ###
+ ### BRA - Brazil ###
+ ###
 
  BRA_CAS_equipment_1: "Вульти V-11"
  BRA_CAS_equipment_1_short: "V-11"
@@ -958,9 +958,9 @@ l_russian:
  BRA_tac_bomber_equipment_0: "Дуглас В-2"
  BRA_tac_bomber_equipment_0_short: "B-2"
 
-###
-### BUL - Bulgaria ###
-###
+ ###
+ ### BUL - Bulgaria ###
+ ###
 
  BUL_CAS_equipment_1: "PZL.23 Kara___"
  BUL_CAS_equipment_1_short: "PZL.23"
@@ -1024,9 +1024,9 @@ l_russian:
  BUL_scout_plane_equipment_2_short: "KB-6"
  BUL_scout_plane_equipment_2_desc: "Для удовлетворения потребностей болгарских военно-воздушных сил, связанных с новым судном-разведчиком на большие расстояния, болгарское дочернее предприятие компании &quot; Каприни &quot; внесло несколько важных изменений в свои успешные 309 судовых аппаратов &quot; Гибли &quot; за несколько лет до этого."
 
-###
-### WIF - West Indies Federation ###
-###
+ ###
+ ### WIF - West Indies Federation ###
+ ###
 
  WIF_CAS_equipment_1: "Фейри Битва"
  WIF_CAS_equipment_1_short: "Битва"
@@ -1119,9 +1119,9 @@ l_russian:
  WIF_transport_plane_equipment_3: "$IMP_transport_plane_equipment_3$"
  WIF_transport_plane_equipment_3_short: "$IMP_transport_plane_equipment_3_short$"
 
-###
-### ACC - American Constitutional Coalition ###
-###
+ ###
+ ### ACC - American Constitutional Coalition ###
+ ###
  ACC_small_plane_cas_airframe_0_short: "$USA_small_plane_cas_airframe_0_short$"
  ACC_cv_small_plane_cas_airframe_0_short: "$USA_cv_small_plane_cas_airframe_0_short$"
  ACC_CAS_equipment_1: "$USA_CAS_equipment_1$"
@@ -1268,9 +1268,9 @@ l_russian:
  ACC_helicopter_equipment_1: "$USA_helicopter_equipment_1$"
  ACC_helicopter_equipment_1_short: "$USA_helicopter_equipment_1_short$"
 
-###
-### IMP - Dominion of Canada (Entente) ###
-###
+ ###
+ ### IMP - Dominion of Canada (Entente) ###
+ ###
 
  IMP_CAS_equipment_1: "Фейри Битва"
  IMP_CAS_equipment_1_short: "Битва"
@@ -1365,9 +1365,9 @@ l_russian:
  IMP_transport_plane_equipment_3: "Бристоль Гастингс"
  IMP_transport_plane_equipment_3_short: "Гастингс"
 
-###
-### CHL - Chile ###
-###
+ ###
+ ### CHL - Chile ###
+ ###
 
  CHL_CAS_equipment_1: "Блог Бр.693"
  CHL_CAS_equipment_1_short: "Бр.693"
@@ -1452,9 +1452,9 @@ l_russian:
  CHL_scout_plane_equipment_2: "CNCAO CAO.700"
  CHL_scout_plane_equipment_2_short: "CAO.700"
 
-###
-### CRO - Croatia ###
-###
+ ###
+ ### CRO - Croatia ###
+ ###
 
  CRO_CAS_equipment_1: "Aero Vodochody A.101"
  CRO_CAS_equipment_1_short: "А.101"
@@ -1547,9 +1547,9 @@ l_russian:
  CRO_transport_plane_equipment_1: "Aero A.204"
  CRO_transport_plane_equipment_1_short: "A.204"
 
-###
-### WCA - Workers' Congress of America ###
-###
+ ###
+ ### WCA - Workers' Congress of America ###
+ ###
 
  WCA_small_plane_cas_airframe_0_short: "$USA_small_plane_cas_airframe_0_short$"
  WCA_cv_small_plane_cas_airframe_0_short: "$USA_cv_small_plane_cas_airframe_0_short$"
@@ -1690,18 +1690,18 @@ l_russian:
  WCA_helicopter_equipment_1: "$USA_helicopter_equipment_1$"
  WCA_helicopter_equipment_1_short: "$USA_helicopter_equipment_1_short$"
 
-###
-### CUB - Cuba ###
-###
+ ###
+ ### CUB - Cuba ###
+ ###
 
  CUB_fighter_equipment_0: "Кёртисы С-1 Ястреб"
  CUB_fighter_equipment_0_short: "С-1 Ястреб"
  CUB_fighter_equipment_1: "Кёртисы CW-19R"
  CUB_fighter_equipment_1_short: "CW-19R"
 
-###
-### CZE - Bohemia ###
-###
+ ###
+ ### CZE - Bohemia ###
+ ###
 
  CZE_CAS_equipment_1: "Aero Vodochody A.101"
  CZE_CAS_equipment_1_short: "А.101"
@@ -1794,9 +1794,9 @@ l_russian:
  CZE_transport_plane_equipment_1: "Aero A.204"
  CZE_transport_plane_equipment_1_short: "A.204"
 
-###
-### ELS - El Salvador ###
-###
+ ###
+ ### ELS - El Salvador ###
+ ###
 
  ELS_CAS_equipment_1: "Капрони A.P.1"
  ELS_CAS_equipment_1_short: "A.P.1"
@@ -1813,9 +1813,9 @@ l_russian:
  ELS_small_plane_naval_bomber_airframe_2: "Vultee BT-13 "Valiente""
  ELS_small_plane_naval_bomber_airframe_2_short: "BT-13"
 
-###
-### PRE - Prussia ###
-###
+ ###
+ ### PRE - Prussia ###
+ ###
 
  PRE_CAS_equipment_0: "$GER_CAS_equipment_0$"
  PRE_CAS_equipment_0_short: "$GER_CAS_equipment_0_short$"
@@ -1965,7 +1965,7 @@ l_russian:
  PRE_mothership_equipment_0: "$GER_mothership_equipment_0$"
  PRE_mothership_equipment_0_short: "$GER_mothership_equipment_0_short$"
 
-#Missile
+ #Missile
  PRE_guided_missile_equipment_1: "Vergeltungswaffe-1"
  PRE_guided_missile_equipment_1_short: "V-1"
  PRE_guided_missile_equipment_2: "Vergeltungswaffe-2"
@@ -1973,9 +1973,9 @@ l_russian:
  PRE_guided_missile_equipment_3: "Агрегата-10"
  PRE_guided_missile_equipment_3_short: "А-10"
 
-###
-### PRF - Princely Federation ###
-###
+ ###
+ ### PRF - Princely Federation ###
+ ###
 
  PRF_CAS_equipment_0: "$GER_CAS_equipment_0$"
  PRF_CAS_equipment_0_short: "$GER_CAS_equipment_0_short$"
@@ -2145,9 +2145,9 @@ l_russian:
  PRF_guided_missile_equipment_3: "$GER_guided_missile_equipment_3$"
  PRF_guided_missile_equipment_3_short: "$GER_guided_missile_equipment_3_short$"
 
-###
-### RAJ - Dominion of India ###
-###
+ ###
+ ### RAJ - Dominion of India ###
+ ###
 
  RAJ_CAS_equipment_1: "Фейри Битва"
  RAJ_CAS_equipment_1_short: "Битва"
@@ -2240,9 +2240,9 @@ l_russian:
  RAJ_transport_plane_equipment_3: "$IMP_transport_plane_equipment_3$"
  RAJ_transport_plane_equipment_3_short: "$IMP_transport_plane_equipment_3_short$"
 
-###
-### DEI - Dutch East Indies ###
-###
+ ###
+ ### DEI - Dutch East Indies ###
+ ###
 
  DEI_CAS_equipment_1: "Fokker C.X"
  DEI_CAS_equipment_1_short: "С.Х."
@@ -2321,9 +2321,9 @@ l_russian:
  DEI_transport_plane_equipment_1: "Фоккер Ф-XVIII"
  DEI_transport_plane_equipment_1_short: "F-XVIII"
 
-###
-### DEN - Denmark ###
-###
+ ###
+ ### DEN - Denmark ###
+ ###
 
  DEN_CAS_equipment_1: "SAI KZ IIA"
  DEN_CAS_equipment_1_short: "KZ IIA"
@@ -2339,23 +2339,23 @@ l_russian:
  DEN_small_plane_naval_bomber_airframe_2: "Фоккер Т.VIII"
  DEN_small_plane_naval_bomber_airframe_2_short: "Т.VIII"
 
-###
-### DOM - Dominican Republic ###
-###
+ ###
+ ### DOM - Dominican Republic ###
+ ###
 
  DOM_fighter_equipment_1: "Кёртисы CW-19R"
  DOM_fighter_equipment_1_short: "CW-19R"
 
-###
-### ECU - Ecuador ###
-###
+ ###
+ ### ECU - Ecuador ###
+ ###
 
  ECU_fighter_equipment_1: "Кёртисы CW-19R"
  ECU_fighter_equipment_1_short: "CW-19R"
 
-###
-### ENG - Union of Britain ###
-###
+ ###
+ ### ENG - Union of Britain ###
+ ###
 
  ENG_CAS_equipment_1: "Hawker Hind"
  ENG_CAS_equipment_1_short: "Хинд"
@@ -2440,10 +2440,10 @@ l_russian:
  ENG_scout_plane_equipment_2: "Supermarine Spitfire PR"
  ENG_scout_plane_equipment_2_short: "Spitfire PR"
 
-###
-### FER - Far Eastern Army ###
-###
-### Names stand for pre-1940 soviet name abbreviation type - First name letter, patronymic letter and family name letter.
+ ###
+ ### FER - Far Eastern Army ###
+ ###
+ ### Names stand for pre-1940 soviet name abbreviation type - First name letter, patronymic letter and family name letter.
 
  #Su-2:
  FER_CAS_equipment_1: "Bombardirovshchik POS-1"
@@ -2596,8 +2596,8 @@ l_russian:
  FER_transport_plane_equipment_3: "Gruzooy samolyot SVI-12"
  FER_transport_plane_equipment_3_short: "SVI-12"
 
-### FIN - Kingdom of Finland ###
-###
+ ### FIN - Kingdom of Finland ###
+ ###
 
  FIN_CAS_equipment_1: "Fokker-VL C.X III"
  FIN_CAS_equipment_1_short: "С.Х. III"
@@ -2681,7 +2681,7 @@ l_russian:
  FIN_transport_plane_equipment_3: "$GER_transport_plane_equipment_3$"
  FIN_transport_plane_equipment_3_short: "$GER_transport_plane_equipment_3_short$"
 
-#Missile
+ #Missile
  FIN_guided_missile_equipment_1: "Vergeltungswaffe-1"
  FIN_guided_missile_equipment_1_short: "V-1"
  FIN_guided_missile_equipment_2: "Vergeltungswaffe-2"
@@ -2689,9 +2689,9 @@ l_russian:
  FIN_guided_missile_equipment_3: "Агрегата-10"
  FIN_guided_missile_equipment_3_short: "А-10"
 
-###
-### FOP - Patagonia ###
-###
+ ###
+ ### FOP - Patagonia ###
+ ###
 
  FOP_CAS_equipment_1: "Блог Бр.693"
  FOP_CAS_equipment_1_short: "Бр.693"
@@ -2776,9 +2776,9 @@ l_russian:
  FOP_scout_plane_equipment_2: "CNCAO CAO.700"
  FOP_scout_plane_equipment_2_short: "CAO.700"
 
-###
-### FNG - Fengtian ###
-###
+ ###
+ ### FNG - Fengtian ###
+ ###
 
  FNG_CAS_equipment_1: "Кавасаки Ки-32"
  FNG_CAS_equipment_1_short: "Ki-32"
@@ -2873,9 +2873,9 @@ l_russian:
  FNG_rocket_interceptor_equipment_3: "Мизуно Шинрию"
  FNG_rocket_interceptor_equipment_3_short: "Шинрию"
 
-###
-### FRA - Commune of France ###
-###
+ ###
+ ### FRA - Commune of France ###
+ ###
 
  FRA_CAS_equipment_1: "Блог Бр.693"
  FRA_CAS_equipment_1_short: "Бр.693"
@@ -2960,9 +2960,9 @@ l_russian:
  FRA_scout_plane_equipment_2: "CNCAO CAO.700"
  FRA_scout_plane_equipment_2_short: "CAO.700"
 
-###
-### GAL - Galicia and Lodomeria ###
-###
+ ###
+ ### GAL - Galicia and Lodomeria ###
+ ###
 
  GAL_CAS_equipment_1: "Aero Vodochody A.101"
  GAL_CAS_equipment_1_short: "А.101"
@@ -3055,9 +3055,9 @@ l_russian:
  GAL_transport_plane_equipment_1: "Aero A.204"
  GAL_transport_plane_equipment_1_short: "A.204"
 
-###
-### GEA - German East Asia ###
-###
+ ###
+ ### GEA - German East Asia ###
+ ###
 
  GEA_CAS_equipment_0: "$GER_CAS_equipment_0$"
  GEA_CAS_equipment_0_short: "$GER_CAS_equipment_0_short$"
@@ -3207,7 +3207,7 @@ l_russian:
  GEA_mothership_equipment_0: "$GER_mothership_equipment_0$"
  GEA_mothership_equipment_0_short: "$GER_mothership_equipment_0_short$"
 
-#Missile
+ #Missile
  GEA_guided_missile_equipment_1: "Vergeltungswaffe-1"
  GEA_guided_missile_equipment_1_short: "V-1"
  GEA_guided_missile_equipment_2: "Vergeltungswaffe-2"
@@ -3215,9 +3215,9 @@ l_russian:
  GEA_guided_missile_equipment_3: "Агрегата-10"
  GEA_guided_missile_equipment_3_short: "А-10"
 
-###
-### GEO - Georgia ###
-###
+ ###
+ ### GEO - Georgia ###
+ ###
 
  GEO_CAS_equipment_1: "Moierishe Tvitmprinavi Modeli Hs 123"
  GEO_CAS_equipment_1_short: "Hs 123"
@@ -3305,9 +3305,9 @@ l_russian:
  GEO_transport_plane_equipment_3: "$GER_transport_plane_equipment_3$"
  GEO_transport_plane_equipment_3_short: "$GER_transport_plane_equipment_3_short$"
 
-###
-### GER - German Empire ###
-###
+ ###
+ ### GER - German Empire ###
+ ###
 
  GER_CAS_equipment_0: "Хеншель Эрдкампфлюгзеуг 123"
  GER_CAS_equipment_0_short: "Hs 123"
@@ -3510,7 +3510,7 @@ l_russian:
  GER_large_plane_airframe_3_desc: "$GER_strat_bomber_equipment_3_desc$"
  GER_large_plane_airframe_4_desc: "$GER_jet_strat_bomber_equipment_1_desc$"
 
-#Missile
+ #Missile
  GER_guided_missile_equipment_1: "Vergeltungswaffe-1"
  GER_guided_missile_equipment_1_short: "V-1"
  GER_guided_missile_equipment_2: "Vergeltungswaffe-2"
@@ -3518,9 +3518,9 @@ l_russian:
  GER_guided_missile_equipment_3: "Агрегата-10"
  GER_guided_missile_equipment_3_short: "А-10"
 
-###
-### GRE - Greece ###
-###
+ ###
+ ### GRE - Greece ###
+ ###
  AIR_WING_NAME_GRE_GENERIC: "$NR$ $NAME$"
  AIR_WING_NAME_GRE_FALLBACK: "$NR$ Moira"
 
@@ -3620,9 +3620,9 @@ l_russian:
  GRE_scout_plane_equipment_2: "Анагнористо, КЕА, ББ-3"
  GRE_scout_plane_equipment_2_short: "BB-3"
 
-###
-### GRU - German Union ###
-###
+ ###
+ ### GRU - German Union ###
+ ###
 
  GRU_CAS_equipment_0: "$GER_CAS_equipment_0$"
  GRU_CAS_equipment_0_short: "$GER_CAS_equipment_0_short$"
@@ -3772,7 +3772,7 @@ l_russian:
  GRU_mothership_equipment_0: "$GER_mothership_equipment_0$"
  GRU_mothership_equipment_0_short: "$GER_mothership_equipment_0_short$"
 
-#Missile
+ #Missile
  GRU_guided_missile_equipment_1: "Vergeltungswaffe-1"
  GRU_guided_missile_equipment_1_short: "V-1"
  GRU_guided_missile_equipment_2: "Vergeltungswaffe-2"
@@ -3780,9 +3780,9 @@ l_russian:
  GRU_guided_missile_equipment_3: "Агрегата-10"
  GRU_guided_missile_equipment_3_short: "А-10"
 
-###
-### GUY - Guyana ###
-###
+ ###
+ ### GUY - Guyana ###
+ ###
 
  GUY_CAS_equipment_1: "Фейри Битва"
  GUY_CAS_equipment_1_short: "Битва"
@@ -3875,9 +3875,9 @@ l_russian:
  GUY_transport_plane_equipment_3: "$IMP_transport_plane_equipment_3$"
  GUY_transport_plane_equipment_3_short: "$IMP_transport_plane_equipment_3_short$"
 
-###
-### GXC - Liangguang Clique ###
-###
+ ###
+ ### GXC - Liangguang Clique ###
+ ###
 
  GXC_CAS_equipment_1: "Гуанчжоу Янчэнг Даджи"
  GXC_CAS_equipment_1_short: "Янчэн Даджи"
@@ -3923,9 +3923,9 @@ l_russian:
  GXC_scout_plane_equipment_1: "Гуанху Янчэн Кесаи"
  GXC_scout_plane_equipment_short_1: "Янчэн Кесаи"
 
-###
-### HAW - Hawaii ###
-###
+ ###
+ ### HAW - Hawaii ###
+ ###
 
  HAW_small_plane_cas_airframe_0_short: "$USA_small_plane_cas_airframe_0_short$"
  HAW_cv_small_plane_cas_airframe_0_short: "$USA_cv_small_plane_cas_airframe_0_short$"
@@ -4040,9 +4040,9 @@ l_russian:
  HAW_rocket_interceptor_equipment_3: "$USA_rocket_interceptor_equipment_3$"
  HAW_rocket_interceptor_equipment_3_short: "$USA_rocket_interceptor_equipment_3_short$"
 
-###
-### HND - Bharatiya People's Republic ###
-###
+ ###
+ ### HND - Bharatiya People's Republic ###
+ ###
 
  HND_CAS_equipment_1: "$ENG_CAS_equipment_1$"
  HND_CAS_equipment_1_short: "$ENG_CAS_equipment_1_short$"
@@ -4121,9 +4121,9 @@ l_russian:
  HND_scout_plane_equipment_2: "$ENG_scout_plane_equipment_2$"
  HND_scout_plane_equipment_2_short: "$ENG_scout_plane_equipment_2_short$"
 
-###
-### HOL - Netherlands ###
-###
+ ###
+ ### HOL - Netherlands ###
+ ###
 
  HOL_CAS_equipment_1: "Fokker C.X"
  HOL_CAS_equipment_1_short: "С.Х."
@@ -4202,9 +4202,9 @@ l_russian:
  HOL_transport_plane_equipment_1: "Фоккер Ф-XVIII"
  HOL_transport_plane_equipment_1_short: "F-XVIII"
 
-###
-### HUN - Kingdom of Hungary ###
-###
+ ###
+ ### HUN - Kingdom of Hungary ###
+ ###
 
  HUN_CAS_equipment_1: "Aero Vodochody A.101"
  HUN_CAS_equipment_1_short: "А.101"
@@ -4297,9 +4297,9 @@ l_russian:
  HUN_transport_plane_equipment_1: "Aero A.204"
  HUN_transport_plane_equipment_1_short: "A.204"
 
-###
-### ICE - Iceland ###
-###
+ ###
+ ### ICE - Iceland ###
+ ###
 
  ICE_CAS_equipment_1: "SAI KZ IIA"
  ICE_CAS_equipment_1_short: "KZ IIA"
@@ -4315,9 +4315,9 @@ l_russian:
  ICE_small_plane_naval_bomber_airframe_2: "Фоккер Т.VIII"
  ICE_small_plane_naval_bomber_airframe_2_short: "Т.VIII"
 
-###
-### INC - Indochina ###
-###
+ ###
+ ### INC - Indochina ###
+ ###
 
  INC_CAS_equipment_1: "Блог Бр.693"
  INC_CAS_equipment_1_short: "Бр.693"
@@ -4402,16 +4402,16 @@ l_russian:
  INC_scout_plane_equipment_2: "CNCAO CAO.700"
  INC_scout_plane_equipment_2_short: "CAO.700"
 
-###
-### IRE - Ireland ###
-###
+ ###
+ ### IRE - Ireland ###
+ ###
 
  IRE_fighter_equipment_0: "Кёртисы С-1 Ястреб"
  IRE_fighter_equipment_0_short: "С-1 Ястреб"
 
-###
-### ITA - Republic of Italy ###
-###
+ ###
+ ### ITA - Republic of Italy ###
+ ###
 
  ITA_CAS_equipment_1: "Бреда Ба.65"
  ITA_CAS_equipment_1_short: "Ба.65"
@@ -4497,9 +4497,9 @@ l_russian:
  ITA_transport_plane_equipment_3: "Savoia-Marchetti SM.95 GA"
  ITA_transport_plane_equipment_3_short: "SM.95 GA"
 
-###
-### JAM - Jamaica ###
-###
+ ###
+ ### JAM - Jamaica ###
+ ###
 
  JAM_CAS_equipment_1: "Фейри Битва"
  JAM_CAS_equipment_1_short: "Битва"
@@ -4592,9 +4592,9 @@ l_russian:
  JAM_transport_plane_equipment_3: "$IMP_transport_plane_equipment_3$"
  JAM_transport_plane_equipment_3_short: "$IMP_transport_plane_equipment_3_short$"
 
-###
-### JAP - Japan ###
-###
+ ###
+ ### JAP - Japan ###
+ ###
 
  JAP_CAS_equipment_1: "Кавасаки Ки-32"
  JAP_CAS_equipment_1_short: "Ki-32"
@@ -4737,9 +4737,9 @@ l_russian:
  JAP_rocket_interceptor_equipment_3_short: "ki-156 Shinryö"
  JAP_rocket_interceptor_equipment_3_desc: "Возможность взрыва стратегических бомбардировщиков сверхвысокой высоты на японском материке вызывает беспокойство у высшего командования Японии, и в этой связи они поручили военно-морскому военно-морскому военно-воздушному аппарату Йокосуке изучить возможности перехватчика большой высоты. Затем первоначальные спецификации были изменены с целью использования успешного ракетного двигателя &lt; &lt; Мицубиси Токо-Ро.2 &gt; &gt; , который также был установлен на борту судна &lt; &lt; Й8М Шусуи &gt; &gt; , с дополнительным требованием о том, чтобы он мог действовать в качестве глайдера, в результате чего была создана компания &lt; &lt; Ки-156 &gt; &gt; , частично разработанная и изготовленная компанией &lt; &lt; Мизуно &gt; &gt; , которая также построила глайдеры."
 
-###
-### LAT - Latvia ###
-###
+ ###
+ ### LAT - Latvia ###
+ ###
 
  #Cukurs C-6bis
  LAT_CAS_equipment_1: "1936. g. моде gaismas bumbvedjs 'Cukurs-6'"
@@ -4853,9 +4853,9 @@ l_russian:
  LAT_transport_plane_equipment_3: "$GER_transport_plane_equipment_3$"
  LAT_transport_plane_equipment_3_short: "$GER_transport_plane_equipment_3_short$"
 
-###
-### LEC - Legation Cities ###
-###
+ ###
+ ### LEC - Legation Cities ###
+ ###
 
  LEC_fighter_equipment_0: "Армия Накаджимы типа 91"
  LEC_fighter_equipment_0_short: "Тип 91"
@@ -4866,9 +4866,9 @@ l_russian:
  LEC_tac_bomber_equipment_0: "Дорнире 23-й"
  LEC_tac_bomber_equipment_0_short: "Сделать 23"
 
-###
-### LEP - League of Eight Provinces ###
-###
+ ###
+ ### LEP - League of Eight Provinces ###
+ ###
 
  LEP_transport_plane_equipment_1: "$GER_transport_plane_equipment_1$"
  LEP_transport_plane_equipment_1_short: "$GER_transport_plane_equipment_1_short$"
@@ -4877,9 +4877,9 @@ l_russian:
  LEP_transport_plane_equipment_3: "$GER_transport_plane_equipment_3$"
  LEP_transport_plane_equipment_3_short: "$GER_transport_plane_equipment_3_short$"
 
-###
-### LIT - Lithuania ###
-###
+ ###
+ ### LIT - Lithuania ###
+ ###
  LIT_CAS_equipment_1: "1936 м. Modelio lengvasis bombonesis 'Hs 123'"
  LIT_CAS_equipment_1_short: "Hs 123"
  LIT_cv_CAS_equipment_1: "1936 м. Modelio lengvasis bombonesis 'Hs 123'"
@@ -4989,9 +4989,9 @@ l_russian:
  LIT_transport_plane_equipment_3: "$GER_transport_plane_equipment_3$"
  LIT_transport_plane_equipment_3_short: "$GER_transport_plane_equipment_3_short$"
 
-###
-### EST - Estonia ###
-###
+ ###
+ ### EST - Estonia ###
+ ###
 
  #Cukurs C-6bis
  EST_CAS_equipment_1: "Кукуры Мудель 6"
@@ -5097,9 +5097,9 @@ l_russian:
  EST_transport_plane_equipment_1: "Джункеры Мудель 52"
  EST_transport_plane_equipment_1_short: "J-52"
 
-###
-### MAF - Mittelafrika ###
-###
+ ###
+ ### MAF - Mittelafrika ###
+ ###
 
  MAF_CAS_equipment_0: "$GER_CAS_equipment_0$"
  MAF_CAS_equipment_0_short: "$GER_CAS_equipment_0_short$"
@@ -5249,7 +5249,7 @@ l_russian:
  MAF_mothership_equipment_0: "$GER_mothership_equipment_0$"
  MAF_mothership_equipment_0_short: "$GER_mothership_equipment_0_short$"
 
-#Missile
+ #Missile
  MAF_guided_missile_equipment_1: "Vergeltungswaffe-1"
  MAF_guided_missile_equipment_1_short: "V-1"
  MAF_guided_missile_equipment_2: "Vergeltungswaffe-2"
@@ -5257,9 +5257,9 @@ l_russian:
  MAF_guided_missile_equipment_3: "Агрегата-10"
  MAF_guided_missile_equipment_3_short: "А-10"
 
-###
-### MOR - Morocco ###
-###
+ ###
+ ### MOR - Morocco ###
+ ###
 
  MOR_CAS_equipment_1: "Хеншель Эрдкампфлюгзеуг 123"
  MOR_CAS_equipment_1_short: "Hs 123"
@@ -5367,7 +5367,7 @@ l_russian:
  MOR_transport_plane_equipment_3: "$GER_transport_plane_equipment_3$"
  MOR_transport_plane_equipment_3_short: "$GER_transport_plane_equipment_3_short$"
 
-#Missile
+ #Missile
  MOR_guided_missile_equipment_1: "Vergeltungswaffe-1"
  MOR_guided_missile_equipment_1_short: "V-1"
  MOR_guided_missile_equipment_2: "Vergeltungswaffe-2"
@@ -5375,9 +5375,9 @@ l_russian:
  MOR_guided_missile_equipment_3: "Агрегата-10"
  MOR_guided_missile_equipment_3_short: "А-10"
 
-###
-### MEX - Mexico ###
-###
+ ###
+ ### MEX - Mexico ###
+ ###
 
  MEX_CAS_equipment_1: "Спартанский FBW-1"
  MEX_CAS_equipment_1_short: "FBW-1"
@@ -5393,9 +5393,9 @@ l_russian:
  MEX_tac_bomber_equipment_1_short: "Бр.460"
  MEX_tac_bomber_equipment_1_desc: "Хотя Коммунарды часто проявляли нерешительность в отношении того же социалистского режима Эмилиано Сапаты, чрезвычайно публичное исчезновение мексиканского модифицированного Br.19 Super Bidon побудило правительство Коммунарда предложить мексиканцам покупку тогдашнего духовного преемника Br.19, Br.460, по сниженной цене."
 
-###
-### NEE - New England ###
-###
+ ###
+ ### NEE - New England ###
+ ###
 
  NEE_small_plane_cas_airframe_0_short: "$USA_small_plane_cas_airframe_0_short$"
  NEE_cv_small_plane_cas_airframe_0_short: "$USA_cv_small_plane_cas_airframe_0_short$"
@@ -5536,9 +5536,9 @@ l_russian:
  NEE_helicopter_equipment_1: "$USA_helicopter_equipment_1$"
  NEE_helicopter_equipment_1_short: "$USA_helicopter_equipment_1_short$"
 
-###
-### NFA - French Republic ###
-### CLASSIFICATIONS ARE DIFFERENT FROM OTL
+ ###
+ ### NFA - French Republic ###
+ ### CLASSIFICATIONS ARE DIFFERENT FROM OTL
 
  NFA_CAS_equipment_1: "АнФ &lt; &lt; Мюро 117 &gt; &gt; , &lt; &lt; Бомбардирование &gt; &gt; , 2 места"
  NFA_CAS_equipment_1_short: "АНФ 117 РБ.2"
@@ -5672,9 +5672,9 @@ l_russian:
  NFA_transport_plane_equipment_1_short: "MB.220 TT"
  NFA_transport_plane_equipment_1_desc: ""Bloch MB.220" — самолёт с двумя металлическими двигателями, разработанный для гражданского использования, который, по признанию французских военных, вскоре стал главным транспортным самолетом французской армии и базой бомбардировщиков Bloch MB.230."
 
-###
-### NGF - North German Federation ###
-###
+ ###
+ ### NGF - North German Federation ###
+ ###
 
  NGF_CAS_equipment_0: "$GER_CAS_equipment_0$"
  NGF_CAS_equipment_0_short: "$GER_CAS_equipment_0_short$"
@@ -5824,7 +5824,7 @@ l_russian:
  NGF_mothership_equipment_0: "$GER_mothership_equipment_0$"
  NGF_mothership_equipment_0_short: "$GER_mothership_equipment_0_short$"
 
-#Missile
+ #Missile
  NGF_guided_missile_equipment_1: "Vergeltungswaffe-1"
  NGF_guided_missile_equipment_1_short: "V-1"
  NGF_guided_missile_equipment_2: "Vergeltungswaffe-2"
@@ -5832,9 +5832,9 @@ l_russian:
  NGF_guided_missile_equipment_3: "Агрегата-10"
  NGF_guided_missile_equipment_3_short: "А-10"
 
-###
-### NOR - Norway ###
-###
+ ###
+ ### NOR - Norway ###
+ ###
 
  NOR_CAS_equipment_1: "Kjeller-Duglas 8A"
  NOR_CAS_equipment_1_short: "8A"
@@ -5904,9 +5904,9 @@ l_russian:
  NOR_transport_plane_equipment_3: "$IMP_transport_plane_equipment_3$"
  NOR_transport_plane_equipment_3_short: "$IMP_transport_plane_equipment_3_short$"
 
-###
-### NZL - New Zealand ###
-###
+ ###
+ ### NZL - New Zealand ###
+ ###
 
  NZL_CAS_equipment_1: "Фейри Битва"
  NZL_CAS_equipment_1_short: "Битва"
@@ -5999,9 +5999,9 @@ l_russian:
  NZL_transport_plane_equipment_3: "$IMP_transport_plane_equipment_3$"
  NZL_transport_plane_equipment_3_short: "$IMP_transport_plane_equipment_3_short$"
 
-###
-### TUR - Ottoman Empire ###
-###
+ ###
+ ### TUR - Ottoman Empire ###
+ ###
  AIR_WING_NAME_TUR_FALLBACK: "$NUMBER$. $TYPE$ Alayı"
 
  #Vecihi XIV:
@@ -6136,9 +6136,9 @@ l_russian:
  TUR_transport_plane_equipment_3: "$GER_transport_plane_equipment_3$"
  TUR_transport_plane_equipment_3_short: "$GER_transport_plane_equipment_3_short$"
 
-###
-### PAL - Palestine/MoJ/Suez ###
-###
+ ###
+ ### PAL - Palestine/MoJ/Suez ###
+ ###
 
  #Vecihi XIV:
  PAL_fighter_equipment_0: "Хюркуш Авчи Тайяреси Калип XIV"
@@ -6265,9 +6265,9 @@ l_russian:
  PAL_scout_plane_equipment_2: "Османли Хава Куруму Кешиф Усаги Калип 11"
  PAL_scout_plane_equipment_2_short: "ОХК-11"
 
-###
-### PAP - Papal States ###
-###
+ ###
+ ### PAP - Papal States ###
+ ###
 
  PAP_CAS_equipment_1: "$SIC_CAS_equipment_1$"
  PAP_CAS_equipment_1_short: "$SIC_CAS_equipment_1_short$"
@@ -6353,7 +6353,7 @@ l_russian:
  PAP_transport_plane_equipment_3: "$SIC_transport_plane_equipment_3$"
  PAP_transport_plane_equipment_3_short: "$SIC_transport_plane_equipment_3_short$"
 
-#Missile
+ #Missile
  PAP_guided_missile_equipment_1: "Vergeltungswaffe-1"
  PAP_guided_missile_equipment_1_short: "V-1"
  PAP_guided_missile_equipment_2: "Vergeltungswaffe-2"
@@ -6361,9 +6361,9 @@ l_russian:
  PAP_guided_missile_equipment_3: "Агрегата-10"
  PAP_guided_missile_equipment_3_short: "А-10"
 
-###
-### POL - Poland ###
-###
+ ###
+ ### POL - Poland ###
+ ###
 
  POL_CAS_equipment_1: "PZL.23 Kara___"
  POL_CAS_equipment_1_short: "Кара!"
@@ -6454,7 +6454,7 @@ l_russian:
  POL_transport_plane_equipment_3: "$GER_transport_plane_equipment_3$"
  POL_transport_plane_equipment_3_short: "$GER_transport_plane_equipment_3_short$"
 
-#Missile
+ #Missile
  POL_guided_missile_equipment_1: "Vergeltungswaffe-1"
  POL_guided_missile_equipment_1_short: "V-1"
  POL_guided_missile_equipment_2: "Vergeltungswaffe-2"
@@ -6462,9 +6462,9 @@ l_russian:
  POL_guided_missile_equipment_3: "Агрегата-10"
  POL_guided_missile_equipment_3_short: "А-10"
 
-###
-### POR - Portugal ###
-###
+ ###
+ ### POR - Portugal ###
+ ###
 
  POR_CAS_equipment_1: "Фейри Баталья"
  POR_CAS_equipment_1_short: "Баталья"
@@ -6557,9 +6557,9 @@ l_russian:
  POR_transport_plane_equipment_3: "$IMP_transport_plane_equipment_3$"
  POR_transport_plane_equipment_3_short: "$IMP_transport_plane_equipment_3_short$"
 
-###
-### QIE - Qing ###
-###
+ ###
+ ### QIE - Qing ###
+ ###
 
  QIE_transport_plane_equipment_1: "$GER_transport_plane_equipment_1$"
  QIE_transport_plane_equipment_1_short: "$GER_transport_plane_equipment_1_short$"
@@ -6568,9 +6568,9 @@ l_russian:
  QIE_transport_plane_equipment_3: "$GER_transport_plane_equipment_3$"
  QIE_transport_plane_equipment_3_short: "$GER_transport_plane_equipment_3_short$"
 
-###
-### RHI - Rhineland ###
-###
+ ###
+ ### RHI - Rhineland ###
+ ###
 
  RHI_CAS_equipment_0: "$GER_CAS_equipment_0$"
  RHI_CAS_equipment_0_short: "$GER_CAS_equipment_0_short$"
@@ -6720,7 +6720,7 @@ l_russian:
  RHI_mothership_equipment_0: "$GER_mothership_equipment_0$"
  RHI_mothership_equipment_0_short: "$GER_mothership_equipment_0_short$"
 
-#Missile
+ #Missile
  RHI_guided_missile_equipment_1: "Vergeltungswaffe-1"
  RHI_guided_missile_equipment_1_short: "V-1"
  RHI_guided_missile_equipment_2: "Vergeltungswaffe-2"
@@ -6728,9 +6728,9 @@ l_russian:
  RHI_guided_missile_equipment_3: "Агрегата-10"
  RHI_guided_missile_equipment_3_short: "А-10"
 
-###
-### ROM - Romania ###
-###
+ ###
+ ### ROM - Romania ###
+ ###
 
  #IAR 37:
  ROM_CAS_equipment_1: ""IAR 36", модель 1936, IAR"
@@ -6834,9 +6834,9 @@ l_russian:
  ROM_scout_plane_equipment_2: "Aviion de reunoastere 'IAR 47', модель 1942, IAR"
  ROM_scout_plane_equipment_2_short: "IAR 47"
 
-###
-### RUS - Russia ###
-###
+ ###
+ ### RUS - Russia ###
+ ###
  AIR_WING_NAME_RUS_FALLBACK: "$NUMBER$-ya Aviatsionnaya Divizya"
  AIR_WING_NAME_RUS_GENERIC: "$NR$-ya $NAME$"
  AIR_WING_NAME_RUS_CARRIER: "$NR$-ya $NAME$"
@@ -7051,9 +7051,9 @@ l_russian:
  #Il-40 torpedo version
  RUS_small_plane_naval_bomber_airframe_5_short: "RSh-4T"
 
-###
-### RSA - Free Russian Army ###
-###
+ ###
+ ### RSA - Free Russian Army ###
+ ###
  #Hs 123:
  RSA_CAS_equipment_1: "Штурмовик ХШ-123"
  RSA_CAS_equipment_1_short: "KSh-123"
@@ -7227,9 +7227,9 @@ l_russian:
  RSA_large_plane_maritime_patrol_plane_airframe_4: "Morskoy Bombardirovshchik MTB-5"
  RSA_large_plane_maritime_patrol_plane_airframe_4_short: "MTB-5"
 
-###
-### SAF - Union of South Africa ###
-###
+ ###
+ ### SAF - Union of South Africa ###
+ ###
 
  SAF_CAS_equipment_1: "Фейри Битва"
  SAF_CAS_equipment_1_short: "Битва"
@@ -7322,9 +7322,9 @@ l_russian:
  SAF_transport_plane_equipment_3: "$IMP_transport_plane_equipment_3$"
  SAF_transport_plane_equipment_3_short: "$IMP_transport_plane_equipment_3_short$"
 
-###
-### SCA - Scandinavia ###
-###
+ ###
+ ### SCA - Scandinavia ###
+ ###
 
  SCA_fighter_equipment_0: "Svenska Aero J 6 Jaktfalken"
  SCA_fighter_equipment_0_short: "J 6 Jaktfalken"
@@ -7430,9 +7430,9 @@ l_russian:
  SCA_transport_plane_equipment_1: "Ju-86 Tp 9"
  SCA_transport_plane_equipment_1_short: "Тп 9"
 
-###
-### SCO - Scotland ###
-###
+ ###
+ ### SCO - Scotland ###
+ ###
 
  SCO_CAS_equipment_1: "$ENG_CAS_equipment_1$"
  SCO_CAS_equipment_1_short: "$ENG_CAS_equipment_1_short$"
@@ -7511,9 +7511,9 @@ l_russian:
  SCO_scout_plane_equipment_2: "$ENG_scout_plane_equipment_2$"
  SCO_scout_plane_equipment_2_short: "$ENG_scout_plane_equipment_2_short$"
 
-###
-### SER - Serbia ###
-###
+ ###
+ ### SER - Serbia ###
+ ###
 
  #R-100:
  SER_CAS_equipment_1: "Лаки бомбардировщик-юришник Рогожарски R-100J"
@@ -7626,11 +7626,11 @@ l_russian:
  SER_scout_plane_equipment_2: "Лаки-извичачкх Икарус Оркан"
  SER_scout_plane_equipment_2_short: "Оркан"
 
-###
-### SIA - Siam ###
-###
+ ###
+ ### SIA - Siam ###
+ ###
 
-# Fighter
+ # Fighter
  # Prajadhipok, local-design:
  SIA_fighter_equipment_0: "Круэнгбин Хубилай Баебти-5 Праджадипок"
  SIA_fighter_equipment_0_short: "BorKhor.5 Праджадипок"
@@ -7645,7 +7645,7 @@ l_russian:
  SIA_fighter_equipment_3: "Круэнгбин Хубилай Баэбти-14 Хайате"
  SIA_fighter_equipment_3_short: "BorKhor.14 &lt; &lt; Хайат &gt; &gt;"
 
-# NAV Fighter
+ # NAV Fighter
  # Prajadhipok (Theoretical Naval Version):
  SIA_cv_fighter_equipment_0: "Круэнгбин Хубилай Бэбти-6 Чамборн"
  SIA_cv_fighter_equipment_0_short: "BorKhor.6 Cumborn"
@@ -7660,7 +7660,7 @@ l_russian:
  SIA_cv_fighter_equipment_3: "Круэнгбин Хубилай Баэбти-15 Реппу"
  SIA_cv_fighter_equipment_3_short: "Борхор.15 Реппу"
 
-# JET Fighter
+ # JET Fighter
  # Nakajima Kikka:
  SIA_jet_fighter_equipment_1: "Круэнгбин Хубилай Баэбти-16 Синтоп"
  SIA_jet_fighter_equipment_1_short: "Борхор.16 Синтоп"
@@ -7670,7 +7670,7 @@ l_russian:
  SIA_jet_fighter_equipment_2_short: "Борхор.17 Арханай"
  SIA_small_plane_airframe_5_short: "Борхор.17 Арханай"
 
-# CloseAirSupport
+ # CloseAirSupport
  # Aero A.101, license-built:
  SIA_CAS_equipment_1: "Круэнгбин Джомети Бэбти-1 Аэро"
  SIA_CAS_equipment_1_short: "&quot; Борджор.1 Аэро &quot;"
@@ -7681,7 +7681,7 @@ l_russian:
  SIA_CAS_equipment_3: "Круэнгбин Джомети Бэбти-6 Па-Як"
  SIA_CAS_equipment_3_short: "Борджор.6 Па-Як"
 
-# NAV CloseAirSupport
+ # NAV CloseAirSupport
  # Vought V-93S Corsair:
  SIA_cv_CAS_equipment_1: "Круэнгбин Джомети Бэбти-2 Корсэр"
  SIA_cv_CAS_equipment_1_short: "Борджор.2 Корсер"
@@ -7692,7 +7692,7 @@ l_russian:
  SIA_cv_CAS_equipment_3: "Круэнгбин Джомети Бэбти-5 Краисе"
  SIA_cv_CAS_equipment_3_short: "Борджор.5 Краисе"
 
-# NavalBomber
+ # NavalBomber
  # Letov S.328V:
  SIA_small_plane_naval_bomber_airframe_1: "Крюэнгбин Пикарт-Руэа Бэбти-1 Руэ-Торп"
  SIA_small_plane_naval_bomber_airframe_1_short: "BorPor.1 RueaTorp"
@@ -7703,7 +7703,7 @@ l_russian:
  SIA_small_plane_naval_bomber_airframe_3: "Крюэнгбин Пикарт Руэа Бэбти-3 Гингга"
  SIA_small_plane_naval_bomber_airframe_3_short: "BorPor.3 Ginkgah"
 
-# NAV NavalBomber
+ # NAV NavalBomber
  # Letov S.328V (NavBomber Copy):
  SIA_cv_small_plane_naval_bomber_airframe_1: "Крюэнгбин Пикарт-Руэа Бэбти-1 Руэ-Торп"
  SIA_cv_small_plane_naval_bomber_airframe_1_short: "BorPor.1 RueaTorp"
@@ -7714,7 +7714,7 @@ l_russian:
  SIA_cv_small_plane_naval_bomber_airframe_3: "Крюэнгбин Пикартруа Баэбти-5 Айти"
  SIA_cv_small_plane_naval_bomber_airframe_3_short: "BorPor.5 Айти"
 
-# TacBomber
+ # TacBomber
  # Boripatra, local-design:
  SIA_tac_bomber_equipment_0: "Круэнгбин Тинграбурд Баэбти-2 Борипатра"
  SIA_tac_bomber_equipment_0_short: "Бортор.2 Борипатра"
@@ -7729,7 +7729,7 @@ l_russian:
  SIA_tac_bomber_equipment_3: "Крюэнбин Тинграбурд Беабти-10 Люлом"
  SIA_tac_bomber_equipment_3_short: "Бортор.10 Люлом"
 
-# JET TacBomber
+ # JET TacBomber
  # Yokosuka R2Y2 Keiun-Kai:
  SIA_jet_tac_bomber_equipment_1: "Крюэнбин Тинграбурд Бебти-10 Бонгкох"
  SIA_jet_tac_bomber_equipment_1_short: "BorTor.10 Bongkoch"
@@ -7737,7 +7737,7 @@ l_russian:
  SIA_jet_tac_bomber_equipment_2: "Крюенбин Тинграбурд Бэбти-11 Утампорн"
  SIA_jet_tac_bomber_equipment_2_short: "Бортор.11 Uthampoorn"
 
-# StratBomber
+ # StratBomber
  # Mitsubishi Ki-21:
  SIA_strat_bomber_equipment_1: "Крюэнбин Тинграбурд Бэбти-4 Митцу"
  SIA_strat_bomber_equipment_1_short: "BorTor.4 Митцу"
@@ -7748,12 +7748,12 @@ l_russian:
  SIA_strat_bomber_equipment_3: "Крюэнбин Тинграбурд Беабти-9 Рензан"
  SIA_strat_bomber_equipment_3_short: "Бортор.9 &lt; &lt; Рензан &gt; &gt;"
 
-# JET StratBomber
+ # JET StratBomber
  # Nakajima G12N Shōri:
  SIA_jet_strat_bomber_equipment_1: "Круэнгбин Тинграбурд Бэбти-12 Интаракит"
  SIA_jet_strat_bomber_equipment_1_short: "Бортор.12 Интарадачит"
 
-# ScoutPlane
+ # ScoutPlane
  # Weiss Manfréd WM.21:
  SIA_scout_plane_equipment_1: "Крюэнгбин Лардтраване Бэбти.2 Ай Хао"
  SIA_scout_plane_equipment_1_short: "KorLorTor.2 Ai Kao"
@@ -7761,12 +7761,12 @@ l_russian:
  SIA_scout_plane_equipment_2: "Крюэнгбин Лардтраван Бэбти 3 Чантра"
  SIA_scout_plane_equipment_2_short: "KorLorTor.3 Чантра"
 
-# Transport
+ # Transport
  # Aero A.204, license-built:
  SIA_transport_plane_equipment_1: "Круэнгбин Ламлианг Бэбти-1 Пхайконт"
  SIA_transport_plane_equipment_1_short: "KorLor.1 Файчайон"
 
-# JET Interceptor
+ # JET Interceptor
  # Never exists:
  SIA_rocket_interceptor_equipment_1: "Крюэнгбин Сакад-Канн Баэбти 1."
  SIA_rocket_interceptor_equipment_1_short: "BorSoKor.1 Усада"
@@ -7777,7 +7777,7 @@ l_russian:
  SIA_rocket_interceptor_equipment_3: "Крюэнгбин Сакад-Канн Баэбти.4 Камольрат"
  SIA_rocket_interceptor_equipment_3_short: "BorSoKor.4 Камолрат"
 
-# HeavyFighter
+ # HeavyFighter
  # Praga E.51, never bought:
  SIA_heavy_fighter_equipment_1: "Круэнгбин Хубилай Писайклай Баэбти-2 Вихок"
  SIA_heavy_fighter_equipment_1_short: "BorKorKor.2 Вихок"
@@ -7788,9 +7788,9 @@ l_russian:
  SIA_heavy_fighter_equipment_3: "Круэнгбин Хубилай Писайклай Баэбти-5 Тичакорн"
  SIA_heavy_fighter_equipment_3_short: "BorKorKor.5 Tichakorn"
 
-###
-### SIC - Two Sicilies ###
-###
+ ###
+ ### SIC - Two Sicilies ###
+ ###
 
  SIC_CAS_equipment_1: "$ITA_CAS_equipment_1$"
  SIC_CAS_equipment_1_short: "$ITA_CAS_equipment_1_short$"
@@ -7876,7 +7876,7 @@ l_russian:
  SIC_transport_plane_equipment_3: "$ITA_transport_plane_equipment_3$"
  SIC_transport_plane_equipment_3_short: "$ITA_transport_plane_equipment_3_short$"
 
-#Missile
+ #Missile
  SIC_guided_missile_equipment_1: "Vergeltungswaffe-1"
  SIC_guided_missile_equipment_1_short: "V-1"
  SIC_guided_missile_equipment_2: "Vergeltungswaffe-2"
@@ -7884,9 +7884,9 @@ l_russian:
  SIC_guided_missile_equipment_3: "Агрегата-10"
  SIC_guided_missile_equipment_3_short: "А-10"
 
-###
-### SLV - Slovenia ###
-###
+ ###
+ ### SLV - Slovenia ###
+ ###
 
  SLV_CAS_equipment_1: "Aero Vodochody A.101"
  SLV_CAS_equipment_1_short: "А.101"
@@ -7979,9 +7979,9 @@ l_russian:
  SLV_transport_plane_equipment_1: "Aero A.204"
  SLV_transport_plane_equipment_1_short: "A.204"
 
-###
-### SPA - Kingdom of Spain ###
-###
+ ###
+ ### SPA - Kingdom of Spain ###
+ ###
 
  SPA_CAS_equipment_1: "Fokker C.X"
  SPA_CAS_equipment_1_short: "С.Х."
@@ -8034,9 +8034,9 @@ l_russian:
  SPA_scout_plane_equipment_2: "Focke-Wulf Fw 189"
  SPA_scout_plane_equipment_2_short: "Fw 189"
 
-###
-### SRD - Sardinia ###
-###
+ ###
+ ### SRD - Sardinia ###
+ ###
 
  SRD_CAS_equipment_1: "$ITA_CAS_equipment_1$"
  SRD_CAS_equipment_1_short: "$ITA_CAS_equipment_1_short$"
@@ -8122,9 +8122,9 @@ l_russian:
  SRD_transport_plane_equipment_3: "$ITA_transport_plane_equipment_3$"
  SRD_transport_plane_equipment_3_short: "$ITA_transport_plane_equipment_3_short$"
 
-###
-### SRI - Socialist Republic of Italy ###
-###
+ ###
+ ### SRI - Socialist Republic of Italy ###
+ ###
 
  SRI_CAS_equipment_1: "Fiat CB.65"    # Br.65 with imaginary Fiat naming
  SRI_CAS_equipment_1_short: "CB.65"
@@ -8214,9 +8214,9 @@ l_russian:
  SRI_transport_plane_equipment_3: "Piaggio P.95 GA"
  SRI_transport_plane_equipment_3_short: "P.95 GA"
 
-###
-### SUR - Suriname ###
-###
+ ###
+ ### SUR - Suriname ###
+ ###
 
  SUR_CAS_equipment_1: "Fokker C.X"
  SUR_CAS_equipment_1_short: "С.Х."
@@ -8295,9 +8295,9 @@ l_russian:
  SUR_transport_plane_equipment_1: "Фоккер Ф-XVIII"
  SUR_transport_plane_equipment_1_short: "F-XVIII"
 
-###
-### SLO - Slovakia ###
-###
+ ###
+ ### SLO - Slovakia ###
+ ###
 
  SLO_CAS_equipment_1: "Aero Vodochody A.101"
  SLO_CAS_equipment_1_short: "А.101"
@@ -8390,9 +8390,9 @@ l_russian:
  SLO_transport_plane_equipment_1: "Aero A.204"
  SLO_transport_plane_equipment_1_short: "A.204"
 
-###
-### SWE - Sweden ###
-###
+ ###
+ ### SWE - Sweden ###
+ ###
 
  SWE_fighter_equipment_0: "Svenska Aero J 6 Jaktfalken"
  SWE_fighter_equipment_0_short: "J 6 Jaktfalken"
@@ -8499,9 +8499,9 @@ l_russian:
  SWE_transport_plane_equipment_1: "Ju-86 Tp 9"
  SWE_transport_plane_equipment_1_short: "Тп 9"
 
-###
-### SWF - Spanish Workers Federation ###
-###
+ ###
+ ### SWF - Spanish Workers Federation ###
+ ###
 
  SWF_CAS_equipment_1: "Блог Бр.693"
  SWF_CAS_equipment_1_short: "Бр.693"
@@ -8586,9 +8586,9 @@ l_russian:
  SWF_scout_plane_equipment_2: "CNCAO CAO.700"
  SWF_scout_plane_equipment_2_short: "CAO.700"
 
-###
-### SWI - Switzerland ###
-###
+ ###
+ ### SWI - Switzerland ###
+ ###
 
  SWI_CAS_equipment_1: "Eidgenoessische Konsstruktswerkstaette C-35"
  SWI_CAS_equipment_1_short: "EKW C.35"
@@ -8607,9 +8607,9 @@ l_russian:
  SWI_jet_fighter_equipment_2_short: "FFA P-16"
  SWI_small_plane_airframe_5_short: "FFA P-16"
 
-###
-### APG - American People's Government ###
-###
+ ###
+ ### APG - American People's Government ###
+ ###
 
  APG_small_plane_cas_airframe_0_short: "$USA_small_plane_cas_airframe_0_short$"
  APG_cv_small_plane_cas_airframe_0_short: "$USA_cv_small_plane_cas_airframe_0_short$"
@@ -8750,9 +8750,9 @@ l_russian:
  APG_helicopter_equipment_1: "$USA_helicopter_equipment_1$"
  APG_helicopter_equipment_1_short: "$USA_helicopter_equipment_1_short$"
 
-###
-### TRI - Trinidad ###
-###
+ ###
+ ### TRI - Trinidad ###
+ ###
 
  TRI_CAS_equipment_1: "Фейри Битва"
  TRI_CAS_equipment_1_short: "Битва"
@@ -8845,9 +8845,9 @@ l_russian:
  TRI_transport_plane_equipment_3: "$IMP_transport_plane_equipment_3$"
  TRI_transport_plane_equipment_3_short: "$IMP_transport_plane_equipment_3_short$"
 
-###
-### TRS - Transylvania ###
-###
+ ###
+ ### TRS - Transylvania ###
+ ###
 
  TRS_CAS_equipment_1: "Aero Vodochody A.101"
  TRS_CAS_equipment_1_short: "А.101"
@@ -8940,17 +8940,17 @@ l_russian:
  TRS_transport_plane_equipment_1: "Aero A.204"
  TRS_transport_plane_equipment_1_short: "A.204"
 
-###
-### UKR - Ukraine ###
-###
+ ###
+ ### UKR - Ukraine ###
+ ###
 
  AIR_WING_NAME_UKR_FALLBACK: "$NUMBER$-a Aviatsiina Dyviziia"
  AIR_WING_NAME_UKR_GENERIC: "$NR$-a $NAME$"
  AIR_WING_NAME_UKR_CARRIER: "$NR$-a $NAME$"
 
-###
-### UKR - Ukraine ###
-###
+ ###
+ ### UKR - Ukraine ###
+ ###
 
  UKR_fighter_equipment_0: "Григорович-2"
  UKR_fighter_equipment_0_short: "Григорович-2"
@@ -9050,9 +9050,9 @@ l_russian:
  UKR_transport_plane_equipment_3: "$GER_transport_plane_equipment_3$"
  UKR_transport_plane_equipment_3_short: "$GER_transport_plane_equipment_3_short$"
 
-###
-### USA - United States ###
-###
+ ###
+ ### USA - United States ###
+ ###
 
  USA_small_plane_cas_airframe_0_short: "A-3"
  USA_cv_small_plane_cas_airframe_0_short: "SBU Corsair"
@@ -9202,9 +9202,9 @@ l_russian:
  USA_helicopter_equipment_1: "R-4 &quot; Ховерфли &quot;"
  USA_helicopter_equipment_1_short: "Р-4"
 
-###
-### WLS - Wales ###
-###
+ ###
+ ### WLS - Wales ###
+ ###
 
  WLS_CAS_equipment_1: "$ENG_CAS_equipment_1$"
  WLS_CAS_equipment_1_short: "$ENG_CAS_equipment_1_short$"
@@ -9283,9 +9283,9 @@ l_russian:
  WLS_scout_plane_equipment_2: "$ENG_scout_plane_equipment_2$"
  WLS_scout_plane_equipment_2_short: "$ENG_scout_plane_equipment_2_short$"
 
-###
-### BLR - White Ruthenia ###
-###
+ ###
+ ### BLR - White Ruthenia ###
+ ###
  #Hs 123
  BLR_CAS_equipment_1: "Штурмавик uз.1936 Николауза"
  BLR_CAS_equipment_1_short: "N-36"

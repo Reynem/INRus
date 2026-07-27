@@ -726,7 +726,7 @@
  anti_tank_equipment_short: "Противоядие"
  anti_tank_equipment_desc: "Артиллерия, специализирующаяся на обезвреживании бронированных целей, таких, как Танки, обычно стреляет бронебойными снарядами."
 
-#anti-tank
+ #anti-tank
  FRA_anti_tank_equipment_1: "Канон de 25 мм"
  FRA_anti_tank_equipment_1_short: "Канон de 25 мм"
  FRA_anti_tank_equipment_2: "47-мм SA 37"
@@ -847,7 +847,7 @@
  anti_air_equipment_1_short: "Противоядие"
  anti_air_equipment_1_desc: "Антивоздушная артиллерия предназначена главным образом для того, чтобы сбить вражеские самолеты, хотя быстродействующие огневые орудия могут также эффективно противостоять наземным целям."
 
-#anti-air
+ #anti-air
  FRA_anti_air_equipment_1: "Хотчкисс 25-мм"
  FRA_anti_air_equipment_1_short: "Хотчкисс 25 мм"
  FRA_anti_air_equipment_2: "Шнайдер 37 мм"
@@ -1788,7 +1788,7 @@
  military_police_tech: "Военно-полицейские технологии"
  
  #PHN Stuff
-PHN_infantry_equipment_0: "Mle 1886 M93"
+ PHN_infantry_equipment_0: "Mle 1886 M93"
  PHN_infantry_equipment_0_short: "Mle 1886 M93"
  PHN_infantry_equipment_1: "MAS-36"
  PHN_infantry_equipment_1_short: "MAS-36"

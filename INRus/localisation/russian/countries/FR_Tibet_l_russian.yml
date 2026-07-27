@@ -1,24 +1,24 @@
 ﻿l_russian:
-### DECISIONS ###
-TIB_war_decisions: "Военные решения"
-TIB_invade_sichuan: "Инвад Сычуаньский клик"
-TIB_invade_ma: "Вставить Ma Clique"
-TIB_invade_bhutan: "Инварировать Бутан"
-TIB_invade_kashmir: "Инвад Кашмир"
-TIB_core_decisions: "Решения по вопросам интеграции"
-TIB_bhutan_integration: "Интеграция Бутана"
-TIB_north_integration: "Интегрировать Amdo"
-TIB_east_integration: "Встроить Хам"
-#Events
-tib.alliance.1.t: "Тибет предлагает альянс"
-tib.alliance.1.d: ""
-tib.alliance.1.a: "Мы будем сражаться вместе!"
-tib.alliance.1.b: "Мы не их псы!"
-tib.alliance.2.t: "Монголия отказывается от нашего предложения"
-tib.alliance.2.d: ""
-tib.alliance.2.a: "Тогда мы добьемся победы в одиночку!"
+ ### DECISIONS ###
+ TIB_war_decisions: "Военные решения"
+ TIB_invade_sichuan: "Инвад Сычуаньский клик"
+ TIB_invade_ma: "Вставить Ma Clique"
+ TIB_invade_bhutan: "Инварировать Бутан"
+ TIB_invade_kashmir: "Инвад Кашмир"
+ TIB_core_decisions: "Решения по вопросам интеграции"
+ TIB_bhutan_integration: "Интеграция Бутана"
+ TIB_north_integration: "Интегрировать Amdo"
+ TIB_east_integration: "Встроить Хам"
+ #Events
+ tib.alliance.1.t: "Тибет предлагает альянс"
+ tib.alliance.1.d: ""
+ tib.alliance.1.a: "Мы будем сражаться вместе!"
+ tib.alliance.1.b: "Мы не их псы!"
+ tib.alliance.2.t: "Монголия отказывается от нашего предложения"
+ tib.alliance.2.d: ""
+ tib.alliance.2.a: "Тогда мы добьемся победы в одиночку!"
 
-### Parties ###
+ ### Parties ###
  TIB_vanguardist_party: "Партия Священного Союза"
  TIB_vanguardist_party_long: "Партия Священного Союза"
  TIB_collectivist_party: "Партия Священного Союза"
@@ -112,7 +112,7 @@ tib.alliance.2.a: "Тогда мы добьемся победы в одиноч
 
  #TIB_tashi_dondrub_commander_desc: "По возвращении в 1930 году Тайши получил престижную должность секретаря Кашага. В 1932 году Тайши получил дополнительную подготовку капитанов автоматов, снова в Британском Радже."
 
-### Leader Traits
+ ### Leader Traits
  TIB_great_fuyama: "Великий Фуяма"
  TIB_monastic_modernist: "Монастический модернист"
  TIB_talented_reformer: "Талантливый реформатор"

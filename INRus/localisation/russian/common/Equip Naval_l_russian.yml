@@ -1,14 +1,14 @@
-l_russian:
+﻿l_russian:
 
-#Reorganised painfully by Sbadskins and PPsyrius
+ #Reorganised painfully by Sbadskins and PPsyrius
 
-########################################
-### Country Specific Naval Equipment ###
-########################################
+ ########################################
+ ### Country Specific Naval Equipment ###
+ ########################################
 
-#ATTENTION! THIS FILE IS SORTED BY TAG, NOT BY NAME
+ #ATTENTION! THIS FILE IS SORTED BY TAG, NOT BY NAME
 
-# Fleet Names
+ # Fleet Names
  #FLEET_NAME_USA: "Группа военно-морских сил США" in vanilla_override
  FLEET_NAME_APG: "Группа военно-морских сил США"
  FLEET_NAME_ACC: "Группа военно-морских сил США"
@@ -31,35 +31,35 @@ l_russian:
  FLEET_NAME_AUS: "$NUMBER$. Flotte"
  FLEET_NAME_NOR: "$NUMBER$. Sjøforsvarsdistrikt"
 
-# Task Force Names ###These do not work? More testing needed.
+ # Task Force Names ###These do not work? More testing needed.
  TASK_FORCE_NAME_OTT: "$NUMBER$. Donanma Filosu"
  TASK_FORCE_NAME_GRE: "Naftiki Dioikisi $NUMBER$"
  TASK_FORCE_NAME_SIA: "Корнг Руэа Ти $NUMBER$."
  TASK_FORCE_NAME_AUS: "$NUMBER$. Geschwader"
 
-### German Empire (GER) ###
-# Module
-# German Empire used L/XX (barrel length) rather then Nazi German C/XX (introduction year)
+ ### German Empire (GER) ###
+ # Module
+ # German Empire used L/XX (barrel length) rather then Nazi German C/XX (introduction year)
  GER_ship_light_battery_1: "10,5 см SK L/45"
-# 12.7 cm SK C/34
+ # 12.7 cm SK C/34
  GER_ship_light_battery_2: "12,7 см SK L/43"
  GER_ship_light_battery_3: "Близнец 12,7 см SK L/43"
-# cruiser gun but mounted on a destroyer, along the lines of the Spahkreuzers
+ # cruiser gun but mounted on a destroyer, along the lines of the Spahkreuzers
  GER_ship_light_battery_4: "Близнецы 15 см SK L/55"
 
  GER_dp_light_battery_1: "Близнец 10,5 см SK L/65"
-# 12.8 cm FlaK 40
+ # 12.8 cm FlaK 40
  GER_dp_light_battery_2: "Близнец 12,8 см SK L/61"
-# fictional upgrade of the 12.8 cm FlaK 40 with a longer barrel
+ # fictional upgrade of the 12.8 cm FlaK 40 with a longer barrel
  GER_dp_light_battery_3: "Близнец 12,8 см SK L/65"
-# fictional cruiser gun but mounted on a destroyer, along the line of the Spahkreuzers
+ # fictional cruiser gun but mounted on a destroyer, along the line of the Spahkreuzers
  GER_dp_light_battery_4: "Близнецы 15 см SK L/45"
 
  GER_ship_secondaries_1: "15 см SK L/45"
  GER_ship_secondaries_2: "15 см SK L/55"
-# fictional
+ # fictional
  GER_ship_secondaries_3: "17 см SK L/45"
-# yes we're putting CA guns on BB
+ # yes we're putting CA guns on BB
  GER_ship_secondaries_4: "20 см SK L/60"
 
  GER_ship_light_medium_battery_1: "15 см SK L/45"
@@ -67,26 +67,26 @@ l_russian:
  GER_ship_light_medium_battery_3: "17 см SK L/45"
  GER_ship_light_medium_battery_4: "20 см SK L/60"
 
-# fictional, similar to the USN 6"/47
+ # fictional, similar to the USN 6"/47
  GER_dp_ship_medium_1: "Близнецы 15 см L/45"
 
-# fictional downgrade of 20.3 cm SK C/34
+ # fictional downgrade of 20.3 cm SK C/34
  GER_ship_medium_battery_1: "Близнец 20,3 см SK L/50"
-# 20.3 cm SK C/34
+ # 20.3 cm SK C/34
  GER_ship_medium_battery_2: "Близнец 20,3 см SK L/60"
  GER_ship_medium_battery_3: "Тройная 20,3 см SK L/60"
-# fictional upgrade of 21 cm SK L/45, a WW1-era Armoured Cruiser gun
+ # fictional upgrade of 21 cm SK L/45, a WW1-era Armoured Cruiser gun
  GER_ship_medium_battery_4: "Тройной 21 см SK L/55"
 
  GER_ship_heavy_battery_1: "38 см SK L/45"
-# fictional
+ # fictional
  GER_ship_heavy_battery_2: "42 см SK L/45"
-# fictional
+ # fictional
  GER_ship_heavy_battery_3: "46 см SK L/45"
-# fictional
+ # fictional
  GER_ship_heavy_battery_4: "46 см SK L/50"
 
-# fictional
+ # fictional
  GER_ship_super_heavy_battery_1: "46 см SK L/45"
 
  GER_ship_torpedo_1: "Трижды 533-мм Торпеды"
@@ -112,8 +112,8 @@ l_russian:
  GER_ship_radar_3: "Радиолокатор FuMO 27"
  GER_ship_radar_4: "Радиолокатор FuMO 34"
 
-### Japan (JAP) ###
-# Module
+ ### Japan (JAP) ###
+ # Module
  JAP_ship_light_battery_1: "12 см/45 Тип 3"
  JAP_ship_light_battery_2: "12,7 см/50 Тип 3"
  JAP_ship_light_battery_3: "Двойной 12,7 см/50 Тип 3"

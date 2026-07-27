@@ -1093,13 +1093,13 @@
  endo_state_1091: "Центр Борнео"
  endo_state_1092: "Циклои"
 
-###############################################
-###                                         ###
-###           FOR RENAMING EVENTS           ###
-###                                         ###
-###############################################
+ ###############################################
+ ###                                         ###
+ ###           FOR RENAMING EVENTS           ###
+ ###                                         ###
+ ###############################################
 
-##Europe
+ ##Europe
  endo_state_184_bulgarian: "Изтохна Македония"
  endo_state_1037_bulgarian: "Ниш"
  endo_state_1_italian: "Корсика"
@@ -1383,7 +1383,7 @@
  endo_state_787_bulgarian: "Битолия"
 
 
-##North America
+ ##North America
  endo_state_375_spanish: "Норте де Техас"
  endo_state_376_spanish: "Нуэво Мексико"
  endo_state_378_spanish: "Альта Калифорния"
@@ -1392,7 +1392,7 @@
  endo_state_829_spanish: "Медиа Калифорния"
  endo_state_883_spanish: "&lt; &lt; Сур де Техас &gt; &gt;"
 
-##South America
+ ##South America
  endo_state_302_aymara: "Чуки Япу"
  endo_state_303_quechua: "Лима"
  endo_state_305_quechua: "Иквадур"
@@ -1413,7 +1413,7 @@
  endo_state_1027_guarani: "Уливия Чако"
  endo_state_1073_aymara: "Тарикса"
 
-##Asia and Pacific Islands
+ ##Asia and Pacific Islands
  endo_state_72_chinese: "Донжи"
  endo_state_72_shan_half: "Мён Тай"
  endo_state_72_shan_full: "Тханги"
@@ -1619,7 +1619,7 @@
  endo_state_1023_indonesian: "Суматера Утара"
 
 
-##Middle East
+ ##Middle East
  endo_state_164_greek: "Додеканиса"
  endo_state_291_arabic: "Багдад"
  endo_state_339_greek: "Смырна"
@@ -1644,7 +1644,7 @@
  endo_state_1001_georgian: "Шанели"
  endo_state_1084_arabic: "Макка"
 
-##Africa
+ ##Africa
  endo_state_268_french: "Джибути"
  endo_state_273_arabic: "Физзан"
  endo_state_273_italian: "Феззан"

@@ -1,9 +1,9 @@
-l_russian:
+﻿l_russian:
 
-### Tooltips ###
+ ### Tooltips ###
  GER_will_capitulate: "§ §Y [Gere. GetNameDefcap]§! будет капитулировать"
 
-### Events ###
+ ### Events ###
  capitulation_events.1.t: "Германия захвачена"
  capitulation_events.1.d: "Мы были избиты нашими несчастными врагами, и наши войска разваливаются по всей Европе, хотя они захватили Отечественную землю, война еще далека от конца!"
  capitulation_events.1.a: "Предположим контроль над Миттелафрикой - мы будем сражаться оттуда."

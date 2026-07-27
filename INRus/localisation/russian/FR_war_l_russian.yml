@@ -1,201 +1,201 @@
 ﻿l_russian:
 
-#UK Related stuff
-WAR_NAME_IND_ENG: "Индийское восстание"
-WAR_NAME_ENG_IND: "Имперский реквизит Индии"
-WAR_NAME_ENG_IRE: "Второй рост СИБ"
-WAR_NAME_ENG_CAN: "Императорское восстановление порядка в Канаде"
-WAR_NAME_ENG_AST: "Императорское восстановление порядка в Австралии"
-WAR_NAME_ENG_NZL: "Императорское восстановление порядка в Новой Зеландии"
-WAR_NAME_ENG_SAF: "Четвертая буровая война"
-WAR_NAME_SAF_ENG: "Четвертая буровая война"
-WAR_NAME_SAF_ZAF: "Четвертая буровая война"
-WAR_NAME_ZAF_SAF: "Четвертая буровая война"
+ #UK Related stuff
+ WAR_NAME_IND_ENG: "Индийское восстание"
+ WAR_NAME_ENG_IND: "Имперский реквизит Индии"
+ WAR_NAME_ENG_IRE: "Второй рост СИБ"
+ WAR_NAME_ENG_CAN: "Императорское восстановление порядка в Канаде"
+ WAR_NAME_ENG_AST: "Императорское восстановление порядка в Австралии"
+ WAR_NAME_ENG_NZL: "Императорское восстановление порядка в Новой Зеландии"
+ WAR_NAME_ENG_SAF: "Четвертая буровая война"
+ WAR_NAME_SAF_ENG: "Четвертая буровая война"
+ WAR_NAME_SAF_ZAF: "Четвертая буровая война"
+ WAR_NAME_ZAF_SAF: "Четвертая буровая война"
 
-#India
-WAR_NAME_INC_IND: "Коммунистическое воссоединение Индии"
-WAR_NAME_INC_HYD: "Принцессная война"
-WAR_NAME_RAJ_IND: "Имперский реквизит Индии"
+ #India
+ WAR_NAME_INC_IND: "Коммунистическое воссоединение Индии"
+ WAR_NAME_INC_HYD: "Принцессная война"
+ WAR_NAME_RAJ_IND: "Имперский реквизит Индии"
 
-#Spanish Civil War
-WAR_NAME_SPA_SPF: "Испанский анархист и фалангистский конфликт"
-WAR_NAME_SPF_SPA: "Испанский анархист и фалангистский конфликт"
-WAR_NAME_SPR_SPF: "Испанский республиканский и фалангистский конфликт"
-WAR_NAME_SPF_SPR: "Испанский республиканский и фалангистский конфликт"
-WAR_NAME_SPM_SPF: "Испанский анархист и фалангистский конфликт"
-WAR_NAME_SPF_SPM: "Испанский монархист и фалангистский конфликт"
-WAR_NAME_SPA_SPF: "Испанский монархист и фалангистский конфликт"
-WAR_NAME_SPA_SPR: "Испанский анархист и республиканский конфликт"
-WAR_NAME_SPR_SPA: "Испанский анархист и республиканский конфликт"
-WAR_NAME_SPM_SPA: "Испанский анархист и монархистский конфликт"
-WAR_NAME_SPA_SPM: "Испанский анархист и монархистский конфликт"
-WAR_NAME_SPM_SPR: "Испанский монархист и республиканский конфликт"
-WAR_NAME_SPR_SPM: "Испанский монархист и республиканский конфликт"
+ #Spanish Civil War
+ WAR_NAME_SPA_SPF: "Испанский анархист и фалангистский конфликт"
+ WAR_NAME_SPF_SPA: "Испанский анархист и фалангистский конфликт"
+ WAR_NAME_SPR_SPF: "Испанский республиканский и фалангистский конфликт"
+ WAR_NAME_SPF_SPR: "Испанский республиканский и фалангистский конфликт"
+ WAR_NAME_SPM_SPF: "Испанский анархист и фалангистский конфликт"
+ WAR_NAME_SPF_SPM: "Испанский монархист и фалангистский конфликт"
+ WAR_NAME_SPA_SPF: "Испанский монархист и фалангистский конфликт"
+ WAR_NAME_SPA_SPR: "Испанский анархист и республиканский конфликт"
+ WAR_NAME_SPR_SPA: "Испанский анархист и республиканский конфликт"
+ WAR_NAME_SPM_SPA: "Испанский анархист и монархистский конфликт"
+ WAR_NAME_SPA_SPM: "Испанский анархист и монархистский конфликт"
+ WAR_NAME_SPM_SPR: "Испанский монархист и республиканский конфликт"
+ WAR_NAME_SPR_SPM: "Испанский монархист и республиканский конфликт"
 
-#Portuguese Civil War
-WAR_NAME_POR_PRR: "Гражданская война в Португалии"
-WAR_NAME_PRR_POR: "Гражданская война в Португалии"
+ #Portuguese Civil War
+ WAR_NAME_POR_PRR: "Гражданская война в Португалии"
+ WAR_NAME_PRR_POR: "Гражданская война в Португалии"
 
-#Bulgarian Civil War
-WAR_NAME_BUL_BSR: "Гражданская война в Болгарии"
-WAR_NAME_BSR_BUL: "Гражданская война в Болгарии"
+ #Bulgarian Civil War
+ WAR_NAME_BUL_BSR: "Гражданская война в Болгарии"
+ WAR_NAME_BSR_BUL: "Гражданская война в Болгарии"
 
-#2nd Russian Civil War
-WAR_NAME_SOV_RUS: "Вторая гражданская война в России"
-WAR_NAME_RUS_SOV: "Вторая гражданская война в России"
+ #2nd Russian Civil War
+ WAR_NAME_SOV_RUS: "Вторая гражданская война в России"
+ WAR_NAME_RUS_SOV: "Вторая гражданская война в России"
 
-#Second Great War
-WAR_NAME_GER_FRA: "Вторая Великая война"
-WAR_NAME_FRA_GER: "Вторая Великая война"
+ #Second Great War
+ WAR_NAME_GER_FRA: "Вторая Великая война"
+ WAR_NAME_FRA_GER: "Вторая Великая война"
 
-#Third Mexican-American WAR
-WAR_NAME_ENG_USA: "Великая Североамериканская война"
-WAR_NAME_USA_ENG: "Великая Североамериканская война"
+ #Third Mexican-American WAR
+ WAR_NAME_ENG_USA: "Великая Североамериканская война"
+ WAR_NAME_USA_ENG: "Великая Североамериканская война"
 
 
-#Third Mexican-American WAR
-WAR_NAME_MEX_USA: "Третья мексикано-американская война"
-WAR_NAME_USA_MEX: "Третья мексикано-американская война"
+ #Third Mexican-American WAR
+ WAR_NAME_MEX_USA: "Третья мексикано-американская война"
+ WAR_NAME_USA_MEX: "Третья мексикано-американская война"
 
-#Franco-Swiss war
-WAR_NAME_FRA_SWI: "Война Романди"
-WAR_NAME_SWI_FRA: "Война Романди"
+ #Franco-Swiss war
+ WAR_NAME_FRA_SWI: "Война Романди"
+ WAR_NAME_SWI_FRA: "Война Романди"
 
-#Italo-Swiss war
-WAR_NAME_ITA_SWI: "Тессинская война"
-WAR_NAME_SWI_ITA: "Тессинская война"
+ #Italo-Swiss war
+ WAR_NAME_ITA_SWI: "Тессинская война"
+ WAR_NAME_SWI_ITA: "Тессинская война"
 
-#Franco-Italian war
-WAR_NAME_ITA_FRA: "Война в Средиземноморье"
-WAR_NAME_FRA_ITA: "Война в Средиземноморье"
+ #Franco-Italian war
+ WAR_NAME_ITA_FRA: "Война в Средиземноморье"
+ WAR_NAME_FRA_ITA: "Война в Средиземноморье"
 
-#Dahomey-Togoland war
-WAR_NAME_DAH_TOG: "Война за независимость Того"
-WAR_NAME_TOG_DAH: "Война за независимость Того"
+ #Dahomey-Togoland war
+ WAR_NAME_DAH_TOG: "Война за независимость Того"
+ WAR_NAME_TOG_DAH: "Война за независимость Того"
 
-#Anglo-Argie war
-WAR_NAME_ARG_ENG: "Фолклендская война"
-WAR_NAME_ENG_ARG: "Фолклендская война"
+ #Anglo-Argie war
+ WAR_NAME_ARG_ENG: "Фолклендская война"
+ WAR_NAME_ENG_ARG: "Фолклендская война"
 
-### British Civil War ###
-WAR_NAME_UOB_ENG: "Британская гражданская война"
-WAR_NAME_ENG_UOB: "Британская гражданская война"
+ ### British Civil War ###
+ WAR_NAME_UOB_ENG: "Британская гражданская война"
+ WAR_NAME_ENG_UOB: "Британская гражданская война"
  
-### UOB-Exile Wars ###
-WAR_NAME_UOB_BEX: "Социалистическая британская война против изгнания"
-WAR_NAME_BEX_UOB: "Возрождение островов внутренних дел"
+ ### UOB-Exile Wars ###
+ WAR_NAME_UOB_BEX: "Социалистическая британская война против изгнания"
+ WAR_NAME_BEX_UOB: "Возрождение островов внутренних дел"
  
-### 2nd Russo-Japanese War ###
-WAR_NAME_RUS_JAP: "Вторая русско-мордерная война"
-WAR_NAME_JAP_RUS: "Вторая русско-кордерская война"
+ ### 2nd Russo-Japanese War ###
+ WAR_NAME_RUS_JAP: "Вторая русско-мордерная война"
+ WAR_NAME_JAP_RUS: "Вторая русско-кордерская война"
 
-### Winter War ###
-WAR_NAME_RUS_FIN: "Зимняя война"
-WAR_NAME_FIN_RUS: "Зимняя война"
-WAR_NAME_SOV_FIN: "Зимняя война"
-WAR_NAME_FIN_SOV: "Зимняя война"
+ ### Winter War ###
+ WAR_NAME_RUS_FIN: "Зимняя война"
+ WAR_NAME_FIN_RUS: "Зимняя война"
+ WAR_NAME_SOV_FIN: "Зимняя война"
+ WAR_NAME_FIN_SOV: "Зимняя война"
 
-### Fifth Anglo-Afghani War ###
-WAR_NAME_AFG_RAJ: "Четвертая англо-афганская война"
-WAR_NAME_RAJ_AFG: "Четвертая англо-афганская война"
-WAR_NAME_AFG_ENG: "Четвертая англо-афганская война"
-WAR_NAME_ENG_AFG: "Четвертая англо-афганская война"
+ ### Fifth Anglo-Afghani War ###
+ WAR_NAME_AFG_RAJ: "Четвертая англо-афганская война"
+ WAR_NAME_RAJ_AFG: "Четвертая англо-афганская война"
+ WAR_NAME_AFG_ENG: "Четвертая англо-афганская война"
+ WAR_NAME_ENG_AFG: "Четвертая англо-афганская война"
  
-### Alpine War over Voralberg ###
-WAR_NAME_SWI_AUS: "Альпийская война"
-WAR_NAME_AUS_SWI: "Альпийская война"
+ ### Alpine War over Voralberg ###
+ WAR_NAME_SWI_AUS: "Альпийская война"
+ WAR_NAME_AUS_SWI: "Альпийская война"
 
-### Peru-Ecuador War ###
-WAR_NAME_PRU_ECU: "Война в Пастанзе"
-WAR_NAME_ECU_PRU: "Война в Пастанзе"
+ ### Peru-Ecuador War ###
+ WAR_NAME_PRU_ECU: "Война в Пастанзе"
+ WAR_NAME_ECU_PRU: "Война в Пастанзе"
 
-### Argentina-Chile War ###
-WAR_NAME_CHL_ARG: "Патагонская война"
-WAR_NAME_ARG_CHL: "Патагонская война"
+ ### Argentina-Chile War ###
+ WAR_NAME_CHL_ARG: "Патагонская война"
+ WAR_NAME_ARG_CHL: "Патагонская война"
 
-### Bolivia-Chile War ###
-WAR_NAME_BOL_CHL: "Вторая Тихоокеанская война"
-WAR_NAME_CHL_BOL: "Вторая Тихоокеанская война"
+ ### Bolivia-Chile War ###
+ WAR_NAME_BOL_CHL: "Вторая Тихоокеанская война"
+ WAR_NAME_CHL_BOL: "Вторая Тихоокеанская война"
 
-### Indochina War ###
-WAR_NAME_VIN_FIC: "Индокитейнская война сопротивления Франции"
-WAR_NAME_FIC_VIN: "$ORDER$ Indochina War"
+ ### Indochina War ###
+ WAR_NAME_VIN_FIC: "Индокитейнская война сопротивления Франции"
+ WAR_NAME_FIC_VIN: "$ORDER$ Indochina War"
 
-WAR_NAME_JAP_FIC: "Вторжение японцев в французскую индохину"
-WAR_NAME_FIC_JAP: "Франко-японо-индокитская война"
+ WAR_NAME_JAP_FIC: "Вторжение японцев в французскую индохину"
+ WAR_NAME_FIC_JAP: "Франко-японо-индокитская война"
 
-### East Indies War ###
-WAR_NAME_INS_BEA: "Инсулиндская война за независимость"
-WAR_NAME_BEA_INS: "Чрезвычайные ситуации в Ист-Индии"
-WAR_NAME_ENG_INS: "Чрезвычайные ситуации в Ист-Индии"
-WAR_NAME_INS_ENG: "Чрезвычайные ситуации в Ист-Индии"
+ ### East Indies War ###
+ WAR_NAME_INS_BEA: "Инсулиндская война за независимость"
+ WAR_NAME_BEA_INS: "Чрезвычайные ситуации в Ист-Индии"
+ WAR_NAME_ENG_INS: "Чрезвычайные ситуации в Ист-Индии"
+ WAR_NAME_INS_ENG: "Чрезвычайные ситуации в Ист-Индии"
 
-### Crisis on the Danube ###
-WAR_NAME_AUS_HUN: "Кризис на Дунае"
-WAR_NAME_HUN_AUS: "Кризис на Дунае"
+ ### Crisis on the Danube ###
+ WAR_NAME_AUS_HUN: "Кризис на Дунае"
+ WAR_NAME_HUN_AUS: "Кризис на Дунае"
 
-### Crisis on the Danube ###
-WAR_NAME_KNE_HOL: "Голландская война за изгнание"
-WAR_NAME_HOL_KNE: "Нидерландское воззвание Суринама"
+ ### Crisis on the Danube ###
+ WAR_NAME_KNE_HOL: "Голландская война за изгнание"
+ WAR_NAME_HOL_KNE: "Нидерландское воззвание Суринама"
 
-### Pacific War ###
-WAR_NAME_USA_JAP: "Тихоокеанская война"
-WAR_NAME_JAP_USA: "Тихоокеанская война"
+ ### Pacific War ###
+ WAR_NAME_USA_JAP: "Тихоокеанская война"
+ WAR_NAME_JAP_USA: "Тихоокеанская война"
 
-### 2nd Italo-Turkish War ###
-# WAR_NAME_ITA_TUR: "Вторая Итало-турецкая война"
-# WAR_NAME_TUR_ITA: "Вторая Итало-турецкая война"
+ ### 2nd Italo-Turkish War ###
+ # WAR_NAME_ITA_TUR: "Вторая Итало-турецкая война"
+ # WAR_NAME_TUR_ITA: "Вторая Итало-турецкая война"
 
-### 2nd Italo-Turkish War ###
-WAR_NAME_FRA_TUR: "Вторая франко-турецкая война"
-WAR_NAME_TUR_FRA: "Вторая франко-турецкая война"
+ ### 2nd Italo-Turkish War ###
+ WAR_NAME_FRA_TUR: "Вторая франко-турецкая война"
+ WAR_NAME_TUR_FRA: "Вторая франко-турецкая война"
 
-### 2nd Italo-Turkish War ###
-WAR_NAME_ITA_ETH: "Вторая Итало-эфиопская война"
-WAR_NAME_ETH_ITA: "Вторая Итало-эфиопская война"
+ ### 2nd Italo-Turkish War ###
+ WAR_NAME_ITA_ETH: "Вторая Итало-эфиопская война"
+ WAR_NAME_ETH_ITA: "Вторая Итало-эфиопская война"
 
-### Third Schleswig War ###
-WAR_NAME_DEN_SHO: "Гамбургская революция"
-WAR_NAME_SHO_DEN: "Гамбургская революция"
-WAR_NAME_DEN_GER: "Третья война Шлезвига"
-WAR_NAME_GER_DEN: "Третья война Шлезвига"
+ ### Third Schleswig War ###
+ WAR_NAME_DEN_SHO: "Гамбургская революция"
+ WAR_NAME_SHO_DEN: "Гамбургская революция"
+ WAR_NAME_DEN_GER: "Третья война Шлезвига"
+ WAR_NAME_GER_DEN: "Третья война Шлезвига"
 
-### Afghanistan
-WAR_NAME_AFG_PUN: "Афганское вторжение в Пенджаб"
-WAR_NAME_AFG_BAL: "Афганское вторжение в Белуджистан"
-WAR_NAME_AFG_KAS: "Афганское вторжение в Кашмир"
+ ### Afghanistan
+ WAR_NAME_AFG_PUN: "Афганское вторжение в Пенджаб"
+ WAR_NAME_AFG_BAL: "Афганское вторжение в Белуджистан"
+ WAR_NAME_AFG_KAS: "Афганское вторжение в Кашмир"
 
-#Bolivia-Paraguay
-WAR_NAME_BOL_PAR: "Вторая война в Чако"
-WAR_NAME_PAR_BOL: "Вторая война в Чако"
+ #Bolivia-Paraguay
+ WAR_NAME_BOL_PAR: "Вторая война в Чако"
+ WAR_NAME_PAR_BOL: "Вторая война в Чако"
 
-#Bolivia-Paraguay
-WAR_NAME_BOL_PRU: "Война Анд"
-WAR_NAME_PRU_BOL: "Война Анд"
+ #Bolivia-Paraguay
+ WAR_NAME_BOL_PRU: "Война Анд"
+ WAR_NAME_PRU_BOL: "Война Анд"
 
-#Hungary-Romania
-WAR_NAME_HUN_ROM: "Трансильванская война"
-WAR_NAME_ROM_HUN: "Трансильванская война"
+ #Hungary-Romania
+ WAR_NAME_HUN_ROM: "Трансильванская война"
+ WAR_NAME_ROM_HUN: "Трансильванская война"
 
-#Japanese-Soviet
-WAR_NAME_SOV_JAP: "Сибирская война"
-WAR_NAME_PAR_BOL: "Сибирская война"
+ #Japanese-Soviet
+ WAR_NAME_SOV_JAP: "Сибирская война"
+ WAR_NAME_PAR_BOL: "Сибирская война"
 
-#Russian-Manchurian
-WAR_NAME_RUS_MAN: "Восточная железнодорожная война"
+ #Russian-Manchurian
+ WAR_NAME_RUS_MAN: "Восточная железнодорожная война"
 
-#Japanese-Manchurian
-WAR_NAME_JAP_MAN: "Вторжение Японии в Маньчжурию"
+ #Japanese-Manchurian
+ WAR_NAME_JAP_MAN: "Вторжение Японии в Маньчжурию"
 
-#Russian-Ukrainian
-WAR_NAME_UKR_SOV: "Война в Донбасе"
-WAR_NAME_UKR_RUS: "Война в Донбасе"
-WAR_NAME_SOV_UKR: "Советское вторжение Украины"
-WAR_NAME_RUS_UKR: "Российское вторжение Украины" #SMO moment
+ #Russian-Ukrainian
+ WAR_NAME_UKR_SOV: "Война в Донбасе"
+ WAR_NAME_UKR_RUS: "Война в Донбасе"
+ WAR_NAME_SOV_UKR: "Советское вторжение Украины"
+ WAR_NAME_RUS_UKR: "Российское вторжение Украины" #SMO moment
 
-#Russian-German
-#WAR_NAME_GER_SOV: "Немецкий вторжение в Советский Союз"
-#WAR_NAME_SOV_GER: "Великая патриотическая война"
+ #Russian-German
+ #WAR_NAME_GER_SOV: "Немецкий вторжение в Советский Союз"
+ #WAR_NAME_SOV_GER: "Великая патриотическая война"
 
  #Japan vs Chinas# #$ORDER$$FIRST$ Pacification of China
  WAR_NAME_JAP_CHI: "Вторая китайско-японская война"
@@ -210,35 +210,35 @@ WAR_NAME_RUS_UKR: "Российское вторжение Украины" #SMO 
  WAR_NAME_JAP_ZHI: "Вторая китайско-японская война"
  WAR_NAME_JAP_SCH: "Вторая китайско-японская война"
  
-#Austria-Germany
-WAR_NAME_AUS_GER: "Война вторых братьев"
-WAR_NAME_GER_AUS: "Война вторых братьев"
+ #Austria-Germany
+ WAR_NAME_AUS_GER: "Война вторых братьев"
+ WAR_NAME_GER_AUS: "Война вторых братьев"
 
-#Bulgaria
-WAR_NAME_BUL_GRE: "Четвертая Балканская война"
-WAR_NAME_BUL_ROM: "Четвертая Балканская война"
-WAR_NAME_BUL_YUG: "Четвертая Балканская война"
+ #Bulgaria
+ WAR_NAME_BUL_GRE: "Четвертая Балканская война"
+ WAR_NAME_BUL_ROM: "Четвертая Балканская война"
+ WAR_NAME_BUL_YUG: "Четвертая Балканская война"
 
-#Italy-Serbia
-WAR_NAME_ITA_SER: "Итальянское вторжение Сербии"
-WAR_TAKE_CLAIM_NAME_SER_ITA: "Адриатическая война"
+ #Italy-Serbia
+ WAR_NAME_ITA_SER: "Итальянское вторжение Сербии"
+ WAR_TAKE_CLAIM_NAME_SER_ITA: "Адриатическая война"
 
-#Italy-Serbia
-WAR_NAME_AUS_ASR: "Австрийская гражданская война"
-WAR_NAME_ASR_AUS: "Австрийская гражданская война"
+ #Italy-Serbia
+ WAR_NAME_AUS_ASR: "Австрийская гражданская война"
+ WAR_NAME_ASR_AUS: "Австрийская гражданская война"
 
-#Greece-Turkey
-WAR_NAME_TUR_GRE: "Вторая Греко-турецкая война"
-WAR_NAME_GRE_TUR: "Вторая Греко-турецкая война"
+ #Greece-Turkey
+ WAR_NAME_TUR_GRE: "Вторая Греко-турецкая война"
+ WAR_NAME_GRE_TUR: "Вторая Греко-турецкая война"
 
-#Greece-Turkey
-WAR_NAME_POL_SOV: "Вторая польско-советская война"
-WAR_NAME_SOV_POL: "Вторая польско-советская война"
+ #Greece-Turkey
+ WAR_NAME_POL_SOV: "Вторая польско-советская война"
+ WAR_NAME_SOV_POL: "Вторая польско-советская война"
 
-#Brazilian Civil War
-WAR_NAME_UBR_BRA: "Гражданская война в Бразилии"
-WAR_NAME_UBR_BPS: "Гражданская война в Бразилии"
-WAR_NAME_BPS_BRA: "Гражданская война в Бразилии"
-WAR_NAME_BPS_UBR: "Гражданская война в Бразилии"
-WAR_NAME_BRA_BPS: "Гражданская война в Бразилии"
-WAR_NAME_BRA_UBR: "Гражданская война в Бразилии"
+ #Brazilian Civil War
+ WAR_NAME_UBR_BRA: "Гражданская война в Бразилии"
+ WAR_NAME_UBR_BPS: "Гражданская война в Бразилии"
+ WAR_NAME_BPS_BRA: "Гражданская война в Бразилии"
+ WAR_NAME_BPS_UBR: "Гражданская война в Бразилии"
+ WAR_NAME_BRA_BPS: "Гражданская война в Бразилии"
+ WAR_NAME_BRA_UBR: "Гражданская война в Бразилии"

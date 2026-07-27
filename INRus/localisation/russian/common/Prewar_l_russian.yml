@@ -1,11 +1,11 @@
-l_russian:
+﻿l_russian:
 
-### Tooltips ###
+ ### Tooltips ###
  can_demand_romandy: "Беспокойство в Верхней Савойе"
  SWI_white: "Теперь вы можете потребовать Вот-Савой."
  romandydivs_tt: "Два отдела добровольцев образуются в Романди."
 
-### Events ###
+ ### Events ###
  pre_war_events.1.t: "Пятилетняя годовщина женевского забастовки 1932 года"
  pre_war_events.1.d: "Пять лет назад работники Женевы начали крупную промышленную акцию, требуя проведения социально-экономических реформ, которые грозили распространиться на остальную часть франкоязычной западной Швейцарии (известную как Романди). Несмотря на страх потенциального революционного влияния со стороны коммуны Франции, центральное правительство Берна быстро отреагировало, направив в федеральную армию для того, чтобы сломить забастовку. В результате последовавшей за этим вспышки насилия 13 человек были убиты и более 100 ранены в Женеве. Это оставило горькую пропасть между римлянами и Берном, которая в последующие годы не смогла залечиться."Peace of Work\" agreement, which involves a number of policies regarding wage increases, shift times and so on. One of the key points is to put an end to the massive lockouts in watch manufactures which have taken place recently.\n\nThe social democratic candidates are relying on this programme to be re-elected and hopefully defuse the stand-off between the radical left and the conservative dominated Federal government in Bern."
  pre_war_events.1.a: "Неудачное событие."

@@ -1,70 +1,70 @@
 ﻿l_russian:
 
-# This is the overwrite file for vanilla localisation, anything here will replace the vanilla localisation of the same string
-# It is broken up into two parts
-# Part one is significantly changed from vanilla (like has a totally new meaning) and thus should be translated
-# Part two just has spelling and grammar fixes and so doesn't need to be translated
+ # This is the overwrite file for vanilla localisation, anything here will replace the vanilla localisation of the same string
+ # It is broken up into two parts
+ # Part one is significantly changed from vanilla (like has a totally new meaning) and thus should be translated
+ # Part two just has spelling and grammar fixes and so doesn't need to be translated
 
-#####################################################
-### Part One - Significantly Changed From Vanilla ###
-#####################################################
+ #####################################################
+ ### Part One - Significantly Changed From Vanilla ###
+ #####################################################
 
-### core_l_english
+ ### core_l_english
  MENU_BAR_GAME_WIKI: "£GFX_flame_texticon  Report an Issue"
 
-### Loading Messages ###
-LOADING_GUI: "Победа в великой войне"
-#"Loading GUI"
-LOADING_HISTORY: "Борьба с земельной войной в Северной Америке"
-#"Loading History"
-LOADING_SAVEGAME: "Изменение истории: $NAME$"
-#"Loading savegame: $NAME$"
-LOADING_SAVEGAME_NO_NAME: "Цистерны вождения через Суматра"
-#"Loading savegame"
-LOADING_DATABASES: "Возрождение империализма"
-#"Loading databases"
-LOADING_MAP_SPRITES: "Коллапс Западославия"
-#"Loading sprites"
-LOAD_GFX_PDXMAP_SHADERS: "Объединение наших сил в Египте"
-#"Loading Map(Creating Shaders)..."
-LOAD_GFX_PDXMAP_TERRAIN: "Объединение Австрии и Венгрии"
-#"Loading Map(Creating Terrain)..."
-LOAD_GFX_PDXMAP_BORDERS: "Объявление нового китайского правительства"
-#"Loading Map(Creating Borders)..."
-LOAD_GFX_PDXMAP_TEXTURES: "Строительство Португальской империи"
-#"Loading Map(Creating Textures)..."
-LOAD_GFX_PDXMAP_TREES: "Падение на революцию"
-#"Loading Map(Creating Trees)..."
-LOAD_GFX_PDXMAP_RIVERS: "Вторжение в Норвегию"
-#"Loading Map(Creating Rivers)..."
-LOAD_GFX_PDXMAP_STATIC_OBJECTS: "Победа над Ближним Востоком"
-#"Loading Map(Creating objects)..."
-LOAD_EVENTS: "Активизация англо-французской розни"
-#"Loading Events"
-LOAD_GFX: "Бегите к колониям"
-#"Loading Graphics"
-LOADING_MAIN_MENU: "Восстановление Бургундии"
-#"Loading main menu"
-PRECALC_NAVAL_DIST: "Централизация Имперской федерации"
-#"Precalculating Naval Distances"
-EXITING_TO_FRONTEND: "Объединение славян"
-#"Returning to main menu"
-LOAD_INIT: "Развертывание Королевского флота"
-#"Initialising Game..."
-LOAD_FLAGS: "Гардрисон Рейна"
-#"Creating Flags"
-PROC_FLAGS: "Провозглашение Гамбургской коммуны"
-#"Processing Flags"
-INIT_MAP_LOGIC: "Память о парижском коммуне"
-#"Initialising map logic"
-INIT_GAMESTATE: "Отвратительное отношение к современному миру"
-#"Initialising game"
-EXECUTE_HISTORY: "Вторжение на Британские острова"
-#"Executing history"
-CREATING_CHKSUM: "Разрушение СИБ"
-#"Creating checksum"
-GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
-#"Generating Gradient Borders"
+ ### Loading Messages ###
+ LOADING_GUI: "Победа в великой войне"
+ #"Loading GUI"
+ LOADING_HISTORY: "Борьба с земельной войной в Северной Америке"
+ #"Loading History"
+ LOADING_SAVEGAME: "Изменение истории: $NAME$"
+ #"Loading savegame: $NAME$"
+ LOADING_SAVEGAME_NO_NAME: "Цистерны вождения через Суматра"
+ #"Loading savegame"
+ LOADING_DATABASES: "Возрождение империализма"
+ #"Loading databases"
+ LOADING_MAP_SPRITES: "Коллапс Западославия"
+ #"Loading sprites"
+ LOAD_GFX_PDXMAP_SHADERS: "Объединение наших сил в Египте"
+ #"Loading Map(Creating Shaders)..."
+ LOAD_GFX_PDXMAP_TERRAIN: "Объединение Австрии и Венгрии"
+ #"Loading Map(Creating Terrain)..."
+ LOAD_GFX_PDXMAP_BORDERS: "Объявление нового китайского правительства"
+ #"Loading Map(Creating Borders)..."
+ LOAD_GFX_PDXMAP_TEXTURES: "Строительство Португальской империи"
+ #"Loading Map(Creating Textures)..."
+ LOAD_GFX_PDXMAP_TREES: "Падение на революцию"
+ #"Loading Map(Creating Trees)..."
+ LOAD_GFX_PDXMAP_RIVERS: "Вторжение в Норвегию"
+ #"Loading Map(Creating Rivers)..."
+ LOAD_GFX_PDXMAP_STATIC_OBJECTS: "Победа над Ближним Востоком"
+ #"Loading Map(Creating objects)..."
+ LOAD_EVENTS: "Активизация англо-французской розни"
+ #"Loading Events"
+ LOAD_GFX: "Бегите к колониям"
+ #"Loading Graphics"
+ LOADING_MAIN_MENU: "Восстановление Бургундии"
+ #"Loading main menu"
+ PRECALC_NAVAL_DIST: "Централизация Имперской федерации"
+ #"Precalculating Naval Distances"
+ EXITING_TO_FRONTEND: "Объединение славян"
+ #"Returning to main menu"
+ LOAD_INIT: "Развертывание Королевского флота"
+ #"Initialising Game..."
+ LOAD_FLAGS: "Гардрисон Рейна"
+ #"Creating Flags"
+ PROC_FLAGS: "Провозглашение Гамбургской коммуны"
+ #"Processing Flags"
+ INIT_MAP_LOGIC: "Память о парижском коммуне"
+ #"Initialising map logic"
+ INIT_GAMESTATE: "Отвратительное отношение к современному миру"
+ #"Initialising game"
+ EXECUTE_HISTORY: "Вторжение на Британские острова"
+ #"Executing history"
+ CREATING_CHKSUM: "Разрушение СИБ"
+ #"Creating checksum"
+ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
+ #"Generating Gradient Borders"
 
  OLD_SAVEGAME: "§Rafee из другой версии игры и не может быть загружена. §!/n$rollback_tt$"
  OLD_SAVEGAME_POPUP: "Это сохранение из другой версии игры и не может быть загружено.\n$rollback_tt$"
@@ -74,7 +74,7 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
 
  FLEET_NAME: "$NUMBER$. Fleet"
  FLEET_NAME_USA: "Группа военно-морских сил США"
-# FLEET_NAME_GER: "$NUMBER$. Kaiserliche Flotte"
+ # FLEET_NAME_GER: "$NUMBER$. Kaiserliche Flotte"
  RESERVE_FLEET_NAME: "$NUMBER$. Reserve Fleet"
  TASK_FORCE_NAME: "$NUMBER$. Task Force"
 
@@ -89,10 +89,10 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  diff_normal_player: "Обычные трудности"
  interwar_antitank: "Межвоенный антитанк"
 
-### deployment_l_english
+ ### deployment_l_english
  DIVISION_EQUIPMENT: "Отдельное оборудование"
 
-### diplomacy_l_english
+ ### diplomacy_l_english
  DIPLOMACY_REQUEST_EXP_FORCE_ACTION_DESC: "Попроси контроля над рядом дивизий у марионетки."
  SEND_VOLUNTEERS_INFO: "Разделы будут удалены с карты во время транзита и вернутся на карту в стране-объекте после завершения передачи. Разделы будут автоматически возвращаться, если вы окажетесь в состоянии войны или страна-объект будет в мире."
  DR_US_DEMOCRATIC: "§$$U$§! Либеральный:"
@@ -100,24 +100,24 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  DR_US_COMMUNIST: "§$$U$§! является социалистом:"
  DR_US_FASCIST: "§$$U$§! Реакция:"
 
-### game_rules_l_english
+ ### game_rules_l_english
  RULE_ALLOW_GUARANTEES_FREE_DESC: "Независимость любой страны может быть гарантирована в любое время."
  RULE_ALLOW_GUARANTEES_LIMITED_DESC: "Выдача гарантии независимости ограничивается до начала второй Великой войны и идеологией."
  RULE_ALLOW_LEAVE_FACTION_ALLOWED_DESC: "Полностью суверенные страны могут оставить фракцию в покое. ~n §RNote: этот вариант не полностью поддерживается. Обычные проверки здравого смысла и другие меры по предотвращению ошибок будут обойдены, и поэтому игра с этой опцией вызовет проблемы. Пожалуйста, не сообщайте о каких-либо проблемах. Вас предупредили.§!"
  RULE_ALLOW_KICK_FACTION_ALLOWED_DESC: "Лидер Фракции может выбить любую страну из группировки. ~n §RПримечание: этот вариант не полностью поддерживается. Обычные проверки здравого смысла и другие меры по предотвращению ошибок будут обойдены, и поэтому игра с этой опцией вызовет проблемы. Пожалуйста, не сообщайте о том, что вы нашли. Вас предупредили.§!"
  RULE_ALLOW_WARGOALS_LIMITED_DESC: "Поколение военных целей заблокировано до Второй Великой войны."
 
-### frontend_l_english
+ ### frontend_l_english
  CUSTOM_DIFFICULTY_GROUP_NAME: "&quot; Национальные баффы &quot;"
 
-### politics_l_english
+ ### politics_l_english
  RELEASE_NATION_TITLE: "ПРЕДУПРЕЖДЕНИЕ"
  RELEASE_NATION_DESC: "Вы хотите освободить $COUNTRY_H$ в $LIST_H$? n §RThis не поддерживается внутри и вызовет жуков, сделаете это на свой собственный риск!§!"
 
-### peace_l_english
+ ### peace_l_english
  PEACE_CONFERENCE_WHITE_PEACE: "§YPeace Administration §! был подписан между n@$ACTOR_TAG$ACTOR_COUNTRYYY$ и $RECIPIENT_COUNTRITYY$@$RECIPIPIENT_TAG$_inning их боевые действия."
 
-### research_l_english
+ ### research_l_english
  BLITZKRIEG_LABEL: "ИСПРАВЛЕНИЕ"
  MODERN_BLITZKRIEG_LABEL: "БАНКЕТ ПОЕЗДКИ"
  schwerpunk: "Отключить в деталях"
@@ -183,11 +183,11 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  #mismatched in vanilla
  special_forces: "Специальные силы"
 
-### rules_l_english
+ ### rules_l_english
  CAN_JOIN_FACTIONS: "Не могу присоединиться к фракциям"
  CAN_USE_KAMIKAZE_PILOTS: "Могут использовать пилоты-самоубийцы"
 
-### state_l_english
+ ### state_l_english
  twelve: "Промышленное сердце"
  eleven: "Крупный промышленный центр"
  ten: "Малый промышленный центр"
@@ -207,18 +207,18 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  one_island: "Заморская территория"
  zero_island: "Дистанционный(ые) остров(ы)"
 
-### resistance_and_occupation_l_english
+ ### resistance_and_occupation_l_english
  GARRISON_HARDNESS_TOOLTIP: "§Hardness §! / Твердость шаблона до 70% сократит потери во время активности Сопротивления."
 
-#########################################################
-### Part Two - Only Minor Changes Compared to Vanilla ###
-#########################################################
+ #########################################################
+ ### Part Two - Only Minor Changes Compared to Vanilla ###
+ #########################################################
 
-### abilities_l_english
+ ### abilities_l_english
  ABILITY_SIEGE_ARTILLERY_DESC: "Специализированная осадная артиллерия нанесет серьезный ущерб фортам и даст бонус на нападение."
  ABILITY_REQUISITION_WINTER_GEAR_DESC: "Зимние снаряды дадут бонус к акклиматизации холодной погоды."
 
-### air_l_english
+ ### air_l_english
  AIRWING_REORG: "Реорганизуйте воздушные крылышки"
  AIRWING_REORG_ONE: "Реорганизовать воздушное крыло"
  AIRWING_REORG_BASE: "Реорганизуйте воздушные крылышки в долл. США"
@@ -236,7 +236,7 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  AIR_VIEW_AIR_DEFENSE_EQUAL: "Наша обычная §Hair Protection§! это §Hsame§! как их §Hair Attack§!"
  AIR_MORE_GROUND_CREWS_CANCEL_DESC: "§RCancel§! повышение эффективности на $NAME/H$"
 
-### alerts_l_english
+ ### alerts_l_english
  alert_non_payed_license_instant: "§ Не оплаченные лицензии §!"
  alert_naval_battle_results_delayed_click: "§GClick в центр следующего результата. nClic the mapicon_naval_battle_ result_текстовая икона в регионе, чтобы прочитать отчёт.n§!"
  alert_naval_convoy_raiding_results_delayed_click: "§GClick в центр следующего результата. nClick фунтбара_составов в регионе, чтобы прочитать отчет. n§!"
@@ -249,7 +249,7 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
 
  ALERT_ENEMY_GENERATE_WARGOAL: "$COUNTRY|Y$ is preparing for war against §Yus§!."
 
-### army_l_english
+ ### army_l_english
  ARMY_DIVISIONS_THEATRES: "Активная деятельность в театре (театрах) в долл. США"
  ARMY_DIVISONS_FILTER_DESC: "Введите часть имени единицы, типа подкласса, театра, штата, имени руководителя, имени оборудования или названия уровня"
  ARMY_SORT_THEATRE: "Театр"
@@ -271,14 +271,14 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  THEATER_GROUP_DISBAND_BUTTON_DESC: "Дисбродировать театр"
  THEATER_GROUP_DISBAND_TITLE: "Дисбродировать театр"
 
-### autonomy_l_english
+ ### autonomy_l_english
  CONSTRUCTION_MASTER_BUILDING_REDUCE_LEVELS: "Мы можем снизить этот уровень строительства только на $LVL/R$."
 
-### buildings_l_english
+ ### buildings_l_english
  BUILDING_SLOT_REMOVE_COOLDOWN: "В военное время можно снимать здания только раз в день."
  rail_way_plural: "Железнодорожные перевозки"
 
-### combat_l_english
+ ### combat_l_english
  PIERCING_COMBAT_DESC: "Если атака противника с более высоким бронебойным составом, чем этот дивизион, имеет Пирсинг, атака сокращается вдвое."
  BM_DECRYPTION_DESC: "Единицы, имеющие преимущество расшифровки, увеличили ущерб и защиту."
  BM_FORT_MODIFIER_DESC: "В целях оказания помощи в создании сильно укрепленных провинций на основе использования танков или инженеров сверхтяжелого типа нападки с нескольких направлений приведут к снижению эффективности фортов."
@@ -303,7 +303,7 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  BM_BORDER_WAR_MODIFIER: "Организация пограничной войны"
  BM_BORDER_WAR_MODIFIER_DESC: "Группа получает модификатор в зависимости от организации пограничной войны."
 
-### core_l_english
+ ### core_l_english
  UNLOCK_COMPLETE_EFFECT: "$WHO|H$ completes focus $LIST|H$\n"
  FE_IRONMAN: "Ironman Mode - §RMay Break Games§!"
  FE_IRONMAN_TOOLTIP: "В Ironman Mode жульничество консолей отключено, и игра автоматически сохраняется в один файл. В играх, в которые играет этот режим, нет возврата. ~n §RWARING\n Use Ironman Mode сделает невозможным возвращение в более старый режим, если не появится жучок, нарушающий игру, и может навсегда разрушить все плейпровертки.§!"
@@ -331,29 +331,29 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  CHARACTER_ADVISOR_CANT_BE_FIRED_ONCE_HIRED: "§ Водитель не может быть уволен после найма §!"
  CHARACTER_ADVISOR_CANT_BE_FIRED: "§ § § не может быть уволен!"
 
-### constructions_l_english
+ ### constructions_l_english
  CONSTRUCTION_MINIMIZE: "Минимизация"
  CONSTRUCTION_MAXIMIZE: "§GShift+click to §! §Hmaximise§!"
  CONSTRUCTION_MAPMODE_DEMILITARIZED_BLOCKED_TOOLTIP: "Не могу построить $BUILDING.H$ в демилитаризованной зоне."
 
-### country_l_english
+ ### country_l_english
  MANPOWER_CURRENT_MOBILIZATION: "Общая численность рабочей силы: $TOTAL Δ2H долл. США/nPERC_2%H долл. США (около $MOB ¶3H% мобилизуется в день) для приемлемого основного населения ($ELIGIBLE>H долл. США)"
  DIVISION_IN_TEMPLATE_TRANSFER: "В настоящее время Отдел реорганизует свою деятельность с $OLD &apos; H$ до $NEW &apos; H$. Реорганизация будет завершена после доставки первого необходимого оборудования и после этого старое оборудование будет возвращено в запасы."
 
-### deployment_l_english
+ ### deployment_l_english
  group_armor_title: "Бронированные батальоны"
  HAS_ARMIES_WITH_OLD_TEMPLATE: "§RCannot исключить этот шаблон, поскольку подкласс(ы) $AMOUNTERD(ы) переходит(ют) от этого шаблона(ов) к новому (желание получить оборудование, соответствующее новому шаблону). §!"
  TEMPLATE_PRIO_0_DESC: "Подразделения, имеющие этот шаблон, будут получать оборудование в последний раз и с наименьшим приоритетом после развертывания."
  CONVEYOR_GROUP_CAN_NOT_ASSIGN_NO_ORDERS_DESC: "Развертывание должно иметь по крайней мере один приказ на театре действий, который должен быть отдан любой группе."
  CONVEYOR_SET_COLONIAL_LOCATION_DESC: "§GClick§!, чтобы установить место развертывания для этого развертывания. §Greight-clic§!, чтобы переустановить место. § §YЭто колониальный шаблон и может быть размещен только в стране происхождения! §!"
 
-### designer_l_english
+ ### designer_l_english
  DESIGNER_ARMORED_LABEL: "Бронированные"
  DESIGNER_ARMORED_RATIO: "Бронированные: $VALUE . %"
  DESIGNER_SUPPORT_COLUMN_TITLE: "Это вспомогательные войска, которые остаются позади фронтовых войск и помогают им. Вы можете выбрать только один из типов, и вспомогательные компании не влияют на §YMax Speed§! в Отделе (кроме бонусов за местность) и не увеличивают свой §YTonce Width§!"
  DESIGNER_MAIN_COLUMN_TITLE: "Патрульные батальоны - это ваши передние войска. Ни одна из колонн не является полком конкретного базового типа, как §YArmour§!, §Yindantry§! или §YMotorized Boards §!. Высший тип решает, что еще вы можете поместить в эту колонну полка. Чем больше линейных батальонов у вас будет §YTimone Width§! и чем меньше этих дивизий вы сможете вписаться в одну и ту же битву."
 
-### diplomacy_l_english
+ ### diplomacy_l_english
  DIPLOMACY_MESSAGE_CANCELED_TITLE: "$RELATION$ cancelled"
  DIPLOMACY_MESSAGE_CANCELED_MESSAGE: "$RELATION$ with $COUNTRY$ was §Rcancelled§! $REASON$"
  LEND_LEASE_VEHICLES_BUTTON_DISABLED: "Мы не производим бронетранспортное оборудование и не используем его на складе!"
@@ -391,7 +391,7 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  large_increase: "Увеличение числа мнений"
  huge_increase: "Огромное увеличение мнения"
 
-### effects_l_english
+ ### effects_l_english
  EFFECT_CONTEXT_LEADER: "$LEADER|H$"
  EFFECT_SET_LEADER_NATIONALITY: "Присоединяется к $COUNTRYDEFY$"
  EFFECT_EVERY_NEIGHBOR_STATE_STARTS: "Каждое соседнее государство"
@@ -417,7 +417,7 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  EFFECT_CREATE_UNIT_WITH_COUNT: "Создать отделы $COUNT_H$ $WNER_H$.n"
  EFFECT_CREATE_UNIT_LOCATION_WITH_COUNT: "Создать отделы $COUNT_H$ в $STATE_H$.n"
 
-# missing line breaks
+ # missing line breaks
  EFFECT_ADD_VP: "Добавьте сумму в размере $VALUE.H$_picipal_points в $PROVINCE.H$.n"
  EFFECT_SUBTRACT_VP: "Вычитать сумму в размере $VALUE.H$'vistory_points из $PROVINCE.H$.n"
  EFFECT_SET_VP: "Установите победные пункты в размере $PROVINCE.H$ до $VALUE.H$'vistory_points.\n"
@@ -428,22 +428,22 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  EFFECT_ADD_COLLABORATION: ":: Расширение сотрудничества в размере $TARGET_H$: $VALUE_+%0 долл. США/n"
  EFFECT_REMOVE_COLLABORATION: "Сокращение масштабов сотрудничества в долл. США: $VALUE ~0 долл. США ~n"
 
-### frontend_l_english
+ ### frontend_l_english
  FE_COOP_LABEL: "Кооператив"
  FE_DIFFICULTY_HARD_TOOLTIP: "§L"Thirty years from now when you're sitting by your fireside with your grandson on your knee and he asks, 'What did you do in the great World War Two?' you won't have to cough and say, 'Well, your granddaddy shovelled shit in Louisiana.'"§!"
 
-### government_in_exile_l_english
+ ### government_in_exile_l_english
  COUNTRYVIEW_GIE_INFO: "Наш хозяин ($HOTNAMEDEF&H$) получает выгоду от более высокой §Legitimacy§!!n §HLegitimacy§!! Затрагивая $ATK_VS_OCCUPIER_0%+$n - оборона: $DEF_VS_OCUPIER_%+0 долл."
  EXILES_VIEW_OCCUPIER_FLAG_TOOLTIP: "$OCCUPIERNAMEDEF|HU$ is occupying core territory owned by $EXILENAMEDEF|H$.\n$EXILEADJ|H$ §HExile Veteran Divisions§! get combat bonuses against them.\n     - Attack: $ATK_VS_OCCUPIER|%0+$\n     - Defence: $DEF_VS_OCCUPIER|%+0$"
 
-### logistics_l_english
+ ### logistics_l_english
  LOGISTICS_EFFICIENCY_NOT_HUNDRED_LOW_VALUE: "Наши §Hproduction Lines §!, производящие оборудование в размере $EQUIPINAL_H$ работают в среднем на $FFFICIENCYYY% §Hefficiency §! Мы могли бы производить дополнительные $ADIINTAL_1Y$ каждый день."
  LOGISTICS_EFFICIENCY_NOT_HUNDRED_HIGH_VALUE: "Наши §Hproduction Lines §!, производящие оборудование в размере $EQUIPINAL_H$ работают в среднем на $FFFICIENCYYY% §Hefficiency §! Мы могли бы производить дополнительные $ADIINTAL __0Y$ каждый день."
 
-### mapmode_l_english
+ ### mapmode_l_english
  MAPMODE_DEFAULT_DESCRIPTION: "Провинция будет раскрашена в соответствии с тем, кто в настоящее время контролирует ее."
 
-### modifiers_l_english
+ ### modifiers_l_english
  MODIFIER_ORG_LOSS_WHEN_MOVING_DESC: "Модифицирует количество потерянных организаций при движении подразделения"
  MODIFIER_ORG_LOSS_AT_LOW_ORG_FACTOR: "Организационные потери, когда они ниже 25%"
  MODIFIER_LOCAL_ORG_REGAIN: "Организация &lt; &lt; Возрождение &gt; &gt;"
@@ -577,7 +577,7 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  modifier_unit_militia_design_cost_factor: "$militia$ Unit Design Cost"
  modifier_unit_irregular_infantry_design_cost_factor: "$irregular_infantry$ Unit Design Cost"
 
-#missing in vanilla
+ #missing in vanilla
  large_plane_airframe_design_cost_factor: "Затраты на проектирование Большой ЭВМ"
  small_plane_airframe_design_cost_factor: "Затраты на проектирование малых воздушных судов"
 
@@ -586,7 +586,7 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  modifier_state_repair_speed_arms_factory_factor: "$modifier_repair_speed_arms_factory_factor$"
  modifier_state_repair_speed_rail_way_factor: "$modifier_repair_speed_rail_way_factor$"
 
-### multiplayer_l_english
+ ### multiplayer_l_english
  HOST_LOADING_SAVEGAME: "Принимающая сторона начала загрузку в игру спасения: $NAME_Y$."
  START_FILE_TRANSFER: "Отправляю сберегательную игру в $NAME.H$."
  OOS_TITLE: "Ваша игра больше не синхронизирована."
@@ -595,10 +595,10 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  OOS_43: "Количество провинций в театрах"
  OOS_CHECKS: "§Gerver устанавливает следующие проверки OOS: $CHACKSIY$.§!"
 
-### musicplayer_l_english
+ ### musicplayer_l_english
  sabaton_TITLE: "§RSabaton - выключите "Восьмидесятый Шуффл"!"
 
-### operatives_l_english
+ ### operatives_l_english
  upgrade_passive_defense: "Пассивная оборона"
  upgrade_anti_partisan: "Антипартизанцы"
  upgrade_blueprint_stealing: "Кража хронометра"
@@ -608,7 +608,7 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  upgrade_training_centers: "Местные учебные центры"
  upgrade_commando_training: "Коммандосская подготовка"
 
-### plane_designer_l_english
+ ### plane_designer_l_english
  small_plane_cas_airframe_5: "Сверхзвуковой Supersonic"
  small_plane_cas_airframe_5_desc: "$small_plane_airframe_5_desc$"
  small_plane_naval_bomber_airframe_5: "Сверхзвуковая бомбардировка военно-морского флота"
@@ -616,12 +616,12 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  small_plane_suicide_airframe_5: "Сверхзвуковой эшелон самоубийства"
  small_plane_suicide_airframe_5_desc: "$small_plane_airframe_5_desc$"
 
-### politics_l_english
+ ### politics_l_english
  POLITICS_LEADER: ""Лидер страны": $LEADER.H$§!"
  POLITICS_NEXT_ELECTION: "Следующие выборы:"
  POLITICS_IDEA_CANCEL_DESC: "Отменяется, если:"
 
-### production_l_english
+ ### production_l_english
  PRODUCTION_MATERIALS_ALUMINIUM: "Алюминий"
  PRODUCTION_VEHICLES_BUTTON: "Сооружение бронированных автотранспортных средств"
  PRODUCTION_VEHICLES_BUTTON_DISABLED: "Бронированные машины не изобретены!"
@@ -634,10 +634,10 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  LICENSED_EQUIPMENT_PRODUCTION_SPEED_NO_LICENSE: "§ §: $VALUEE+% $"
  LICENSED_PURCHASE_CIC_COST: "Эта лицензия стоит §!: : фунт стерлингов = $AMONTY$"
 
-### province_names_l_english
+ ### province_names_l_english
  neighbour: "Соседи"
 
-### research_l_english
+ ### research_l_english
  RESEARCH_BONUS_AHEAD_DESC: "долл. США впереди времени, $NAME$."
  RESEARCH_BONUS_SPEED_AHEAD_DESC: "долл. США для проведения исследований и 2 долл. США для проведения исследований с опережением периода времени"
  RESEARCH_BONUS_SPEED_NO_COUNT_DESC: "Время проведения исследований будет сокращено на $VALUE.G%0 долл. США"
@@ -776,7 +776,7 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  mot_rockets: "$motorized_rocket_unit$"
  mot_rockets_research: "Моторизованная ракетная артиллерийская скорость"
 
-### missing in vanilla, delete if added
+ ### missing in vanilla, delete if added
  armored_car1: "Бронированная машина &lt; &lt; Интервар &gt; &gt;"
  armored_car1_desc: "В тех случаях, когда предыдущие бронированные автомобили были простыми коммерческими моделями с тонкими стальными покрытиями, эта модель была разработана с нуля для доставки бронежилетов и легких вооружений."
  armored_car2: "Базовая бронированная машина"
@@ -786,10 +786,10 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  armored_car_at_upgrade: "Бронированная машина, противоречащая танкам"
  armored_car_at_upgrade_desc: "В какой-то момент наши световые механизированные подразделения вступают в контакт с вражескими танковыми войсками, и разработка специального антитанкового варианта даст им шанс на победу."
 
-### rules_l_english
+ ### rules_l_english
  CAN_DECLARE_WAR_WITHOUT_WARGOAL_WHEN_IN_WAR: "Может объявить войну соседу без цели войны во время войны с майором."
 
-### stats_l_english
+ ### stats_l_english
  STAT_COMMON_MAX_ORG: "Организация:"
  STAT_COMMON_MAX_ORG_DESC: "Организация указывает на боевую готовность и на то, насколько организовано подразделение, подразделение без организации не может сражаться или двигаться эффективно."
  STAT_ARMY_DEFAULT_MORALE_DESC: "Сколько дополнительных организаций может быть восстановлено на почасовой основе, если они не участвуют в боевых действиях."
@@ -812,11 +812,11 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  STAT_COMMON_BUILD_COST_IC_MOD_DIFF: " $VALUE|=-2%$ "
  STAT_CARRIER_SIZE_MOD_DIFF: " $VALUE|=+0$§G0§!"
 
-### tactics_l_english
+ ### tactics_l_english
  tactic_cc_defend: "Закрыть квартал"
  tactic_elastic_defense: "Эластичная оборона"
 
-### tank_modules_l_english
+ ### tank_modules_l_english
  EQ_MOD_CAT_tank_armor_type_TITLE: "Тип бронетранспортера"
  EQ_MOD_SLOT_armor_type_slot_TITLE: "Тип бронетранспортера"
  tank_riveted_armor: "Заряженный бронетранспортер"
@@ -907,7 +907,7 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  super_heavy_tank_chassis_short: "Супер-тяжелый шасси"
  main_battle_tank_chassis_short: "Современный шасси"
 
-### theater_l_english
+ ### theater_l_english
  ORDER_AREA_DEFENSE: "Районная оборона"
  ORDER_AREA_DEFENSE_STATE_VALID: "§GClick§! в §Yadd§!"
  ORDER_AREA_DEFENSE_STATE_SELECTED: "§GClick§! - §Yremove§!"
@@ -919,16 +919,16 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  THEATRE_UNIT: "В театре есть отдел §Y1§!"
  THEATRE_UNITS: "В театре есть дивизии в размере $N &apos; N &apos; ."
 
-### topbar_l_english
+ ### topbar_l_english
  GENERATE_WAR_GOAL_CANCEL_THREAT: "Обоснование военных целей по отношению к $TARGET$ аннулировано"
 
-### trade_l_english
+ ### trade_l_english
  TRADEVIEW_RES_NEEDED_DETAILS: "Нам нужно больше $NUM/60/H$, чтобы наши производственные линии функционировали на полной скорости.§!"
  TRADE_CAN_TRADE_TOOLTIP: "У нас есть в общей сложности гражданские фабрики в размере $TOT/H$. $VAL/H$ используется для производства потребительских товаров, оставляя нам $TRADE/H$ для торговли. / Не заметьте, что вы не можете отменять заводы, полученные от экспорта товаров, и что продажа заводов будет препятствовать их использованию для строительства."
 
-### triggers_l_english
+ ### triggers_l_english
 
-#British spelling
+ #British spelling
  TRIGGER_HAS_NOT_IDEA_MATERIEL_MANUFACTURER: "Не имеет конструктора материальных средств $IDEA.03.H$"
  TRIGGER_HAS_IDEA_MATERIEL_MANUFACTURER: "У него есть проектировщик материальных средств $IDEA.03.H долл. США"
  TRIGGER_ESTIMATED_MAX_ARMOR_INTEL_MORE_THAN: "$COUNTRY2|H$ is estimated to have maximum armour of $VALUE|H$ or more based on intel"
@@ -949,18 +949,18 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  TRIGGER_HAS_ANY_LICENSE: "Имеет лицензию на иностранное производство"
  TRIGGER_HAS_NOT_ANY_LICENSE: "Не имеет лицензии на иностранное производство"
 
-#Missing spaces after colon
+ #Missing spaces after colon
  TRIGGER_STATE_FLAG_NOT_SET: "Нет:"
  TRIGGER_COUNTRY_FLAG_NOT_SET: "Нет:"
  TRIGGER_GLOBAL_FLAG_NOT_SET: "Нет:"
  TRIGGER_UNIT_LEADER_FLAG_NOT_SET: "Нет:"
 
-#Typos
+ #Typos
  TRIGGER_AUTONOMY_STATE_RATIO_LESS_THAN: "Автономный прогресс в размере $VALUE.H%"
  TRIGGER_IS_FIELD_MARSHALL: "Это маршал CNH Field!"
  TRIGGER_IS_NOT_FIELD_MARSHALL: "Разве это не маршал? !"
 
-#Lacking line breaks
+ #Lacking line breaks
  TRIGGER_HAS_DESIGN_BASED_ON: "У него есть $ARchhetyPe>H$n"
  TRIGGER_HAS_DYMAMIC_MODIFIER: "Модификатор: $NAME/H$n"
  TRIGGER_HAS_NOT_DYMAMIC_MODIFIER: "У него нет модификатора: $NAME/H$n"
@@ -970,11 +970,11 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  TRIGGER_HAS_RESOURCES_RIGHT: "Имеет право на ресурсы в размере $resources>H$n"
  TRIGGER_HAS_NOT_RESOURCES_RIGHT: "Не имеет прав на ресурсы в размере $RESources_H$n"
 
-#Changed from vanilla
+ #Changed from vanilla
  TRIGGER_IS_SUBJECT: "является субъектом другой страны"
  TRIGGER_IS_NOT_SUBJECT: "является полностью независимым"
 
-### units_l_english
+ ### units_l_english
  CURRENT_ORGANIZATION: "Организация: $KUR/60/0Y$/$MAX/60/0Y$"
  NO_ORG_TO_FIGHT: "Нам нужна, по крайней мере, организация, чтобы сражаться."
  light_armor_desc: "Легкие бронированные танки."
@@ -1002,6 +1002,6 @@ GENERATING_GRADIENT_BORDERS: "Ожидание в Суринаме"
  GOOD_ARMOR_ATTACK_DESC_ORG: "Если мы нападем на отдел врагов, который не сможет проникнуть в наши доспехи, мы сократим их организацию еще на $VAL"
  PIERCING_GOOD_DESC: "Отдел не получит дополнительных бонусов, если сможет проникнуть в отдел врагов, но этот отдел не получит бонусов из-за своих доспехов."
 
-### waroverview_l_english
+ ### waroverview_l_english
  WARSCORE_PROGRESSBAR: ""Война" будет стоить $VAL.03.H0% долларов в пользу $SIDE$§!"
  CAN_SURRENDER_FACTION_MEMBERS: "В настоящее время они сражаются со своей фракцией и сдадутся только тогда, когда все основные члены фракции в этой войне будут капитулированы."

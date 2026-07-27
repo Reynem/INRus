@@ -1,6 +1,6 @@
 ﻿l_russian:
 
-### Parties ###
+ ### Parties ###
  #SAU_vanguardist_party: "$HEJ_vanguardist_party$"
  #SAU_vanguardist_party_long: "$HEJ_vanguardist_party_long$"
  #SAU_collectivist_party: "$HEJ_vanguardist_party$"
@@ -27,7 +27,7 @@
 
  
 
-### Cosmetic Tags ###
+ ### Cosmetic Tags ###
  SAU: "Наджд и Хаса"
  SAU_ADJ: "Саудовская Аравия"
  SAU_DEF: "Наджд и Хаса"
@@ -53,7 +53,7 @@
  SAU_ARA_national_populist_ADJ: "Саудовская Аравия"
  SAU_ARA_national_populist_DEF: "Саудовская Аравия"
 
-### Tooltips ###
+ ### Tooltips ###
  SAU_sole_caliphate_is_a_bad_idea: "§R Претензия на титул Калифа, скорее всего, разозлит и возмутит многих наших соседей, мы должны быть осторожны с таким актом... §!"
  SAU_ongoing_ikhwan_raid: "Икхван уже налетел."
 
@@ -66,7 +66,7 @@
  SAU_Ikwhan_Damascus: "Рейд в Дамаске"
  SAU_Ikwhan_Medina: "Рейд Медина"
 
-### Decisions ###
+ ### Decisions ###
  
 
  SAU_Ikwhan_Qatar: "Нападение на Катар"
@@ -78,10 +78,10 @@
  SAU_Ikwhan_Damascus: "Рейд в Дамаске"
  SAU_Ikwhan_Medina: "Рейд Медина"
 
-#Flags
+ #Flags
  SAU_NOTHING_EVER_HAPPENS_CHUD: "Изоляционизм"
 
-### Ideas ###
+ ### Ideas ###
  SAU_turn_inwards_idea: "Поворачиваемся вперёд"
  SAU_oil_boomer: "Нефтяной бум"
  SAU_warriors_of_faith: "Воины веры"
@@ -115,70 +115,70 @@
  SAU_arabian_war_of_unification: "Война за единство"
  SAU_allah_triumphant: "Триумф Аллаха"
 
-### Events ###
-saudi_arabia.1.d: "С пылью войны против шаммарских, наконец, оседающей через дюны, дом Сауда стоит на окончательном перепутье. На севере и западе находятся остатки старых империй и изменяющиеся границы колониальных мандатов; на юге, гористые высоты Йемена и священная ответственность Хеджаза. Некоторые внутри королевского круга утверждают, что пришло время взглянуть за пределы наших горизонтов, объединить расколотые племена и создать современный Калифат, который пользуется уважением к миру. Другие, однако, советуют более измеримый путь: обеспечить безопасность наших законных границ, защитить Святые города, а затем перевернуть наши взоры, чтобы модернизировать и укрепить наше правление без бремени бесконечных инородных запутаний. Выбор, который мы сделаем сегодня, будет следовать через пустыню для поколений."
+ ### Events ###
+ saudi_arabia.1.d: "С пылью войны против шаммарских, наконец, оседающей через дюны, дом Сауда стоит на окончательном перепутье. На севере и западе находятся остатки старых империй и изменяющиеся границы колониальных мандатов; на юге, гористые высоты Йемена и священная ответственность Хеджаза. Некоторые внутри королевского круга утверждают, что пришло время взглянуть за пределы наших горизонтов, объединить расколотые племена и создать современный Калифат, который пользуется уважением к миру. Другие, однако, советуют более измеримый путь: обеспечить безопасность наших законных границ, защитить Святые города, а затем перевернуть наши взоры, чтобы модернизировать и укрепить наше правление без бремени бесконечных инородных запутаний. Выбор, который мы сделаем сегодня, будет следовать через пустыню для поколений."
 
-### Focuses ###
-saudi_focus: "Саудовское дерево фокуса"
+ ### Focuses ###
+ saudi_focus: "Саудовское дерево фокуса"
 
-SAU_dealing_with_kuwait: "Развивать государства, входящие в состав Целевой группы"
-SAU_dealing_with_kuwait_desc: ""
-SAU_hejaz: "Освободите святые города от хашимитов"
-SAU_hejaz_desc: ""
-SAU_destroy_yemen: "Уничтожить Имама Яхью"
-SAU_destroy_yemen_desc: ""
-SAU_attack_syria: "Разрушить Сирию"
-SAU_attack_syria_desc: ""
-SAU_attack_iraq: "Разрушить Ирак"
-SAU_attack_iraq_desc: ""
-SAU_liberate_iraq: "Освобожденный Ирак"
-SAU_liberate_iraq_desc: ""
-SAU_dealing_with_great_powers: "Освобождение Аравии от империализма"
-SAU_dealing_with_great_powers_desc: ""
-SAU_end_the_turk_threat: "Прекращение турецкой угрозы"
-SAU_end_the_turk_threat_desc: ""
-SAU_cast_out_the_french: "Избавься от безбожных французов"
-SAU_cast_out_the_french_desc: ""
-SAU_cooperation_with_britain: "Встретимся с англичанами в Биттер Лейк"
-SAU_cooperation_with_britain_desc: ""
-SAU_end_british_dominance: "Уничтожить британское доминирование"
-SAU_end_british_dominance_desc: ""
-SAU_incorporate_gulf_states: "Интегрировать залив"
-SAU_incorporate_gulf_states_desc: ""
-SAU_incorporate_yemen: "Интегрировать Йемен"
-SAU_incorporate_yemen_desc: ""
-SAU_incorporate_hejaz: "Интегрировать Hejaz"
-SAU_incorporate_hejaz_desc: ""
-SAU_literacy_campaign: "Огромная программа ликвидации неграмотности"
-SAU_literacy_campaign_desc: ""
-SAU_end_our_isolation: "Покончим с нашим обособлением"
-SAU_end_our_isolation_desc: ""
-SAU_iraqi_industry: "Иракская промышленность"
-SAU_iraqi_industry_desc: ""
-SAU_syrian_arms: "Сирийское стрелковое оружие"
-SAU_syrian_arms_desc: ""
-SAU_building_better_future: "Построение более светлого будущего"
-SAU_building_better_future_desc: ""
-SAU_moar_education: "Массовое образование"
-SAU_moar_education_desc: ""
-SAU_modern_economy: "Современная экономика в современном мире"
-SAU_modern_economy_desc: ""
-SAU_modern_unis: "Эр-Риядский университет"
-SAU_modern_unis_desc: ""
-SAU_dannam_no_7: "Даннам No 7"
-SAU_dannam_no_7_desc: ""
-SAU_taking_holy_cities_from_hashemites: "Готовы очистить святые города"
-SAU_taking_holy_cities_from_hashemites_desc: ""
-SAU_accelerate_modernisation: "Модернизация забора"
-SAU_accelerate_modernisation_desc: ""
-SAU_new_officers: "Профессиональная подготовка сотрудников по обычным вопросам"
-SAU_new_officers_desc: ""
-
-
+ SAU_dealing_with_kuwait: "Развивать государства, входящие в состав Целевой группы"
+ SAU_dealing_with_kuwait_desc: ""
+ SAU_hejaz: "Освободите святые города от хашимитов"
+ SAU_hejaz_desc: ""
+ SAU_destroy_yemen: "Уничтожить Имама Яхью"
+ SAU_destroy_yemen_desc: ""
+ SAU_attack_syria: "Разрушить Сирию"
+ SAU_attack_syria_desc: ""
+ SAU_attack_iraq: "Разрушить Ирак"
+ SAU_attack_iraq_desc: ""
+ SAU_liberate_iraq: "Освобожденный Ирак"
+ SAU_liberate_iraq_desc: ""
+ SAU_dealing_with_great_powers: "Освобождение Аравии от империализма"
+ SAU_dealing_with_great_powers_desc: ""
+ SAU_end_the_turk_threat: "Прекращение турецкой угрозы"
+ SAU_end_the_turk_threat_desc: ""
+ SAU_cast_out_the_french: "Избавься от безбожных французов"
+ SAU_cast_out_the_french_desc: ""
+ SAU_cooperation_with_britain: "Встретимся с англичанами в Биттер Лейк"
+ SAU_cooperation_with_britain_desc: ""
+ SAU_end_british_dominance: "Уничтожить британское доминирование"
+ SAU_end_british_dominance_desc: ""
+ SAU_incorporate_gulf_states: "Интегрировать залив"
+ SAU_incorporate_gulf_states_desc: ""
+ SAU_incorporate_yemen: "Интегрировать Йемен"
+ SAU_incorporate_yemen_desc: ""
+ SAU_incorporate_hejaz: "Интегрировать Hejaz"
+ SAU_incorporate_hejaz_desc: ""
+ SAU_literacy_campaign: "Огромная программа ликвидации неграмотности"
+ SAU_literacy_campaign_desc: ""
+ SAU_end_our_isolation: "Покончим с нашим обособлением"
+ SAU_end_our_isolation_desc: ""
+ SAU_iraqi_industry: "Иракская промышленность"
+ SAU_iraqi_industry_desc: ""
+ SAU_syrian_arms: "Сирийское стрелковое оружие"
+ SAU_syrian_arms_desc: ""
+ SAU_building_better_future: "Построение более светлого будущего"
+ SAU_building_better_future_desc: ""
+ SAU_moar_education: "Массовое образование"
+ SAU_moar_education_desc: ""
+ SAU_modern_economy: "Современная экономика в современном мире"
+ SAU_modern_economy_desc: ""
+ SAU_modern_unis: "Эр-Риядский университет"
+ SAU_modern_unis_desc: ""
+ SAU_dannam_no_7: "Даннам No 7"
+ SAU_dannam_no_7_desc: ""
+ SAU_taking_holy_cities_from_hashemites: "Готовы очистить святые города"
+ SAU_taking_holy_cities_from_hashemites_desc: ""
+ SAU_accelerate_modernisation: "Модернизация забора"
+ SAU_accelerate_modernisation_desc: ""
+ SAU_new_officers: "Профессиональная подготовка сотрудников по обычным вопросам"
+ SAU_new_officers_desc: ""
 
 
 
-SAU_fulfil_destiny: "Направляйся к нашему будущему"
+
+
+ SAU_fulfil_destiny: "Направляйся к нашему будущему"
  SAU_fulfil_destiny_desc: "Все арабы должны объединиться под Аравией!"
  SAU_asir: "Требования по компании &quot; Асир &quot;"
  SAU_asir_desc: "Без большей силы для поддержки их жалкого захвата земли, мы наконец-то сможем нанести полный удар по Йемену."
@@ -292,7 +292,7 @@ SAU_fulfil_destiny: "Направляйся к нашему будущему"
  SAU_techslot_machine: "Создание университетов"
  SAU_techslot_machine_desc: "Последний шаг в наших планах в области образования - это, естественно, высшее образование, и возрождение науки и прогресса, чем когда-то было синонимом арабского языка."
 
-### Military Focuses ###
+ ### Military Focuses ###
  SAU_recruiting_effort: "Набор персонала"
  SAU_recruiting_effort_desc: "Многие молодые люди рискуют бездействовать из-за великой истории, и даже не услышат призыва к оружию!"
  SAU_contest_the_gulf: "Соревнование по Заливу"
@@ -324,12 +324,12 @@ SAU_fulfil_destiny: "Направляйся к нашему будущему"
  SAU_war_of_resistance: "Война сопротивления"
  SAU_war_of_resistance_desc: "Мы живем в эпоху полной войны, где даже ограниченные конфликты ставят на карту все. Ваша молодая нация может падать так же быстро, как она возникла, и быть раздавленной под железными каблуками истории. Мы должны сопротивляться! Аравия будет свободной!"
 
-### Intro Screen ###
+ ### Intro Screen ###
 
-### Events
+ ### Events
 
 
-### Characters ###
+ ### Characters ###
  SAU_abdulaziz_ibn_saud: "Абдель Азиз Ибн Сауд"
  SAU_abdulaziz_ibn_saud_leader_desc: "15 января 1875 года в Эр-Рияде, эмират Наджда!"
 

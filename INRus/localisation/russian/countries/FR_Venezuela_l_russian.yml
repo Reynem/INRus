@@ -1,7 +1,7 @@
-l_russian:
+﻿l_russian:
 
  
-### Parties ###
+ ### Parties ###
  VEN_social_democrat_party: "АД"
  VEN_social_democrat_party_long: "Демократия"
  VEN_social_conservative_party: "КОПЕЙ"
@@ -23,7 +23,7 @@ l_russian:
  VEN_vanguardist_party: "МИРСТ"
  VEN_vanguardist_party_long: "Революционное движение &lt; &lt; Изкьерда &gt; &gt;"
 
-### Characters ###
+ ### Characters ###
  VEN_tomas_contreras_villalobos: "Томас Контрерас Вильялобос"
  VEN_marcos_evangelista_perez_jimenez: "Маркос Евангелиста Перес Хименес"
  VEN_diogenes_escalante_ugarte: "Диогены Эскаланте Угарте"

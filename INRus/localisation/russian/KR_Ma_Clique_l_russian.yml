@@ -2,7 +2,7 @@
 
  Ma_Clique: "Дерево фокуса Ma Clique"
 
-### Leaders ###
+ ### Leaders ###
  POLITICS_XSM_MA_FUXIANG_DESC: "Ма Фусян считается одним из основателей семейной клики Ma Family Clique, которая скрепила себя на северо-западе. Работая, как и многие другие в своей семье под руководством Дон Фусяна, он смог сделать себе имя в боксеровском восстании. К рассвету Синьхайской революции он и его племянник Ма Хонгбин защищали католические миссии, в то время как такие фигуры, как Ма Анлианг, боролись от имени Цина против республиканцев. В то время как Анлианг сумел добиться победы во время революции, неизбежное падение династии заставило Анлианг и остальных членов семьи заявить о своей верности республике. Анлианг вскоре скончался, оставив Фусианг в качестве объединяющей фигуры северного клика. Фусианг, главная цель которого по-прежнему была верна, чтобы они не утратили своего положения на северо-западе, он и остальные члены семьи, после того как они заняли Гуоминсу в кровопролитной кампании. Однако это было недолго долгой целью, которая по-прежнему остается в том, что они по-прежнему были праведны с остающимсяи германными группами, по отношению друг к другу, по отношению друг к другу, по отношению к другу по отношению к другу, по отношению к другу, по отношению к Дю, по отношению к Дю, по отношению к Дю, по отношению к Гу, по-гангу, по-гангу, по-гангу, он по-Д, он по-Д, он по-Дэнсень, он по-День, он по-Д, он по-Д, он по-День, он по-День, он по-День, он по-День, он по-День, и остальные, он по-День-День, он по-День, он по-День, он по-День, он по-День, он по-День, он, он, он, он, он, он по-День-День, он по-День, и остальные, он почти почти почти почти по-г-г-г-Г, он почти по-г-г-г-День-День-День, по"humanising" the Huis to the Han through his own unique blend of Confucian and Islamic beliefs that has had managed to have moderate success, with some even citing him as a scholar. A decade of peace has been brought by Fuxiang, one that will last for as long as he does."
  POLITICS_XSM_MA_LIN_DESC: "Ма Лин был сыном известной секты хидау храбрости Ма Хайян, которая в 1900 году вместе с Ма Фусяном сражалась с Альянсом восьми национальностей, в том числе с Ма Чжонгингом. Ма Лин смог оттолкнуться от рейдов Ма Чжонгиинга в Гансу во время войны в Ма-Гуоминьюне. Ма Лин стал преемником своего брата Ма Ки, губернатора Цинхая, после его смерти в 1931 году. Это назначение вызвало глубокое разочарование у его племянника Ма Буфанга, который выразил свою квалификацию губернатора. Ма Лина в качестве губернатора увидел расширение Цинхая в 1935 году, получив похвалу от семей Ма. В конце 1935 года Ма Лин разработал с Ма Фусиангом план интеграции Юсху в нужную Цинхай, но это было сокращено смертью Ма Фусяна."
  POLITICS_XSM_MA_HONGBIN_DESC: "Ма Хонбин вырос в тени своего отца, Ма Фулу, который отдал свою жизнь против Восемь-Национального альянса в 1900 году. В отличие от своего отца Ма Хонбин решил защитить христианскую миссию в Сан-Даохе и получил орден Леопольда за это действие после восстания боксера. Раннее во время эпохи Уорлорда Ма Хонгбин официально осудил Чианга в 1925 году. К сожалению для Махонгбина Ма Хункуи в 1920 году в связи с отношениями Махонгбина с КМТ был объявлен гигантом и публично осудил Махонгбина как социалистического шпиона в 1930 году."
@@ -22,88 +22,88 @@
  POLITICS_XSM_HAN_YOUWEN_ARMY_DESC: "§L\nHan Youwen является единственным салар-турковым командиром в Ma Clique и завоевал свое место благодаря службе своего отца в Gansu Hraves. Хан Ювен служит под руководством Ma Bufang и опирается на исламские модернистские тенденции Ма Буфанга, чтобы оставаться значимым в клике, где доминирует Гуй."
  POLITICS_MA_WANFU_DESC: "Ма Ванфу вернулся из своего хаджа для того, чтобы привнести новые новшества в иматату Гансу в 1888 году, раскритиковав ортодоксальность Сидаотанга. Маанфу основал секту Ихевани, исламскую фундаменталистику Ханафи, которая противостояла бубалистским аспектам суфизма. Маанфу был создан в качестве парии, когда он поддерживал восстание Дугана в 1895 году, и был вынужден скрываться в течение десятилетий. Янг Цзэнксин арестовал и пытался унизить Маанфу до его казни в 1915 году, но губернатор Цинхай Ма Ци спас его и укрепил власть Ихевани в Цинхае. Ма Ки сделал Маанхай преподавателем Ма Буфанго, который, как утверждается, питал внфу Мабуфанге внгаху внутреннюю ненависть к Маанфу в Мабуфанге."
 
-#### Parties ###
-XSM_vanguardist_party: "КР"
-XSM_vanguardist_party_long: "Революционный комитет"
-XSM_libertarian_socialist_party: "ПРЕПЯТИЯ"
-XSM_libertarian_socialist_party_long: "Организация &quot; Объединенная партия трудящихся и крестьян &quot;"
-XSM_collectivist_party: "NUF"
-XSM_collectivist_party_long: "Фронт национального единства"
-XSM_social_democrat_party: "NDSP"
-XSM_social_democrat_party_long: "Северо-западная демократическая социалистическая партия"
-XSM_social_liberal_party: "НДА"
-XSM_social_liberal_party_long: "Северо-западный демократический альянс"
-XSM_market_liberal_party: "НДОА"
-XSM_market_liberal_party_long: "Северо-западная демократическая автономия"
-XSM_social_conservative_party: "Сининг CA"
-XSM_social_conservative_party_long: "Гражданская администрация"
-XSM_authoritarian_democrat_party: "Ningxia CDA"
-XSM_authoritarian_democrat_party_long: "Нинксиа Администрация гражданской обороны"
-XSM_paternal_autocrat_party: "Тяньшуй Ма"
-XSM_paternal_autocrat_party_long: "Военное управление Тяньшуи"
-XSM_national_populist_party: "Сечение MA"
-XSM_national_populist_party_long: "Военное управление в Синьинге"
+ #### Parties ###
+ XSM_vanguardist_party: "КР"
+ XSM_vanguardist_party_long: "Революционный комитет"
+ XSM_libertarian_socialist_party: "ПРЕПЯТИЯ"
+ XSM_libertarian_socialist_party_long: "Организация &quot; Объединенная партия трудящихся и крестьян &quot;"
+ XSM_collectivist_party: "NUF"
+ XSM_collectivist_party_long: "Фронт национального единства"
+ XSM_social_democrat_party: "NDSP"
+ XSM_social_democrat_party_long: "Северо-западная демократическая социалистическая партия"
+ XSM_social_liberal_party: "НДА"
+ XSM_social_liberal_party_long: "Северо-западный демократический альянс"
+ XSM_market_liberal_party: "НДОА"
+ XSM_market_liberal_party_long: "Северо-западная демократическая автономия"
+ XSM_social_conservative_party: "Сининг CA"
+ XSM_social_conservative_party_long: "Гражданская администрация"
+ XSM_authoritarian_democrat_party: "Ningxia CDA"
+ XSM_authoritarian_democrat_party_long: "Нинксиа Администрация гражданской обороны"
+ XSM_paternal_autocrat_party: "Тяньшуй Ма"
+ XSM_paternal_autocrat_party_long: "Военное управление Тяньшуи"
+ XSM_national_populist_party: "Сечение MA"
+ XSM_national_populist_party_long: "Военное управление в Синьинге"
 
 
-### Companies ###
-lanzhou_arsenal: "Арсенал Ланчжоу"
-gansu_manufacturing_bureau: "Бюро по производству гансу"
-lanzhou_general_machinery_plant: "Станция общего машиностроения в Ланчжоу"
-yumen_oil: "&lt; &lt; Юмен ойл &gt; &gt;"
+ ### Companies ###
+ lanzhou_arsenal: "Арсенал Ланчжоу"
+ gansu_manufacturing_bureau: "Бюро по производству гансу"
+ lanzhou_general_machinery_plant: "Станция общего машиностроения в Ланчжоу"
+ yumen_oil: "&lt; &lt; Юмен ойл &gt; &gt;"
 
 
-### Head of Government ###
-XSM_Ma_Lin_hog_sco: "Ма Лин"
-XSM_Ma_Hongbin_hog_ade: "Ма Хонбин"
-XSM_Ma_Fuxiang_hog_pau: "Ма Фусян"
-XSM_Ma_Hongkui_hog_pau: "Ма Хонкуи"
-XSM_Ma_Bufang_hog_npo: "Ма Буфан"
+ ### Head of Government ###
+ XSM_Ma_Lin_hog_sco: "Ма Лин"
+ XSM_Ma_Hongbin_hog_ade: "Ма Хонбин"
+ XSM_Ma_Fuxiang_hog_pau: "Ма Фусян"
+ XSM_Ma_Hongkui_hog_pau: "Ма Хонкуи"
+ XSM_Ma_Bufang_hog_npo: "Ма Буфан"
 
-### Person of Influence ###
-## Foreign Minister
-XSM_Ma_Xizhen_for_sco: "Ма Сизен"
-XSM_Ma_Dunhou_for_ade: "Ма Данху"
-XSM_Hu_Songshan_for_pau: "Ху Соншан"
-XSM_Han_Youwen_for_npo: "Хан Ювен"
-## Economy Minister
-XSM_Ma_Burong_eco_sco: "Ма Буронг"
-XSM_Ma_Chengxiang_eco_ade: "Ма Ченсян"
-XSM_Ma_Xiancheng_eco_ade: "Ма Сяньчэн"
-XSM_Ma_Liang_eco_pau: "Ма Лян"
-XSM_Ma_Buqing_eco_npo: "Ма Букинг"
-## Security Minister
-XSM_Ma_Tingxian_sec_sco: "Ма Тингсян"
-XSM_Ma_Xiantu_sec_ade: "Ма Сянту"
-XSM_Ma_Biao_sec_pau: "Ма Биао"
-XSM_Ma_Bukang_sec_pau: "Ма Букан"
-XSM_Ma_Jiyuan_sec_npo: "Ма Цзюань"
-XSM_Ma_Tingxiang_sec_npo: "Ма Тиньсян"
+ ### Person of Influence ###
+ ## Foreign Minister
+ XSM_Ma_Xizhen_for_sco: "Ма Сизен"
+ XSM_Ma_Dunhou_for_ade: "Ма Данху"
+ XSM_Hu_Songshan_for_pau: "Ху Соншан"
+ XSM_Han_Youwen_for_npo: "Хан Ювен"
+ ## Economy Minister
+ XSM_Ma_Burong_eco_sco: "Ма Буронг"
+ XSM_Ma_Chengxiang_eco_ade: "Ма Ченсян"
+ XSM_Ma_Xiancheng_eco_ade: "Ма Сяньчэн"
+ XSM_Ma_Liang_eco_pau: "Ма Лян"
+ XSM_Ma_Buqing_eco_npo: "Ма Букинг"
+ ## Security Minister
+ XSM_Ma_Tingxian_sec_sco: "Ма Тингсян"
+ XSM_Ma_Xiantu_sec_ade: "Ма Сянту"
+ XSM_Ma_Biao_sec_pau: "Ма Биао"
+ XSM_Ma_Bukang_sec_pau: "Ма Букан"
+ XSM_Ma_Jiyuan_sec_npo: "Ма Цзюань"
+ XSM_Ma_Tingxiang_sec_npo: "Ма Тиньсян"
 
-### Chief of Staff ###
-XSM_Cai_Zuozhen_cos: "Кай Зуожен"
-XSM_Ma_Biao_cos: "Ма Биао"
-XSM_Ma_Bufang_cos: "Ма Буфан"
-XSM_Ma_Buqing_cos: "Ма Букинг"
-XSM_Ma_Hongkui_cos: "Ма Хонкуи"
-XSM_Ma_Tingxian_cos: "Ма Тингсян"
-XSM_Ma_Xuyuan_cos: "Ма Сююань"
+ ### Chief of Staff ###
+ XSM_Cai_Zuozhen_cos: "Кай Зуожен"
+ XSM_Ma_Biao_cos: "Ма Биао"
+ XSM_Ma_Bufang_cos: "Ма Буфан"
+ XSM_Ma_Buqing_cos: "Ма Букинг"
+ XSM_Ma_Hongkui_cos: "Ма Хонкуи"
+ XSM_Ma_Tingxian_cos: "Ма Тингсян"
+ XSM_Ma_Xuyuan_cos: "Ма Сююань"
 
-### Chief of Army ###
-XSM_Han_Youwen_carm: "Хан Ювен"
-XSM_Ma_Bukang_carm: "Ма Букан"
-XSM_Ma_Buyuan_carm: "Ма Буюань"
-XSM_Ma_Dunhou_carm: "Ма Данху"
-XSM_Ma_Lin_carm: "Ма Лин"
-XSM_Ma_Quanqin_carm: "Ма Кванцин"
-XSM_Ma_Weiguo_carm: "Ма Вейгу"
+ ### Chief of Army ###
+ XSM_Han_Youwen_carm: "Хан Ювен"
+ XSM_Ma_Bukang_carm: "Ма Букан"
+ XSM_Ma_Buyuan_carm: "Ма Буюань"
+ XSM_Ma_Dunhou_carm: "Ма Данху"
+ XSM_Ma_Lin_carm: "Ма Лин"
+ XSM_Ma_Quanqin_carm: "Ма Кванцин"
+ XSM_Ma_Weiguo_carm: "Ма Вейгу"
 
-### Chief of Navy ###
-XSM_Ma_Chengxiang_cnav: "Ма Ченсян"
+ ### Chief of Navy ###
+ XSM_Ma_Chengxiang_cnav: "Ма Ченсян"
 
-### Chief of Air Force ###
-XSM_Zhou_Zhikai_cair: "Чжоу Чжикаи"
+ ### Chief of Air Force ###
+ XSM_Zhou_Zhikai_cair: "Чжоу Чжикаи"
 
-### Characters ###
+ ### Characters ###
  XSM_liu_zhidan: "Лю Жидан"
 
  XSM_ma_lin: "Ма Лин"
@@ -157,7 +157,7 @@ XSM_Zhou_Zhikai_cair: "Чжоу Чжикаи"
 
  XSM_ma_wanfu_commander_desc: "Ма Ванфу вернулся из своего хаджа для того, чтобы привнести новые новшества в иматату Гансу в 1888 году, раскритиковав ортодоксальность Сидаотанга. Маанфу основал секту Ихевани, исламскую фундаменталистику Ханафи, которая противостояла бубалистским аспектам суфизма. Маанфу был создан в качестве парии, когда он поддерживал восстание Дугана в 1895 году, и был вынужден скрываться в течение десятилетий. Янг Цзэнксин арестовал и пытался унизить Маанфу до его казни в 1915 году, но губернатор Цинхай Ма Ци спас его и укрепил власть Ихевани в Цинхае. Ма Ки сделал Маанхай преподавателем Ма Буфанго, который, как утверждается, питал внфу Мабуфанге внгаху внутреннюю ненависть к Маанфу в Мабуфанге."
 
-### Traits ###
+ ### Traits ###
  XSM_hero_northwest: "Герой северо-западного региона"
  XSM_fundementalist: "Фундаментальный"
  XSM_modernist: "Модернист"

@@ -1,9 +1,9 @@
-l_russian:
+﻿l_russian:
 
-### Factions ###
+ ### Factions ###
  league_of_arab_states: "Лига арабских государств" #created by LOA_arab_parliament_effect effect
 
-### Parties ###
+ ### Parties ###
  SYR_vanguardist_party: "Привет."
  #Party of al-Hawrani -> could be used as a precursor for the Ba'ath maybe?:
  SYR_vanguardist_party_long: "Харакат аль-Иштиракен аль-Араб (Арабское социалистическое движение)"
@@ -48,36 +48,36 @@ l_russian:
  #Extreme nationalist party under the leadership of Antun Saadeh:
  SYR_national_populist_party_long: "&lt; &lt; Хизб аль-Сурьё аль-Кавми аль-Иджтима &gt; &gt; (Сирийская социальная националистическая партия)"
 
-### Pre-rework portraits not in the parties listed above
+ ### Pre-rework portraits not in the parties listed above
 
-# Nazik al-Abid
-# Female Syrian called 'Joan of Arc of the Arabs' who fought for emancipation and joined the Syrian army. The hell am I supposed to do with her? She's a nobody with 1 policy she fights for. Even a minister slot is too much for her.
+ # Nazik al-Abid
+ # Female Syrian called 'Joan of Arc of the Arabs' who fought for emancipation and joined the Syrian army. The hell am I supposed to do with her? She's a nobody with 1 policy she fights for. Even a minister slot is too much for her.
 
-# Sabri Al-Asali
-# A member of the National Bloc with little relevance until the late 50ies when he pushed for the Nasserist cause in Syria and in part caused the UAR. He's not in the top brass of the National Bloc and played second fiddle to the more important Quwaitli who also has a portrait. I guess he's useful for an election event in the 50ies?
+ # Sabri Al-Asali
+ # A member of the National Bloc with little relevance until the late 50ies when he pushed for the Nasserist cause in Syria and in part caused the UAR. He's not in the top brass of the National Bloc and played second fiddle to the more important Quwaitli who also has a portrait. I guess he's useful for an election event in the 50ies?
 
-# Muhammad al-Ashmar
-# Syrian Sheikh who was a commander in the Great Syrian Revolt and the Palestinian War. Islamist fundamentalist who opposed Shukri for being 'too liberal', for some miraculous reason became a communist later in life (likely just to protest the National Bloc) despite being against basically everything communism stands for. Euh? What slot is this guy supposed to be? Maybe has potential as a general but I honestly doubt it, not that we need any more of them either
+ # Muhammad al-Ashmar
+ # Syrian Sheikh who was a commander in the Great Syrian Revolt and the Palestinian War. Islamist fundamentalist who opposed Shukri for being 'too liberal', for some miraculous reason became a communist later in life (likely just to protest the National Bloc) despite being against basically everything communism stands for. Euh? What slot is this guy supposed to be? Maybe has potential as a general but I honestly doubt it, not that we need any more of them either
 
-# Michel Aflaq
-# Founder of the Ba'ath movement who is completely irrelevant in KR since his formative years in France don't happen and he is far too young to take over a nation in 1940 (the Ba'ath was only created otl in 1940 with the first real succes being close to 1950). No use for him
+ # Michel Aflaq
+ # Founder of the Ba'ath movement who is completely irrelevant in KR since his formative years in France don't happen and he is far too young to take over a nation in 1940 (the Ba'ath was only created otl in 1940 with the first real succes being close to 1950). No use for him
 
-# Ibrahim Hananu
-# Leader of the Hananu Revolt in Northern Syria just after the proclamation of the Mandate. After being released from jail in 1925, he became a prominent member of the National Bloc. Died otl in 1935 of tuberculosis. He could theoretically be given a sip from the Fountain of Youth and form the front of the Aleppan wing of the National Bloc...?
+ # Ibrahim Hananu
+ # Leader of the Hananu Revolt in Northern Syria just after the proclamation of the Mandate. After being released from jail in 1925, he became a prominent member of the National Bloc. Died otl in 1935 of tuberculosis. He could theoretically be given a sip from the Fountain of Youth and form the front of the Aleppan wing of the National Bloc...?
 
-# Sultan al-Atrash
-# Leader of the Jabal al-Druze and the Druze people living there. Didn't want any position in the Syrian government despite being offered and had as sole goal a Syria free from foreign tutelage in which the Jabal al-Druze was a de facto independent region. He would work together with al-Jazairi and al-Nashashibi but has no ambition to become HoS of Syria. Only use is perhaps as general?
+ # Sultan al-Atrash
+ # Leader of the Jabal al-Druze and the Druze people living there. Didn't want any position in the Syrian government despite being offered and had as sole goal a Syria free from foreign tutelage in which the Jabal al-Druze was a de facto independent region. He would work together with al-Jazairi and al-Nashashibi but has no ambition to become HoS of Syria. Only use is perhaps as general?
 
-### Coups ###
-# Anti-Egyptian nations will support al-Za'im (IRQ, OTT, PER)
-# Pro-Egyptian nations or nations that are pursuing Arab unification will support the National Bloc if Syria is democratic and Hinawi if not democratic (EGY, IRQ, HEJ)
-# Iraqi socdems will support al-Za'im and al-Hourani (but withdraw this support when it becomes apparent they are a bunch of corrupt twats) (IRQ)
-# If Syria is democratic, Iraq will support the Aleppan People's Party (IRQ)
-# Adib Shishakli will take over with the SSNP if the nation fails to stabilise after a regime change. They could potentially receive support from Saudi Arabia but this isn't guaranteed
-# The Internationale can either work together with al-Za'im if he goes after the pro-German officers or depose him through Hinawi (FRA, ENG)
-# The Reichspakt can either work together with al-Za'im if he goes after the pro-German officers or depose him through Hinawi (GER)
+ ### Coups ###
+ # Anti-Egyptian nations will support al-Za'im (IRQ, OTT, PER)
+ # Pro-Egyptian nations or nations that are pursuing Arab unification will support the National Bloc if Syria is democratic and Hinawi if not democratic (EGY, IRQ, HEJ)
+ # Iraqi socdems will support al-Za'im and al-Hourani (but withdraw this support when it becomes apparent they are a bunch of corrupt twats) (IRQ)
+ # If Syria is democratic, Iraq will support the Aleppan People's Party (IRQ)
+ # Adib Shishakli will take over with the SSNP if the nation fails to stabilise after a regime change. They could potentially receive support from Saudi Arabia but this isn't guaranteed
+ # The Internationale can either work together with al-Za'im if he goes after the pro-German officers or depose him through Hinawi (FRA, ENG)
+ # The Reichspakt can either work together with al-Za'im if he goes after the pro-German officers or depose him through Hinawi (GER)
 
-### Cosmetic Tags ###
+ ### Cosmetic Tags ###
  SYR: "Сирия"
  SYR_ADJ: "Сирийская"
  SYR_DEF: "Сирия"
@@ -145,10 +145,10 @@ l_russian:
  SYR_SSNP_national_populist: "Природная Сирия"
  SYR_SSNP_national_populist_DEF: "Природная Сирия"
 
-### Focuses ###
+ ### Focuses ###
  syria_focus: "Сирийское дерево фокуса"
 
-# Maintain the Status Quo #
+ # Maintain the Status Quo #
  SYR_status_quo: "Сохранять статус Quo"
  SYR_status_quo_desc: "Насколько мы помним, регион Сирии управляется ее городами и их могущественными семьями. Эти семьи, занимающие ключевые позиции как в бюрократической, так и в религиозной иерархии, служат покровителями для тех, кто менее настроен и формирует ядро сирийской гобелены. Европейская массовая политика, направленная на обеспечение прямого представительства народа, наносит вред сирийцам и, скорее всего, сделает всех нас жертвами бешеных марксистов, религиозных экстремистов или джингоистских брутов."
  SYR_egypt_cooperation: "Сотрудничество между Сирией и Египтом"
@@ -190,7 +190,7 @@ l_russian:
  SYR_palestnian_railroad: "Восточно-палестинская железнодорожная инициатива"
  SYR_palestnian_railroad_desc: "В целях дальнейшего развития транспорта к востоку от Иерусалима мы будем работать над созданием железнодорожной дороги в Восточной Палестине, которая будет направлена на подключение Аммана и других городов к остальной части Сирии, обеспечивая двойную выгоду от поощрения экономического роста и дальнейшей централизации нации в Дамаске."
 
-# A republic of Equals #
+ # A republic of Equals #
  SYR_republic_of_equals: "А Республика равноправия"
  SYR_republic_of_equals_desc: "Сирия является многообразным местом, и, хотя арабы контролируют большинство этнических групп, они не единственные, курды, турки, алавиты и, более того, все попадают под сирийский флаг."
  SYR_1940_census: "[Годовая] сирийская перепись"
@@ -226,11 +226,11 @@ l_russian:
  SYR_ghab_project: "Проект Габа"
  SYR_ghab_project_desc: "Хотя первоначальные инвестиции будут дорогостоящими, доступ к электроэнергии принесет нам бесчисленные социальные и экономические выгоды, превратив нас в современные страны мира."
 
-# An Army with a State
+ # An Army with a State
  SYR_army_with_a_state: "Армия с государством"
  SYR_army_with_a_state_desc: "Сирия должна стать местом полного военного господства, и наши военные должны обладать максимальной силой в наших делах, чтобы заставить наших врагов бояться нас."
 
-# Military Mandate #
+ # Military Mandate #
  SYR_military_mandate: "Военный мандат"
  SYR_military_mandate_desc: "Военные победили Сирию, и военные будут продолжать защищать ее."
  SYR_chief_agency: "Агентство по защите государственных секретов"
@@ -244,7 +244,7 @@ l_russian:
  SYR_1940_conscription_law: "Ввести в действие закон о призыве [начало]"
  SYR_1940_conscription_law_desc: "Мы должны разработать новый расширительный закон о призыве на военную службу для обеспечения того, чтобы не было недостатка в патриотах для защиты Сирии и ее народа."
 
-# Basic Principles #
+ # Basic Principles #
  SYR_basic_principles: "Следовать основным принципам"
  SYR_basic_principles_desc: "Рождение сирийского народа изменило Леванта, но это преобразование не зашло достаточно далеко."
  SYR_mandatory_education: "Обязательное образование"
@@ -278,7 +278,7 @@ l_russian:
  SYR_support_textile_industry: "Поддержка сирийской текстильной промышленности"
  SYR_support_textile_industry_desc: "Сирийские текстильные предприятия известны по всему миру за свою продукцию, оказывая помощь в модернизации и расширении этого экономического сектора, мы можем увеличить экспорт и доходы, возвращаемые правительству."
 
-# Defend Syrian National Interests #
+ # Defend Syrian National Interests #
  SYR_defend_natural_syria: "Защита естественной Сирии"
  SYR_defend_natural_syria_desc: "В то время как панарабские идеалы хороши, реальность на местах заключается в том, что эта цель в лучшем случае представляется труднодостижимой, и многие также не хотят видеть, как наша новая независимость просто переплетается в расширяющееся и вероятно конфликтующее арабское государство. В конечном итоге мы должны разъяснить нашу позицию, что мы должны сохранить то, что мы выиграли, и что мы прежде всего сирийское государство."
  SYR_greater_syrian_nationalism: "Большой сирийский национализм"
@@ -324,7 +324,7 @@ l_russian:
  SYR_syrian_naval_academy: "Открыть Сирийскую военно-морскую академию"
  SYR_syrian_naval_academy_desc: "Мы создадим военно-морскую академию, чтобы готовить будущих моряков к плаванию по морям и защищать наши интересы."
 
-# Leadership of the Arab Movement #
+ # Leadership of the Arab Movement #
  SYR_arab_leadership: "Предположительно лидерство Арабского движения"
  SYR_arab_leadership_desc: "В то время как другие могут претендовать на эту мантию, мы должны четко заявить, что мы являемся подлинными лидерами панарабского движения, мы уже являемся нацией, состоящей из многих различных народов, что делает нас более готовыми, чем другие, к созданию такой федерации."
  SYR_League_of_Arab_States: "Нашел Лигу арабских государств"
@@ -364,7 +364,7 @@ l_russian:
  SYR_cooperate_oman_muscat: "Сотрудничество с Оманом и Маскатом"
  SYR_cooperate_oman_muscat_desc: "Вдалеке от остальной части конфликтов в регионе, предпочитая держать себя в руках, народ Омана принадлежит к нашей нации, мы начнем предлагать своему правительству присоединиться к панарабскому движению."
 
-### Ideas ###
+ ### Ideas ###
  syr_lebanese_unrest: "Мт Ливанский конфликт"
  syr_lebanese_unrest_desc: "Ливанский регион Мт всегда был скованным перед губернаторами Османа в Сирии, и этот вопрос только ухудшился после провозглашения независимого сирийского государства, включая Ливан."
  syr_alawite_unrest: "Алавит неуспокоенный"
@@ -411,7 +411,7 @@ l_russian:
  SYR_lebanon_war_dont_call_allies: "Ливанская война"
  SYR_lebanon_war_dont_call_allies_desc: "Беспорядки в районе горы Ливан достигли своего пика, и Фуад Чехаб и армия его добровольцев объявили открытое восстание."
 
-### Tooltips ###
+ ### Tooltips ###
  syr_ban_parties_tooltip: "Это вызовет функционирование функционера §révolt§! против §Y [EGY.GetNameWithFlag]§! и вероятного §RCollapse§! монархии в §Y [SYR. GetNameWithFlag]§!"
  syr_end_lebanon: "Это может привести к функционированию §REvolt§! против §Y [SYR.GetNameWithFlag]§! и к провозглашению независимого государства в §CBeirut§!"
  syr_restore_democracy_tt: "*В фунт мощности* Texticon §Pemorial Government §! будет свергнута фунтами_perience §YSami al-Hinavi§!, которые откажутся от власти $pol_power $social_conservative_creservative$"
@@ -421,10 +421,10 @@ l_russian:
  syr_elections_30_days: "Выборы будут проведены в течение 30 дней"
  syr_elections_ongoing: "§! Продолжаются выборы"
 
-### Dynamic Modifiers ###
+ ### Dynamic Modifiers ###
  autonomous_region_syr: "Автономный район"
 
-### Decisions ###
+ ### Decisions ###
  SYR_rebellion_decisions: "Великий сирийский револьт"
  SYR_rebellion_decisions_desc: "Барабаны войны огромны по всей Великой Сирии, когда начинается последняя борьба за освобождение, начатая друзами Джабель-эль-Друзе, восстание быстро унесло всю оппозицию в Дамаске, но многое еще предстоит сделать, поскольку оттоманцы сильны в остальных санджаках."
 
@@ -440,12 +440,12 @@ l_russian:
  SYR_lebanon_independence_war: "Война за независимость Ливана"
  SYR_lebanon_independence_war_desc: "Весь сирийский регион все еще опустошен после кризиса в Леванте и голода, и этот конфликт не может затянуться слишком долго."
 
-### Introduction ###
+ ### Introduction ###
  SYR_guide: "Партия §! - §mamascene Wing§! (социальное_либеральное_цветное долл.) / §MAleppan Wing§! ($mark_либеральное_цветное долл.) - nwhite_dot Hail League of National Action, Leban Reform Party, и Народная партия образуют коалицию на первых сирийских выборах. - Nwhite_dot Когда Народная партия выиграет выборы, пусть аль-Джазайри станет президентом, чтобы иметь §lDamascene Wing§!"Re-open the Military Academies\" focus.\n\n§MNational Bloc§! ($social_conservative_coloured$)\n£white_dot Have the National Bloc comes out on top in the first Syrian elections.\n£white_dot Don't dismiss al-Za'im after completing the \"Re-open the Military Academies\" focus.\n£white_dot Still having the idea \"Mt Lebanon Conflict\" will cause a Lebanese revolt and allow us to play as them while doing the focus \"$SYR_abolish_mt_lebanon$\".\n\n§MMilitary Government§! ($paternal_autocrat_coloured$) / §MSyrian Social Nationalist Party§! ($national_populist_coloured$)\n£white_dot Dismiss al-Za'im after completing the \"Re-open the Military Academies\" focus.\n£white_dot To have the §PMilitary Government§! in power, complete \"The Military Mandate\" focus.\n£white_dot To have the §nSyrian Social Nationalist Party§! in power, complete the \"Pursue of Basic Principles\" focus. Still having the idea \"Mt Lebanon Conflict\" will cause a Lebanese revolt and allow us to play as them while doing the focus \"$SYR_syrian_assimilation$\".\n\n§MArab Kingdom of Syria§! ($authoritarian_democrat_coloured$)\n£white_dot Choose to turn Syria into an Egyptian puppet in \"The Status of Syria event\". This path will not allow us to choose from any of our foreign policy trees and will guarantee the Lebanese revolt.\n§CNote: This path is only playable by the AI.§!"
 
  SYR_guide_1: "Cedar Stands Tall - §MKR_game_rule_flag_LEB Ливан §! n yight_dot Либо идет по §MNational Bloc§!, либо §MSyrian Social Nationalist Party §! Путь и, завершая фокус \"$SYR_abolish_mt_lebanon$\" or \"$SYR_syrian_assimilation$\", respectively, while having the idea \"Mt Lebanon Conflict\", will result in a Lebanese rebellion, allowing us to play as them.\n\n$LEB_guide$"
 
-### Events ###
+ ### Events ###
  syrian_foreign_policy_events.1.t: "[SYR. GetNameDefCap] приглашает нас в Лигу арабских государств"
  syrian_foreign_policy_events.1.d: "Для укрепления единства арабских народов и их защиты от империалистических амбиций правительство Дамаска объявило о новой инициативе по укреплению экономических и дипломатических связей между различными арабскими государствами."Arab League\", this supranational organisation is without a doubt a tool of the Damascene government to extend their influence over the peninsula but it is also a genuine attempt by Arab nationalists to strive for a stronger and more prosperous Arabia."
  syrian_foreign_policy_events.1.a: "Мы с радостью примем это!"
@@ -459,7 +459,7 @@ l_russian:
  syrian_foreign_policy_events.3.d: "Гадкие собаки в [Фром.Гетнаме] решили, что совместное использование их водопроводной трубы с империалистическими торговцами обувью более достойно их времени, чем единство арабских народов, хотя маловероятно, что мы сможем изменить их мнение, толпа политиков по всей Сирии подняла свой голос против этой отвратительной предательства."
  syrian_foreign_policy_events.3.a: "Да погубит их Аллах!"
 
-## faction joining
+ ## faction joining
  syrian_foreign_policy_events.4.t: "Предложение [FROM."
  syrian_foreign_policy_events.4.d: "Посланник из [FROM.GetNameDef] прибыл сегодня в [ROOT. Capital. Get Capital Victory PointName], чтобы обсудить перспективы присоединения к [ROOT.GetFactionName]. Впустить их или нет?"
  syrian_foreign_policy_events.4.a: "Впустите их!"
@@ -473,7 +473,7 @@ l_russian:
  syrian_foreign_policy_events.6.d: "[FROM.GetNameDefCap] отклонил наше предложение и отказался от нашего вступления в их союз."
  syrian_foreign_policy_events.6.a: "Черт побери!"
 
-## Syrian Republic
+ ## Syrian Republic
  syrian_republic_events.1.t: "Провозглашение Сирийской Республики"
  syrian_republic_events.1.d: "В то время как основное поле боя в Левантийской войне, район Большой Сирии находится в полном беспорядке, ее политическая элита была разрушена убийствами, депортациями и казнями, поскольку месть за османную оккупацию осуществляется без милосердия партизанскими группами и арабскими националистами. Несмотря на то, что (ранее) суннитская каста, правившая Сирией на протяжении почти тысячи лет, многие из них осторожно пытаются найти свою опору на этом незнакомом ландшафте, поскольку власть семей, торговцев и землевладельцев в настоящее время зависит как от арабских нерегулярных лиц, бродящих по сельской местности, так и от египетской армии, пытающихся сгладить переход к стабильному, но «лояльному» правительству в Дамаске."
  syrian_republic_events.1.a: "Похоже, у нас для нас есть работа..."
@@ -615,9 +615,9 @@ l_russian:
  syrian_republic_events.35.d: "Так же, как и несколько месяцев назад, сирийские танки и грузовики прокатились по улицам Старого города в первые часы сегодняшнего дня, когда бывший друг и коллега Аль-Заима Адиб Ибн Хассана совершил свой собственный переворот. Несмотря на то, что сирийский диктатор был похищен из своего дома в Эль-Рауде у улицы Абу Руммане, испытывая в основном ту же участь, которую он причинил последнему демократическому президенту. Когда в 2 часа ночи солдаты пришли к нему домой, аз-Заим столкнулся с ними из своего балконного окна, только что вернувшись с благотворительного мяча в гостинице Блудан, устроенном сирийским Красным Полумесяцем. Они открыли огонь, промахнулись, ворвались в него и вытащили его в свою подделку, крича, как безумца. Фадлалалах Абу Мансур, один из офицеров, возглавлявших переворот, ударил сирийского президента по лицу."I tell you I am innocent.\" He then asked \"Who is behind the coup?\". Abu Mansour loaded his pistol and pressed it hard against his head, ‘If you don't shut up, I will blow your brains out!'\n\nUpon reaching an abandoned plot of land in Mezzeh, near the old cemetery, al-Za'im suffered just this fate. He was executed by firing squad, along with his prime minister and advisor, Muhsen al-Barazi, in the early hours of the day, with a total of 117 bullets fired into his body."
  syrian_republic_events.35.a: "Верховный Вождь мертв! Да здравствует Верховный Вождь!"
 
-#######################
-# GREAT SYRIAN REVOLT #
-#######################
+ #######################
+ # GREAT SYRIAN REVOLT #
+ #######################
  syrian_revolution_events.1.t: "Великий друзский револьт"
  syrian_revolution_events.1.d: "По мере продолжения войны с [EGY.GetNameDef] народ Леванта становится все более беспокойным и неуверенным, и именно против этого отступничества произошел последний провал турецкого правления, когда друза Сирии в условиях открытого восстания. Выгнав местный турецкий гарнизон и вооружившись, они вдохновляют всех арабов, находящихся под турецким правлением."
  syrian_revolution_events.1.a: "Они, должно быть, раздавлены!"
@@ -646,9 +646,9 @@ l_russian:
  syrian_revolution_events.8.d: "Поскольку пыль оседает в Дамаске, а последние остающиеся камеры закрываются с помощью бронированных машин и бронетехники Оттомана, похоже, что в скором времени в Сирии будет восстановлен порядок."
  syrian_revolution_events.8.a: "Хазза!"
 
-###########################
-# Yishuv Flavour (by Ido) #
-###########################
+ ###########################
+ # Yishuv Flavour (by Ido) #
+ ###########################
 
  yishuv_flavour_events.1.t: "Еврейский национальный совет возобновляет деятельность в мирное время"
  yishuv_flavour_events.1.d: "Еврейский национальный совет, действующий с момента создания МПЯ, управлял делами в Ишуве, множество еврейских поселений, которые были созданы в рамках сионистского движения, возобновили свою деятельность в мирное время после окончания войны в Палестине."
@@ -686,7 +686,7 @@ l_russian:
  yishuv_flavour_events.9.d: "Еврейский национальный фонд &quot; Керен Кайемет Л &quot; , известный своим акронимом &quot; Какал &quot; и его английским названием, начал кампанию посадки деревьев вокруг Палестины. &quot; Несмотря на то, что многие критикуют его попытки купить землю вокруг Палестины, обвиняя ее в краже земли, многие также приветствуют их насаждения деревьев из-за того, что Палестина исторически страдала от сильного обезлесения в последние столетия. &quot; Правительство &quot; указало, что оно будет следить за усилиями ПНФ по приобретению земли для ослабления возможной напряженности и поддержания региональной стабильности в Палестине."
  yishuv_flavour_events.9.a: "Похоже, это достаточно безобидно."
 
-### Characters ###
+ ### Characters ###
  SYR_akram_al_hourani: "Акрам аль-Хурани"
  SYR_akram_al_hourani_leader_desc: "§L1911, в Хаме, Вилайет Сирии, Оттоманская империя §!"
  SYR_khalid_bakdash: "Халид Бакдаш"

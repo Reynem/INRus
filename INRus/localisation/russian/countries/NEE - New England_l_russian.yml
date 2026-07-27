@@ -1,7 +1,7 @@
-l_russian:
+﻿l_russian:
 
 
-### Parties ###
+ ### Parties ###
  NEE_social_democrat_party: "Фермер-лаборатор"
  NEE_social_democrat_party_long: "Партия &quot; Фермер-Лабор &quot;"
  NEE_social_liberal_party: "Демократы (Lib.)"
@@ -11,7 +11,7 @@ l_russian:
  NEE_social_conservative_party: "Демократы (концерт)"
  NEE_social_conservative_party_long: "Демократическая партия - Консервативная Фракция"
 
-### Country Names ###
+ ### Country Names ###
  NEE: "Новая Англия"
  NEE_ADJ: "Новый англичанин"
  NEE_DEF: "Новая Англия"

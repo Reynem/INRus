@@ -1,8 +1,8 @@
-l_russian:
+﻿l_russian:
 
  uruguay_focus: "Уругвайское дерево фокуса"
 
-### Parties ###
+ ### Parties ###
  URG_vanguardist_party: "URU"
  URG_vanguardist_party_long: "Революционный союз &lt; &lt; Уругайя &gt; &gt;"
  URG_collectivist_party: "PSiU"
@@ -28,7 +28,7 @@ l_russian:
  URG_valkist_party: "Ультранационалисты"
  URG_valkist_party_long: "Ультранационалисты"
 
-### Companies ###
+ ### Companies ###
 
  ancap: "АНКАП"
  aeg_urg: "СЭГ Уругвай"
@@ -40,7 +40,7 @@ l_russian:
  ao_urg: "Восточная Астиллеро"
 
 
-### Characters ###
+ ### Characters ###
  URG_fractured_leadership: "Прерванное руководство"
 
  URG_joaquin_secco_illa: "Хоакин Секко Илла"

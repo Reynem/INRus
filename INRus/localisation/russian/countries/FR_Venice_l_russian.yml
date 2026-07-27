@@ -1,8 +1,8 @@
-l_russian:
+﻿l_russian:
 
-#doge
+ #doge
 
-### Parties ###
+ ### Parties ###
  SRV_social_democrat_party: "ППВ"
  SRV_social_democrat_party_long: "Партито Пополяре Венето"
  SRV_social_liberal_party: "PCL"
@@ -21,7 +21,7 @@ l_russian:
  SRV_valkist_party_long: "Lega Integralisti Veneti (валькист)"
 
 
-### Characters ###
+ ### Characters ###
  SRV_umberto_merlin: "Умберто Мерлин"
  SRV_giuseppe_volpi: "Джузеппе Вольпи"
  SRV_giovanni_ponti: "Джованни Понти"

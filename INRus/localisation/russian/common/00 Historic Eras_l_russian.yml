@@ -1,32 +1,32 @@
-l_russian:
+﻿l_russian:
 
-#Tooltips
-PROGRESSIVE_DEMOBILIZATION_TT: "Мы начнем §Y прогрессивную мобилизацию §!, сняв процент военных и гражданских предприятий, основанных на нашей промышленной энергии."
+ #Tooltips
+ PROGRESSIVE_DEMOBILIZATION_TT: "Мы начнем §Y прогрессивную мобилизацию §!, сняв процент военных и гражданских предприятий, основанных на нашей промышленной энергии."
 
-he_events_player.1.d: "Вторая Великая война окончена, но мир задерживает свое дыхание. Разоблаченные конфликтом идеологические разломы лишь углубились, разделив глобус на непримиримые блоки. Прямая конфронтация, возможно, прекратилась, но уже началась новая, более холодная война; соревнование за будущее ведётся в шепоте, угрозах и стычках между посредниками. Наша военная основа должна уступить место новой позиции; демобилизация необходима для сохранения сил на предстоящие неопределенные десятилетия. Эра полной войны, возможно, закончилась, но борьба за господство вечна."
+ he_events_player.1.d: "Вторая Великая война окончена, но мир задерживает свое дыхание. Разоблаченные конфликтом идеологические разломы лишь углубились, разделив глобус на непримиримые блоки. Прямая конфронтация, возможно, прекратилась, но уже началась новая, более холодная война; соревнование за будущее ведётся в шепоте, угрозах и стычках между посредниками. Наша военная основа должна уступить место новой позиции; демобилизация необходима для сохранения сил на предстоящие неопределенные десятилетия. Эра полной войны, возможно, закончилась, но борьба за господство вечна."
 
-#Laws
-historic_eras: "Историческая эра"
-historic_eras_desc: ""
-in_historic_eras_disable: "Отключено"
-he_warlord_period: "Военный период"
-he_warlord_period_desc: ""
-he_paxbritannia: "&lt; &lt; Пакс Британия эра &gt; &gt;"
-he_paxbritannia_desc: ""
-he_antebellum: "Межвоенная эра"
-he_antebellum_desc: ""
-he_second_great_war: "Вторая эпоха Великой войны"
-he_second_great_war_desc: ""
-he_cold_war: "Эпоха холодной войны"
-he_cold_war_desc: ""
-he_third_great_war: "Третья эпоха Великой войны"
-he_third_great_war_desc: ""
-he_the_long_peace: "Долгий мир"
-he_the_long_peace_desc: ""
+ #Laws
+ historic_eras: "Историческая эра"
+ historic_eras_desc: ""
+ in_historic_eras_disable: "Отключено"
+ he_warlord_period: "Военный период"
+ he_warlord_period_desc: ""
+ he_paxbritannia: "&lt; &lt; Пакс Британия эра &gt; &gt;"
+ he_paxbritannia_desc: ""
+ he_antebellum: "Межвоенная эра"
+ he_antebellum_desc: ""
+ he_second_great_war: "Вторая эпоха Великой войны"
+ he_second_great_war_desc: ""
+ he_cold_war: "Эпоха холодной войны"
+ he_cold_war_desc: ""
+ he_third_great_war: "Третья эпоха Великой войны"
+ he_third_great_war_desc: ""
+ he_the_long_peace: "Долгий мир"
+ he_the_long_peace_desc: ""
 
-#World Tension
-ERA_interwar_era_threat: "Межвоенная эра"
-ERA_second_great_war: "Вторая эпоха Великой войны"
-ERA_third_great_war: "Третья эпоха Великой войны"
-ERA_cold_war_peace: "Эпоха холодной войны"
-ERA_the_long_peace_threat: "Долгая эра мира"
+ #World Tension
+ ERA_interwar_era_threat: "Межвоенная эра"
+ ERA_second_great_war: "Вторая эпоха Великой войны"
+ ERA_third_great_war: "Третья эпоха Великой войны"
+ ERA_cold_war_peace: "Эпоха холодной войны"
+ ERA_the_long_peace_threat: "Долгая эра мира"

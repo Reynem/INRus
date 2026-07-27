@@ -1,8 +1,8 @@
 ﻿l_russian:
 
-### Political Parties ###
+ ### Political Parties ###
 
-### Parties ###
+ ### Parties ###
  SYR_vanguardist_party: "Привет."
  #Party of al-Hawrani -> could be used as a precursor for the Ba'ath maybe?:
  SYR_vanguardist_party_long: "&lt; &lt; Харакат аль-Иштаракиен аль-Араб &gt; &gt; (Арабское социалистическое движение)"
@@ -36,16 +36,16 @@
  SYR_national_populist_party: "ССНП"
  #Extreme nationalist party under the leadership of Antun Saadeh:
  SYR_national_populist_party_long: "Хизб ас-Сури аль-Кавми аль-Иджтимаи (Сирийская социальная националистическая партия)"
-SYR_valkist_party: "ССНП (V)"
+ SYR_valkist_party: "ССНП (V)"
  SYR_valkist_party_long: "Хизб аль-Сури аль-Кавми аль-Иджтимаи (Сирийская социальная националистическая партия &lt; &lt; Валькист крыло &gt; &gt; )"
 
-#Decisions
-SYR_announce_greater_syria_claims: "Объявление большего количества сирийских притязаний"
-SYR_expansionism: "Объявить войну [от имени]"
-SYR_expansionism2: "Объявить войну [от имени]"
-SYR_saddehs_vision: "Наши природные границы"
+ #Decisions
+ SYR_announce_greater_syria_claims: "Объявление большего количества сирийских притязаний"
+ SYR_expansionism: "Объявить войну [от имени]"
+ SYR_expansionism2: "Объявить войну [от имени]"
+ SYR_saddehs_vision: "Наши природные границы"
 
-### Characters ###
+ ### Characters ###
  SYR_akram_al_hourani: "Акрам аль-Хурани"
  SYR_khalid_bakdash: "Халид Бакдаш"
  SYR_said_al_jazairi: "Саид аль-Джазайри"

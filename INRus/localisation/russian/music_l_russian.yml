@@ -2,7 +2,7 @@
  #This file is needed in order to allow the vanilla main theme to work alongside the kr one. The game doesn't seem to like loading the theme, having it overwritten then loading the same song under a new name. It leads to broken loc for said song.
  maintheme: "Прошание Славиянки"
 
-## HOI4 Soundtrack
+ ## HOI4 Soundtrack
  # main_vanilla: "Основная тема - союзники"
  main_vanilla: "Основная тема"
  general_peace_1: "Сердца мужчин"
@@ -39,14 +39,14 @@
  comintern_war_2: "Тема Московского соглашения"
  comintern_war_3: "Великая патриотическая война"
 
-## HOI4 La Résistance Soundtrack
+ ## HOI4 La Résistance Soundtrack
  # resistance_spanish: "Импертеррита"
  resistance_spanish: "Неизбежно"
  resistance_french: "Либерте, Эгалите, братство"
  resistance_fascist: "Приближается буря"
  resistance_spying: "Плащ и кинжал"
 
-## HOI2 Soundtrack
+ ## HOI2 Soundtrack
  achtungpanzer: "Ахтунг Панзер!"
  astateofgrace: "Государство Грейс"
  happymarch: "Счастливого марша"
@@ -64,7 +64,7 @@
  war: "Война"
  variationsontherussianthem: "Изменения по российской теме"
 
-## HOI3 Soundtrack
+ ## HOI3 Soundtrack
  alliesfaction: "Союзники Фракция"
  alotofseactions: "Морские действия"
  axis1march: "Ось марша"

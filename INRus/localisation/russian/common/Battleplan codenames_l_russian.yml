@@ -1,4 +1,4 @@
-l_russian:
+﻿l_russian:
 
  o_strat_offensive_default: "Наступательная операция"
  o_strat_defensive_default: "Защитный приказ"
@@ -455,7 +455,7 @@ l_russian:
  o_tiger: "Тигр"
  o_shield: "Щит"
 
-### NFA
+ ### NFA
  o_strat_offensive_nfa: ""
  o_strat_defensive_nfa: ""
  o_strat_naval_nfa: ""
@@ -475,7 +475,7 @@ l_russian:
  o_papillon: "Папильон"
  o_pollux: "Поллукс"
 
-### CHI - Left Kuomintang
+ ### CHI - Left Kuomintang
  o_strat_offensive_chi: "НРА Операция стратегических наступательных потенциалов"
  o_strat_defensive_chi: "НРА Стратегическая оборонная операция"
  o_strat_naval_chi: "НРА Стратегическая операция по посадке"
@@ -498,7 +498,7 @@ l_russian:
  o_red_sword: "Красный меч"
  0_united: "РБ: ВР:"
 
-### SIA - Kingdom of Siam
+ ### SIA - Kingdom of Siam
  o_yutthakarn: "Юттакарн"
 
  # (Generic) Classical Names

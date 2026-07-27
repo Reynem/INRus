@@ -354,7 +354,7 @@
  mio_policy_navy_great_sea_keeping: "Великое море"
  mio_policy_navy_coastal_battlefleet: "Прибрежный боевой флот"
 
-### GENERIC TOOLTIPS FOR SPECIAL TRAITS ##
+ ### GENERIC TOOLTIPS FOR SPECIAL TRAITS ##
  generic_has_already_completed_this_trait: "Уже закончила эту черту в другой организации."
  generic_trait_will_not_be_available_in_other_organizations: "§RThis Trait больше не будет доступен в других организациях §!"
  generic_trait_can_only_be_assigned_once: "§C Эта черта может быть присвоена только одной организации §!"

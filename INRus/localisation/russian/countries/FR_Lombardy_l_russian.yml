@@ -1,4 +1,4 @@
-l_russian:
+﻿l_russian:
  
  LOM_social_democrat_party: "ЛДР"
  LOM_social_democrat_party_long: "&lt; &lt; Демократическая риформиста &gt; &gt;"
@@ -15,7 +15,7 @@ l_russian:
  LOM_national_populist_party: "МР"
  LOM_national_populist_party_long: "Lega Longobarda"
 
-### Characters ###
+ ### Characters ###
  LOM_adriano_visconti_regnal: "Адриано I"
 
  LOM_giacomo_acerbo: "Джакомо Асербо"

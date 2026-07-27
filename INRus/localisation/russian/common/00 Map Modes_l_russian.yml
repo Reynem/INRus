@@ -1,6 +1,6 @@
-l_russian:
+﻿l_russian:
 
-### Map Modes ###
+ ### Map Modes ###
  MAPMODE_CORES_CLAIMS_MAP_MODE: "§Y$MAPMODE_CLAIMS_MAP_MODE_NAME$§!"
  MAPMODE_CORES_CLAIMS_MAP_MODE_NAME: "Основные элементы/заявления"
  MAPMODE_CORES_CLAIMS_MAP_MODE_DESCRIPTION: "Показывает текущие ядра и претензии."

@@ -1,6 +1,6 @@
-l_russian:
+﻿l_russian:
 
-### Country Names ###
+ ### Country Names ###
  JBS: "Хаил"
  JBS_ADJ: "Хаилиан"
  JBS_DEF: "Хаил"
@@ -105,7 +105,7 @@ l_russian:
  JBS_subhan_ADJ: "Шаммари"
  JBS_subhan_DEF: "Хаил"
 
-### Parties ###
+ ### Parties ###
  JBS_vanguardist_party: "$HEJ_vanguardist_party$"
  JBS_vanguardist_party_long: "$HEJ_vanguardist_party_long$"
  JBS_collectivist_party: "$HEJ_vanguardist_party$"
@@ -125,7 +125,7 @@ l_russian:
  JBS_rashid_party: "*Рашёд*"
  JBS_subhan_party: "Субхан"
 
-### Tooltips ###
+ ### Tooltips ###
  jbs_peacefire: "§g Если таймер заканчивается, нация с §GPositive War Score§! будет §RAnnex§!"
  jbs_abdullah_goes_woop: "Силы §RDark начали двигаться против [JBS.Get Header].§!"
 
@@ -156,7 +156,7 @@ l_russian:
  jbs_may_lose_atf_tt: "Решение об отключении: фунт решения_icon_mall §Y$JBS_Ottoman_Assistance$!. Если мы уже примем это решение к тому времени, как будет сделан этот акцент, мы потеряем mapp §Y Военная фабрика §!"
  jbs_will_lose_atf_tt: "Так как АТФ не хочет устраивать шумиху с врагами Великого Порта, мы потеряем внекарту §Y Военная фабрика §!, предоставленную решением фунт решения_icon_маленький §Y$JBS_Ottoman_Weapons_Assistance §!"
 
-### Decisions ###
+ ### Decisions ###
  JBS_Ottoman_Favours: "Дипломатия с Великим Портом"
  JBS_Ottoman_Favours_desc: "Оттоманская империя, которую обычно называют Великим Портом, является нашим крупнейшим союзником в регионе, а также его самым сильным военным, хотя мы не должны ожидать от них прямого вмешательства, если саудовцы нападут, мы все же можем рассчитывать на благосклонность Султана во времена нужды."
 
@@ -192,17 +192,17 @@ l_russian:
  JBS_Sway_Awazim: "Отпустите CNYAWazim§!"
  JBS_Sway_Awazim_desc: "Как и утаим, авазим рассматривается как"inferior" tribe by the tribes of "blue blood" and are used to perform menial tasks or as slaves for their superiors. The Awazim in particular have a tough time as they are stuck between their "masters", the Ajman, and the Ottoman controlled city of Kuwait where their former benefactors have been removed by the Caliph.\n\nThey nonetheless form a potent military force of their own and could potentially be persuaded to join our coalition if we were to rid them of the Ajman threat."
 
-### Flags ###
+ ### Flags ###
  swaying_faisal: "Мы пытались убедить §YFaisal al Duwaish§!"
  swaying_busayis: "Мы пытались убедить CNYMishari Ibn Busayis§!"
  TPC_tt: "§Curkish Petroleum Company §! купила концессию §Yal Hasa§!"
  DAMAG_tt: "§CDAMAG§! купил концессию §Yal Hasa§!"
  War_of_Unification_Over: "Война за единство закончилась" #Used to avoid it reactivating
 
-### OOBs ###
+ ### OOBs ###
  JBS_Rajails: "Хаил Раджайлс"
 
-### Characters ###
+ ### Characters ###
  JBS_saud_bin_abd_al_aziz: "Сауд Ибн Абд аль-Азиц"
  JBS_saud_bin_abd_al_aziz_leader_desc: "§L1898, в Хаиле, эмират Джебель-Шаммар!"
  JBS_abdallah_ibn_talal_al_rashid: "Абдалла Ибн Талаль аль-Рашид"

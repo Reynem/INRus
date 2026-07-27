@@ -1337,14 +1337,14 @@
  endo_vp_12717: "Пешавар"
  endo_vp_5034: "Нуакшот"
 
-###############################################
-###                                         ###
-###           FOR RENAMING EVENTS           ###
-###                                         ###
-###############################################
+ ###############################################
+ ###                                         ###
+ ###           FOR RENAMING EVENTS           ###
+ ###                                         ###
+ ###############################################
 
  endo_vp_1086_isr: "Йерушалаим"
-##Europe
+ ##Europe
  endo_vp_6895_bulgarian: "Родосто"
  endo_vp_6895_turkish: "Текирдаг"
  endo_vp_185_estonian: "Курессааре"
@@ -1693,7 +1693,7 @@
  endo_vp_13736_polish: "Волковыск"
  endo_vp_13736_russian: "Волковский"
 
-##North America
+ ##North America
  endo_vp_853_spanish: "Феникс"
  endo_vp_13090_japanese: "Унарасука"
  endo_vp_13090_russian: "Уналашка"
@@ -1702,7 +1702,7 @@
  endo_vp_13203_japanese: "Джуно"
  endo_vp_13203_russian: "Дзюно"
 
-##South America
+ ##South America
  endo_vp_2156_quechua: "Пивра"
  endo_vp_2182_quechua: "Пуну"
  endo_vp_5120_quechua: "Лоха"
@@ -1729,7 +1729,7 @@
  endo_vp_13537_quechua: "Тарапуту"
  endo_vp_13674_quechua: "Арикипа"
 
-##Asia and Pacific Islands
+ ##Asia and Pacific Islands
  endo_vp_1143_mongolian: "Турфан"
  endo_vp_1143_uighur: "Турпан"
  endo_vp_1150_chinese: "Далян"
@@ -1903,7 +1903,7 @@
  endo_vp_13543_japanese: "Нишико"
  endo_vp_13543_thai: "Ко Мак"
 
-##Middle East
+ ##Middle East
  endo_vp_947_greek: "Проуса"
  endo_vp_947_russian: "Пруса"
  endo_vp_1007_greek: "Родос"
@@ -1934,7 +1934,7 @@
  endo_vp_13671_armenian: "Ардаган"
  endo_vp_13671_georgian: "Артанани"
 
-##Africa
+ ##Africa
  endo_vp_191_french: "Элизабетвиль"
  endo_vp_191_portuguese: "Мариана"
  endo_vp_1060_turkish: "Джагбаб"

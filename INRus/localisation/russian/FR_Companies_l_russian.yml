@@ -1,12 +1,12 @@
 ﻿l_russian:
 
-### Companies ###
+ ### Companies ###
 
-### Generic Companies ###
-generic_arms_company: "Компания Generic Arms"
-generic_tank_company: "Компания Generic Tank"
-generic_fighter_company: "Компания Generic Fighter"
-generic_artillery_company: "Компания Дженерик Артиллери"
-generic_industrial_company: "Промышленная компания Generic"
-generic_naval_company: "Компания General Naval"
-mining_company: "Горнодобывающая компания"
+ ### Generic Companies ###
+ generic_arms_company: "Производитель стрелкового оружия"
+ generic_tank_company: "Танкостроительная компания"
+ generic_fighter_company: "Авиастроительное бюро"
+ generic_artillery_company: "Артиллерийский концерн"
+ generic_industrial_company: "Промышленный концерн"
+ generic_naval_company: "Судостроительная верфь"
+ generic_mining_company: "Горнодобывающая компания"
