@@ -101,7 +101,7 @@
  small_plane_naval_bomber_airframe_3_short: "NAV III"
  small_plane_naval_bomber_airframe_3_desc: "Всеметаллические конструкции и мощные браслеты позволяют использовать более сложные военно-морские самолеты."
  CAS_equipment: "Поддержка при закрытых воздушных перевозках"
- cv_CAS_equipment: "Перевозчик &quot; КАС &quot;"
+ cv_CAS_equipment: "Перевозчик КАС"
  CAS_equipment_1: "Закрыть базу поддержки I"
  CAS_equipment_1_short: "КАС I"
  CAS_equipment_1_desc: "Наша доктрина CAS требует самолета, способного к точному поверхностному нападению. Хотя эти самолеты несут меньше полезной нагрузки по сравнению с нашими более крупными тактическими бомбардировщиками, они способны атаковать и уничтожать небольшие потенциальные цели посредством бомбардировок и ныряльщиков."
@@ -258,7 +258,7 @@
  ENG_heavy_fighter_equipment_2: "Бристольский боец"
  ENG_heavy_fighter_equipment_2_short: "Костюмчик"
  ENG_heavy_fighter_equipment_3: "ФБР Де Хавильленд Москито"
- ENG_heavy_fighter_equipment_3_short: "ФБР &quot; Москито &quot;"
+ ENG_heavy_fighter_equipment_3_short: "ФБР Москито"
  ENG_strat_bomber_equipment_1: "Handley Page Галифакс"
  ENG_strat_bomber_equipment_1_short: "Галифакс"
  ENG_strat_bomber_equipment_2: "Авро Ланкастер"
@@ -370,11 +370,11 @@
  NZL_heavy_fighter_equipment_3: "ФБР Де Хавильленд Москито"
  SAF_heavy_fighter_equipment_3: "ФБР Де Хавильленд Москито"
  RAJ_heavy_fighter_equipment_3: "ФБР Де Хавильленд Москито"
- CAN_heavy_fighter_equipment_3_short: "ФБР &quot; Москито &quot;"
- AST_heavy_fighter_equipment_3_short: "ФБР &quot; Москито &quot;"
- NZL_heavy_fighter_equipment_3_short: "ФБР &quot; Москито &quot;"
- SAF_heavy_fighter_equipment_3_short: "ФБР &quot; Москито &quot;"
- RAJ_heavy_fighter_equipment_3_short: "ФБР &quot; Москито &quot;"
+ CAN_heavy_fighter_equipment_3_short: "ФБР Москито"
+ AST_heavy_fighter_equipment_3_short: "ФБР Москито"
+ NZL_heavy_fighter_equipment_3_short: "ФБР Москито"
+ SAF_heavy_fighter_equipment_3_short: "ФБР Москито"
+ RAJ_heavy_fighter_equipment_3_short: "ФБР Москито"
  CAN_strat_bomber_equipment_1: "Handley Page Галифакс"
  AST_strat_bomber_equipment_1: "Handley Page Галифакс"
  NZL_strat_bomber_equipment_1: "Handley Page Галифакс"
@@ -679,7 +679,7 @@
  USA_jet_tac_bomber_equipment_2_short: "XB-51"
  USA_small_plane_naval_bomber_airframe_1: "Дуглас XTBD-1"
  USA_small_plane_naval_bomber_airframe_1_short: "XTBD-1"
- USA_small_plane_naval_bomber_airframe_2:1 "Мститель ТБФ &quot; Грумман &quot;"
+ USA_small_plane_naval_bomber_airframe_2:1 "Мститель ТБФ Грумман"
  USA_small_plane_naval_bomber_airframe_2_short:1 "Мститель ТБФ"
  USA_small_plane_naval_bomber_airframe_3: "Douglas BTD Destroyer"
  USA_small_plane_naval_bomber_airframe_3_short: "BTD Разрушитель"
@@ -691,7 +691,7 @@
  USA_CAS_equipment_3_short: "SB2C Хеллдивер"
  USA_cv_small_plane_naval_bomber_airframe_1: "Douglas TBD Devastator"
  USA_cv_small_plane_naval_bomber_airframe_1_short: "TBD Devastator"
- USA_cv_small_plane_naval_bomber_airframe_2: "Мститель &quot; Грумман ТБФ-1С &quot;"
+ USA_cv_small_plane_naval_bomber_airframe_2: "Мститель Грумман ТБФ-1С"
  USA_cv_small_plane_naval_bomber_airframe_2_short: "TBF-1C Мститель"
  USA_cv_small_plane_naval_bomber_airframe_3: "Сводный морской волк TBY"
  USA_cv_small_plane_naval_bomber_airframe_3_short: "ТБЙ Морской Волк"
@@ -899,7 +899,7 @@
  ITA_cv_CAS_equipment_2_short: "Re.2001G/H Falco II"
  ITA_cv_CAS_equipment_3: "Бреда Ба.201бис"
  ITA_cv_CAS_equipment_3_short: "Ба 201-бис"
- ITA_cv_fighter_equipment_0: "&quot; Фиат МКПТ32 &quot;"
+ ITA_cv_fighter_equipment_0: "Фиат МКПТ32"
  ITA_cv_fighter_equipment_0_short: "МГП.32"
  ITA_cv_fighter_equipment_1: "Macchi IC.200"
  ITA_cv_fighter_equipment_1_short: "IC.200"
@@ -981,7 +981,7 @@
  ###Planes###
  # Australia
  AST_fighter_equipment_1: "CAC CA-12 Бумеранг"
- AST_fighter_equipment_1_short: "КБК &quot; Бумеранг &quot;"
+ AST_fighter_equipment_1_short: "КБК Бумеранг"
  AST_fighter_equipment_2: "CAC Mustang"
  AST_fighter_equipment_2_short: "CA-17"
  AST_fighter_equipment_3: "CAC CA-15 Kangaroo"
@@ -989,12 +989,12 @@
  AST_CAS_equipment_1: "CAC Wirraway"
  AST_CAS_equipment_1_short: "CA-1"
  AST_CAS_equipment_2: "CAC CA-11 Вумера"
- AST_CAS_equipment_2_short: "КБК &quot; Вумера &quot;"
+ AST_CAS_equipment_2_short: "КБК Вумера"
  AST_CAS_equipment_3: "Бристольский боец"
  AST_CAS_equipment_3_short: "Костюмчик"
  
- AST_jet_fighter_equipment_2: "САК &quot; Сабре &quot;"
- AST_jet_fighter_equipment_2_short: "САК &quot; Сабре &quot;"
+ AST_jet_fighter_equipment_2: "САК Сабре"
+ AST_jet_fighter_equipment_2_short: "САК Сабре"
  
  #Argentinia
  
@@ -1162,7 +1162,7 @@
 
  HOL_heavy_fighter_equipment_1: "Fokker G.1 Ртуть"
  HOL_heavy_fighter_equipment_1_short: "Fokker G.1M"
- HOL_heavy_fighter_equipment_2: "&quot; Фоккер G.1 ос &quot;"
+ HOL_heavy_fighter_equipment_2: "Фоккер G.1 ос"
  HOL_heavy_fighter_equipment_2_short: "Fokker G.1W"
 
  HOL_fighter_equipment_0: "Фоккер Д.XVII"
@@ -1296,7 +1296,7 @@
  SWE_cv_CAS_equipment_1: "ASJA Hawker Osprey"
  SWE_cv_CAS_equipment_1_short: "ASJA Osprey"
 
- SWE_tac_bomber_equipment_0: "КМК &quot; Фоккер &quot; C.V S/J-3"
+ SWE_tac_bomber_equipment_0: "КМК Фоккер C.V S/J-3"
  SWE_tac_bomber_equipment_0_short: "ПТрМ S/J-3"
  SWE_tac_bomber_equipment_1: "SAAB Ju-86K"
  SWE_tac_bomber_equipment_1_short: "Ju-86K"
@@ -1330,8 +1330,8 @@
  
  # Turkish planes, all fictional, licence, or fictional licence builds
  
- TUR_fighter_equipment_0: "Ястреб &quot; Тамтас &quot;"
- TUR_fighter_equipment_0_short: "Ястреб &quot; Тамтас &quot;"
+ TUR_fighter_equipment_0: "Ястреб Тамтас"
+ TUR_fighter_equipment_0_short: "Ястреб Тамтас"
  TUR_fighter_equipment_1: "Ураган Тамтас"
  TUR_fighter_equipment_1_short: "Ураган Тамтас"
  TUR_fighter_equipment_2: "THK Fw 190"

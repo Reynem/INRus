@@ -5,7 +5,7 @@
  ARG_collectivist_party: "ППТС"
  ARG_collectivist_party_long: "Партия Колективиста Аргентино"
  ARG_libertarian_socialist_party: "ФАКА"
- ARG_libertarian_socialist_party_long: "Федерация &quot; Анарко-Колективиста &quot; , Аргентина"
+ ARG_libertarian_socialist_party_long: "Федерация Анарко-Колективиста , Аргентина"
  ARG_social_democrat_party: "Социалистическая партия Аргентино"
  ARG_social_democrat_party_long: "Социалистическая партия Аргентино"
  ARG_social_liberal_party: "UCR"
@@ -309,7 +309,7 @@
  ARG_support_bolivian_socialists_desc: "Храбрые и революционные социалисты Боливии оказались почти полезными в своих попытках сломать цепи, к сожалению, они потерпели неудачу, но мы добились успеха, и мы вновь поддержим их попытки."
  ARG_liberate_bolivian_workers: "Освободительные боливийские рабочие"
  ARG_liberate_bolivian_workers_desc: "Ожидание окончено, мы знаем, что должны сделать."revolutionary" ethno-nationalists that imprison Bolivia, and break their chains."
- ARG_bolster_eastern_socialism: "&quot; Болстер восточная социализм &quot;"
+ ARG_bolster_eastern_socialism: "Болстер восточная социализм"
  ARG_bolster_eastern_socialism_desc: "Олигархия по-прежнему сильна среди нашей братской страны, восточной республики, которая является Уругваем, и мы много с ними делимся, и мы будем поддерживать наших пролетариатских братьев в их борьбе."
  ARG_bring_the_revolution_to_uruguay: "Привести революцию в Уругвай"
  ARG_bring_the_revolution_to_uruguay_desc: "Настало время освободить наших братьев, освободить уругвайского работника."
@@ -513,9 +513,9 @@
  ##events###
 
  arg.1.t: "Аргентина в 1936 году"
- arg.1.d: "В 1934 году, после того как ОКР победила против коалиции оппозиционных партий, Энрике Мартинес взял на себя обязанности президента, поскольку Боливия готовилась к победе в их конфликте с Парагваем, Мануэль Домекк, военный министр, и видный член националистической группы, известной как &quot; Лига Патриотика Аргентина &quot; , или ЛПА, воспользовался своим влиянием в недавно избранном президенте Мартинесе, который добивался дальнейшего одобрения, объявил войну Боливии по обвинениям,"maintaining order in the region". Domecq and the LPA sought to establish Argentinian hegemony in the region, while the UCR just wanted to increase their approval in a increasingly divided society. Nonetheless, the whole country united in support of the war effort.\n\nIt was a disaster, low in morale due to the poorly justified conflict, and just generally unprepared, the Argentinian military suffered elevated losses. While conscription allowed many of these to not alter the war effort, it altered our society. When Brazil saw the opportunity and demanded the war ended, and to return peace to the region, the government just accepted. Internally, the pressure of the anti-war collectivist and unionist movements was too strong, and threats of revolt remained in the government's mind.\nNow, the country is more divided politically than ever, as the memories of the war shape our politics and general discontent remains, almost nothing was won, yet we lost so much for it.\n\nAt least the economy's been doing good."
+ arg.1.d: "В 1934 году, после того как ОКР победила против коалиции оппозиционных партий, Энрике Мартинес взял на себя обязанности президента, поскольку Боливия готовилась к победе в их конфликте с Парагваем, Мануэль Домекк, военный министр, и видный член националистической группы, известной как Лига Патриотика Аргентина , или ЛПА, воспользовался своим влиянием в недавно избранном президенте Мартинесе, который добивался дальнейшего одобрения, объявил войну Боливии по обвинениям,"maintaining order in the region". Domecq and the LPA sought to establish Argentinian hegemony in the region, while the UCR just wanted to increase their approval in a increasingly divided society. Nonetheless, the whole country united in support of the war effort.\n\nIt was a disaster, low in morale due to the poorly justified conflict, and just generally unprepared, the Argentinian military suffered elevated losses. While conscription allowed many of these to not alter the war effort, it altered our society. When Brazil saw the opportunity and demanded the war ended, and to return peace to the region, the government just accepted. Internally, the pressure of the anti-war collectivist and unionist movements was too strong, and threats of revolt remained in the government's mind.\nNow, the country is more divided politically than ever, as the memories of the war shape our politics and general discontent remains, almost nothing was won, yet we lost so much for it.\n\nAt least the economy's been doing good."
  arg.1.a: "По крайней мере, экономика идет хорошо."
- arg.2.t: "&quot; Лондонский рынок &quot; прибывает в Аргентину"
+ arg.2.t: "Лондонский рынок прибывает в Аргентину"
  arg.2.d: "По мере того, как наша страна, казалось, постепенно улучшает свою внутреннюю ситуацию, появляется другая страна, и с ней происходит большая трагедия. ~В то время как Лондонский фондовый рынок прибыл в Аргентину, и с большим влиянием англичане в нашей экономике наша страна пробудится с хаосом, когда восходит солнце, и наша экономика падает, паника и предстоящий хаос начинают ощущаться нашим населением. черный восход солнца для нашей нации."
  arg.2.a: "Вот дерьмо."
  arg.3.t: "В условиях кризиса начинаются крупные протесты"
@@ -728,7 +728,7 @@
 
 
  arg.250.t: "Разделились в Коллегиационной партии"
- arg.250.d: "Недавний политический раскол произошел. Члены Коллегионистской партии Аргентины, известной как &quot; авангардистская фракция &quot; , разделились и сформировали свою собственную партию - Партию &quot; Вангард &quot; , основанную на идеологии социализма. Несмотря на то, что эта идеологическая пропасть основана на крайних идеях, которые предлагает их идеология, некоторые из которых считаются ревизионистами ортодоксальными группами, например создание централизованного, высоко авторитарного и контролирующего социалистического государства, возглавляемого авангардной партией, в качестве конечной цели для их бренда социализма. В то время как коллективисты жалуются на это разделение, анархисты в коллективе проявляют оптимизм в отношении этого нового развития, расколотой коллективистской партии, дающей им больше шансов представить свои собственные идеи на предстоящем Конгрессе в следующем году."
+ arg.250.d: "Недавний политический раскол произошел. Члены Коллегионистской партии Аргентины, известной как авангардистская фракция , разделились и сформировали свою собственную партию - Партию Вангард , основанную на идеологии социализма. Несмотря на то, что эта идеологическая пропасть основана на крайних идеях, которые предлагает их идеология, некоторые из которых считаются ревизионистами ортодоксальными группами, например создание централизованного, высоко авторитарного и контролирующего социалистического государства, возглавляемого авангардной партией, в качестве конечной цели для их бренда социализма. В то время как коллективисты жалуются на это разделение, анархисты в коллективе проявляют оптимизм в отношении этого нового развития, расколотой коллективистской партии, дающей им больше шансов представить свои собственные идеи на предстоящем Конгрессе в следующем году."
  arg.250.a: "Нам все равно не понравились эти парни."
  arg.251.t: "Реюниты UCR"
  arg.251.d: "После 15 лет раздельного существования радикальная антиличностная партия Союза Чивица объявила вместе с оригинальной ОЦР, что они воссоединится и как таковые приведут в Аргентину более сильный, менее фракционистский радикализм. ~ Всюду рассматривали политический шаг, основанный на недавнем росте нерадикальных групп в нашей политической среде, многие считают, что это может привести к изменениям в партии, которая нуждается в надлежащей конкуренции на следующих выборах, которые нам предстоит провести."
@@ -1198,7 +1198,7 @@
  ypf: "ФИФ"
  fabricaciones_militares: "Фабриканские милитары"
  hispano_argentina: "Испано-Аргентина"
- seccion_industrial_amasadoras_mecanicas: "Промышленное отделение &quot; Амасадорас меканикас &quot;"
+ seccion_industrial_amasadoras_mecanicas: "Промышленное отделение Амасадорас меканикас"
  fabrica_militar_aviones: "Милитар-де-Авион"
  afne: "АФНЕ"
  astarsa: "АСТАРСА"

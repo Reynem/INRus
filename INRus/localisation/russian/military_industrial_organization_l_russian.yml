@@ -217,7 +217,7 @@
  INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_ITEM_WITH_CAPACITY_FULL: "$INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_ITEM$: (Task capacity: $TASKS|R$/$CAPACITY|R$)"
  INDUSTRIAL_ORG_AVAILABLE_MIOS: "$TOTAL|H$"
 
- INDUSTRIAL_ORG_TOOLTIP_PRODUCTION_TASK_INFO: "Предоставление &quot; § &quot; военно-промышленной организации &quot; ! &quot; Производственная линия &quot; будет начислять производственные премии на эту линию."
+ INDUSTRIAL_ORG_TOOLTIP_PRODUCTION_TASK_INFO: "Предоставление § военно-промышленной организации ! Производственная линия будет начислять производственные премии на эту линию."
  INDUSTRIAL_ORG_TOOLTIP_RESEARCH_TASK_INFO: "Поручение военно-промышленной организации §!"
 
  ###################################################################################################
@@ -571,7 +571,7 @@
  generic_mio_trait_raiding_cruisers: "Нападающие круизеры"
  generic_mio_trait_raiding_submarines: "Подводные лодки"
  generic_mio_trait_spotting_tops: "Скачивающиеся вершины"
- generic_mio_trait_large_torpedo_banks: "Большие &quot; Торпедо Бэнкс &quot;"
+ generic_mio_trait_large_torpedo_banks: "Большие Торпедо Бэнкс"
  generic_mio_trait_mass_produced_raiders: "Массовые рейдеры"
 
  ##############################
@@ -600,13 +600,13 @@
  ### GREEN WATER SHIP MANUFACTURER ###
  #####################################
  generic_small_fleet_organization: "Изготовитель судна Зеленая вода"
- generic_mio_initial_trait_small_fleet_designer: "Проектировщик судна &quot; Зеленая вода &quot;"
+ generic_mio_initial_trait_small_fleet_designer: "Проектировщик судна Зеленая вода"
  generic_mio_trait_submarine_hunters_black_sea: "Охотники на подводные лодки"
  generic_mio_trait_efficient_patrolling_scheme: "Система эффективного патрулирования"
  generic_mio_trait_advanced_sub_scanners: "Усовершенствованные субсканеры"
  generic_mio_trait_high_altitute_catapult: "Высоковольтный Катапульт"
  generic_mio_trait_light_armor_piercing_guns: "Пистолеты"
- generic_mio_trait_brass_case_reloader: "Перезагрузчик &quot; Брасс-Кейс &quot;"
+ generic_mio_trait_brass_case_reloader: "Перезагрузчик Брасс-Кейс"
  generic_mio_trait_anti_air_defense: "Антивоздушная оборона"
  generic_mio_trait_heavy_guns: "Тяжелые пушки"
  generic_mio_advanced_periscope: "Усовершенствованный перископ"

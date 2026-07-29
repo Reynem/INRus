@@ -137,7 +137,7 @@
  JBS_urban_nobility_decrease_support_tt: "§YUrban Nobility§! Поддержка будет §Runication§!, что будет иметь следующие последствия:"
 
  jbs_destroy_ikhwan_tt: "§ §YYhhwan§! поднимет свой флаг в восстании, если они еще не были ознакомлены с §!"
- jbs_integrate_central_najd_tt: "§R. &quot; §YPro-Саудовские лоялисты &quot; поднимут свой флаг в восстании, если они еще не сделали этого ранее &quot; §! &quot; ."
+ jbs_integrate_central_najd_tt: "§R. §YPro-Саудовские лоялисты поднимут свой флаг в восстании, если они еще не сделали этого ранее §! ."
  jbs_fundamental_provisions_tt: "§ [JBS. GetNameWithFlag]§! и § § [HEJ. GetNameWithFlag]§! будут объединены в §Cingular State §!"
  jbs_constituent_assembly_tt: "§Y [JBS.GetNameWithFlag]§! и § §Y [HEJ.GetNameWithFlag]§! будут править как два §Celective States§!, а разделенные внутренние и иностранные департаменты будут управляться в §Cersonal Union §! согласно [JBS.Get Header]."
  jbs_majlis_tt: "Если мы будем контролировать §YHejaz§!, мы получим следующие эффекты:§!"

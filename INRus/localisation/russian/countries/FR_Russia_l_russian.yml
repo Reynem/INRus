@@ -109,7 +109,7 @@
  rusflav.1.d: "Наша дипломатическая изоляция продолжается слишком долго, и многие советники в стране стремятся к установлению более тесных связей с американцами по всему Тихому океану."
 
  ###Opinion Modifiers###
- RUS_allied_support: "&quot; Белая русско-западная торговля &quot;"
+ RUS_allied_support: "Белая русско-западная торговля"
  RUS_white_russians_together: "Запад и Восток против большевизма"
 
  ### Flags####
@@ -354,7 +354,7 @@
  RUS_minimum_wage_desc: ""
  RUS_free_thought: "Пропаганда свободного мышления"
  RUS_free_thought_desc: ""
- RUS_end_discrimanation_minorities: "&quot; Прекращение дискриминации в отношении меньшинств &quot;"
+ RUS_end_discrimanation_minorities: "Прекращение дискриминации в отношении меньшинств"
  RUS_end_discrimanation_minorities_desc: ""
  RUS_nationalize_land: "Национализация земли"
  RUS_nationalize_land_desc: ""

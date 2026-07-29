@@ -492,7 +492,7 @@
  sp_nuclear_design_choice_reward_heavy_water: "Тяжелая вода будет дешевле."
  sp_nuclear_major_breakthrough_reward: "Крупный прорыв в ядерной реакции"
  sp_nuclear_major_breakthrough_reward_desc: "Контролируемый эксперимент с некоторыми из наших ограниченных ядерных материалов продемонстрировал осуществимость нашей планируемой конструкции, что с новым энтузиазмом подтолкнуло проект."
- sp_nuclear_isotope_separation_choice_reward: "Помещения для прекращения службы по принципу &quot; изотопа &quot;"
+ sp_nuclear_isotope_separation_choice_reward: "Помещения для прекращения службы по принципу изотопа"
  sp_nuclear_isotope_separation_choice_reward_desc: "Для того чтобы обеспечить наши реакторы ядерным топливом, нам необходимо принять решение о процессе отделения полезных изотопов урана от остальных."
  sp_nuclear_isotope_separation_choice_reward_gaseous: "Газообразная технология доказана."
  sp_nuclear_isotope_separation_choice_reward_centrifugal: "Центрифуги будут более эффективными в долгосрочной перспективе."
@@ -1061,9 +1061,9 @@
  sp_air_generic_reward_scientist_xp_2: "Расширение теоретических знаний"
  sp_air_generic_reward_scientist_xp_3: "Беспредельные открытия"
  sp_air_generic_reward_air_xp_1: "Дыхание свежего воздуха"
- sp_air_generic_reward_air_xp_2: "&quot; Взрыв новаторства &quot;"
+ sp_air_generic_reward_air_xp_2: "Взрыв новаторства"
  sp_air_generic_reward_air_xp_3: "Ветер перемен"
- sp_air_generic_reward_major_progress_1: "Проект &quot; Взлет &quot;"
+ sp_air_generic_reward_major_progress_1: "Проект Взлет"
  sp_air_generic_reward_major_progress_2: "Эксперт по посадке"
  sp_air_generic_reward_major_progress_3: "Генийский порыв"
  sp_air_generic_reward_test_failure_1: "Экспериментальная фелл-флат"
@@ -1071,7 +1071,7 @@
  sp_air_generic_reward_test_failure_3: "Творческая катастрофа"
 
  # Bouncing Bomb
- sp_air_bouncing_bomb_backspin_mechanism_reward: "Механизм &quot; задний план &quot;"
+ sp_air_bouncing_bomb_backspin_mechanism_reward: "Механизм задний план"
  sp_air_bouncing_bomb_backspin_mechanism_reward_desc: "Наши ученые придумали гениальное решение, чтобы стабилизировать бомбу, как только она упала."
  sp_air_bouncing_bomb_backspin_mechanism_reward_option: "Отлично."
 
@@ -1169,7 +1169,7 @@
  sp_air_jet_tactical_bomber_free_design: "Средняя авиамашина"
  sp_air_jet_fighter_free_design: "Маленькая авиамашина"
  sp_air_air_equipment_tech_bonus: "Специальные проекты - авиационные бонусы"
- sp_air_medium_air_tech_bonus: "Специальные проекты - &quot; Средние авиационные бонусы &quot;"
+ sp_air_medium_air_tech_bonus: "Специальные проекты - Средние авиационные бонусы"
  sp_air_light_air_tech_bonus: "Специальные проекты - Бонус для легких воздушных судов"
 
  ###### SPECIAL PROJECT TAGS ########

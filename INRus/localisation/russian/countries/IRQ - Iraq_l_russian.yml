@@ -67,11 +67,11 @@
 
  ### Parties ###
  IRQ_vanguardist_party: "HSI"
- IRQ_vanguardist_party_long: "&quot; Хизб пепел &quot; , &quot; Ираки &quot; (Социалистическая партия Ирака)"
+ IRQ_vanguardist_party_long: "Хизб пепел , Ираки (Социалистическая партия Ирака)"
  IRQ_collectivist_party: "HSI"
- IRQ_collectivist_party_long: "&quot; Хизб пепел &quot; , &quot; Ираки &quot; (Социалистическая партия Ирака)"
+ IRQ_collectivist_party_long: "Хизб пепел , Ираки (Социалистическая партия Ирака)"
  IRQ_libertarian_socialist_party: "HSI"
- IRQ_libertarian_socialist_party_long: "&quot; Хизб пепел &quot; , &quot; Ираки &quot; (Социалистическая партия Ирака)"
+ IRQ_libertarian_socialist_party_long: "Хизб пепел , Ираки (Социалистическая партия Ирака)"
  IRQ_social_democrat_party: "Джамаат аль-Ахли"
  IRQ_social_democrat_party_long: "Джамаат аль-Ахли (Группа Аль-Ахли )"
  IRQ_social_liberal_party: "HWD"
@@ -158,7 +158,7 @@
  IRQ_Program_Redistribution_Miri_Land_desc: "Мири - это вид собственности на землю, который мы унаследовали от старой Османской империи, что соответствует сельскохозяйственным землям, арендованным у правительства для использования крестьянами."
  IRQ_Model_Villages_Program: "Проект создания образцовых деревень"
  IRQ_Model_Villages_Program_desc: "В рамках нашей программы повышения уровня жизни населения начнется осушение болот и создание защитных сооружений для деревень от вредного воздействия болот на болота с использованием прототипов образцовых деревень, которые опробуют наши возможные решения."
- IRQ_Parks_And_Hospitals_Program: "Проект &quot; Парки и больницы &quot;"
+ IRQ_Parks_And_Hospitals_Program: "Проект Парки и больницы"
  IRQ_Parks_And_Hospitals_Program_desc: "Общественное здравоохранение предполагает широкое участие городских планировщиков. Обустройство парков в наших городах и городах обеспечит людям здоровое пространство для общения, в то время как распространение больниц на нашей территории обеспечит благополучие для всех."
  IRQ_Tribal_Civil_and_Criminal_Disputes_Regulation: "Регулирование гражданских и уголовных споров, связанных с племенами"
  IRQ_Tribal_Civil_and_Criminal_Disputes_Regulation_desc: "Для ограничения влияния местных шейхов эти обычаи должны быть кодифицированы и институционализированы."

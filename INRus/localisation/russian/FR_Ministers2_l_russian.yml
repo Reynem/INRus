@@ -1098,7 +1098,7 @@
  ####################################################################################################
 
  ### Head of Government ###
- BAS_Telesforo_Monzon_hog_syn: "&quot; Телесфоро Монсон &quot;"
+ BAS_Telesforo_Monzon_hog_syn: "Телесфоро Монсон"
  BAS_Anacleto_Ortueta_hog_rso: "Anacleto Ortueta"
  BAS_Jesus_Maria_de_Leizaola_hog_sco: "Хесус Мария де Лейзаола"
  BAS_Jose_Antonio_Aguirre_hog_sco: "Хосе Антонио Агирре"
@@ -1108,7 +1108,7 @@
 
  ### Person of Influence ###
  ## Foreign Minister
- BAS_Telesforo_Monzon_for_syn: "&quot; Телесфоро Монсон &quot;"
+ BAS_Telesforo_Monzon_for_syn: "Телесфоро Монсон"
  BAS_Tomas_Bilbao_for_rso: "Томас Бильбао"
  BAS_Elias_Gallastegui_Uriarte_for_sde: "Элиас Галластеги Уриарте"
  BAS_Manuel_de_la_Sota_Aburto_for_sde: "Мануэль де ла Сота Абурто"
@@ -5911,7 +5911,7 @@
  ## Security Minister
  HOL_Bernhard_Coltof_sec_tot: "Бернхард Кольтоф"
  HOL_Daniel_Goulooze_sec_syn: "Дэниел Гулузе"
- HOL_Evert_Kupers_sec_syn: "&quot; Эверт куперс &quot;"
+ HOL_Evert_Kupers_sec_syn: "Эверт куперс"
  HOL_Henriette_Roland_Holst_sec_syn: "Генриетта Роланд Холст"
  HOL_Johannes_Adriaan_Jan_Berger_sec_syn: "Йоханнес Адриаан (ян) Бергер"
  HOL_Abraham_Menist_sec_rso: "Авраам Менист"
@@ -6512,7 +6512,7 @@
  IRE_John_O'Leary_for_syn: "Джон О'Лири"
  IRE_Bill_Gannon_for_rso: "Билл Гэннон"
  IRE_Sean_MacBride_for_sde: "Сеан Макбрайд"
- IRE_Eamon_de_Valera_for_sli: "&quot; Эмон де Валера &quot;"
+ IRE_Eamon_de_Valera_for_sli: "Эмон де Валера"
  IRE_Patrick_A_Mulcahy_for_mli: "Патрик А. Малкаи"
  IRE_John_A_Costello_for_sco: "Джон А. Костелло"
  IRE_WT_Cosgrave_for_sco: "У.Т. Косгрейв"

@@ -24,7 +24,7 @@
  ypf: "ФИФ"
  fabricaciones_militares: "Фабриканские милитары"
  hispano_argentina: "Испано-Аргентина"
- seccion_industrial_amasadoras_mecanicas: "Промышленное отделение &quot; Амасадорас меканикас &quot;"
+ seccion_industrial_amasadoras_mecanicas: "Промышленное отделение Амасадорас меканикас"
  fabrica_militar_aviones: "Милитар-де-Авион"
  afne: "АФНЕ"
  astarsa: "АСТАРСА"
@@ -208,7 +208,7 @@
  ### Polska POLAND ###
  cop: "КС"
  ava: "АВА"
- fb_radom: "ФБР &quot; Радом &quot;"
+ fb_radom: "ФБР Радом"
  perkun: "Перкун"
  zaklady_przemyslowe: "Заклади Прсемиславе Стоваршизениа Мешаников Полскиш"
  cws: "СЗМ"
@@ -325,7 +325,7 @@
 
  ### Japan ###
  Nippon_Electric_Company: "Ниппон электрик компани"
- Ishikawajima_Heavy_Industries: "&quot; Ишикаваджима Тяжелая промышленность &quot;"
+ Ishikawajima_Heavy_Industries: "Ишикаваджима Тяжелая промышленность"
  mitsui: "Мицуи"
  Furukawa_Siemens: "Furukawa Siemens"
  Nihon_Musen: "Нихон Музен"
@@ -373,7 +373,7 @@
  raufoss: "Рауфосс Аммунисжонсфабрикер"
  kr_kongsberg: "Конгсберг Вопенфабрик"
  norsk_sprengstoff: "Норск Спренгстофинпромбри"
- norsk_automobil: "&quot; Ден Норске &quot; Автомобиль &quot; Фабрик &quot;"
+ norsk_automobil: "Ден Норске Автомобиль Фабрик"
  thunes_mek: "Thunes Mecaniske Verksted"
  norges_statsbaner: "Norges Statsbaner"
  kjeller_flyfabrikk: "Kjeller Flyfabrikk"

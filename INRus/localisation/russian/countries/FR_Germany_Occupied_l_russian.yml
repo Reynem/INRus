@@ -117,9 +117,9 @@
  BAY_paternal_autocrat_party: "БМП"
  BAY_paternal_autocrat_party_long: "Байериш Миттелпартей (Баварская партия среднего класса)"
  BAY_national_populist_party: "VSB"
- BAY_national_populist_party_long: "Блок &quot; Вёлкиш-Созиальер &quot; ( &quot; Вёлкиш-Социальный Блок &quot; )"
+ BAY_national_populist_party_long: "Блок Вёлкиш-Созиальер ( Вёлкиш-Социальный Блок )"
  BAY_valkist_party: "VSB"
- BAY_valkist_party_long: "Блок &quot; Вёлкиш-Созиальер &quot; ( &quot; Вёлкиш-Социальный Блок &quot; )"
+ BAY_valkist_party_long: "Блок Вёлкиш-Созиальер ( Вёлкиш-Социальный Блок )"
 
 
  ### Parties ###
@@ -142,7 +142,7 @@
  #  PRE_paternal_autocrat_party: "Militärregierung"
  #  PRE_paternal_autocrat_party_long: "Militärregierung (Военное правительство)"
  #  PRE_national_populist_party: "ДВП"
- #  PRE_national_populist_party_long: "&quot; Дейчвёлкиш Партей &quot; (германская партия &quot; Вёлкиш &quot; )"
+ #  PRE_national_populist_party_long: "Дейчвёлкиш Партей (германская партия Вёлкиш )"
 
  ### Country Names ###
  BRW_GER: "Федерация центральногерманских государств"

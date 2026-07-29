@@ -36,7 +36,7 @@
  REMOVE_CORE_STATES_MP: "§HRemove [Этот владелец. Get Adquest] Cores §! n §R Disable in multiplayer! §!"
  REMOVE_CORE_STATES_DELAYED: "[отменить]"
 
- add_claim_loc: "[Это. Получите заявление в соответствии с правилом &quot; Desc &quot; ]"
+ add_claim_loc: "[Это. Получите заявление в соответствии с правилом Desc ]"
  ADD_CLAIM_STATES: "§HAdd [Это.владелец."
  ADD_CLAIM_STATES_MP: "§HAdd [Этот владелец. Get Adquestive] Претензии §! n §R Недееспособный в мультиплейере! §!"
  ADD_CLAIM_STATES_DELAYED: "[-добавить_претензии_ссылка]"

@@ -15,7 +15,7 @@
  SPA_PCE_lib_party: "ПСЕ (ОД)"
  SPA_PCE_lib_party_long: "Партия Эспанья (позиция Дерека )"
  SPA_CNT_FAI_party: "КНТ-ФАИ"
- SPA_CNT_FAI_party_long: "Национальная конфедерация трудящихся-мигрантов - Федерация &quot; Анаркиста Иберика &quot;"
+ SPA_CNT_FAI_party_long: "Национальная конфедерация трудящихся-мигрантов - Федерация Анаркиста Иберика"
  SPA_PSOE_radical_party: "ПСО"
  SPA_PSOE_radical_party_long: "Социалистическая партия Обреро Эспоньоль"
  SPA_social_democrat_party: "ПСО"
@@ -23,7 +23,7 @@
  SPA_PCE_soc_party: "ПСЕ(SD)"
  SPA_PCE_soc_party_long: "Социальная партия Испании"
  SPA_social_liberal_party: "IR/UR"
- SPA_social_liberal_party_long: "&quot; Изкьерда республикана &quot; / &quot; Юнион республикана &quot;"
+ SPA_social_liberal_party_long: "Изкьерда республикана / Юнион республикана"
  SPA_market_liberal_party: "PRR/DLR"
  SPA_market_liberal_party_long: "Республиканская партия Радикально / Либеральная Республика"
  SPA_social_conservative_party: "КНР"
@@ -222,7 +222,7 @@
  socspain.116.a: "Нам нужно удалить всех контрреволюционеров"
  socspain.116.b: "Нам нужно возобновить наши отношения"
 
- socspain.117.t: "Альянс &quot; PSOE - CNT-FAI &quot;"
+ socspain.117.t: "Альянс PSOE - CNT-FAI"
  socspain.117.d: "Был заключен союз между PSOE и CNT-FAI, что может означать падение PCE."
  socspain.117.a: "Это может означать наше падение"
 

@@ -9,7 +9,7 @@
  SPF_social_democrat_party: "Галегиста"
  SPF_social_democrat_party_long: "Партия Галегиста"
  SPF_social_liberal_party: "IR/UR"
- SPF_social_liberal_party_long: "&quot; Изкьерда республикана &quot; / &quot; Юнион республикана &quot;"
+ SPF_social_liberal_party_long: "Изкьерда республикана / Юнион республикана"
  SPF_market_liberal_party: "PRR/DLR"
  SPF_market_liberal_party_long: "Республиканская партия Радикально / Либеральная Республика"
  SPF_social_conservative_party: "ГД"
@@ -350,7 +350,7 @@
 
  SPF_economic_recovery: "Экономическое восстановление"
  SPF_economic_recovery_desc: "Испанская экономика была разрушена, и в том же году нас поразила катастрофа на фондовом рынке и гражданская война."
- SPF_sieze_unloyal_industries_assets: "Активы компании &quot; Seze Unloyal Industries &quot;"
+ SPF_sieze_unloyal_industries_assets: "Активы компании Seze Unloyal Industries"
  SPF_sieze_unloyal_industries_assets_desc: "Как бы это ни было невероятно, многие отрасли в Испании по-прежнему преданы нашим врагам."
  SPF_rebuilding_road_network: "Восстановление дорожной сети"
  SPF_rebuilding_road_network_desc: "Возрождение этой инфраструктуры является первым шагом в восстановлении экономики нашей страны."
