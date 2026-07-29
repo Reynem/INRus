@@ -1,5 +1,5 @@
 ﻿l_russian:
- instantiate_collaboration: "Создание правительства сотрудничества в [от GetNameDef]"
+ instantiate_collaboration: "Создание правительства сотрудничества в [From.GetNameDef]"
  compliance_80_effect_tooltip: "Создать правительство сотрудничества в [? стране_-инициативу."
  recruit_in_europe: "Создать европейскую секцию"
  recruit_in_europe_state: "Завербовать [от Owner. GetNameDef]"

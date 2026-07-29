@@ -773,7 +773,7 @@
  MAN_japan_gains_influence_in_the_national_assembly_desc: ""
  MAN_confirm_protectorate_status: "Подтвердить статус Защитника"
  MAN_confirm_protectorate_status_desc: ""
- man.344.d: "[От Гетнама] попросил присоединиться к нашей фракции."
+ man.344.d: "[From.GetName] попросил присоединиться к нашей фракции."
  man.345.d: "Позволь нам присоединиться к их группировке."
  MAN_china_under_root_getleader: "Китай под [король. Возьмите лидера]"
  MAN_china_under_root_getleader_desc: ""

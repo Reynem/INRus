@@ -208,8 +208,8 @@
  AI_OPTION: "Только вариант АИ"
 
  ### Decision Names ###
- integrate_state: "Включите [от имени]"
- integrate_country: "Включите [от GetNameDef]"
+ integrate_state: "Включите [From.GetName]"
+ integrate_country: "Включите [From.GetNameDef]"
  join_faction: "Присоединяйтесь к [От имени Гетфакшн]"
  invite_country: "Пригласите [Фром. Получите имя Деф]"
  attack_country: "Нападение [от . GetNameDef]"

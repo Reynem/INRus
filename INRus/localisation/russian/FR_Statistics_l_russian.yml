@@ -3,7 +3,7 @@
 
  #Decisions
  nation_ranking_information_decision_group: "Ранжирование"
- ranking: "[? От .score_@FROM.] [От GetNameDef]"
+ ranking: "[? От .score_@FROM.] [From.GetNameDef]"
 
  #Statistics
  SCORE_TOTAL_TOOLTIP: "§H [?score_@ROOT]§!"

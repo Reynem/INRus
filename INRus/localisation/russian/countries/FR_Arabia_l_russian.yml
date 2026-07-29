@@ -65,7 +65,7 @@
  ARB_war_with_britain_peacedec: "Мир с Великобританией"
  ARB_war_with_entente_peacedec_setup: "Начать мирные переговоры с Францией"
  ARB_war_with_entente_peacedec: "Мир с Францией"
- HEJ_reclaim_iraq: "Нападение [от имени]"
+ HEJ_reclaim_iraq: "Нападение [From.GetName]"
 
  ### Autonomy ###
  arab_subkingdom: "Арабское содружество"

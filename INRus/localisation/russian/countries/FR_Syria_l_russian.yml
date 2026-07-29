@@ -41,8 +41,8 @@
 
  #Decisions
  SYR_announce_greater_syria_claims: "Объявление большего количества сирийских притязаний"
- SYR_expansionism: "Объявить войну [от имени]"
- SYR_expansionism2: "Объявить войну [от имени]"
+ SYR_expansionism: "Объявить войну [From.GetName]"
+ SYR_expansionism2: "Объявить войну [From.GetName]"
  SYR_saddehs_vision: "Наши природные границы"
 
  ### Characters ###

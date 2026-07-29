@@ -103,10 +103,10 @@
  more_mapmodes_core_map_mode_tt_owned: "§! - это неосновное состояние нас."
  more_mapmodes_core_map_mode_tt_claimed: "Это наше требование."
  more_mapmodes_core_map_mode_tt_occupied: "§! Заняты нами."
- more_mapmodes_core_map_mode_tt_occupied_by_enemy: "§Y [От GetName]§! в настоящее время занят §R [От Control.GetNameWithFlag]§!"
- more_mapmodes_core_map_mode_tt_core_not_owned_but_controlled: "§Y [От GetName]§! в настоящее время занят нами, но он все еще принадлежит §R [от . Owner. GetNameWithFlag]§!"
- more_mapmodes_core_map_mode_tt_core_not_owned: "§Y [От GetName] §! принадлежит § §Y [От Owner.GetNameWithFlag] §!"
- more_mapmodes_core_map_mode_tt_occupied_info: "§Y [От GetName]§! изначально принадлежит §R [от . Owner. GetNameWithFlag]§!"
+ more_mapmodes_core_map_mode_tt_occupied_by_enemy: "§Y [From.GetName]§! в настоящее время занят §R [От Control.GetNameWithFlag]§!"
+ more_mapmodes_core_map_mode_tt_core_not_owned_but_controlled: "§Y [From.GetName]§! в настоящее время занят нами, но он все еще принадлежит §R [от . Owner. GetNameWithFlag]§!"
+ more_mapmodes_core_map_mode_tt_core_not_owned: "§Y [From.GetName] §! принадлежит § §Y [От Owner.GetNameWithFlag] §!"
+ more_mapmodes_core_map_mode_tt_occupied_info: "§Y [From.GetName]§! изначально принадлежит §R [от . Owner. GetNameWithFlag]§!"
 
  more_mapmodes_stability_map_mode_tt: "Он меняется на [?temp.62%=+] в неделю."
  
@@ -149,11 +149,11 @@
  more_mapmodes_war_goals_map_mode_tt_justifying: "§! в настоящее время оправдывает цель войны против нас."
 
  more_mapmodes_anti_air_map_mode_tt: "В настоящее время имеется уровень §Y$nti_air_building$§! §!"
- more_mapmodes_anti_air_map_mode_tt_our_state: "§Y [От GetName]§! находится под контролем §Gour§!"
- more_mapmodes_anti_air_map_mode_tt_allied_state: "§Y [От GetName]§! находится под контролем §Caled §!"
- more_mapmodes_anti_air_map_mode_tt_enemy_state: "§Y [От GetName]§! находится под контролем §Renemy§!"
+ more_mapmodes_anti_air_map_mode_tt_our_state: "§Y [From.GetName]§! находится под контролем §Gour§!"
+ more_mapmodes_anti_air_map_mode_tt_allied_state: "§Y [From.GetName]§! находится под контролем §Caled §!"
+ more_mapmodes_anti_air_map_mode_tt_enemy_state: "§Y [From.GetName]§! находится под контролем §Renemy§!"
 
- more_mapmodes_air_base_map_mode_tt: "§Y [От GetName]§! В настоящее время имеет уровень §Y$air_base$§! §!"
+ more_mapmodes_air_base_map_mode_tt: "§Y [From.GetName]§! В настоящее время имеет уровень §Y$air_base$§! §!"
  more_mapmodes_air_base_map_mode_tt_our_state: "$more_mapmodes_anti_air_map_mode_tt_our_state$"
  more_mapmodes_air_base_map_mode_tt_allied_state: "$more_mapmodes_anti_air_map_mode_tt_allied_state$"
  more_mapmodes_air_base_map_mode_tt_enemy_state: "$more_mapmodes_anti_air_map_mode_tt_enemy_state$"
